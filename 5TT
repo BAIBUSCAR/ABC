@@ -1,0 +1,275 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 HD PT" tvg-logo="http://195.154.221.171/picons/rtp1hdpt.png" group-title="Portugal",RTP 1 HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2714.m3u8
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-logo="http://195.154.221.171/picons/rtp1pt.png" group-title="Portugal",RTP 1 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2710.m3u8
+#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 HD PT" tvg-logo="http://195.154.221.171/picons/rtp2hdpt.png" group-title="Portugal",RTP 2 HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2713.m3u8
+#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 PT" tvg-logo="http://195.154.221.171/picons/rtp2pt.png" group-title="Portugal",RTP 2 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2709.m3u8
+#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-logo="http://195.154.221.171/picons/rtp3pt.png" group-title="Portugal",RTP 3 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2708.m3u8
+#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Açores PT" tvg-logo="http://195.154.221.171/picons/rtpacorespt.png" group-title="Portugal",RTP Açores PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2712.m3u8
+#EXTINF:-1 tvg-id="RTP Africa PT" tvg-name="RTP África PT" tvg-logo="http://195.154.221.171/picons/rtpafricapt.png" group-title="Portugal",RTP África PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2711.m3u8
+#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-logo="http://195.154.221.171/picons/rtpinternacionalpt.png" group-title="Portugal",RTP Internacional PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/5622.m3u8
+#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-logo="http://195.154.221.171/picons/rtpmadeirapt.png" group-title="Portugal",RTP Madeira PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2707.m3u8
+#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memória PT" tvg-logo="http://195.154.221.171/picons/rtpmemoriapt.png" group-title="Portugal",RTP Memória PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2706.m3u8
+#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-logo="http://195.154.221.171/picons/artvpt.png" group-title="Portugal",ARTV PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/5619.m3u8
+#EXTINF:-1 tvg-id="SIC PT" tvg-name="SIC PT" tvg-logo="http://195.154.221.171/picons/sicpt.png" group-title="Portugal",SIC PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2703.m3u8
+#EXTINF:-1 tvg-id="SIC Noticias PT" tvg-name="SIC Notícias PT" tvg-logo="http://195.154.221.171/picons/sicnoticiaspt.png" group-title="Portugal",SIC Notícias PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2701.m3u8
+#EXTINF:-1 tvg-id="SIC Mulher PT" tvg-name="SIC Mulher PT" tvg-logo="http://195.154.221.171/picons/sicmulherpt.png" group-title="Portugal",SIC Mulher PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2702.m3u8
+#EXTINF:-1 tvg-id="SIC Radical PT" tvg-name="SIC Radical PT" tvg-logo="http://195.154.221.171/picons/sicradicalpt.png" group-title="Portugal",SIC Radical PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2700.m3u8
+#EXTINF:-1 tvg-id="SIC Kids PT" tvg-name="SIC Kids PT" tvg-logo="http://195.154.221.171/picons/sickidspt.png" group-title="Portugal",SIC Kids PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2704.m3u8
+#EXTINF:-1 tvg-id="SIC Caras PT" tvg-name="SIC Caras PT" tvg-logo="http://195.154.221.171/picons/siccaraspt.png" group-title="Portugal",SIC Caras PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2705.m3u8
+#EXTINF:-1 tvg-id="SIC PT" tvg-name="SIC HD PT" tvg-logo="http://195.154.221.171/picons/sichdpt.png" group-title="Portugal",SIC HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2696.m3u8
+#EXTINF:-1 tvg-id="SIC Noticias PT" tvg-name="SIC Notícias HD PT" tvg-logo="http://195.154.221.171/picons/sicnoticiashdpt.png" group-title="Portugal",SIC Notícias HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2698.m3u8
+#EXTINF:-1 tvg-id="SIC Radical PT" tvg-name="SIC Radical HD PT" tvg-logo="http://195.154.221.171/picons/sicradicalhdpt.png" group-title="Portugal",SIC Radical HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2699.m3u8
+#EXTINF:-1 tvg-id="SIC Caras PT" tvg-name="SIC Caras HD PT" tvg-logo="http://195.154.221.171/picons/siccarashdpt.png" group-title="Portugal",SIC Caras HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2697.m3u8
+#EXTINF:-1 tvg-id="TVI PT" tvg-name="TVI HD PT" tvg-logo="http://195.154.221.171/picons/tvihdpt.png" group-title="Portugal",TVI HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3840.m3u8
+#EXTINF:-1 tvg-id="TVI PT" tvg-name="TVI PT" tvg-logo="http://195.154.221.171/picons/tvipt.png" group-title="Portugal",TVI PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3845.m3u8
+#EXTINF:-1 tvg-id="TVI 24 PT" tvg-name="TVI 24 PT" tvg-logo="http://195.154.221.171/picons/tvi24pt.png" group-title="Portugal",TVI 24 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3844.m3u8
+#EXTINF:-1 tvg-id="TVI Reality PT" tvg-name="TVI Reality PT" tvg-logo="http://195.154.221.171/picons/tvirealitypt.png" group-title="Portugal",TVI Reality PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3842.m3u8
+#EXTINF:-1 tvg-id="TVI Ficcao PT" tvg-name="TVI Ficção PT" tvg-logo="http://195.154.221.171/picons/tvificcaopt.png" group-title="Portugal",TVI Ficção PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3846.m3u8
+#EXTINF:-1 tvg-id="TV Series PT" tvg-name="TV Séries HD PT" tvg-logo="http://195.154.221.171/picons/tvserieshdpt.png" group-title="Portugal",TV Séries HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3843.m3u8
+#EXTINF:-1 tvg-id="TVC 1 PT" tvg-name="TVCine 1 FHD PT" tvg-logo="http://195.154.221.171/picons/tvcine1hdpt.png" group-title="Portugal",TVCine 1 FHD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2685.m3u8
+#EXTINF:-1 tvg-id="TVC 1 PT" tvg-name="TVCine 1 PT" tvg-logo="http://195.154.221.171/picons/tvcine1pt.png" group-title="Portugal",TVCine 1 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2684.m3u8
+#EXTINF:-1 tvg-id="TVC 2 PT" tvg-name="TVCine 2 FHD PT" tvg-logo="http://195.154.221.171/picons/tvcine2hdpt.png" group-title="Portugal",TVCine 2 FHD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2686.m3u8
+#EXTINF:-1 tvg-id="TVC 2 PT" tvg-name="TVCine 2 PT" tvg-logo="http://195.154.221.171/picons/tvcine2pt.png" group-title="Portugal",TVCine 2 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2683.m3u8
+#EXTINF:-1 tvg-id="TVC 3 PT" tvg-name="TVCine 3 FHD PT" tvg-logo="http://195.154.221.171/picons/tvcine3hdpt.png" group-title="Portugal",TVCine 3 FHD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2687.m3u8
+#EXTINF:-1 tvg-id="TVC 3 PT" tvg-name="TVCine 3 PT" tvg-logo="http://195.154.221.171/picons/tvcine3pt.png" group-title="Portugal",TVCine 3 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2682.m3u8
+#EXTINF:-1 tvg-id="TVC 4 PT" tvg-name="TVCine 4 FHD PT" tvg-logo="http://195.154.221.171/picons/tvcine4hdpt.png" group-title="Portugal",TVCine 4 FHD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2688.m3u8
+#EXTINF:-1 tvg-id="TVC 4 PT" tvg-name="TVCine 4 PT" tvg-logo="http://195.154.221.171/picons/tvcine4pt.png" group-title="Portugal",TVCine 4 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2681.m3u8
+#EXTINF:-1 tvg-id="SportTV Plus PT" tvg-name="SportTV+ PT" tvg-logo="http://195.154.221.171/picons/sporttvpluspt.png" group-title="Portugal",SportTV+ PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3613.m3u8
+#EXTINF:-1 tvg-id="SportTV 1 PT" tvg-name="SportTV 1 FHD PT" tvg-logo="http://195.154.221.171/picons/sporttv1hdpt.png" group-title="Portugal",SportTV 1 FHD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3618.m3u8
+#EXTINF:-1 tvg-id="SportTV 1 PT" tvg-name="SportTV 1 PT" tvg-logo="http://195.154.221.171/picons/sporttv1pt.png" group-title="Portugal",SportTV 1 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2678.m3u8
+#EXTINF:-1 tvg-id="SportTV 2 PT" tvg-name="SportTV 2 PT" tvg-logo="http://195.154.221.171/picons/sporttv2pt.png" group-title="Portugal",SportTV 2 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2677.m3u8
+#EXTINF:-1 tvg-id="SportTV 2 PT" tvg-name="SportTV 2 FHD PT" tvg-logo="http://195.154.221.171/picons/sporttv2hdpt.png" group-title="Portugal",SportTV 2 FHD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3617.m3u8
+#EXTINF:-1 tvg-id="SportTV 3 PT" tvg-name="SportTV 3 FHD PT" tvg-logo="http://195.154.221.171/picons/sporttv3hdpt.png" group-title="Portugal",SportTV 3 FHD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3616.m3u8
+#EXTINF:-1 tvg-id="SportTV 3 PT" tvg-name="SportTV 3 PT" tvg-logo="http://195.154.221.171/picons/sporttv3pt.png" group-title="Portugal",SportTV 3 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2676.m3u8
+#EXTINF:-1 tvg-id="SportTV 4 PT" tvg-name="SportTV 4 FHD PT" tvg-logo="http://195.154.221.171/picons/sporttv4hdpt.png" group-title="Portugal",SportTV 4 FHD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3615.m3u8
+#EXTINF:-1 tvg-id="SportTV 4 PT" tvg-name="SportTV 4 PT" tvg-logo="http://195.154.221.171/picons/sporttv4pt.png" group-title="Portugal",SportTV 4 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2675.m3u8
+#EXTINF:-1 tvg-id="SportTV 5 PT" tvg-name="SportTV 5 FHD PT" tvg-logo="http://195.154.221.171/picons/sporttv5hdpt.png" group-title="Portugal",SportTV 5 FHD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3614.m3u8
+#EXTINF:-1 tvg-id="SportTV 5 PT" tvg-name="SportTV 5 PT" tvg-logo="http://195.154.221.171/picons/sporttv5pt.png" group-title="Portugal",SportTV 5 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2674.m3u8
+#EXTINF:-1 tvg-id="BTV 1 PT" tvg-name="BTV 1 PT" tvg-logo="http://195.154.221.171/picons/btv1pt.png" group-title="Portugal",BTV 1 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2767.m3u8
+#EXTINF:-1 tvg-id="BTV 1 HD PT" tvg-name="BTV 1 FHD PT" tvg-logo="http://195.154.221.171/picons/btv1hdpt.png" group-title="Portugal",BTV 1 FHD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2766.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1 PT" tvg-name="Eurosport 1 HD PT" tvg-logo="http://195.154.221.171/picons/eurosport1hdpt.png" group-title="Portugal",Eurosport 1 HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2752.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1 PT" tvg-name="Eurosport 1 PT" tvg-logo="http://195.154.221.171/picons/eurosport1pt.png" group-title="Portugal",Eurosport 1 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2753.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2 PT" tvg-name="Eurosport 2 PT" tvg-logo="http://195.154.221.171/picons/eurosport2pt.png" group-title="Portugal",Eurosport 2 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2751.m3u8
+#EXTINF:-1 tvg-id="Eurosport News PT" tvg-name="Eurosport News PT" tvg-logo="http://195.154.221.171/picons/eurosportnewspt.png" group-title="Portugal",Eurosport News PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2750.m3u8
+#EXTINF:-1 tvg-id="Sporting TV PT" tvg-name="Sporting TV HD PT" tvg-logo="http://195.154.221.171/picons/sportingtvhdpt.png" group-title="Portugal",Sporting TV HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2695.m3u8
+#EXTINF:-1 tvg-id="Sporting TV PT" tvg-name="Sporting TV PT" tvg-logo="http://195.154.221.171/picons/sportingtvpt.png" group-title="Portugal",Sporting TV PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2694.m3u8
+#EXTINF:-1 tvg-id="Porto Canal PT" tvg-name="Porto Canal PT" tvg-logo="http://195.154.221.171/picons/portocanalpt.png" group-title="Portugal",Porto Canal PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2716.m3u8
+#EXTINF:-1 tvg-id="Caca e Pesca PT" tvg-name="Caça e Pesca PT" tvg-logo="http://195.154.221.171/picons/cacaepescapt.png" group-title="Portugal",Caça e Pesca PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2765.m3u8
+#EXTINF:-1 tvg-id="Canal Q PT" tvg-name="Canal Q PT" tvg-logo="http://195.154.221.171/picons/canalqpt.png" group-title="Portugal",Canal Q PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/5618.m3u8
+#EXTINF:-1 tvg-id="CMTV PT" tvg-name="CMTV PT" tvg-logo="http://195.154.221.171/picons/cmtvpt.png" group-title="Portugal",CMTV PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2758.m3u8
+#EXTINF:-1 tvg-id="PFC PT" tvg-name="PFC PT" tvg-logo="http://195.154.221.171/picons/pfcpt.png" group-title="Portugal",PFC PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen HD PT" tvg-logo="" group-title="Portugal",24 Kitchen HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/6237.m3u8
+#EXTINF:-1 tvg-id="24 Kitchen PT" tvg-name="24 Kitchen FHD PT" tvg-logo="http://195.154.221.171/picons/24kitchenhdpt.png" group-title="Portugal",24 Kitchen FHD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2781.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel PT" tvg-name="Discovery Channel PT" tvg-logo="http://195.154.221.171/picons/discoverychannelpt.png" group-title="Portugal",Discovery Channel PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2757.m3u8
+#EXTINF:-1 tvg-id="Discovery Showcase HD PT" tvg-name="Discovery Showcase HD PT" tvg-logo="http://195.154.221.171/picons/discoveryshowcasehdpt.png" group-title="Portugal",Discovery Showcase HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2756.m3u8
+#EXTINF:-1 tvg-id="AandE PT" tvg-name="A&E PT" tvg-logo="http://195.154.221.171/picons/aandept.png" group-title="Portugal",A&E PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2779.m3u8
+#EXTINF:-1 tvg-id="AMC PT" tvg-name="AMC FHD PT" tvg-logo="http://195.154.221.171/picons/amchdpt.png" group-title="Portugal",AMC FHD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2776.m3u8
+#EXTINF:-1 tvg-id="AMC PT" tvg-name="AMC PT" tvg-logo="http://195.154.221.171/picons/amcpt.png" group-title="Portugal",AMC PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2777.m3u8
+#EXTINF:-1 tvg-id="Hollywood PT" tvg-name="Hollywood HD PT" tvg-logo="http://195.154.221.171/picons/hollywoodhdpt.png" group-title="Portugal",Hollywood HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2734.m3u8
+#EXTINF:-1 tvg-id="Hollywood PT" tvg-name="Hollywood PT" tvg-logo="http://195.154.221.171/picons/hollywoodpt.png" group-title="Portugal",Hollywood PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2733.m3u8
+#EXTINF:-1 tvg-id="Odisseia PT" tvg-name="Odisseia PT" tvg-logo="http://195.154.221.171/picons/odisseiapt.png" group-title="Portugal",Odisseia PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2718.m3u8
+#EXTINF:-1 tvg-id="National Geographic PT" tvg-name="National Geographic HD PT" tvg-logo="http://195.154.221.171/picons/nationalgeographichdpt.png" group-title="Portugal",National Geographic HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2720.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild PT" tvg-name="Nat Geo Wild HD PT" tvg-logo="http://195.154.221.171/picons/natgeowildhdpt.png" group-title="Portugal",Nat Geo Wild HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2722.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild PT" tvg-name="Nat Geo Wild PT" tvg-logo="http://195.154.221.171/picons/natgeowildpt.png" group-title="Portugal",Nat Geo Wild PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2723.m3u8
+#EXTINF:-1 tvg-id="AXN PT" tvg-name="AXN HD PT" tvg-logo="http://195.154.221.171/picons/axnhdpt.png" group-title="Portugal",AXN HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2771.m3u8
+#EXTINF:-1 tvg-id="AXN Black PT" tvg-name="AXN Black HD PT" tvg-logo="http://195.154.221.171/picons/axnblackhdpt.png" group-title="Portugal",AXN Black HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2772.m3u8
+#EXTINF:-1 tvg-id="AXN White PT" tvg-name="AXN White HD PT" tvg-logo="http://195.154.221.171/picons/axnwhitehdpt.png" group-title="Portugal",AXN White HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2770.m3u8
+#EXTINF:-1 tvg-id="Disney Junior PT" tvg-name="Disney Junior PT" tvg-logo="http://195.154.221.171/picons/disneyjuniorpt.png" group-title="Portugal",Disney Junior PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2755.m3u8
+#EXTINF:-1 tvg-id="Disney Channel PT" tvg-name="Disney Channel PT" tvg-logo="http://195.154.221.171/picons/disneychannelpt.png" group-title="Portugal",Disney Channel PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/3841.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network PT" tvg-name="Cartoon Network PT" tvg-logo="http://195.154.221.171/picons/cartoonnetworkpt.png" group-title="Portugal",Cartoon Network PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2761.m3u8
+#EXTINF:-1 tvg-id="JimJam PT" tvg-name="JimJam PT" tvg-logo="http://195.154.221.171/picons/jimjampt.png" group-title="Portugal",JimJam PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2732.m3u8
+#EXTINF:-1 tvg-id="Canal Panda PT" tvg-name="Canal Panda PT" tvg-logo="http://195.154.221.171/picons/canalpandapt.png" group-title="Portugal",Canal Panda PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2762.m3u8
+#EXTINF:-1 tvg-id="Panda Biggs PT" tvg-name="Panda Biggs PT" tvg-logo="http://195.154.221.171/picons/pandabiggspt.png" group-title="Portugal",Panda Biggs PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2763.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon PT" tvg-name="Nickelodeon PT" tvg-logo="http://195.154.221.171/picons/nickelodeonpt.png" group-title="Portugal",Nickelodeon PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2719.m3u8
+#EXTINF:-1 tvg-id="BabyFirst PT" tvg-name="BabyFirst PT" tvg-logo="http://195.154.221.171/picons/babyfirstpt.png" group-title="Portugal",BabyFirst PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2769.m3u8
+#EXTINF:-1 tvg-id="Baby TV PT" tvg-name="Baby TV PT" tvg-logo="http://195.154.221.171/picons/babytvpt.png" group-title="Portugal",Baby TV PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2768.m3u8
+#EXTINF:-1 tvg-id="MTV PT" tvg-name="MTV PT" tvg-logo="http://195.154.221.171/picons/mtvpt.png" group-title="Portugal",MTV PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2724.m3u8
+#EXTINF:-1 tvg-id="TLC PT" tvg-name="TLC PT" tvg-logo="http://195.154.221.171/picons/tlcpt.png" group-title="Portugal",TLC PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2691.m3u8
+#EXTINF:-1 tvg-id="Fashion TV PT" tvg-name="Fashion TV PT" tvg-logo="http://195.154.221.171/picons/fashiontvpt.png" group-title="Portugal",Fashion TV PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2748.m3u8
+#EXTINF:-1 tvg-id="FOX PT" tvg-name="FOX HD PT" tvg-logo="http://195.154.221.171/picons/foxhdpt.png" group-title="Portugal",FOX HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2743.m3u8
+#EXTINF:-1 tvg-id="FOX Comedy PT" tvg-name="FOX Comedy HD PT" tvg-logo="http://195.154.221.171/picons/foxcomedyhdpt.png" group-title="Portugal",FOX Comedy HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2740.m3u8
+#EXTINF:-1 tvg-id="FOX Comedy PT" tvg-name="FOX Comedy PT" tvg-logo="http://195.154.221.171/picons/foxcomedypt.png" group-title="Portugal",FOX Comedy PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2745.m3u8
+#EXTINF:-1 tvg-id="FOX Crime PT" tvg-name="FOX Crime HD PT" tvg-logo="http://195.154.221.171/picons/foxcrimehdpt.png" group-title="Portugal",FOX Crime HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2739.m3u8
+#EXTINF:-1 tvg-id="FOX Life PT" tvg-name="FOX Life HD PT" tvg-logo="http://195.154.221.171/picons/foxlifehdpt.png" group-title="Portugal",FOX Life HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2741.m3u8
+#EXTINF:-1 tvg-id="FOX Movies PT" tvg-name="FOX Movies HD PT" tvg-logo="http://195.154.221.171/picons/foxmovieshdpt.png" group-title="Portugal",FOX Movies HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2742.m3u8
+#EXTINF:-1 tvg-id="FOX Movies PT" tvg-name="FOX Movies PT" tvg-logo="http://195.154.221.171/picons/foxmoviespt.png" group-title="Portugal",FOX Movies PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2746.m3u8
+#EXTINF:-1 tvg-id="Cinemundo PT" tvg-name="CineMundo PT" tvg-logo="http://195.154.221.171/picons/cinemundopt.png" group-title="Portugal",CineMundo PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2759.m3u8
+#EXTINF:-1 tvg-id="Syfy PT" tvg-name="Syfy HD PT" tvg-logo="http://195.154.221.171/picons/syfyhdpt.png" group-title="Portugal",Syfy HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2693.m3u8
+#EXTINF:-1 tvg-id="Syfy PT" tvg-name="Syfy PT" tvg-logo="http://195.154.221.171/picons/syfypt.png" group-title="Portugal",Syfy PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2692.m3u8
+#EXTINF:-1 tvg-id="TV Globo PT" tvg-name="TV Globo PT" tvg-logo="http://195.154.221.171/picons/tvglobopt.png" group-title="Portugal",TV Globo PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2737.m3u8
+#EXTINF:-1 tvg-id="TV Globo Premium PT" tvg-name="TV Globo Premium PT" tvg-logo="http://195.154.221.171/picons/tvglobopremiumpt.png" group-title="Portugal",TV Globo Premium PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2736.m3u8
+#EXTINF:-1 tvg-id="A Bola TV PT" tvg-name="A Bola TV PT" tvg-logo="http://195.154.221.171/picons/abolatvpt.png" group-title="Portugal",A Bola TV PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2780.m3u8
+#EXTINF:-1 tvg-id="Afro Music PT" tvg-name="Afro Music PT" tvg-logo="http://195.154.221.171/picons/afromusicpt.png" group-title="Portugal",Afro Music PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2778.m3u8
+#EXTINF:-1 tvg-id="BBC Entertainment PT" tvg-name="BBC Entertainment PT" tvg-logo="http://195.154.221.171/picons/bbcentertainmentpt.png" group-title="Portugal",BBC Entertainment PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2775.m3u8
+#EXTINF:-1 tvg-id="BBC World PT" tvg-name="BBC World News PT" tvg-logo="http://195.154.221.171/picons/bbcworldnewspt.png" group-title="Portugal",BBC World News PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2773.m3u8
+#EXTINF:-1 tvg-id="Caca Vision PT" tvg-name="Caça Vision PT" tvg-logo="http://195.154.221.171/picons/cacavisionpt.png" group-title="Portugal",Caça Vision PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2764.m3u8
+#EXTINF:-1 tvg-id="CBS Reality PT" tvg-name="CBS Reality PT" tvg-logo="http://195.154.221.171/picons/cbsrealitypt.png" group-title="Portugal",CBS Reality PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2760.m3u8
+#EXTINF:-1 tvg-id="E! PT" tvg-name="E! PT" tvg-logo="http://195.154.221.171/picons/ept.png" group-title="Portugal",E! PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2754.m3u8
+#EXTINF:-1 tvg-id="Fight Channel HD PT" tvg-name="Fight Network PT" tvg-logo="http://195.154.221.171/picons/fightnetworkpt.png" group-title="Portugal",Fight Network PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2749.m3u8
+#EXTINF:-1 tvg-id="LocalVisao TV HD PT" tvg-name="LocalVisão TV PT" tvg-logo="http://195.154.221.171/picons/localvisaotvpt.png" group-title="Portugal",LocalVisão TV PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2744.m3u8
+#EXTINF:-1 tvg-id="Fuel TV PT" tvg-name="Fuel TV HD PT" tvg-logo="http://195.154.221.171/picons/fueltvhdpt.png" group-title="Portugal",Fuel TV HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2747.m3u8
+#EXTINF:-1 tvg-id="Fuel TV PT" tvg-name="Fuel TV PT" tvg-logo="http://195.154.221.171/picons/fueltvpt.png" group-title="Portugal",Fuel TV PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2738.m3u8
+#EXTINF:-1 tvg-id="Historia PT" tvg-name="História PT" tvg-logo="http://195.154.221.171/picons/historiapt.png" group-title="Portugal",História PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2735.m3u8
+#EXTINF:-1 tvg-id="Kombat Sport PT" tvg-name="Kombat Sport PT" tvg-logo="http://195.154.221.171/picons/kombam3u8portpt.png" group-title="Portugal",Kombat Sport PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2731.m3u8
+#EXTINF:-1 tvg-id="MCM POP PT" tvg-name="MCM POP PT" tvg-logo="http://195.154.221.171/picons/mcmpoppt.png" group-title="Portugal",MCM POP PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2730.m3u8
+#EXTINF:-1 tvg-id="MCM TOP PT" tvg-name="MCM TOP PT" tvg-logo="http://195.154.221.171/picons/mcmtoppt.png" group-title="Portugal",MCM TOP PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2729.m3u8
+#EXTINF:-1 tvg-id="MotorVision HD PT" tvg-name="Motorvision TV PT" tvg-logo="http://195.154.221.171/picons/motorvisiontvpt.png" group-title="Portugal",Motorvision TV PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2727.m3u8
+#EXTINF:-1 tvg-id="Motorsport.TV PT" tvg-name="Motorsport.TV HD PT" tvg-logo="http://195.154.221.171/picons/motorsporttvhdpt.png" group-title="Portugal",Motorsport.TV HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2725.m3u8
+#EXTINF:-1 tvg-id="MCS LifeStyle PT" tvg-name="MCS LifeStyle PT" tvg-logo="http://195.154.221.171/picons/mcslifestylept.png" group-title="Portugal",MCS LifeStyle PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2721.m3u8
+#EXTINF:-1 tvg-id="Real Madrid TV PT" tvg-name="Real Madrid TV PT" tvg-logo="http://195.154.221.171/picons/realmadridtvpt.png" group-title="Portugal",Real Madrid TV PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2715.m3u8
+#EXTINF:-1 tvg-id="Toros TV PT" tvg-name="Toros TV PT" tvg-logo="http://195.154.221.171/picons/torostvpt.png" group-title="Portugal",Toros TV PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2690.m3u8
+#EXTINF:-1 tvg-id="Travel Channel PT" tvg-name="Travel Channel HD PT" tvg-logo="http://195.154.221.171/picons/travelchannelhdpt.png" group-title="Portugal",Travel Channel HD PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2689.m3u8
+#EXTINF:-1 tvg-id="TV Record PT" tvg-name="TV Record PT" tvg-logo="http://195.154.221.171/picons/tvrecordpt.png" group-title="Portugal",TV Record PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2680.m3u8
+#EXTINF:-1 tvg-id="C-Music PT" tvg-name="C-Music TV PT" tvg-logo="http://195.154.221.171/picons/cmusictvpt.png" group-title="Portugal",C-Music TV PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/5611.m3u8
+#EXTINF:-1 tvg-id="Cancao Nova PT" tvg-name="Canção Nova PT" tvg-logo="http://195.154.221.171/picons/cancaonovapt.png" group-title="Portugal",Canção Nova PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/5620.m3u8
+#EXTINF:-1 tvg-id="Mezzo PT" tvg-name="Mezzo PT" tvg-logo="http://195.154.221.171/picons/mezzopt.png" group-title="Portugal",Mezzo PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/5610.m3u8
+#EXTINF:-1 tvg-id="TV Fatima PT" tvg-name="TV Fatima PT" tvg-logo="http://195.154.221.171/picons/tvfatimapt.png" group-title="Portugal",TV Fatima PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/5617.m3u8
+#EXTINF:-1 tvg-id="Trace Urban PT" tvg-name="Trace Urban PT" tvg-logo="http://195.154.221.171/picons/traceurbanpt.png" group-title="Portugal",Trace Urban PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/5612.m3u8
+#EXTINF:-1 tvg-id="VH1 PT" tvg-name="VH1 PT" tvg-logo="http://195.154.221.171/picons/vh1pt.png" group-title="Portugal",VH1 PT
+http://portal.geniptv.com:8080/live/bmbm/bmbm/5613.m3u8
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
