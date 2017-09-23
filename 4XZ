@@ -4,20 +4,20 @@
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV
 http://www.painelpro.net:8000/live/Bruno/Bruno/4283.m3u8
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV (Op 2)
-http://77.235.14.92:8001/play/a014
-#EXTINF:-1 tvg-id="PLAY" tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV (Op 3)
-http://185.22.78.83:8120/play/a004
+http://www.painelpro.net:8000/live/007/007/4283.m3u8
 #EXTINF:-1 tvg-id="HOT" tvg-logo="https://tinyurl.com/y8an9uxf" group-title="XTV", Hot
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4281.m3u8
 #EXTINF:-1 tvg-id="HOT" tvg-logo="https://tinyurl.com/y8an9uxf" group-title="XTV", Hot (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4281.m3u8
+#EXTINF:-1 tvg-id="HOT" tvg-logo="https://tinyurl.com/y8an9uxf" group-title="XTV", Hot (Op 3)
+http://www.painelpro.net:8000/live/007/007/4281.m3u8
 #EXTINF:-1 tvg-id="venus" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus
 http://www.painelpro.net:8000/live/Bruno/Bruno/4282.m3u8
+#EXTINF:-1 tvg-id="venus" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus (Op 2)
+http://www.painelpro.net:8000/live/007/007/4282.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", STARS TV
-http://www.painelpro.net:8000/live/Bruno/Bruno/7141.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers
-http://134.19.150.42:81/udp/239.195.2.4:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers (Op 2)
 http://176.51.101.13:1234/udp/225.54.23.158:5000
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
@@ -33,6 +33,8 @@ http://91.211.143.214:3333/play/a006
 http://95.28.79.213:34040/udp/233.33.221.36:5050
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD
 http://178.252.88.99:34040/udp/233.166.172.253:1234
+#EXTINF:-1 tvg-id="Penthouse" tvg-name="Penthouse" tvg-logo="" group-title="XTV" , Penthouse 
+http://www.painelpro.net:8000/live/007/007/6242.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel
 http://92.62.110.198:8000/play/a021
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel (Op 2)
@@ -46,6 +48,8 @@ http://62.210.113.177:19000/udp/238.0.100.6:5000
 http://178.252.88.99:34040/udp/233.166.172.157:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y84d3d8u" group-title="XTV", O-La-La (Op 2)
 http://176.51.101.13:1234/udp/225.54.23.160:5000
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yb3pjv8e" group-title="XTV", Sextreme
+http://www.painelpro.net:8000/live/007/007/6243.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y96w5do6" group-title="XTV", Satisfaction TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://savepic.net/7824814.png" group-title="XTV",SESTO SENSO TV 
@@ -55,16 +59,15 @@ http://37.9.0.201:8811
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk
 http://37.9.0.201:8890
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yboke6kw" group-title="XTV",Pink O TV
-http://www.painelpro.net:8000/live/Bruno/Bruno/7154.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yboke6kw" group-title="XTV",Pink O TV (Op 2)
 http://37.9.0.201:8889 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSIONXXX
 http://37.9.0.201:8888
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9kmcv8p" group-title="XTV",PASSIEXXX
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="XTV",Eroxxx HD
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8fxsflo" group-title="XTV", Babestation Extreme
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist_w1878679259.m3u8
+
 
 
 
@@ -244,10 +247,6 @@ http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yboke6kw" group-title="XTV",Pink TV Asia
 
 #EXTINF:-1 tvg-id="But GO" tvg-name="But GO" tvg-logo="https://tinyurl.com/ycl2uuma" group-title="XTV" , But GO 
-
-#EXTINF:-1 tvg-id="Penthouse" tvg-name="Penthouse" tvg-logo="" group-title="XTV" , Penthouse 1
-
-#EXTINF:-1 tvg-id="Penthouse" tvg-name="Penthouse" tvg-logo="" group-title="XTV" , Penthouse Asia 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/iay7x8" group-title="XTV",BUTGO 
 
