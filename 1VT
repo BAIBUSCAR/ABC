@@ -148,7 +148,7 @@ http://portal.geniptv.com:8080/live/bmbm/bmbm/2727.m3u8
 http://92.62.110.198:8000/play/a017
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="TV",PFC
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2717.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ya5rh43d" tvg-id="0" group-title="TV",FOX SPORm3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ya5rh43d" tvg-id="0" group-title="TV",FOX SPORT
 http://103.18.40.132:8080/
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y779jcgp" tvg-id="" group-title="TV",Bayern TV
 http://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s40.m3u8
@@ -195,7 +195,7 @@ http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4334.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="" group-title="TV",Sundance HD (Op 2)
 http://www.painelpro.net:8000/live/007/007/4334.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="TV",MOV
-
+http://193.70.45.41:8000/live/Ibo/Ibo/11925.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC" group-title="TV",AMC HD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2777.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="TV",AXN
@@ -255,9 +255,9 @@ http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4302.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydhaysn3" tvg-id="0" group-title="TV",Retro Cartoon (BR)
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 #EXTINF:-1 tvg-id="0" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="TV",Disney XD (BR)
-http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lut.im/BgRU4QJFvj/Sv8nCJhyzW76S5sD.png" group-title="TV", NICK (BR)
-http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="TV",VIRGIN TV
 http://fms.105.net:1935/live/virgin2/playlist.m3u8
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="TV",VIRGIN TV (Op 2)
