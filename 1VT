@@ -192,6 +192,8 @@ http://portal.geniptv.com:8080/live/bmbm/bmbm/2692.m3u8
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2759.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="" group-title="TV",Sundance HD
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4334.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="" group-title="TV",Sundance HD (Op 2)
+http://www.painelpro.net:8000/live/007/007/4334.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="TV",MOV
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC" group-title="TV",AMC HD
