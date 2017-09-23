@@ -491,6 +491,439 @@ http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3
 
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1 HD  LOW" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_negativo_horiz_RGB.png" group-title="TEMP",RTP 1 HD  LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11064.m3u8
+#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png?f=png&h=176" group-title="TEMP",RTP 1
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11023.m3u8
+#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1 FHD" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/08/rtp1HD_positivo_horiz_RGB.png" group-title="TEMP",RTP 1 FHD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11031.m3u8
+#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1 HD" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/08/rtp1HD_positivo_horiz_RGB.png" group-title="TEMP",RTP 1 HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11027.m3u8
+#EXTINF:-1 tvg-ID="RTP2" tvg-name="RTP 2 LOW" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="TEMP",RTP 2 LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11063.m3u8
+#EXTINF:-1 tvg-ID="RTP2" tvg-name="RTP 2" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png?fm=png32&q=100&v=3&w=150&bg=000000&w=860&h=472&f=jpg&far=1" group-title="TEMP",RTP 2
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11022.m3u8
+#EXTINF:-1 tvg-ID="RTP2" tvg-name="RTP 2 HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png?fm=png32&q=100&v=3&w=150&bg=000000&w=860&h=472&f=jpg&far=1" group-title="TEMP",RTP 2 HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11026.m3u8
+#EXTINF:-1 tvg-ID="RTP2" tvg-name="RTP 2 FHD" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" group-title="TEMP",RTP 2 FHD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11030.m3u8
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC LOW" tvg-logo="http://img00.deviantart.net/79d9/i/2016/135/2/1/sic_logo_remake_v1_0_by_tk94732-da2mnzo.png" group-title="TEMP",SIC LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11062.m3u8
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC" tvg-logo="http://img00.deviantart.net/79d9/i/2016/135/2/1/sic_logo_remake_v1_0_by_tk94732-da2mnzo.png" group-title="TEMP",SIC
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11021.m3u8
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC HD" tvg-logo="" group-title="TEMP",SIC HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11025.m3u8
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC FHD" tvg-logo="http://jornalismounisuam.files.wordpress.com/2010/06/sic-hd.jpg" group-title="TEMP",SIC FHD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11029.m3u8
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI LOW" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvi.png" group-title="TEMP",TVI LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11061.m3u8
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="TEMP",TVI
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11020.m3u8
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="TEMP",TVI HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11024.m3u8
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="TEMP",TVI FHD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11028.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● NACIONAIS ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● NACIONAIS ●●●●●●
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11032.m3u8
+#EXTINF:-1 tvg-ID="PORTO" tvg-name="PORTO CANAL" tvg-logo="http://portocanal.sapo.pt/uploads/defaulm3u8/default-16x9.png" group-title="TEMP",PORTO CANAL
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11003.m3u8
+#EXTINF:-1 tvg-ID="RTPACO" tvg-name="RTP ACORES" tvg-logo="https://vignette1.wikia.nocookie.net/althistory/images/2/2e/RTP_A%C3%A7ores.png/revision/latest?cb=20160509094549" group-title="TEMP",RTP ACORES
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10988.m3u8
+#EXTINF:-1 tvg-ID="RTPA" tvg-name="RTP AFRICA" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_negativo_horiz_RGB.png" group-title="TEMP",RTP AFRICA
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10987.m3u8
+#EXTINF:-1 tvg-ID="RTPM" tvg-name="RTP MADEIRA" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMadeira_positivo.jpg" group-title="TEMP",RTP MADEIRA
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10986.m3u8
+#EXTINF:-1 tvg-ID="RTPM" tvg-name="RTP MEMORIA" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtpMemoria_negativo_horiz_RGB.png" group-title="TEMP",RTP MEMORIA
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10985.m3u8
+#EXTINF:-1 tvg-ID="SICCARAS" tvg-name="SIC CARAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="TEMP",SIC CARAS HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10989.m3u8
+#EXTINF:-1 tvg-ID="SICR" tvg-name="SIC RADICAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="TEMP",SIC RADICAL HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10993.m3u8
+#EXTINF:-1 tvg-ID="SICCARAS" tvg-name="SIC CARAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="TEMP",SIC CARAS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10990.m3u8
+#EXTINF:-1 tvg-ID="SICM" tvg-name="SIC MULHER" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6a/Logo_sem_fundo_SIC_Mulher.png" group-title="TEMP",SIC MULHER
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10991.m3u8
+#EXTINF:-1 tvg-ID="SICR" tvg-name="SIC RADICAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="TEMP",SIC RADICAL
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10992.m3u8
+#EXTINF:-1 tvg-ID="TVI Ficção" tvg-name="TVI FICCAO" tvg-logo="http://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="TEMP",TVI FICCAO
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10997.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVI MOSAICOS" tvg-logo="" group-title="TEMP",TVI MOSAICOS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10995.m3u8
+#EXTINF:-1 tvg-ID="TVIREAL" tvg-name="TVI REALITY LOW" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvireality.png" group-title="TEMP",TVI REALITY LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11034.m3u8
+#EXTINF:-1 tvg-ID="TVIREAL" tvg-name="TVI REALITY" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvireality.png" group-title="TEMP",TVI REALITY
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10996.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CAMARA 1" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2015/09/tviReality.jpg" group-title="TEMP",CAMARA 1
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10994.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● INFORMAÇÃO ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● INFORMAÇÃO ●●●●●●
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11019.m3u8
+#EXTINF:-1 tvg-ID="BBCW" tvg-name="BBC WORLD NEWS" tvg-logo="http://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/1.2.0/bbc_news_logo.png?cb=1" group-title="TEMP",BBC WORLD NEWS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11005.m3u8
+#EXTINF:-1 tvg-ID="BLOOM" tvg-name="BLOOMBERG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1000px-Bloomberg_logo.svg.png" group-title="TEMP",BLOOMBERG
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11012.m3u8
+#EXTINF:-1 tvg-ID="CanalQB" tvg-name="CANAL Q" tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/canalq/logo/large_logo.jpg" group-title="TEMP",CANAL Q
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10998.m3u8
+#EXTINF:-1 tvg-ID="CMTV" tvg-name="CMTV" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" group-title="TEMP",CMTV
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11009.m3u8
+#EXTINF:-1 tvg-ID="CNBC" tvg-name="CNBC EUROPE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="TEMP",CNBC EUROPE
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11011.m3u8
+#EXTINF:-1 tvg-ID="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/1200px-Cnn.svg.png" group-title="TEMP",CNN
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11010.m3u8
+#EXTINF:-1 tvg-ID="EUROS" tvg-name="EURONEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Euronews_grey_logo.svg/1024px-Euronews_grey_logo.svg.png" group-title="TEMP",EURONEWS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11014.m3u8
+#EXTINF:-1 tvg-ID="FOX News" tvg-name="FOX NEWS" tvg-logo="http://collegeforamerica.org/wp-content/uploads/2015/05/fox_news_logo_a_l3-854x314.png" group-title="TEMP",FOX NEWS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11015.m3u8
+#EXTINF:-1 tvg-ID="RECORDNEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="TEMP",RECORD NEWS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11004.m3u8
+#EXTINF:-1 tvg-ID="RTP 3 LOW" tvg-name="RTP 3" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png?f=png&h=176" group-title="TEMP",RTP 3
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11018.m3u8
+#EXTINF:-1 tvg-ID="SIC NOTICIAS HD" tvg-name="SIC NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Sicnoticias2001.png" group-title="TEMP",SIC NOTICIAS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11017.m3u8
+#EXTINF:-1 tvg-ID="SKYN" tvg-name="SKY NEWS" tvg-logo="http://tomburke.co.uk/wp-content/uploads/2016/10/sky-news-logo.png" group-title="TEMP",SKY NEWS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11002.m3u8
+#EXTINF:-1 tvg-ID="TVE24" tvg-name="TVE 24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/TVE_Canal_24_Horas.png" group-title="TEMP",TVE 24 HORAS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11001.m3u8
+#EXTINF:-1 tvg-ID="TVE24" tvg-name="TVI 24" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/63/Tvi24logo.png/revision/latest?cb=20130328095627" group-title="TEMP",TVI 24
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11016.m3u8
+#EXTINF:-1 tvg-ID="CMTV" tvg-name="CMTV HD" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" group-title="TEMP",CMTV HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11008.m3u8
+#EXTINF:-1 tvg-ID="GLOBO NEWS" tvg-name="GLOBO NEWS" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="TEMP",GLOBO NEWS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11007.m3u8
+#EXTINF:-1 tvg-ID="SPTV" tvg-name="STV NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/Soico_Televis%C3%A3o.png" group-title="TEMP",STV NOTICIAS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11006.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● DESPORTO ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● DESPORTO ●●●●●●
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10984.m3u8
+#EXTINF:-1 tvg-ID="A Bola TV" tvg-name="A BOLA TV" tvg-logo="https://abola.pt/abolatv/ficheiros/logo.png" group-title="TEMP",A BOLA TV
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10983.m3u8
+#EXTINF:-1 tvg-ID="BTV HD1" tvg-name="BTV 1 HD LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="TEMP",BTV 1 HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11060.m3u8
+#EXTINF:-1 tvg-ID="Benfica TV" tvg-name="BTV 1" tvg-logo="http://torrent-tv.org/uploads/thumbs/657caa454-1.jpg" group-title="TEMP",BTV 1
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10980.m3u8
+#EXTINF:-1 tvg-ID="Benfica TV" tvg-name="BTV 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png" group-title="TEMP",BTV 1 HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10981.m3u8
+#EXTINF:-1 tvg-ID="Benfica TV" tvg-name="BTV 1 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png" group-title="TEMP",BTV 1 FHD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10982.m3u8
+#EXTINF:-1 tvg-ID="EUROS" tvg-name="EUROSPORT" tvg-logo="https://2.bp.blogspot.com/-oNJ9SD0LPUk/WO1CKfm5WKI/AAAAAAAAFAU/xaYmYMYGboon6EvgR2A_uTkVTorhaUdpQCLcB/s1600/eurosport.png" group-title="TEMP",EUROSPORT
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10978.m3u8
+#EXTINF:-1 tvg-ID="TV RECORD HD" tvg-name="TV RECORD HD LOW" tvg-logo="http://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.png" group-title="TEMP",TV RECORD HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11037.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  EUROSPORT 1 HD" tvg-logo="" group-title="TEMP",PT:  EUROSPORT 1 HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10977.m3u8
+#EXTINF:-1 tvg-ID="EUROSPORT 1 (LOW)" tvg-name="EUROSPORT 1 LOW" tvg-logo="https://cdn.firstonetv.eu/images/logos/uk/EUROSPORT1.png" group-title="TEMP",EUROSPORT 1 LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11054.m3u8
+#EXTINF:-1 tvg-ID="EUROS2" tvg-name="PT:  EUROSPORT 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="TEMP",PT:  EUROSPORT 2
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10976.m3u8
+#EXTINF:-1 tvg-ID="EURON" tvg-name="EUROSPORT NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/it/b/bc/Eurosport_News_logo.png" group-title="TEMP",EUROSPORT NEWS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10979.m3u8
+#EXTINF:-1 tvg-ID="FIGHTHD" tvg-name="PT:  FIGHT NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/2000px-Fight_network_logo.svg.png" group-title="TEMP",PT:  FIGHT NETWORK HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10975.m3u8
+#EXTINF:-1 tvg-ID="FRANCE24FR" tvg-name="FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/600px-FRANCE_24_logo.svg.png" group-title="TEMP",FRANCE 24
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11013.m3u8
+#EXTINF:-1 tvg-ID="MCS EXTREME" tvg-name="MCS EXTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MCS-Extreme.png" group-title="TEMP",MCS EXTREME
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10884.m3u8
+#EXTINF:-1 tvg-ID="Motors TV" tvg-name="PT:  MOTORS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/Motors_TV_Logo.svg" group-title="TEMP",PT:  MOTORS TV
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10971.m3u8
+#EXTINF:-1 tvg-ID="MOTORVISIONHD" tvg-name="PT:  MOTORVISION HD" tvg-logo="http://www.motorvision.tv/wp-content/uploads/2015/05/MVTV_square_blacktypo.png" group-title="TEMP",PT:  MOTORVISION HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10970.m3u8
+#EXTINF:-1 tvg-ID="PFC" tvg-name="PT:  PFC" tvg-logo="http://www.nossagente.net/wp_new/wp-content/uploads/2013/08/PFC_LOGO_slogan2.png" group-title="TEMP",PT:  PFC
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10968.m3u8
+#EXTINF:-1 tvg-ID="REAL MADRID TV" tvg-name="REAL MADRID TV" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2013/11/real-madrid-tv.jpg" group-title="TEMP",REAL MADRID TV
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10967.m3u8
+#EXTINF:-1 tvg-ID="SPTV" tvg-name="SPORT TV +" tvg-logo="https://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png" group-title="TEMP",SPORT TV +
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10966.m3u8
+#EXTINF:-1 tvg-ID="SPTV" tvg-name="SPORT TV + FHD" tvg-logo="https://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png" group-title="TEMP",SPORT TV + FHD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10965.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORT TV 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_1.png" group-title="TEMP",SPORT TV 1
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10964.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyqws1470407526.png" group-title="TEMP",SPORT TV 1 HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10962.m3u8
+
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV 1 HD  LOW" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="TEMP",SPORTV 1 HD  LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11059.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORT TV 1 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyqws1470407526.png" group-title="TEMP",SPORT TV 1 FHD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10963.m3u8
+#EXTINF:-1 tvg-ID="SPTV2" tvg-name="SPORT TV 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_2.png" group-title="TEMP",SPORT TV 2
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10961.m3u8
+
+#EXTINF:-1 tvg-ID="SPTV2" tvg-name="SPORTV 2 HD LOW" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV2.png" group-title="TEMP",SPORTV 2 HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11058.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyrpq1470407606.png" group-title="TEMP",SPORT TV 2 HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10959.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORT TV 2 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyrpq1470407606.png" group-title="TEMP",SPORT TV 2 FHD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10960.m3u8
+#EXTINF:-1 tvg-ID="SPTV3" tvg-name="SPORT TV 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_3.png" group-title="TEMP",SPORT TV 3
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10958.m3u8
+
+#EXTINF:-1 tvg-ID="SPTV3" tvg-name="SPORTV 3 HD LOW" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV3.png" group-title="TEMP",SPORTV 3 HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11057.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/xysrvw1470407766.png" group-title="TEMP",SPORT TV 3 HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10956.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 3 HD" tvg-name="SPORT TV 3 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/xysrvw1470407766.png" group-title="TEMP",SPORT TV 3 FHD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10957.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 4 HD" tvg-name="SPORT TV 4" tvg-logo="https://ulango.tv/uploads/channels/63215/logo_sport%20tv%208.png" group-title="TEMP",SPORT TV 4
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10955.m3u8
+
+#EXTINF:-1 tvg-ID="SPTV4" tvg-name="SPORTV 4 HD LOW" tvg-logo="https://ulango.tv/uploads/channels/63215/logo_sport%20tv%208.png" group-title="TEMP",SPORTV 4 HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11056.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 4 HD" tvg-name="SPORT TV 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qypxry1470408244.png" group-title="TEMP",SPORT TV 4 HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10953.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 5 HD" tvg-name="SPORT TV 5" tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" group-title="TEMP",SPORT TV 5
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10952.m3u8
+
+#EXTINF:-1 tvg-ID="SPTV5" tvg-name="SPORTV 5 HD  LOW" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV5.png" group-title="TEMP",SPORTV 5 HD  LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11055.m3u8
+#EXTINF:-1 tvg-ID="SPORTV 5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vvvqxp1470408443.png" group-title="TEMP",SPORT TV 5 HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10950.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  SPORTING TV" tvg-logo="" group-title="TEMP",PT:  SPORTING TV
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10947.m3u8
+#EXTINF:-1 tvg-ID="SPORTINGTV" tvg-name="SPORTING TV HD" tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/sporting-tv/logo_sportingtv_hd.jpg" group-title="TEMP",SPORTING TV HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10949.m3u8
+#EXTINF:-1 tvg-ID="Toros TV" tvg-name="TOROS TV HD" tvg-logo="https://www.thelogodb.com/images/media/logo/xxxum3u81436895323.png" group-title="TEMP",TOROS TV HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10946.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FULL TV HD" tvg-logo="" group-title="TEMP",PT: FULL TV HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10974.m3u8
+#EXTINF:-1 tvg-ID="KOMBAT SPORT" tvg-name="KOMBAT SPORT" tvg-logo="http://www.bce.lu/wp-content/uploads/2016/06/LOGO-Kombat_Sport.png" group-title="TEMP",KOMBAT SPORT
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10948.m3u8
+#EXTINF:-1 tvg-ID="NBATV" tvg-name="NBA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png" group-title="TEMP",NBA HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10972.m3u8
+#EXTINF:-1 tvg-ID="OUTDOOR HD" tvg-name="OUTDOOR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="TEMP",OUTDOOR CHANNEL HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10969.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● FILMES  ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● FILMES  ●●●●●●
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10944.m3u8
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="TEMP",AMC HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10943.m3u8
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="TEMP",AMC
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10942.m3u8
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC HD LOW" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156" group-title="TEMP",AMC HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11042.m3u8
+#EXTINF:-1 tvg-ID="Cinemundo" tvg-name="CINEMUNDO" tvg-logo="https://vignette3.wikia.nocookie.net/logosfake/images/c/c6/Cinemundo.png/revision/latest?cb=20160328182443" group-title="TEMP",CINEMUNDO
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10941.m3u8
+#EXTINF:-1 tvg-ID="FOX MOVIES HD" tvg-name="FOX MOVIES" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/4/4e/Fox_Movies.png/revision/latest?cb=20100430184151" group-title="TEMP",FOX MOVIES
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10939.m3u8
+#EXTINF:-1 tvg-ID="FOX MOVIES HD" tvg-name="PT: FOX MOVIES HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/4/4e/Fox_Movies.png/revision/latest?cb=20100430184151" group-title="TEMP",PT: FOX MOVIES HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10940.m3u8
+#EXTINF:-1 tvg-ID="HOLLYWOOD HD" tvg-name="PT:  HOLLYWOOD" tvg-logo="http://3.bp.blogspot.com/-vRwVHF4JH3c/TyGSd51yreI/AAAAAAAAA9c/kay4KP2LPSI/s600/533px-Canal_Hollywood.svg_.png" group-title="TEMP",PT:  HOLLYWOOD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10938.m3u8
+#EXTINF:-1 tvg-ID="HOLLYWOOD HD LB" tvg-name="HOLLYWOOD HD LOW" tvg-logo="https://vignette3.wikia.nocookie.net/logosfake/images/4/47/Canal_Hollywood_HD.png/revision/latest?cb=20140514123652" group-title="TEMP",HOLLYWOOD HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11041.m3u8
+#EXTINF:-1 tvg-ID="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="http://3.bp.blogspot.com/-vRwVHF4JH3c/TyGSd51yreI/AAAAAAAAA9c/kay4KP2LPSI/s600/533px-Canal_Hollywood.svg_.png" group-title="TEMP",HOLLYWOOD HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10937.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVCINE 1" tvg-logo="" group-title="TEMP",PT:  TVCINE 1
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10936.m3u8
+#EXTINF:-1 tvg-ID="TVC1" tvg-name="TV CINE 1 LOW" tvg-logo="https://3.bp.blogspot.com/_tk5JCNM43cc/TTDiWJphxjI/AAAAAAAAAKA/5NwQpl8addE/s320/TVC+1+logo.png" group-title="TEMP",TV CINE 1 LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11053.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVCINE 1 HD" tvg-logo="" group-title="TEMP",PT:  TVCINE 1 HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10935.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVCINE 2" tvg-logo="" group-title="TEMP",PT:  TVCINE 2
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10934.m3u8
+#EXTINF:-1 tvg-ID="TVC2" tvg-name="TV CINE 2 LOW" tvg-logo="https://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png" group-title="TEMP",TV CINE 2 LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11052.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVCINE 2 HD" tvg-logo="" group-title="TEMP",PT:  TVCINE 2 HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10933.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVCINE 3" tvg-logo="" group-title="TEMP",PT:  TVCINE 3
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10932.m3u8
+#EXTINF:-1 tvg-ID="TVC3" tvg-name="TV CINE 3 LOW" tvg-logo="https://3.bp.blogspot.com/_tk5JCNM43cc/TTDgPaa5FQI/AAAAAAAAAJ4/BLJVZII7_Fo/s1600/TVC+3+logo.png" group-title="TEMP",TV CINE 3 LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11051.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVCINE 3 HD" tvg-logo="" group-title="TEMP",PT:  TVCINE 3 HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10931.m3u8
+#EXTINF:-1 tvg-ID="TVC4" tvg-name="TVCINE 4" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134" group-title="TEMP",TVCINE 4
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10930.m3u8
+#EXTINF:-1 tvg-ID="TVC4" tvg-name="TV CINE 4 LOW" tvg-logo="https://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPpjLCUI/AAAAAAAAAJ8/nVO8usa43i8/s1600/TVC+4+logo.png" group-title="TEMP",TV CINE 4 LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11050.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVCINE 4 HD" tvg-logo="" group-title="TEMP",TVCINE 4 HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10929.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● SERIES ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● SERIES ●●●●●●
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10928.m3u8
+#EXTINF:-1 tvg-ID="TVSERIES" tvg-name="TV SERIES" tvg-logo="http://www.lowcostportugal.net/wp-content/uploads/destaque_canal_tvseries_449x1961.jpg" group-title="TEMP",TV SERIES
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10916.m3u8
+#EXTINF:-1 tvg-ID="TVSERIES" tvg-name="TV SERIES LOW" tvg-logo="" group-title="TEMP",TV SERIES LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11049.m3u8
+#EXTINF:-1 tvg-ID="TVSERIES" tvg-name="TV SERIES HD" tvg-logo="http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvseries/logo/medium_logo.jpg" group-title="TEMP",TV SERIES HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10915.m3u8
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Axn_hd.svg/2000px-Axn_hd.svg.png" group-title="TEMP",AXN HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10926.m3u8
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_AXN_logo.svg/1200px-2016_AXN_logo.svg.png" group-title="TEMP",AXN HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11047.m3u8
+#EXTINF:-1 tvg-ID="AXN Black" tvg-name="PT:  AXN BLACK HD" tvg-logo="https://4.bp.blogspot.com/-8YO1eSG62u4/Tay5UoZrLjI/AAAAAAAAARc/UFYz4mRmCqk/s1600/AXN+Black+logo+peq.png" group-title="TEMP",PT:  AXN BLACK HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10925.m3u8
+#EXTINF:-1 tvg-ID="AXN BLACK HD ( NET FRACA )" tvg-name="AXN BLACK HD LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/1200px-AXN_Black_logo_%282015%29.svg.png" group-title="TEMP",AXN BLACK HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11048.m3u8
+#EXTINF:-1 tvg-ID="AXN White" tvg-name="AXN WHITE HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/7/7c/AXN_White.png/revision/latest?cb=20161214222911" group-title="TEMP",AXN WHITE HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10924.m3u8
+#EXTINF:-1 tvg-ID="AXN WHITE HD ( NET FRACA )" tvg-name="AXN WHITE LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="TEMP",AXN WHITE LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11046.m3u8
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="TEMP",FOX HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10923.m3u8
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/2000px-FOX_HD.svg.png" group-title="TEMP",FOX HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11045.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX COMEDY HD" tvg-logo="" group-title="TEMP",PT: FOX COMEDY HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10922.m3u8
+#EXTINF:-1 tvg-ID="FOX COMEDY HD" tvg-name="FOX COMEDY" tvg-logo="https://portaldosprogramas.com/wp-content/uploads/2015/11/FOX-Comedy.jpg" group-title="TEMP",FOX COMEDY
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10921.m3u8
+#EXTINF:-1 tvg-ID="FOXCRIME" tvg-name="FOX CRIME HD LOW" tvg-logo="http://portalnacional.com.pt/images/icons/tv/FOXCR.png" group-title="TEMP",FOX CRIME HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11044.m3u8
+#EXTINF:-1 tvg-ID="FOXCRIME" tvg-name="FOX CRIME HD" tvg-logo="http://3.bp.blogspot.com/-XQjtY7EWVrs/T35A9phwW9I/AAAAAAAAE3o/nFAYlM8ubOc/s1600/fox_crime_asia_hd.png" group-title="TEMP",FOX CRIME HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10920.m3u8
+#EXTINF:-1 tvg-ID="FOXLIFE" tvg-name="FOX LIFE HD LOW" tvg-logo="http://tudotv.tv/fotos/5807afe3ec8303344ee73b8df61bf4a9.png" group-title="TEMP",FOX LIFE HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11043.m3u8
+#EXTINF:-1 tvg-ID="FOXLIFE" tvg-name="FOX LIFE HD" tvg-logo="http://4.bp.blogspot.com/-e4Hwf6_-Zwc/VaBmzm0DgUI/AAAAAAAAkyU/A4fPY75Fj40/s1600/Fox_life_it.png" group-title="TEMP",FOX LIFE HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10919.m3u8
+#EXTINF:-1 tvg-ID="SyFy" tvg-name="SYFY HD" tvg-logo="https://vignette1.wikia.nocookie.net/logosfake/images/6/67/Syfy_HD.png/revision/latest?cb=20140430122835" group-title="TEMP",SYFY HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10918.m3u8
+#EXTINF:-1 tvg-ID="SyFy" tvg-name="SYFY" tvg-logo="" group-title="TEMP",SYFY
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10917.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● INFANTIL ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● INFANTIL ●●●●●●
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10914.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  BABY FIRST" tvg-logo="" group-title="TEMP",PT:  BABY FIRST
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10913.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  BABY TV" tvg-logo="" group-title="TEMP",PT:  BABY TV
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10912.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  BIGGS" tvg-logo="" group-title="TEMP",PT:  BIGGS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10911.m3u8
+#EXTINF:-1 tvg-ID="PANDA" tvg-name="CANAL PANDA" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/0/00/Panda.png/revision/latest?cb=20141206112539" group-title="TEMP",CANAL PANDA
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10910.m3u8
+#EXTINF:-1 tvg-ID="CART" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="TEMP",CARTOON NETWORK
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10909.m3u8
+#EXTINF:-1 tvg-ID="DISNY" tvg-name="DISNEY CHANNEL" tvg-logo="https://vignette1.wikia.nocookie.net/disneyprincesas/images/6/6d/Disney_Channel_Logo_.png/revision/latest?cb=20160721005930&path-prefix=pt-br" group-title="TEMP",DISNEY CHANNEL
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10908.m3u8
+#EXTINF:-1 tvg-ID="DISNEYJUNIOR" tvg-name="PT:  DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="TEMP",PT:  DISNEY JUNIOR
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10907.m3u8
+#EXTINF:-1 tvg-ID="JimJam" tvg-name="JIM JAM" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/jim_jam_it.png" group-title="TEMP",JIM JAM
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10906.m3u8
+#EXTINF:-1 tvg-ID="Nicke" tvg-name="PT:  NICKELODEON" tvg-logo="https://vignette4.wikia.nocookie.net/nickfanon/images/f/fe/Nickelodeon-logo.png/revision/latest?cb=20150926035852" group-title="TEMP",PT:  NICKELODEON
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10905.m3u8
+#EXTINF:-1 tvg-ID="SIC K" tvg-name="SIC K" tvg-logo="http://www.psb.pt/wp-content/uploads/2014/01/sic_k.png" group-title="TEMP",SIC K
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10904.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● ENTRETENIMENTO ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● ENTRETENIMENTO ●●●●●●
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11000.m3u8
+#EXTINF:-1 tvg-ID="A&E" tvg-name="A & E" tvg-logo="http://mixdeseries.com.br/wp-content/uploads/sites/61/2015/06/AE.gif" group-title="TEMP",A & E
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10927.m3u8
+#EXTINF:-1 tvg-ID="BBC Entertainment" tvg-name="BBC ENTERTAINMENT" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/c/c1/BBC_Entertainment.png/revision/latest?cb=20101221201857" group-title="TEMP",BBC ENTERTAINMENT
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10902.m3u8
+#EXTINF:-1 tvg-ID="CBS Reality" tvg-name="CBS REALITY" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/0/02/CBS_Reality.svg/revision/latest?cb=20100517120952" group-title="TEMP",CBS REALITY
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10900.m3u8
+#EXTINF:-1 tvg-ID="EUROS" tvg-name="E! ENTERTAINMENT" tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Entertainment-Logo-1024x768.png" group-title="TEMP",E! ENTERTAINMENT
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10883.m3u8
+#EXTINF:-1 tvg-ID="TLC" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_TLC.svg/2000px-Logo_TLC.svg.png" group-title="TEMP",TLC
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10886.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FASHION TV" tvg-logo="" group-title="TEMP",PT: FASHION TV
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10894.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FTV HD" tvg-logo="" group-title="TEMP",PT: FTV HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10895.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● DOCUMENTARIOS ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● DOCUMENTARIOS ●●●●●●
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10903.m3u8
+#EXTINF:-1 tvg-ID="24 Kitchen" tvg-name="24 KITCHEN HD" tvg-logo="https://www.montagecabletv.com/sites/default/files/24_kitchen_logo.jpg" group-title="TEMP",24 KITCHEN HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10999.m3u8
+#EXTINF:-1 tvg-ID="24 Kitchen" tvg-name="24 KITCHEN HD LOW" tvg-logo="http://3.bp.blogspot.com/-E2IQcRQ0jaY/TwYE7HovP5I/AAAAAAAADsg/gvMIlGE91XY/s1600/24Kitchen+logo+2011.png" group-title="TEMP",24 KITCHEN HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11040.m3u8
+#EXTINF:-1 tvg-ID="Caça e Pesca" tvg-name="CACA E PESCA" tvg-logo="https://images.tcdn.com.br/img/arquivos/407368/themed/img/theme-logo.png" group-title="TEMP",CACA E PESCA
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10945.m3u8
+#EXTINF:-1 tvg-ID="Caça Vision" tvg-name="CACAVISION" tvg-logo="http://portalnacional.com.pt/images/icons/tv/CACAV.png" group-title="TEMP",CACAVISION
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10901.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  CANÇAO NOVA" tvg-logo="" group-title="TEMP",PT:  CANÇAO NOVA
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10880.m3u8
+#EXTINF:-1 tvg-ID="DISCOVERY SHOWCASE HD LOW" tvg-name="DISCOVERY HD SHOWCASE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/88/Discovery_HD_Showcase_2012.png" group-title="TEMP",DISCOVERY HD SHOWCASE
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10897.m3u8
+#EXTINF:-1 tvg-ID="DISCOVERY SHOWCASE HD LOW" tvg-name="DISCOVERY SHOWCASE HD LOW" tvg-logo="http://infocul.pt/wp-content/uploads/2016/09/Discovery_HD_Showcase_2012.png" group-title="TEMP",DISCOVERY SHOWCASE HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11039.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DOG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/DOGTV_Logo.png" group-title="TEMP",DOG TV
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10896.m3u8
+#EXTINF:-1 tvg-ID="HOLLY" tvg-name="HISTORIA" tvg-logo="https://espalhafactos.com/wp-content/uploads/2013/05/Canal-Hist%C3%B3ria.png" group-title="TEMP",HISTORIA
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10889.m3u8
+#EXTINF:-1 tvg-ID="MCS LifeStyle" tvg-name="MCS LIFESTYLE" tvg-logo="http://www.markify.com/images/ctm/originals/014637953.JPG" group-title="TEMP",MCS LIFESTYLE
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10885.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  NAT GEO WILD" tvg-logo="" group-title="TEMP",PT:  NAT GEO WILD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10892.m3u8
+#EXTINF:-1 tvg-ID="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="TEMP",NATIONAL GEOGRAPHIC HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10890.m3u8
+#EXTINF:-1 tvg-ID="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC HD LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="TEMP",NATIONAL GEOGRAPHIC HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11038.m3u8
+#EXTINF:-1 tvg-ID="ODIS" tvg-name="ODISSEIA" tvg-logo="https://1.bp.blogspot.com/-2oZ8zgZSV70/TWBKMGwUHcI/AAAAAAAAANk/7JQtLw3gIKE/s1600/Odisseia+logo+peq.png" group-title="TEMP",ODISSEIA
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10888.m3u8
+#EXTINF:-1 tvg-ID="TRAVEL" tvg-name="TRAVEL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Travel_Channel_HD_Logo.png" group-title="TEMP",TRAVEL CHANNEL HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10887.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CI INVESTIGATION" tvg-logo="https://ulango.tv/uploads/channels/120819/logo_sky%20ci%20crime%20investigation.png" group-title="TEMP",CI INVESTIGATION
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10899.m3u8
+#EXTINF:-1 tvg-ID="DISCOVERYHD" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/02/Discovery_Channel_2000.png" group-title="TEMP",DISCOVERY CHANNEL
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10898.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: LOCALVISON HD" tvg-logo="" group-title="TEMP",PT: LOCALVISON HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10870.m3u8
+#EXTINF:-1 tvg-ID="Nat Geo Wild" tvg-name="NAT GEO WILD HD" tvg-logo="http://tudotv.tv/fotos/fa46bf86d92279b09924bee38de24a03.png" group-title="TEMP",NAT GEO WILD HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10891.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● Musica ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● Musica ●●●●●●
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10868.m3u8
+#EXTINF:-1 tvg-ID="Afro Music" tvg-name="AFRO MUSIC" tvg-logo="https://yt3.ggpht.com/-GJ0T9VQwuKo/AAAAAAAAAAI/AAAAAAAAAAA/uaszi71gYHc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="TEMP",AFRO MUSIC
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10867.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  ICONCERTS" tvg-logo="" group-title="TEMP",PT:  ICONCERTS
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10865.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: C-MUSIC" tvg-logo="" group-title="TEMP",PT: C-MUSIC
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10866.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MCM POP" tvg-logo="" group-title="TEMP",PT: MCM POP
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10864.m3u8
+#EXTINF:-1 tvg-ID="MCM" tvg-name="MCM TOP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1b/Mcm_top_logo.svg/1200px-Mcm_top_logo.svg.png" group-title="TEMP",MCM TOP
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10863.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MEZZO" tvg-logo="" group-title="TEMP",PT: MEZZO
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10861.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MEZZO LIVE HD" tvg-logo="" group-title="TEMP",PT: MEZZO LIVE HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10862.m3u8
+#EXTINF:-1 tvg-ID="MEZZO" tvg-name="MEZZO LIVE HD LOW" tvg-logo="https://hongkong.consulfrance.org/IMG/arton7810.png?1415860686" group-title="TEMP",MEZZO LIVE HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11035.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MTV DANCE" tvg-logo="" group-title="TEMP",PT: MTV DANCE
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10860.m3u8
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV PORTUGAL" tvg-logo="http://portalnacional.com.pt/images/icons/tv/MTV.png" group-title="TEMP",MTV PORTUGAL
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10859.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  SUNDANCE HD" tvg-logo="" group-title="TEMP",PT:  SUNDANCE HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10858.m3u8
+#EXTINF:-1 tvg-ID="SUNDANCE" tvg-name="SUNDANCE HD LOW" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Sundance_TV_HD.png/revision/latest?cb=20161214182018" group-title="TEMP",SUNDANCE HD LOW
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11036.m3u8
+#EXTINF:-1 tvg-ID="TRACE TV" tvg-name="TRACE TV" tvg-logo="http://trace.tv/wp-content/uploads/2016/11/logo_urban1.png" group-title="TEMP",TRACE TV
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10857.m3u8
+#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="TEMP",VH1
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10856.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: VH1 CLASSIC" tvg-logo="" group-title="TEMP",PT: VH1 CLASSIC
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10855.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● INTERNACIONAIS ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● INTERNACIONAIS ●●●●●●
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10882.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  BBC WORLD" tvg-logo="" group-title="TEMP",PT:  BBC WORLD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10881.m3u8
+#EXTINF:-1 tvg-ID="GLOBO NEWS" tvg-name="GLOBO PORTUGAL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="TEMP",GLOBO PORTUGAL
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10879.m3u8
+#EXTINF:-1 tvg-ID="GloboPremium.pt" tvg-name="GLOBO PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" group-title="TEMP",GLOBO PREMIUM
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10878.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  REDE TV" tvg-logo="" group-title="TEMP",PT:  REDE TV
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10877.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  SBT BRASIL" tvg-logo="" group-title="TEMP",PT:  SBT BRASIL
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10876.m3u8
+#EXTINF:-1 tvg-ID="TV Galicia" tvg-name="TV GALICIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1200px-Television_de_Galicia.svg.png" group-title="TEMP",TV GALICIA
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10875.m3u8
+#EXTINF:-1 tvg-ID="TV RECORD HD" tvg-name="TV RECORD" tvg-logo="https://www.recordeuropa.com/wp-content/uploads/2016/11/logo_recordtv.png" group-title="TEMP",TV RECORD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10874.m3u8
+#EXTINF:-1 tvg-ID="TV RECORD HD" tvg-name="TV RECORD HD" tvg-logo="https://www.recordeuropa.com/wp-content/uploads/2016/11/logo_recordtv.png" group-title="TEMP",TV RECORD HD
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10873.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVE INTERNACIONAL" tvg-logo="" group-title="TEMP",PT:  TVE INTERNACIONAL
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10872.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TCV INTERNACIONAL" tvg-logo="" group-title="TEMP",PT: TCV INTERNACIONAL
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10871.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="" group-title="TEMP",PT: TPA INTERNACIONAL
+http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10869.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
