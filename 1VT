@@ -1,919 +1,473 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="TV",RTP 1 HD
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="CumCatano"",RTP 1 HD
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/KodiPortugal.pt.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="TV",RTP 1
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="CumCatano"",RTP 1
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="TV",RTP 1 (Op 2)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="CumCatano"",RTP 1 (Op 2)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="TV",RTP 2 HD
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="CumCatano"",RTP 2 HD
 http://noscdn1.connectedviews.com:1935/live/rtp2.stream/KodiPortugal.pt.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="TV",RTP 2
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="CumCatano"",RTP 2
 http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="TV",RTP 2 (Op 2)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="CumCatano"",RTP 2 (Op 2)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="TV",SIC (Geo Block)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="CumCatano"",SIC (Geo Block)
 http://live.impresa.pt/live/sic/sic.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="TV",SIC (Geo Block) (Op 2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="CumCatano"",SIC (Geo Block) (Op 2)
 http://live.impresa.pt/live/sic/sic540p.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="TV",SIC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="CumCatano"",SIC
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/VIRYf0" tvg-id="TVI.pt" group-title="TV",TVI
+#EXTINF:-1 tvg-logo="https://goo.gl/VIRYf0" tvg-id="TVI.pt" group-title="CumCatano"",TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/VIRYf0" tvg-id="TVI.pt" group-title="TV",TVI (Op 2)
+#EXTINF:-1 tvg-logo="https://goo.gl/VIRYf0" tvg-id="TVI.pt" group-title="CumCatano"",TVI (Op 2)
 http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="TV",SIC NOTICIAS (Geo Block)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="CumCatano"",SIC NOTICIAS (Geo Block)
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="TV",SIC NOTICIAS (Geo Block) (Op 2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="CumCatano"",SIC NOTICIAS (Geo Block) (Op 2)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="TV",SIC NOTICIAS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="CumCatano"",SIC NOTICIAS
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2701.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="TV",RTP 3
+#EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="CumCatano"",RTP 3
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2708.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="TV",RTP 3 (Op 2)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="CumCatano"",RTP 3 (Op 2)
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" group-title="TV",TVI24 
+#EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" group-title="CumCatano"",TVI24 
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" group-title="TV",TVI24 (Op 2)
+#EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" group-title="CumCatano"",TVI24 (Op 2)
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/lphnap6" tvg-id="CMTV.pt" group-title="TV",CMTV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/lphnap6" tvg-id="CMTV.pt" group-title="CumCatano"",CMTV
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2758.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="TV",SIC RADICAL (Geo Block)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="CumCatano"",SIC RADICAL (Geo Block)
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="TV",SIC RADICAL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="CumCatano"",SIC RADICAL
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2700.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" tvg-id="sicmulher.pt" group-title="TV",SIC MULHER
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" tvg-id="sicmulher.pt" group-title="CumCatano"",SIC MULHER
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2702.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png" tvg-id="SicCaras.pt" group-title="TV",SIC CARAS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png" tvg-id="SicCaras.pt" group-title="CumCatano"",SIC CARAS
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2705.m3u8
-#EXTINF:-1 tvg-logo="https://s27.postimg.org/jiij9m1xv/Log_tipo_TVI.png" tvg-id="" group-title="TV",+ TVI
+#EXTINF:-1 tvg-logo="https://s27.postimg.org/jiij9m1xv/Log_tipo_TVI.png" tvg-id="" group-title="CumCatano"",+ TVI
 http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/WhvCo4" tvg-id="TVIFiccao.pt" group-title="TV",TVI FICCAO
+#EXTINF:-1 tvg-logo="https://goo.gl/WhvCo4" tvg-id="TVIFiccao.pt" group-title="CumCatano"",TVI FICCAO
 http://4.31.30.145:9004
-#EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIREAL" group-title="TV",TVI REALITY
+#EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIREAL" group-title="CumCatano"",TVI REALITY
 http://4.31.30.145:9040
-#EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="TV", PORTO CANAL 
+#EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="CumCatano"", PORTO CANAL 
 http://213.13.26.11:1935/live/portocanal/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="TV", PORTO CANAL (Op 2)
+#EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="CumCatano"", PORTO CANAL (Op 2)
 http://213.13.26.13:1935/live/portocanal/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="Canal Q" group-title="TV",CANAL Q
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="Canal Q" group-title="CumCatano"",CANAL Q
 http://portal.geniptv.com:8080/live/bmbm/bmbm/5618.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="TV",24 KITCHEN
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano"",24 KITCHEN
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4311.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" group-title="TV", FOOD NETWORK
-http://no1dadicated.tk:8000/live/cuda/cuda/27893.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="TV",SPORT TV +
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano"",24 KITCHEN (Op 2)
+http://no1dadicated.tk:8000/live/Mick/Mick/27914.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" group-title="CumCatano"", FOOD NETWORK
+http://no1dadicated.tk:8000/live/Mick/Mick/27893.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano"",SPORT TV +
 http://www.painelpro.net:8000/live/Bruno/Bruno/4377.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="TV",SPORT TV + (Op 2)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano"",SPORT TV + (Op 2)
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4377.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="TV",SPORT TV + (Op 3)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano"",SPORT TV + (Op 3)
 https://tinyurl.com/1TVIP
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 FHD 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano"",SPORT TV 1 FHD 
 http://portal.geniptv.com:8080/live/bmbm/bmbm/3618.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano"",SPORT TV 1 HD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2678.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 HQ
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano"",SPORT TV 1 HQ
 http://www.painelpro.net:8000/live/Bruno/Bruno/5036.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano"",SPORT TV 1 
 http://www.painelpro.net:8000/live/Bruno/Bruno/4376.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 (Op 2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano"",SPORT TV 1 (Op 2)
 http://topchantv.net:3456/live/Stalker/Stalker/837.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 (Op 3)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano"",SPORT TV 1 (Op 3)
 https://tinyurl.com/HD1VIP
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="TV",SPORT TV 1 SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano"",SPORT TV 1 SD
 rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="TV",SPORT TV 2 FHD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano"",SPORT TV 2 FHD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/3617.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="TV",SPORT TV 2 HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano"",SPORT TV 2 HD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2677.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="TV",SPORT TV 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano"",SPORT TV 2
 http://www.painelpro.net:8000/live/Bruno/Bruno/4374.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="TV",SPORT TV 2 (Op 2) 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano"",SPORT TV 2 (Op 2) 
 https://tinyurl.com/REPO2VIP
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="TV",SPORT TV 2 SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano"",SPORT TV 2 SD
 http://topchantv.net:3456/live/Stalker/Stalker/838.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="TV",SPORT TV 3 HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano"",SPORT TV 3 HD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2676.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="TV",SPORT TV 3 HD (Op 2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano"",SPORT TV 3 HD (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4372.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="TV",SPORT TV 3 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano"",SPORT TV 3 
 http://topchantv.net:3456/live/Stalker/Stalker/839.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="TV",SPORT TV 3 (Op 2) 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano"",SPORT TV 3 (Op 2) 
 https://tinyurl.com/VIP3HD
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="TV",SPORT TV 4 HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano"",SPORT TV 4 HD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2675.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="TV",SPORT TV 4 HD (Op 2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano"",SPORT TV 4 HD (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4370.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="TV",SPORT TV 4 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano"",SPORT TV 4 
 http://topchantv.net:3456/live/Stalker/Stalker/840.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="TV",SPORT TV 4 (Op 2) 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano"",SPORT TV 4 (Op 2) 
 https://tinyurl.com/HD3VIP
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="TV",SPORT TV 5 HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano"",SPORT TV 5 HD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2674.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="TV",SPORT TV 5 HD (Op 2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano"",SPORT TV 5 HD (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4369.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="TV",SPORT TV 5
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano"",SPORT TV 5
 http://topchantv.net:3456/live/Stalker/Stalker/841.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="TV",SPORT TV 5 (Op 2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano"",SPORT TV 5 (Op 2)
 https://tinyurl.com/ENJOY5VIP
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="TV", BENFICA TV FHD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano"", BENFICA TV FHD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2766.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="TV", BENFICA TV HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano"", BENFICA TV HD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2767.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="TV",A Bola TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano"",A Bola TV
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2780.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="TV",SPORTING TV 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="CumCatano"",SPORTING TV 
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2694.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="TV",EUROSPORT
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="CumCatano"",EUROSPORT
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2752.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="TV",EUROSPORT 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="CumCatano"",EUROSPORT 2
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2751.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/m5a5vj3" tvg-id="0" group-title="TV",Eurosport 2 Xtra
+#EXTINF:-1 tvg-logo="https://tinyurl.com/m5a5vj3" tvg-id="0" group-title="CumCatano"",Eurosport 2 Xtra
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mgjb999" tvg-id="0" group-title="TV",Eurosport News
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mgjb999" tvg-id="0" group-title="CumCatano"",Eurosport News
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2750.m3u8
-#EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV" group-title="TV",Fuel TV
+#EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV" group-title="CumCatano"",Fuel TV
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4355.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" tvg-id="FightNetwork" group-title="TV",KOMBAT SPORT
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" tvg-id="FightNetwork" group-title="CumCatano"",KOMBAT SPORT
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4364.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycudcrgh" tvg-id="FightBox" group-title="TV",FightBox HD 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycudcrgh" tvg-id="FightBox" group-title="CumCatano"",FightBox HD 
 http://163.172.75.7:8203
-#EXTINF:-1 tvg-logo="https://tinyurl.com/n38hcr5" tvg-id="" group-title="TV",MOTORSPORT.TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/n38hcr5" tvg-id="" group-title="CumCatano"",MOTORSPORT.TV
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2725.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png" tvg-id="MOTOR" group-title="TV",MOTORS TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png" tvg-id="MOTOR" group-title="CumCatano"",MOTORS TV
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2727.m3u8
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="TV",Red Bull TV
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano"",Red Bull TV
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="TV", Extreme Sporm3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="CumCatano"", Extreme Sports
 http://92.62.110.198:8000/play/a017
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="TV",PFC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="CumCatano"",PFC
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2717.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ya5rh43d" tvg-id="0" group-title="TV",FOX SPORT
-http://103.18.40.132:8080/
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y779jcgp" tvg-id="" group-title="TV",Bayern TV
-http://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s40.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/TnZhHD" tvg-id="0" group-title="TV",CHELSEA TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index tvg-id="" group-title="TV",_2528_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/sA036j" tvg-id="RMTV.pt" group-title="TV",REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ybawuaq8" tvg-id="BarcaTV" group-title="TV",BARCA TV
-http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LWH23O0.jpg" tvg-id="" group-title="TV",Betis tv   
-http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/3GIGy3P.png" tvg-id="" group-title="TV",Sevilla FC
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/n5zs2f4" tvg-id="0" group-title="TV",NBA
+#EXTINF:-1 tvg-logo="https://tinyurl.com/n5zs2f4" tvg-id="0" group-title="CumCatano"",NBA
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4365.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/AEfqr9k.png" tvg-id="" group-title="TV", Olympic Channel
-
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="TV",TVCINE 1 
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano"",TVCINE 1 
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2684.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="TV",TVCINE 1 (Op 2)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano"",TVCINE 1 (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4350.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="TV",TVCINE 2 
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano"",TVCINE 2 
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2683.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="TV",TVCINE 2 (Op 2)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano"",TVCINE 2 (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4349.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="TV",TVCINE 3
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano"",TVCINE 3
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2682.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="TV",TVCINE 3 (Op 2)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano"",TVCINE 3 (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4348.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="TV",TVCINE 4
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano"",TVCINE 4
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2681.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="TV",TVCINE 4 (Op 2)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano"",TVCINE 4 (Op 2)
 http://www.painelpro.net:8000/live/Bruno/Bruno/4347.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="TV",TVSeries HD
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="CumCatano"",TVSeries HD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/3843.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="TV",HOLLYWOOD HD
+#EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano"",HOLLYWOOD HD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2733.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="TV",SYFY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="CumCatano"",SYFY
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2692.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo" group-title="TV",CINEMUNDO
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo" group-title="CumCatano"",CINEMUNDO
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2759.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="" group-title="TV",Sundance HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="" group-title="CumCatano"",Sundance HD
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4334.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="" group-title="TV",Sundance HD (Op 2)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="" group-title="CumCatano"",Sundance HD (Op 2)
 http://www.painelpro.net:8000/live/007/007/4334.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="TV",MOV
-http://193.70.45.41:8000/live/Ibo/Ibo/11925.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC" group-title="TV",AMC HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="CumCatano"",MOV
+http://no1dadicated.tk:8000/live/Mick/Mick/27880.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC" group-title="CumCatano"",AMC HD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2777.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="TV",AXN
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="CumCatano"",AXN
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4329.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="TV",AXN Black
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="CumCatano"",AXN Black
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4328.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mye96kn" tvg-id="AXNWhite.pt" group-title="TV",AXN White
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mye96kn" tvg-id="AXNWhite.pt" group-title="CumCatano"",AXN White
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4327.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="TV",FOX
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="CumCatano"",FOX
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4332.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt" group-title="TV",FOX LIFE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt" group-title="CumCatano"",FOX LIFE
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4333.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FOXM" group-title="TV",FOX MOVIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FOXM" group-title="CumCatano"",FOX MOVIES
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2746.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="TV",FOX CRIME
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="CumCatano"",FOX CRIME
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4330.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7w737bs" tvg-id="fx.pt" group-title="TV",FX
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7w737bs" tvg-id="fx.pt" group-title="CumCatano"",FX
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="TV",FOX COMEDY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="CumCatano"",FOX COMEDY
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/6292.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8kgvwco" group-title="TV",FILMS 24H (BR)
-http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="TV",DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8kgvwco" group-title="CumCatano"",FILMS 24H (BR)
+
+#EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="CumCatano"",DISNEY CHANNEL
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4309.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="TV",DISNEY CHANNEL (Op 2)
+#EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="CumCatano"",DISNEY CHANNEL (Op 2)
 http://portal.geniptv.com:8080/live/bmbm/bmbm/3841.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="TV",DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano"",DISNEY JUNIOR
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4308.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="TV",DISNEY JUNIOR (Op 2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano"",DISNEY JUNIOR (Op 2)
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2755.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ml8o23f" tvg-id="" group-title="TV",Mickey Mouse e os seus Amigos
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ml8o23f" tvg-id="" group-title="CumCatano"",Mickey Mouse e os seus Amigos
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="TV",CARTOON NETWORK
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="CumCatano"",CARTOON NETWORK
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4307.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="TV",CARTOON NETWORK (Op 2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="CumCatano"",CARTOON NETWORK (Op 2)
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2761.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycvfj99x" tvg-id="" group-title="TV",ZIG ZAG
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycvfj99x" tvg-id="" group-title="CumCatano"",ZIG ZAG
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/smil:zigzag.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="TV",PANDA
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano"",PANDA
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4310.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="TV",PANDA (Op 2)
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano"",PANDA (Op 2)
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2762.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="TV",PANDA BIGGS
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano"",PANDA BIGGS
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4304.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="nick" group-title="TV",NICKELODEON
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="nick" group-title="CumCatano"",NICKELODEON
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4305.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SICK.pt" group-title="TV",SIC K
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SICK.pt" group-title="CumCatano"",SIC K
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4301.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SICK.pt" group-title="TV",SIC K (Op 2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SICK.pt" group-title="CumCatano"",SIC K (Op 2)
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2704.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="TV",JIMJAM
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="CumCatano"",JIMJAM
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4303.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BABYT" group-title="TV",BABY TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BABYT" group-title="CumCatano"",BABY TV
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4306.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l5mg6h8" tvg-id="BABYT" group-title="TV",Baby First
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l5mg6h8" tvg-id="BABYT" group-title="CumCatano"",Baby First
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4302.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ydhaysn3" tvg-id="0" group-title="TV",Retro Cartoon (BR)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydhaysn3" tvg-id="0" group-title="CumCatano"",Retro Cartoon (BR)
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
-#EXTINF:-1 tvg-id="0" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="TV",Disney XD (BR)
-
-#EXTINF:-1 tvg-logo="https://lut.im/BgRU4QJFvj/Sv8nCJhyzW76S5sD.png" group-title="TV", NICK (BR)
-
-#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="TV",VIRGIN TV
+#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="CumCatano"",VIRGIN TV
 http://fms.105.net:1935/live/virgin2/playlist.m3u8
-#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="TV",VIRGIN TV (Op 2)
+#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="CumCatano"",VIRGIN TV (Op 2)
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
-#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="TV",VIRGIN TV (Op 3)
+#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="CumCatano"",VIRGIN TV (Op 3)
 http://tv.105.net:1935/live/virgin1/chunklist_w864163580.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/646bh7slp/HEAVYMETAL.png" group-title="TV",Heavy Metal TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/646bh7slp/HEAVYMETAL.png" group-title="CumCatano"",Heavy Metal TV
 http://70.166.98.130:1935/hmtv/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yajd7p7e" group-title="TV",ESKA ROCK TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yajd7p7e" group-title="CumCatano"",ESKA ROCK TV
 http://stream.cdn.smcloud.net/eska_rock-t/eska_rock_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/meq2khq" group-title="TV",INDIES LIVE 
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/meq2khq" group-title="CumCatano"",INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ycx3z6fp" group-title="TV",ALEX BERLIN (Urban Music)
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ycx3z6fp" group-title="CumCatano"",ALEX BERLIN (Urban Music)
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="MTVPortugal" group-title="TV",MTV PORTUGAL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="MTVPortugal" group-title="CumCatano"",MTV PORTUGAL
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2724.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="TV",MTV ROCKS 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="CumCatano"",MTV ROCKS 
 http://persik.by/stream/1417/252987/10227.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="TV",MTV ROCKS (Op 2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="CumCatano"",MTV ROCKS (Op 2)
 http://92.249.68.106/15/812
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="TV",MTV ROCKS (Op 3)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="0" group-title="CumCatano"",MTV ROCKS (Op 3)
 http://212.34.244.28:7003/play/a00c
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y84wb56t" tvg-id="0" group-title="TV",MTV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y84wb56t" tvg-id="0" group-title="CumCatano"",MTV
 http://92.249.68.106/15/809
-#EXTINF:-1 tvg-logo="https://goo.gl/nPj2Q7" tvg-id="0" group-title="TV",MTV LIVE
+#EXTINF:-1 tvg-logo="https://goo.gl/nPj2Q7" tvg-id="0" group-title="CumCatano"",MTV LIVE
 http://185.22.78.82:8826/play/a00n
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="TV",MTV DANCE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="CumCatano"",MTV DANCE
 http://92.249.68.106/15/810
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="TV",MTV BASE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="CumCatano"",MTV BASE
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ydbgokfc" tvg-id="" group-title="TV",ONE Rock HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydbgokfc" tvg-id="" group-title="CumCatano"",ONE Rock HD
 rtmp://91.201.78.3:1935/live/rockhd
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y987lgc6" tvg-id="" group-title="TV",ONE Jazz HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y987lgc6" tvg-id="" group-title="CumCatano"",ONE Jazz HD
 rtmp://91.201.78.3:1935/live/jazzhd
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaeu4c72" tvg-id="" group-title="TV",ONE Pop HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaeu4c72" tvg-id="" group-title="CumCatano"",ONE Pop HD
 rtmp://91.201.78.3:1935/live/pophd
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y82q9de7" tvg-id="" group-title="TV",ONE HD Live Mix
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y82q9de7" tvg-id="" group-title="CumCatano"",ONE HD Live Mix
 rtmp://91.201.78.3:1935/live/onehdhd
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycexukkf" tvg-id="" group-title="TV",ONE Classic HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycexukkf" tvg-id="" group-title="CumCatano"",ONE Classic HD
 rtmp://91.201.78.3:1935/live/classicshd
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycwxlpba" tvg-id="" group-title="TV",ONE Dance HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycwxlpba" tvg-id="" group-title="CumCatano"",ONE Dance HD
 rtmp://91.201.78.3:1935/live/dancehd
-#EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="TV",VH1 EUROPE
+#EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="CumCatano"",VH1 EUROPE
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4288.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="0" group-title="TV",VH1 CLASSIC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="0" group-title="CumCatano"",VH1 CLASSIC
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/6246.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd5t7nuk" tvg-id="0" group-title="TV",TRACE TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd5t7nuk" tvg-id="0" group-title="CumCatano"",TRACE TV
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4293.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/ngjyrv" tvg-id="MCMTOP" group-title="TV",MCM TOP
+#EXTINF:-1 tvg-logo="https://goo.gl/ngjyrv" tvg-id="MCMTOP" group-title="CumCatano"",MCM TOP
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4284.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png" tvg-id="MCMPOP" group-title="TV",MCM POP
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png" tvg-id="MCMPOP" group-title="CumCatano"",MCM POP
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4290.m3u8
-#EXTINF:-1 tvg-logo="http://preview.tinyurl.com/y8bqmax2" group-title="TV", Power TV
+#EXTINF:-1 tvg-logo="http://preview.tinyurl.com/y8bqmax2" group-title="CumCatano"", Power TV
 http://powertv.cdnturk.com/powertv/powertv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" group-title="TV",M6 MUSIQUE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" group-title="CumCatano"",M6 MUSIQUE
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" tvg-id="C-Music" group-title="TV",C MUSIC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" tvg-id="C-Music" group-title="CumCatano"",C MUSIC
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4287.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9bwt2ko" tvg-id="" group-title="TV",Clubbing TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9bwt2ko" tvg-id="" group-title="CumCatano"",Clubbing TV
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" tvg-id="AFRO" group-title="TV",AFRO MUSIC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" tvg-id="AFRO" group-title="CumCatano"",AFRO MUSIC
 http://4.31.30.145:9034
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TRACE TV" group-title="TV",TRACE TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TRACE TV" group-title="CumCatano"",TRACE TV
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mro9vmo" tvg-id="0" group-title="TV",VOX
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mro9vmo" tvg-id="0" group-title="CumCatano"",VOX
 http://stream.cdn.smcloud.net/vox2-p/stream1/chunklis.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="TV", ONE.by 1 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CumCatano"", ONE.by 1 
 http://rtmp.one.by:1200
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="TV", ONE.by 2 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CumCatano"", ONE.by 2 
 http://rtmp.one.by:1300
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="TV", ONE.by 3 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CumCatano"", ONE.by 3 
 http://rtmp.one.by:1400
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="TV", ONE.by (RUS) 1 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CumCatano"", ONE.by (RUS) 1 HD
 http://rtmp.one.by:2200
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="TV", ONE.by (RUS) 2 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CumCatano"", ONE.by (RUS) 2 HD
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-logo="https://tinyurl.com/katf23g" group-title="TV", Mezzo
+#EXTINF:-1 tvg-logo="https://tinyurl.com/katf23g" group-title="CumCatano"", Mezzo
 http://portal.geniptv.com:8080/live/bmbm/bmbm/5610.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/n4j9ver" group-title="TV", Mezzo Live 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/n4j9ver" group-title="CumCatano"", Mezzo Live 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yctjl6cs" tvg-id="0" group-title="TV",Music Box
-http://91.224.178.9:6005/08
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/BRIDGETV.png" group-title="TV", Bridge TV  
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yctjl6cs" tvg-id="0" group-title="CumCatano"",Music Box
 
-#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="TV", DJING HOT HOT HOT HD
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/BRIDGETV.png" group-title="CumCatano"", Bridge TV  
+
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CumCatano"", DJING HOT HOT HOT HD
 http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="TV", DJING IBIZA  
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CumCatano"", DJING IBIZA  
 http://cdn.djing.com/tv/d-03.m3u8
-#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="TV", DJING DANCE FLOOR  
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CumCatano"", DJING DANCE FLOOR  
 http://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="TV", DJING UNDERGROUND  
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CumCatano"", DJING UNDERGROUND  
 http://www.djing.com/tv/underground.m3u8
-#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="TV", DJING CLASSIC  
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CumCatano"", DJING CLASSIC  
 http://www.djing.com/tv/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="TV", DJING ANIMATION   
+#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CumCatano"", DJING ANIMATION   
 http://www.djing.com/tv/a-05.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/hXyY5B" tvg-id="discoverychannel.pt" group-title="TV",DISCOVERY
+#EXTINF:-1 tvg-logo="https://goo.gl/hXyY5B" tvg-id="discoverychannel.pt" group-title="CumCatano"",DISCOVERY
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4320.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" group-title="TV",DISCOVERY SHOWCASE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" group-title="CumCatano"",DISCOVERY SHOWCASE
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4319.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="TV",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="CumCatano"",NATIONAL GEOGRAPHIC
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4318.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NGWIL" group-title="TV",NAT GEO WILD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NGWIL" group-title="CumCatano"",NAT GEO WILD
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/6244.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="TV",ODISSEIA
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="CumCatano"",ODISSEIA
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4323.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="TV",HISTORIA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="CumCatano"",HISTORIA
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4321.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="E" group-title="TV",E! Entertainment
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="E" group-title="CumCatano"",E! Entertainment
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4322.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="AE" group-title="TV",A&E
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="AE" group-title="CumCatano"",A&E
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2779.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="TV",TLC
+#EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="CumCatano"",TLC
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4325.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="TV",TLC (Op 2)
+#EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="CumCatano"",TLC (Op 2)
 http://4.31.30.145:9043
-#EXTINF:-1 tvg-logo="http://savepic.net/8100452.png" group-title="TV",FINE LIVING NETWORK
+#EXTINF:-1 tvg-logo="http://savepic.net/8100452.png" group-title="CumCatano"",FINE LIVING NETWORK
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/6233.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/kxh2nlc" tvg-id="" group-title="TV",Crime Investigation CI
+#EXTINF:-1 tvg-logo="https://tinyurl.com/kxh2nlc" tvg-id="" group-title="CumCatano"",Crime Investigation CI
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/6231.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/N7hEOL" tvg-id="0" group-title="TV",MCS EXTREME
+#EXTINF:-1 tvg-logo="https://goo.gl/N7hEOL" tvg-id="0" group-title="CumCatano"",MCS EXTREME
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4315.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" tvg-id="0" group-title="TV",MCS LIFESTYLE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" tvg-id="0" group-title="CumCatano"",MCS LIFESTYLE
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4314.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSReality" group-title="TV",CBS REALITY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSReality" group-title="CumCatano"",CBS REALITY
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4324.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" tvg-id="TRV.pt" group-title="TV",TRAVEL CHANNEL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" tvg-id="TRV.pt" group-title="CumCatano"",TRAVEL CHANNEL
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4313.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://tinyurl.com/y9ett95g" group-title="TV",OUTDOOR CHANNEL
+#EXTINF:-1 tvg-ID="" tvg-logo="https://tinyurl.com/y9ett95g" group-title="CumCatano"",OUTDOOR CHANNEL
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/6234.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/Oo0DzJ" tvg-id="FTV" group-title="TV",FTV
+#EXTINF:-1 tvg-logo="https://goo.gl/Oo0DzJ" tvg-id="FTV" group-title="CumCatano"",FTV
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y92tyltk" group-title="TV",CLASS TV MODA
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y92tyltk" group-title="CumCatano"",CLASS TV MODA
 http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ya4886ah" tvg-id="0" group-title="TV",Ocean TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ya4886ah" tvg-id="0" group-title="CumCatano"",Ocean TV
 http://92.249.68.106/4/19122
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yas6l4td" tvg-id="0" group-title="TV",Landscape  TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yas6l4td" tvg-id="0" group-title="CumCatano"",Landscape  TV
 http://130.88.20.237:1235/monitor.flv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/lpl3fes" tvg-id="" group-title="TV",Dog TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/lpl3fes" tvg-id="" group-title="CumCatano"",Dog TV
 
-#EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/yddlnnke" group-title="TV", HISTORY LAB
+#EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/yddlnnke" group-title="CumCatano"", HISTORY LAB
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yccxcqyw" group-title="TV", Animal Planet
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yccxcqyw" group-title="CumCatano"", Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" tvg-id="rtpmemoria.pt" group-title="TV",RTP MEMORIA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" tvg-id="rtpmemoria.pt" group-title="CumCatano"",RTP MEMORIA
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/52PvNv" tvg-id="RTPi.pt" group-title="TV",RTP INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://goo.gl/52PvNv" tvg-id="RTPi.pt" group-title="CumCatano"",RTP INTERNACIONAL
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" tvg-id="RTPMadeira.pt" group-title="TV",RTP MADEIRA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" tvg-id="RTPMadeira.pt" group-title="CumCatano"",RTP MADEIRA
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" tvg-id="RTPAcores.pt" group-title="TV",RTP ACORES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" tvg-id="RTPAcores.pt" group-title="CumCatano"",RTP ACORES
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/UWmNh1" tvg-id="RTPAfrica.pt" group-title="TV",RTP AFRICA
+#EXTINF:-1 tvg-logo="https://goo.gl/UWmNh1" tvg-id="RTPAfrica.pt" group-title="CumCatano"",RTP AFRICA
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9lzgwq5" tvg-id="" group-title="TV",Localvisão TV HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9lzgwq5" tvg-id="" group-title="CumCatano"",Localvisão TV HD
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png" tvg-id="ARTV.pt" group-title="TV",AR TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png" tvg-id="ARTV.pt" group-title="CumCatano"",AR TV
 http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://goo.gl/guxnEM" group-title="TV",SANTUARIO DE FATIMA
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://goo.gl/guxnEM" group-title="CumCatano"",SANTUARIO DE FATIMA
 http://213.13.26.11:1935/live/santuario.stream/CumCatano.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/yboftgp7" group-title="TV",Agueda TV
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/yboftgp7" group-title="CumCatano"",Agueda TV
 http://cmgaia.worldvds.com:8080/hls/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/kpae3da" tvg-id="0" group-title="TV",ARROIOS TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/kpae3da" tvg-id="0" group-title="CumCatano"",ARROIOS TV
 http://213.13.26.11:1935/live/luis/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/maoNgt" tvg-id="GLOBO" group-title="TV",GLOBO PREMIUM
+#EXTINF:-1 tvg-logo="https://goo.gl/maoNgt" tvg-id="GLOBO" group-title="CumCatano"",GLOBO PREMIUM
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2736.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="TV GloboPortugal" group-title="TV",GLOBO
+#EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="TV GloboPortugal" group-title="CumCatano"",GLOBO
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2737.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRECORD" group-title="TV",TV RECORD
+#EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="TVRECORD" group-title="CumCatano"",TV RECORD
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2680.m3u8
-#EXTINF:-1 tvg-logo="http://rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" tvg-id="TCV" group-title="TV",TCV 
+#EXTINF:-1 tvg-logo="http://rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" tvg-id="TCV" group-title="CumCatano"",TCV 
 http://213.13.26.11:1935/live/rtc_teste/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/m3u8NZEpc.png" tvg-id="TPA" group-title="TV",TPA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m3u8NZEpc.png" tvg-id="TPA" group-title="CumCatano"",TPA
 
-#EXTINF:-1 tvg-logo="https://goo.gl/Xngpfr" tvg-id="Euronews.nws" group-title="TV", EURONEWS PT
+#EXTINF:-1 tvg-logo="https://goo.gl/Xngpfr" tvg-id="Euronews.nws" group-title="CumCatano"", EURONEWS PT
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png" tvg-id="0" group-title="TV",BAND
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png" tvg-id="0" group-title="CumCatano"",BAND
 http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" tvg-id="0" group-title="TV",TV GALICIA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" tvg-id="0" group-title="CumCatano"",TV GALICIA
 
-#EXTINF:-1 tvg-logo="https://goo.gl/DQz5Yu" tvg-id="RecordNews" group-title="TV",RECORD NEWS
+#EXTINF:-1 tvg-logo="https://goo.gl/DQz5Yu" tvg-id="RecordNews" group-title="CumCatano"",RECORD NEWS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" group-title="TV",FOX NEWS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" group-title="CumCatano"",FOX NEWS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" tvg-id="CNN" group-title="TV",CNN
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" tvg-id="CNN" group-title="CumCatano"",CNN
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" tvg-id="BLOOM" group-title="TV",BLOOMBERG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" tvg-id="BLOOM" group-title="CumCatano"",BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/echdj5" tvg-id="SKYNews" group-title="TV",SKY NEWS
+#EXTINF:-1 tvg-logo="https://goo.gl/echdj5" tvg-id="SKYNews" group-title="CumCatano"",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/eQ7D5T" tvg-id="BBCWorldNews" group-title="TV",BBC WORLD NEWS
+#EXTINF:-1 tvg-logo="https://goo.gl/eQ7D5T" tvg-id="BBCWorldNews" group-title="CumCatano"",BBC WORLD NEWS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3CJSygl.png" tvg-id="CNBC" group-title="TV",CNBC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3CJSygl.png" tvg-id="CNBC" group-title="CumCatano"",CNBC
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycsmj4fr" group-title="TV",DW (ENGLISH)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycsmj4fr" group-title="CumCatano"",DW (ENGLISH)
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" tvg-id="FOXNews" group-title="TV",FOX NEWS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" tvg-id="FOXNews" group-title="CumCatano"",FOX NEWS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" tvg-id="0" group-title="TV",RAI NEWS 24
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QK9Bl3u.png" tvg-id="0" group-title="CumCatano"",RAI NEWS 24
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8yy6yyd" tvg-id="0" group-title="TV",SKY TG 24
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8yy6yyd" tvg-id="0" group-title="CumCatano"",SKY TG 24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png" tvg-id="TVE24h" group-title="TV",TVE 24H
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png" tvg-id="TVE24h" group-title="CumCatano"",TVE 24H
 http://46.249.60.210:50001/play/a036
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="FR24I" group-title="TV",FRANCE 24 ENG
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="FR24I" group-title="CumCatano"",FRANCE 24 ENG
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="FR24F" group-title="TV",FRANCE 24 FR
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="FR24F" group-title="CumCatano"",FRANCE 24 FR
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV5MONDE_logo.png" tvg-id="0" group-title="TV",TV5 MONDE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV5MONDE_logo.png" tvg-id="0" group-title="CumCatano"",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/yakeag9x" group-title="TV",NEWSMAX TV
+#EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/yakeag9x" group-title="CumCatano"",NEWSMAX TV
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_1728_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" tvg-id="TOROTV.pt" group-title="TV",TOROS TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" tvg-id="TOROTV.pt" group-title="CumCatano"",TOROS TV
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2690.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7ldy687" tvg-id="CacaePesca" group-title="TV",CACA & PESCA
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7ldy687" tvg-id="CacaePesca" group-title="CumCatano"",CACA & PESCA
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2765.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pIEZt5S.png" tvg-id="CacaVision" group-title="TV",CACAVISION
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pIEZt5S.png" tvg-id="CacaVision" group-title="CumCatano"",CACAVISION
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2764.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd74vh52" tvg-id="" group-title="TV", Silence TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd74vh52" tvg-id="" group-title="CumCatano"", Silence TV
 http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV-1" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/6/5/4/0/6540154/6540154,192x192,r:2.jpg" group-title="TV",NASA TV PUBLIC EDUCATION (US)
+#EXTINF:-1 tvg-id="NTV-1" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/6/5/4/0/6540154/6540154,192x192,r:2.jpg" group-title="CumCatano"",NASA TV PUBLIC EDUCATION (US)
 https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public/master.m3u8
-#EXTINF:-1 tvg-id="NTV-3" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/0/4/1/10414700/10414700_nasatv_media_hr_1330361951,192x192,r:1.jpg" group-title="TV",NASA TV MEDIA (US)
+#EXTINF:-1 tvg-id="NTV-3" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/0/4/1/10414700/10414700_nasatv_media_hr_1330361951,192x192,r:1.jpg" group-title="CumCatano"",NASA TV MEDIA (US)
 https://nasa-i.akamaihd.net/hls/live/253566/NTV-Media/master.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780,192x192,r:1.jpg" group-title="TV",LIVE ISS STREAM
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780,192x192,r:1.jpg" group-title="CumCatano"",LIVE ISS STREAM
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/CumCatano.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780,192x192,r:1.jpg" group-title="TV",LIVE ISS STREAM (Op 2)
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780,192x192,r:1.jpg" group-title="CumCatano"",LIVE ISS STREAM (Op 2)
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-
-
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1 HD  LOW" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_negativo_horiz_RGB.png" group-title="TEMP",RTP 1 HD  LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11064.ts
-#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png?f=png&h=176" group-title="TEMP",RTP 1
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11023.ts
-#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1 FHD" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/08/rtp1HD_positivo_horiz_RGB.png" group-title="TEMP",RTP 1 FHD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11031.ts
-#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1 HD" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/08/rtp1HD_positivo_horiz_RGB.png" group-title="TEMP",RTP 1 HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11027.ts
-#EXTINF:-1 tvg-ID="RTP2" tvg-name="RTP 2 LOW" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="TEMP",RTP 2 LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11063.ts
-#EXTINF:-1 tvg-ID="RTP2" tvg-name="RTP 2" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png?fm=png32&q=100&v=3&w=150&bg=000000&w=860&h=472&f=jpg&far=1" group-title="TEMP",RTP 2
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11022.ts
-#EXTINF:-1 tvg-ID="RTP2" tvg-name="RTP 2 HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png?fm=png32&q=100&v=3&w=150&bg=000000&w=860&h=472&f=jpg&far=1" group-title="TEMP",RTP 2 HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11026.ts
-#EXTINF:-1 tvg-ID="RTP2" tvg-name="RTP 2 FHD" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" group-title="TEMP",RTP 2 FHD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11030.ts
-#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC LOW" tvg-logo="http://img00.deviantart.net/79d9/i/2016/135/2/1/sic_logo_remake_v1_0_by_tk94732-da2mnzo.png" group-title="TEMP",SIC LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11062.ts
-#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC" tvg-logo="http://img00.deviantart.net/79d9/i/2016/135/2/1/sic_logo_remake_v1_0_by_tk94732-da2mnzo.png" group-title="TEMP",SIC
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11021.ts
-#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC HD" tvg-logo="" group-title="TEMP",SIC HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11025.ts
-#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC FHD" tvg-logo="http://jornalismounisuam.files.wordpress.com/2010/06/sic-hd.jpg" group-title="TEMP",SIC FHD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11029.ts
-#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI LOW" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvi.png" group-title="TEMP",TVI LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11061.ts
-#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="TEMP",TVI
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11020.ts
-#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="TEMP",TVI HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11024.ts
-#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="TEMP",TVI FHD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11028.ts
-#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● NACIONAIS ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● NACIONAIS ●●●●●●
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11032.ts
-#EXTINF:-1 tvg-ID="PORTO" tvg-name="PORTO CANAL" tvg-logo="http://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="TEMP",PORTO CANAL
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11003.ts
-#EXTINF:-1 tvg-ID="RTPACO" tvg-name="RTP ACORES" tvg-logo="https://vignette1.wikia.nocookie.net/althistory/images/2/2e/RTP_A%C3%A7ores.png/revision/latest?cb=20160509094549" group-title="TEMP",RTP ACORES
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10988.ts
-#EXTINF:-1 tvg-ID="RTPA" tvg-name="RTP AFRICA" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_negativo_horiz_RGB.png" group-title="TEMP",RTP AFRICA
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10987.ts
-#EXTINF:-1 tvg-ID="RTPM" tvg-name="RTP MADEIRA" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMadeira_positivo.jpg" group-title="TEMP",RTP MADEIRA
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10986.ts
-#EXTINF:-1 tvg-ID="RTPM" tvg-name="RTP MEMORIA" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtpMemoria_negativo_horiz_RGB.png" group-title="TEMP",RTP MEMORIA
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10985.ts
-#EXTINF:-1 tvg-ID="SICCARAS" tvg-name="SIC CARAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="TEMP",SIC CARAS HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10989.ts
-#EXTINF:-1 tvg-ID="SICR" tvg-name="SIC RADICAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="TEMP",SIC RADICAL HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10993.ts
-#EXTINF:-1 tvg-ID="SICCARAS" tvg-name="SIC CARAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="TEMP",SIC CARAS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10990.ts
-#EXTINF:-1 tvg-ID="SICM" tvg-name="SIC MULHER" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6a/Logo_sem_fundo_SIC_Mulher.png" group-title="TEMP",SIC MULHER
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10991.ts
-#EXTINF:-1 tvg-ID="SICR" tvg-name="SIC RADICAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="TEMP",SIC RADICAL
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10992.ts
-#EXTINF:-1 tvg-ID="TVI Ficção" tvg-name="TVI FICCAO" tvg-logo="http://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="TEMP",TVI FICCAO
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10997.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVI MOSAICOS" tvg-logo="" group-title="TEMP",TVI MOSAICOS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10995.ts
-#EXTINF:-1 tvg-ID="TVIREAL" tvg-name="TVI REALITY LOW" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvireality.png" group-title="TEMP",TVI REALITY LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11034.ts
-#EXTINF:-1 tvg-ID="TVIREAL" tvg-name="TVI REALITY" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvireality.png" group-title="TEMP",TVI REALITY
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10996.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CAMARA 1" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2015/09/tviReality.jpg" group-title="TEMP",CAMARA 1
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10994.ts
-#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● INFORMAÇÃO ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● INFORMAÇÃO ●●●●●●
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11019.ts
-#EXTINF:-1 tvg-ID="BBCW" tvg-name="BBC WORLD NEWS" tvg-logo="http://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/1.2.0/bbc_news_logo.png?cb=1" group-title="TEMP",BBC WORLD NEWS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11005.ts
-#EXTINF:-1 tvg-ID="BLOOM" tvg-name="BLOOMBERG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1000px-Bloomberg_logo.svg.png" group-title="TEMP",BLOOMBERG
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11012.ts
-#EXTINF:-1 tvg-ID="CanalQB" tvg-name="CANAL Q" tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/canalq/logo/large_logo.jpg" group-title="TEMP",CANAL Q
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10998.ts
-#EXTINF:-1 tvg-ID="CMTV" tvg-name="CMTV" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" group-title="TEMP",CMTV
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11009.ts
-#EXTINF:-1 tvg-ID="CNBC" tvg-name="CNBC EUROPE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="TEMP",CNBC EUROPE
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11011.ts
-#EXTINF:-1 tvg-ID="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/1200px-Cnn.svg.png" group-title="TEMP",CNN
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11010.ts
-#EXTINF:-1 tvg-ID="EUROS" tvg-name="EURONEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Euronews_grey_logo.svg/1024px-Euronews_grey_logo.svg.png" group-title="TEMP",EURONEWS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11014.ts
-#EXTINF:-1 tvg-ID="FOX News" tvg-name="FOX NEWS" tvg-logo="http://collegeforamerica.org/wp-content/uploads/2015/05/fox_news_logo_a_l3-854x314.png" group-title="TEMP",FOX NEWS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11015.ts
-#EXTINF:-1 tvg-ID="RECORDNEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="TEMP",RECORD NEWS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11004.ts
-#EXTINF:-1 tvg-ID="RTP 3 LOW" tvg-name="RTP 3" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png?f=png&h=176" group-title="TEMP",RTP 3
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11018.ts
-#EXTINF:-1 tvg-ID="SIC NOTICIAS HD" tvg-name="SIC NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Sicnoticias2001.png" group-title="TEMP",SIC NOTICIAS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11017.ts
-#EXTINF:-1 tvg-ID="SKYN" tvg-name="SKY NEWS" tvg-logo="http://tomburke.co.uk/wp-content/uploads/2016/10/sky-news-logo.png" group-title="TEMP",SKY NEWS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11002.ts
-#EXTINF:-1 tvg-ID="TVE24" tvg-name="TVE 24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/TVE_Canal_24_Horas.png" group-title="TEMP",TVE 24 HORAS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11001.ts
-#EXTINF:-1 tvg-ID="TVE24" tvg-name="TVI 24" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/63/Tvi24logo.png/revision/latest?cb=20130328095627" group-title="TEMP",TVI 24
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11016.ts
-#EXTINF:-1 tvg-ID="CMTV" tvg-name="CMTV HD" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" group-title="TEMP",CMTV HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11008.ts
-#EXTINF:-1 tvg-ID="GLOBO NEWS" tvg-name="GLOBO NEWS" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="TEMP",GLOBO NEWS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11007.ts
-#EXTINF:-1 tvg-ID="SPTV" tvg-name="STV NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/Soico_Televis%C3%A3o.png" group-title="TEMP",STV NOTICIAS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11006.ts
-#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● DESPORTO ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● DESPORTO ●●●●●●
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10984.ts
-#EXTINF:-1 tvg-ID="A Bola TV" tvg-name="A BOLA TV" tvg-logo="https://abola.pt/abolatv/ficheiros/logo.png" group-title="TEMP",A BOLA TV
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10983.ts
-#EXTINF:-1 tvg-ID="BTV HD1" tvg-name="BTV 1 HD LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="TEMP",BTV 1 HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11060.ts
-#EXTINF:-1 tvg-ID="Benfica TV" tvg-name="BTV 1" tvg-logo="http://torrent-tv.org/uploads/thumbs/657caa454-1.jpg" group-title="TEMP",BTV 1
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10980.ts
-#EXTINF:-1 tvg-ID="Benfica TV" tvg-name="BTV 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png" group-title="TEMP",BTV 1 HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10981.ts
-#EXTINF:-1 tvg-ID="Benfica TV" tvg-name="BTV 1 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png" group-title="TEMP",BTV 1 FHD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10982.ts
-#EXTINF:-1 tvg-ID="EUROS" tvg-name="EUROSPORT" tvg-logo="https://2.bp.blogspot.com/-oNJ9SD0LPUk/WO1CKfm5WKI/AAAAAAAAFAU/xaYmYMYGboon6EvgR2A_uTkVTorhaUdpQCLcB/s1600/eurosport.png" group-title="TEMP",EUROSPORT
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10978.ts
-#EXTINF:-1 tvg-ID="TV RECORD HD" tvg-name="TV RECORD HD LOW" tvg-logo="http://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.png" group-title="TEMP",TV RECORD HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11037.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  EUROSPORT 1 HD" tvg-logo="" group-title="TEMP",PT:  EUROSPORT 1 HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10977.ts
-#EXTINF:-1 tvg-ID="EUROSPORT 1 (LOW)" tvg-name="EUROSPORT 1 LOW" tvg-logo="https://cdn.firstonetv.eu/images/logos/uk/EUROSPORT1.png" group-title="TEMP",EUROSPORT 1 LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11054.ts
-#EXTINF:-1 tvg-ID="EUROS2" tvg-name="PT:  EUROSPORT 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="TEMP",PT:  EUROSPORT 2
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10976.ts
-#EXTINF:-1 tvg-ID="EURON" tvg-name="EUROSPORT NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/it/b/bc/Eurosport_News_logo.png" group-title="TEMP",EUROSPORT NEWS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10979.ts
-#EXTINF:-1 tvg-ID="FIGHTHD" tvg-name="PT:  FIGHT NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/2000px-Fight_network_logo.svg.png" group-title="TEMP",PT:  FIGHT NETWORK HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10975.ts
-#EXTINF:-1 tvg-ID="FRANCE24FR" tvg-name="FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/600px-FRANCE_24_logo.svg.png" group-title="TEMP",FRANCE 24
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11013.ts
-#EXTINF:-1 tvg-ID="MCS EXTREME" tvg-name="MCS EXTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MCS-Extreme.png" group-title="TEMP",MCS EXTREME
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10884.ts
-#EXTINF:-1 tvg-ID="Motors TV" tvg-name="PT:  MOTORS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/Motors_TV_Logo.svg" group-title="TEMP",PT:  MOTORS TV
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10971.ts
-#EXTINF:-1 tvg-ID="MOTORVISIONHD" tvg-name="PT:  MOTORVISION HD" tvg-logo="http://www.motorvision.tv/wp-content/uploads/2015/05/MVTV_square_blacktypo.png" group-title="TEMP",PT:  MOTORVISION HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10970.ts
-#EXTINF:-1 tvg-ID="PFC" tvg-name="PT:  PFC" tvg-logo="http://www.nossagente.net/wp_new/wp-content/uploads/2013/08/PFC_LOGO_slogan2.png" group-title="TEMP",PT:  PFC
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10968.ts
-#EXTINF:-1 tvg-ID="REAL MADRID TV" tvg-name="REAL MADRID TV" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2013/11/real-madrid-tv.jpg" group-title="TEMP",REAL MADRID TV
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10967.ts
-#EXTINF:-1 tvg-ID="SPTV" tvg-name="SPORT TV +" tvg-logo="https://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png" group-title="TEMP",SPORT TV +
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10966.ts
-#EXTINF:-1 tvg-ID="SPTV" tvg-name="SPORT TV + FHD" tvg-logo="https://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png" group-title="TEMP",SPORT TV + FHD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10965.ts
-#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORT TV 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_1.png" group-title="TEMP",SPORT TV 1
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10964.ts
-#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyqws1470407526.png" group-title="TEMP",SPORT TV 1 HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10962.ts
-
-#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV 1 HD  LOW" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="TEMP",SPORTV 1 HD  LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11059.ts
-#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORT TV 1 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyqws1470407526.png" group-title="TEMP",SPORT TV 1 FHD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10963.ts
-#EXTINF:-1 tvg-ID="SPTV2" tvg-name="SPORT TV 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_2.png" group-title="TEMP",SPORT TV 2
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10961.ts
-
-#EXTINF:-1 tvg-ID="SPTV2" tvg-name="SPORTV 2 HD LOW" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV2.png" group-title="TEMP",SPORTV 2 HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11058.ts
-#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyrpq1470407606.png" group-title="TEMP",SPORT TV 2 HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10959.ts
-#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORT TV 2 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyrpq1470407606.png" group-title="TEMP",SPORT TV 2 FHD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10960.ts
-#EXTINF:-1 tvg-ID="SPTV3" tvg-name="SPORT TV 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_3.png" group-title="TEMP",SPORT TV 3
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10958.ts
-
-#EXTINF:-1 tvg-ID="SPTV3" tvg-name="SPORTV 3 HD LOW" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV3.png" group-title="TEMP",SPORTV 3 HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11057.ts
-#EXTINF:-1 tvg-ID="SPORTV 3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/xysrvw1470407766.png" group-title="TEMP",SPORT TV 3 HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10956.ts
-#EXTINF:-1 tvg-ID="SPORTV 3 HD" tvg-name="SPORT TV 3 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/xysrvw1470407766.png" group-title="TEMP",SPORT TV 3 FHD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10957.ts
-#EXTINF:-1 tvg-ID="SPORTV 4 HD" tvg-name="SPORT TV 4" tvg-logo="https://ulango.tv/uploads/channels/63215/logo_sport%20tv%208.png" group-title="TEMP",SPORT TV 4
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10955.ts
-
-#EXTINF:-1 tvg-ID="SPTV4" tvg-name="SPORTV 4 HD LOW" tvg-logo="https://ulango.tv/uploads/channels/63215/logo_sport%20tv%208.png" group-title="TEMP",SPORTV 4 HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11056.ts
-#EXTINF:-1 tvg-ID="SPORTV 4 HD" tvg-name="SPORT TV 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qypxry1470408244.png" group-title="TEMP",SPORT TV 4 HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10953.ts
-#EXTINF:-1 tvg-ID="SPORTV 5 HD" tvg-name="SPORT TV 5" tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" group-title="TEMP",SPORT TV 5
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10952.ts
-
-#EXTINF:-1 tvg-ID="SPTV5" tvg-name="SPORTV 5 HD  LOW" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV5.png" group-title="TEMP",SPORTV 5 HD  LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11055.ts
-#EXTINF:-1 tvg-ID="SPORTV 5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vvvqxp1470408443.png" group-title="TEMP",SPORT TV 5 HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10950.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  SPORTING TV" tvg-logo="" group-title="TEMP",PT:  SPORTING TV
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10947.ts
-#EXTINF:-1 tvg-ID="SPORTINGTV" tvg-name="SPORTING TV HD" tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/sporting-tv/logo_sportingtv_hd.jpg" group-title="TEMP",SPORTING TV HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10949.ts
-#EXTINF:-1 tvg-ID="Toros TV" tvg-name="TOROS TV HD" tvg-logo="https://www.thelogodb.com/images/media/logo/xxxuts1436895323.png" group-title="TEMP",TOROS TV HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10946.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FULL TV HD" tvg-logo="" group-title="TEMP",PT: FULL TV HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10974.ts
-#EXTINF:-1 tvg-ID="KOMBAT SPORT" tvg-name="KOMBAT SPORT" tvg-logo="http://www.bce.lu/wp-content/uploads/2016/06/LOGO-Kombat_Sport.png" group-title="TEMP",KOMBAT SPORT
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10948.ts
-#EXTINF:-1 tvg-ID="NBATV" tvg-name="NBA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png" group-title="TEMP",NBA HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10972.ts
-#EXTINF:-1 tvg-ID="OUTDOOR HD" tvg-name="OUTDOOR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="TEMP",OUTDOOR CHANNEL HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10969.ts
-#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● FILMES  ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● FILMES  ●●●●●●
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10944.ts
-#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="TEMP",AMC HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10943.ts
-#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="TEMP",AMC
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10942.ts
-#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC HD LOW" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156" group-title="TEMP",AMC HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11042.ts
-#EXTINF:-1 tvg-ID="Cinemundo" tvg-name="CINEMUNDO" tvg-logo="https://vignette3.wikia.nocookie.net/logosfake/images/c/c6/Cinemundo.png/revision/latest?cb=20160328182443" group-title="TEMP",CINEMUNDO
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10941.ts
-#EXTINF:-1 tvg-ID="FOX MOVIES HD" tvg-name="FOX MOVIES" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/4/4e/Fox_Movies.png/revision/latest?cb=20100430184151" group-title="TEMP",FOX MOVIES
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10939.ts
-#EXTINF:-1 tvg-ID="FOX MOVIES HD" tvg-name="PT: FOX MOVIES HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/4/4e/Fox_Movies.png/revision/latest?cb=20100430184151" group-title="TEMP",PT: FOX MOVIES HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10940.ts
-#EXTINF:-1 tvg-ID="HOLLYWOOD HD" tvg-name="PT:  HOLLYWOOD" tvg-logo="http://3.bp.blogspot.com/-vRwVHF4JH3c/TyGSd51yreI/AAAAAAAAA9c/kay4KP2LPSI/s600/533px-Canal_Hollywood.svg_.png" group-title="TEMP",PT:  HOLLYWOOD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10938.ts
-#EXTINF:-1 tvg-ID="HOLLYWOOD HD LB" tvg-name="HOLLYWOOD HD LOW" tvg-logo="https://vignette3.wikia.nocookie.net/logosfake/images/4/47/Canal_Hollywood_HD.png/revision/latest?cb=20140514123652" group-title="TEMP",HOLLYWOOD HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11041.ts
-#EXTINF:-1 tvg-ID="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="http://3.bp.blogspot.com/-vRwVHF4JH3c/TyGSd51yreI/AAAAAAAAA9c/kay4KP2LPSI/s600/533px-Canal_Hollywood.svg_.png" group-title="TEMP",HOLLYWOOD HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10937.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVCINE 1" tvg-logo="" group-title="TEMP",PT:  TVCINE 1
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10936.ts
-#EXTINF:-1 tvg-ID="TVC1" tvg-name="TV CINE 1 LOW" tvg-logo="https://3.bp.blogspot.com/_tk5JCNM43cc/TTDiWJphxjI/AAAAAAAAAKA/5NwQpl8addE/s320/TVC+1+logo.png" group-title="TEMP",TV CINE 1 LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11053.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVCINE 1 HD" tvg-logo="" group-title="TEMP",PT:  TVCINE 1 HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10935.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVCINE 2" tvg-logo="" group-title="TEMP",PT:  TVCINE 2
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10934.ts
-#EXTINF:-1 tvg-ID="TVC2" tvg-name="TV CINE 2 LOW" tvg-logo="https://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png" group-title="TEMP",TV CINE 2 LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11052.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVCINE 2 HD" tvg-logo="" group-title="TEMP",PT:  TVCINE 2 HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10933.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVCINE 3" tvg-logo="" group-title="TEMP",PT:  TVCINE 3
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10932.ts
-#EXTINF:-1 tvg-ID="TVC3" tvg-name="TV CINE 3 LOW" tvg-logo="https://3.bp.blogspot.com/_tk5JCNM43cc/TTDgPaa5FQI/AAAAAAAAAJ4/BLJVZII7_Fo/s1600/TVC+3+logo.png" group-title="TEMP",TV CINE 3 LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11051.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVCINE 3 HD" tvg-logo="" group-title="TEMP",PT:  TVCINE 3 HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10931.ts
-#EXTINF:-1 tvg-ID="TVC4" tvg-name="TVCINE 4" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134" group-title="TEMP",TVCINE 4
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10930.ts
-#EXTINF:-1 tvg-ID="TVC4" tvg-name="TV CINE 4 LOW" tvg-logo="https://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPpjLCUI/AAAAAAAAAJ8/nVO8usa43i8/s1600/TVC+4+logo.png" group-title="TEMP",TV CINE 4 LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11050.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVCINE 4 HD" tvg-logo="" group-title="TEMP",TVCINE 4 HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10929.ts
-#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● SERIES ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● SERIES ●●●●●●
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10928.ts
-#EXTINF:-1 tvg-ID="TVSERIES" tvg-name="TV SERIES" tvg-logo="http://www.lowcostportugal.net/wp-content/uploads/destaque_canal_tvseries_449x1961.jpg" group-title="TEMP",TV SERIES
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10916.ts
-#EXTINF:-1 tvg-ID="TVSERIES" tvg-name="TV SERIES LOW" tvg-logo="" group-title="TEMP",TV SERIES LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11049.ts
-#EXTINF:-1 tvg-ID="TVSERIES" tvg-name="TV SERIES HD" tvg-logo="http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvseries/logo/medium_logo.jpg" group-title="TEMP",TV SERIES HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10915.ts
-#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Axn_hd.svg/2000px-Axn_hd.svg.png" group-title="TEMP",AXN HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10926.ts
-#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_AXN_logo.svg/1200px-2016_AXN_logo.svg.png" group-title="TEMP",AXN HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11047.ts
-#EXTINF:-1 tvg-ID="AXN Black" tvg-name="PT:  AXN BLACK HD" tvg-logo="https://4.bp.blogspot.com/-8YO1eSG62u4/Tay5UoZrLjI/AAAAAAAAARc/UFYz4mRmCqk/s1600/AXN+Black+logo+peq.png" group-title="TEMP",PT:  AXN BLACK HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10925.ts
-#EXTINF:-1 tvg-ID="AXN BLACK HD ( NET FRACA )" tvg-name="AXN BLACK HD LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/1200px-AXN_Black_logo_%282015%29.svg.png" group-title="TEMP",AXN BLACK HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11048.ts
-#EXTINF:-1 tvg-ID="AXN White" tvg-name="AXN WHITE HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/7/7c/AXN_White.png/revision/latest?cb=20161214222911" group-title="TEMP",AXN WHITE HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10924.ts
-#EXTINF:-1 tvg-ID="AXN WHITE HD ( NET FRACA )" tvg-name="AXN WHITE LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="TEMP",AXN WHITE LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11046.ts
-#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="TEMP",FOX HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10923.ts
-#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/2000px-FOX_HD.svg.png" group-title="TEMP",FOX HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11045.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX COMEDY HD" tvg-logo="" group-title="TEMP",PT: FOX COMEDY HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10922.ts
-#EXTINF:-1 tvg-ID="FOX COMEDY HD" tvg-name="FOX COMEDY" tvg-logo="https://portaldosprogramas.com/wp-content/uploads/2015/11/FOX-Comedy.jpg" group-title="TEMP",FOX COMEDY
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10921.ts
-#EXTINF:-1 tvg-ID="FOXCRIME" tvg-name="FOX CRIME HD LOW" tvg-logo="http://portalnacional.com.pt/images/icons/tv/FOXCR.png" group-title="TEMP",FOX CRIME HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11044.ts
-#EXTINF:-1 tvg-ID="FOXCRIME" tvg-name="FOX CRIME HD" tvg-logo="http://3.bp.blogspot.com/-XQjtY7EWVrs/T35A9phwW9I/AAAAAAAAE3o/nFAYlM8ubOc/s1600/fox_crime_asia_hd.png" group-title="TEMP",FOX CRIME HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10920.ts
-#EXTINF:-1 tvg-ID="FOXLIFE" tvg-name="FOX LIFE HD LOW" tvg-logo="http://tudotv.tv/fotos/5807afe3ec8303344ee73b8df61bf4a9.png" group-title="TEMP",FOX LIFE HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11043.ts
-#EXTINF:-1 tvg-ID="FOXLIFE" tvg-name="FOX LIFE HD" tvg-logo="http://4.bp.blogspot.com/-e4Hwf6_-Zwc/VaBmzm0DgUI/AAAAAAAAkyU/A4fPY75Fj40/s1600/Fox_life_it.png" group-title="TEMP",FOX LIFE HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10919.ts
-#EXTINF:-1 tvg-ID="SyFy" tvg-name="SYFY HD" tvg-logo="https://vignette1.wikia.nocookie.net/logosfake/images/6/67/Syfy_HD.png/revision/latest?cb=20140430122835" group-title="TEMP",SYFY HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10918.ts
-#EXTINF:-1 tvg-ID="SyFy" tvg-name="SYFY" tvg-logo="" group-title="TEMP",SYFY
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10917.ts
-#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● INFANTIL ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● INFANTIL ●●●●●●
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10914.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  BABY FIRST" tvg-logo="" group-title="TEMP",PT:  BABY FIRST
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10913.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  BABY TV" tvg-logo="" group-title="TEMP",PT:  BABY TV
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10912.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  BIGGS" tvg-logo="" group-title="TEMP",PT:  BIGGS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10911.ts
-#EXTINF:-1 tvg-ID="PANDA" tvg-name="CANAL PANDA" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/0/00/Panda.png/revision/latest?cb=20141206112539" group-title="TEMP",CANAL PANDA
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10910.ts
-#EXTINF:-1 tvg-ID="CART" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="TEMP",CARTOON NETWORK
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10909.ts
-#EXTINF:-1 tvg-ID="DISNY" tvg-name="DISNEY CHANNEL" tvg-logo="https://vignette1.wikia.nocookie.net/disneyprincesas/images/6/6d/Disney_Channel_Logo_.png/revision/latest?cb=20160721005930&path-prefix=pt-br" group-title="TEMP",DISNEY CHANNEL
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10908.ts
-#EXTINF:-1 tvg-ID="DISNEYJUNIOR" tvg-name="PT:  DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="TEMP",PT:  DISNEY JUNIOR
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10907.ts
-#EXTINF:-1 tvg-ID="JimJam" tvg-name="JIM JAM" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/jim_jam_it.png" group-title="TEMP",JIM JAM
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10906.ts
-#EXTINF:-1 tvg-ID="Nicke" tvg-name="PT:  NICKELODEON" tvg-logo="https://vignette4.wikia.nocookie.net/nickfanon/images/f/fe/Nickelodeon-logo.png/revision/latest?cb=20150926035852" group-title="TEMP",PT:  NICKELODEON
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10905.ts
-#EXTINF:-1 tvg-ID="SIC K" tvg-name="SIC K" tvg-logo="http://www.psb.pt/wp-content/uploads/2014/01/sic_k.png" group-title="TEMP",SIC K
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10904.ts
-#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● ENTRETENIMENTO ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● ENTRETENIMENTO ●●●●●●
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11000.ts
-#EXTINF:-1 tvg-ID="A&E" tvg-name="A & E" tvg-logo="http://mixdeseries.com.br/wp-content/uploads/sites/61/2015/06/AE.gif" group-title="TEMP",A & E
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10927.ts
-#EXTINF:-1 tvg-ID="BBC Entertainment" tvg-name="BBC ENTERTAINMENT" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/c/c1/BBC_Entertainment.png/revision/latest?cb=20101221201857" group-title="TEMP",BBC ENTERTAINMENT
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10902.ts
-#EXTINF:-1 tvg-ID="CBS Reality" tvg-name="CBS REALITY" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/0/02/CBS_Reality.svg/revision/latest?cb=20100517120952" group-title="TEMP",CBS REALITY
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10900.ts
-#EXTINF:-1 tvg-ID="EUROS" tvg-name="E! ENTERTAINMENT" tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Entertainment-Logo-1024x768.png" group-title="TEMP",E! ENTERTAINMENT
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10883.ts
-#EXTINF:-1 tvg-ID="TLC" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_TLC.svg/2000px-Logo_TLC.svg.png" group-title="TEMP",TLC
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10886.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FASHION TV" tvg-logo="" group-title="TEMP",PT: FASHION TV
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10894.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FTV HD" tvg-logo="" group-title="TEMP",PT: FTV HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10895.ts
-#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● DOCUMENTARIOS ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● DOCUMENTARIOS ●●●●●●
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10903.ts
-#EXTINF:-1 tvg-ID="24 Kitchen" tvg-name="24 KITCHEN HD" tvg-logo="https://www.montagecabletv.com/sites/default/files/24_kitchen_logo.jpg" group-title="TEMP",24 KITCHEN HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10999.ts
-#EXTINF:-1 tvg-ID="24 Kitchen" tvg-name="24 KITCHEN HD LOW" tvg-logo="http://3.bp.blogspot.com/-E2IQcRQ0jaY/TwYE7HovP5I/AAAAAAAADsg/gvMIlGE91XY/s1600/24Kitchen+logo+2011.png" group-title="TEMP",24 KITCHEN HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11040.ts
-#EXTINF:-1 tvg-ID="Caça e Pesca" tvg-name="CACA E PESCA" tvg-logo="https://images.tcdn.com.br/img/arquivos/407368/themed/img/theme-logo.png" group-title="TEMP",CACA E PESCA
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10945.ts
-#EXTINF:-1 tvg-ID="Caça Vision" tvg-name="CACAVISION" tvg-logo="http://portalnacional.com.pt/images/icons/tv/CACAV.png" group-title="TEMP",CACAVISION
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10901.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  CANÇAO NOVA" tvg-logo="" group-title="TEMP",PT:  CANÇAO NOVA
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10880.ts
-#EXTINF:-1 tvg-ID="DISCOVERY SHOWCASE HD LOW" tvg-name="DISCOVERY HD SHOWCASE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/88/Discovery_HD_Showcase_2012.png" group-title="TEMP",DISCOVERY HD SHOWCASE
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10897.ts
-#EXTINF:-1 tvg-ID="DISCOVERY SHOWCASE HD LOW" tvg-name="DISCOVERY SHOWCASE HD LOW" tvg-logo="http://infocul.pt/wp-content/uploads/2016/09/Discovery_HD_Showcase_2012.png" group-title="TEMP",DISCOVERY SHOWCASE HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11039.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DOG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/DOGTV_Logo.png" group-title="TEMP",DOG TV
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10896.ts
-#EXTINF:-1 tvg-ID="HOLLY" tvg-name="HISTORIA" tvg-logo="https://espalhafactos.com/wp-content/uploads/2013/05/Canal-Hist%C3%B3ria.png" group-title="TEMP",HISTORIA
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10889.ts
-#EXTINF:-1 tvg-ID="MCS LifeStyle" tvg-name="MCS LIFESTYLE" tvg-logo="http://www.markify.com/images/ctm/originals/014637953.JPG" group-title="TEMP",MCS LIFESTYLE
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10885.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  NAT GEO WILD" tvg-logo="" group-title="TEMP",PT:  NAT GEO WILD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10892.ts
-#EXTINF:-1 tvg-ID="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="TEMP",NATIONAL GEOGRAPHIC HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10890.ts
-#EXTINF:-1 tvg-ID="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC HD LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="TEMP",NATIONAL GEOGRAPHIC HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11038.ts
-#EXTINF:-1 tvg-ID="ODIS" tvg-name="ODISSEIA" tvg-logo="https://1.bp.blogspot.com/-2oZ8zgZSV70/TWBKMGwUHcI/AAAAAAAAANk/7JQtLw3gIKE/s1600/Odisseia+logo+peq.png" group-title="TEMP",ODISSEIA
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10888.ts
-#EXTINF:-1 tvg-ID="TRAVEL" tvg-name="TRAVEL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Travel_Channel_HD_Logo.png" group-title="TEMP",TRAVEL CHANNEL HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10887.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CI INVESTIGATION" tvg-logo="https://ulango.tv/uploads/channels/120819/logo_sky%20ci%20crime%20investigation.png" group-title="TEMP",CI INVESTIGATION
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10899.ts
-#EXTINF:-1 tvg-ID="DISCOVERYHD" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/02/Discovery_Channel_2000.png" group-title="TEMP",DISCOVERY CHANNEL
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10898.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: LOCALVISON HD" tvg-logo="" group-title="TEMP",PT: LOCALVISON HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10870.ts
-#EXTINF:-1 tvg-ID="Nat Geo Wild" tvg-name="NAT GEO WILD HD" tvg-logo="http://tudotv.tv/fotos/fa46bf86d92279b09924bee38de24a03.png" group-title="TEMP",NAT GEO WILD HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10891.ts
-#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● Musica ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● Musica ●●●●●●
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10868.ts
-#EXTINF:-1 tvg-ID="Afro Music" tvg-name="AFRO MUSIC" tvg-logo="https://yt3.ggpht.com/-GJ0T9VQwuKo/AAAAAAAAAAI/AAAAAAAAAAA/uaszi71gYHc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="TEMP",AFRO MUSIC
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10867.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  ICONCERTS" tvg-logo="" group-title="TEMP",PT:  ICONCERTS
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10865.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: C-MUSIC" tvg-logo="" group-title="TEMP",PT: C-MUSIC
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10866.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: MCM POP" tvg-logo="" group-title="TEMP",PT: MCM POP
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10864.ts
-#EXTINF:-1 tvg-ID="MCM" tvg-name="MCM TOP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1b/Mcm_top_logo.svg/1200px-Mcm_top_logo.svg.png" group-title="TEMP",MCM TOP
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10863.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: MEZZO" tvg-logo="" group-title="TEMP",PT: MEZZO
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10861.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: MEZZO LIVE HD" tvg-logo="" group-title="TEMP",PT: MEZZO LIVE HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10862.ts
-#EXTINF:-1 tvg-ID="MEZZO" tvg-name="MEZZO LIVE HD LOW" tvg-logo="https://hongkong.consulfrance.org/IMG/arton7810.png?1415860686" group-title="TEMP",MEZZO LIVE HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11035.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: MTV DANCE" tvg-logo="" group-title="TEMP",PT: MTV DANCE
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10860.ts
-#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV PORTUGAL" tvg-logo="http://portalnacional.com.pt/images/icons/tv/MTV.png" group-title="TEMP",MTV PORTUGAL
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10859.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  SUNDANCE HD" tvg-logo="" group-title="TEMP",PT:  SUNDANCE HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10858.ts
-#EXTINF:-1 tvg-ID="SUNDANCE" tvg-name="SUNDANCE HD LOW" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Sundance_TV_HD.png/revision/latest?cb=20161214182018" group-title="TEMP",SUNDANCE HD LOW
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/11036.ts
-#EXTINF:-1 tvg-ID="TRACE TV" tvg-name="TRACE TV" tvg-logo="http://trace.tv/wp-content/uploads/2016/11/logo_urban1.png" group-title="TEMP",TRACE TV
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10857.ts
-#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="TEMP",VH1
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10856.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: VH1 CLASSIC" tvg-logo="" group-title="TEMP",PT: VH1 CLASSIC
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10855.ts
-#EXTINF:-1 tvg-ID="" tvg-name="●●●●●● INTERNACIONAIS ●●●●●●" tvg-logo="" group-title="TEMP",●●●●●● INTERNACIONAIS ●●●●●●
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10882.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  BBC WORLD" tvg-logo="" group-title="TEMP",PT:  BBC WORLD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10881.ts
-#EXTINF:-1 tvg-ID="GLOBO NEWS" tvg-name="GLOBO PORTUGAL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="TEMP",GLOBO PORTUGAL
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10879.ts
-#EXTINF:-1 tvg-ID="GloboPremium.pt" tvg-name="GLOBO PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" group-title="TEMP",GLOBO PREMIUM
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10878.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  REDE TV" tvg-logo="" group-title="TEMP",PT:  REDE TV
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10877.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  SBT BRASIL" tvg-logo="" group-title="TEMP",PT:  SBT BRASIL
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10876.ts
-#EXTINF:-1 tvg-ID="TV Galicia" tvg-name="TV GALICIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1200px-Television_de_Galicia.svg.png" group-title="TEMP",TV GALICIA
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10875.ts
-#EXTINF:-1 tvg-ID="TV RECORD HD" tvg-name="TV RECORD" tvg-logo="https://www.recordeuropa.com/wp-content/uploads/2016/11/logo_recordtv.png" group-title="TEMP",TV RECORD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10874.ts
-#EXTINF:-1 tvg-ID="TV RECORD HD" tvg-name="TV RECORD HD" tvg-logo="https://www.recordeuropa.com/wp-content/uploads/2016/11/logo_recordtv.png" group-title="TEMP",TV RECORD HD
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10873.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT:  TVE INTERNACIONAL" tvg-logo="" group-title="TEMP",PT:  TVE INTERNACIONAL
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10872.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TCV INTERNACIONAL" tvg-logo="" group-title="TEMP",PT: TCV INTERNACIONAL
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10871.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="" group-title="TEMP",PT: TPA INTERNACIONAL
-http://mpms74.dynu.com:19500/live/TTqnYFJEdq/R3dFOqifE4/10869.ts
-
-
 
 
 
