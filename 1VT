@@ -51,7 +51,7 @@ http://213.13.26.11:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="CumCatano", PORTO CANAL (Op 2)
 http://213.13.26.13:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="Canal Q" group-title="CumCatano",CANAL Q
-
+http://highpteev.zapto.org:25461/live/cliff/cliff/25268.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD
 http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/4311.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN 
@@ -112,6 +112,8 @@ http://www.painelpro.net:8000/live/Bruno/Bruno/4369.m3u8
 http://topchantv.net:3456/live/Stalker/Stalker/841.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 (Op 2)
 https://tinyurl.com/ENJOY5VIP
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV FHD
+http://highpteev.zapto.org:25461/live/cliff/cliff/25248.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV HD
 http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/4367.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV HQ
@@ -178,10 +180,16 @@ http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/4334.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC" group-title="CumCatano",AMC HD
 http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/4337.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="CumCatano",AXN HD
+http://highpteev.zapto.org:25461/live/cliff/cliff/25250.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="CumCatano",AXN
 http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/4329.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="CumCatano",AXN Black HD
+http://highpteev.zapto.org:25461/live/cliff/cliff/25251.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="CumCatano",AXN Black
 http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/4328.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mye96kn" tvg-id="AXNWhite.pt" group-title="CumCatano",AXN White HD
+http://highpteev.zapto.org:25461/live/cliff/cliff/25249.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mye96kn" tvg-id="AXNWhite.pt" group-title="CumCatano",AXN White
 http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/4327.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="CumCatano",FOX
@@ -209,13 +217,13 @@ http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/4308.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="CumCatano",CARTOON NETWORK
 http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/4307.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="CART" group-title="CumCatano",CARTOON NETWORK (Op 2)
-
+http://highpteev.zapto.org:25461/live/cliff/cliff/25269.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycvfj99x" tvg-id="" group-title="CumCatano",ZIG ZAG
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/smil:zigzag.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA
 http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/4310.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA (Op 2)
-
+http://highpteev.zapto.org:25461/live/cliff/cliff/25267.ts
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS
 http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/4304.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="nick" group-title="CumCatano",NICKELODEON
@@ -458,8 +466,6 @@ https://nasa-i.akamaihd.net/hls/live/253566/NTV-Media/master.m3u8
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/CumCatano.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780,192x192,r:1.jpg" group-title="CumCatano",LIVE ISS STREAM (Op 2)
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-
-
 
 
 
