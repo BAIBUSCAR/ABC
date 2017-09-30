@@ -66,6 +66,8 @@ http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/4377.m3u8
 https://tinyurl.com/1TVIP
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 FHD 
 http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/6314.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 HD (TEST)
+http://127.0.0.1:6878/ace/getstream?id=a1c9c552b4a75ca7bfc436410289fe08729bd1d9&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 HD
 http://www.painelpro.net:8000/live/4c380x-4dd0n/Gtla3aQc8C/4375.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 HQ
