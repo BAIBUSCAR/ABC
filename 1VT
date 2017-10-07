@@ -50,13 +50,13 @@ http://4.31.30.145:9040
 http://213.13.26.11:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="CumCatano", PORTO CANAL (Op 2)
 http://213.13.26.13:1935/live/portocanal/CumCatano.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="Canal Q" group-title="CumCatano",CANAL Q
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="CanalQ.pt" group-title="CumCatano",CANAL Q
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD (Op 2)
 http://painelpro.net:8000/live/Ft0hUkOVt4/Fua2eDNxjt/4311.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" group-title="CumCatano", FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="FoodNetwork.pt" group-title="CumCatano", FOOD NETWORK
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV +
 http://2.15.79.67:9985/play/a03v
@@ -112,17 +112,17 @@ http://2.15.79.67:9981/play/a02n
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/m5a5vj3" tvg-id="0" group-title="CumCatano",Eurosport 2 Xtra
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mgjb999" tvg-id="0" group-title="CumCatano",Eurosport News
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mgjb999" tvg-id="EurosportNews.pt" group-title="CumCatano",Eurosport News
 http://2.15.79.67:9985/play/a03t
-#EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV" group-title="CumCatano",Fuel TV
+#EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV.pt" group-title="CumCatano",Fuel TV
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" tvg-id="FightNetwork" group-title="CumCatano",KOMBAT SPORT
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y77b6ep9" tvg-id="" group-title="CumCatano",FIGHT NETWORK HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y77b6ep9" tvg-id="FightNetwork.pt" group-title="CumCatano",FIGHT NETWORK HD
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/n38hcr5" tvg-id="" group-title="CumCatano",MOTORSPORT.TV
+#EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/motorstv.png" tvg-id="MotorsTV.pt" group-title="CumCatano",MOTORS TV
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ybpkchag" tvg-id="MOTORVISIONHD" group-title="CumCatano",MOTORVISION
+#EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/motorvisiontv.png" tvg-id="Motorvision.pt" group-title="CumCatano",MOTORVISION.TV
 
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV
 
@@ -154,13 +154,13 @@ http://2.15.79.67:9985/play/a03t
 http://2.15.79.67:9981/play/a02o
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="CumCatano",SYFY
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo" group-title="CumCatano",CINEMUNDO
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo.pt" group-title="CumCatano",CINEMUNDO
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="" group-title="CumCatano",Sundance HD
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="CumCatano",MOV
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC" group-title="CumCatano",AMC HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC.pt" group-title="CumCatano",AMC HD
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="CumCatano",AXN HD
 http://painelpro.net:8000/live/Ft0hUkOVt4/Fua2eDNxjt/4329.m3u8
@@ -180,7 +180,7 @@ http://painelpro.net:8000/live/Ft0hUkOVt4/Fua2eDNxjt/4332.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt" group-title="CumCatano",FOX LIFE
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FOXM" group-title="CumCatano",FOX MOVIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FoxMovies.pt" group-title="CumCatano",FOX MOVIES
 http://2.15.79.67:9985/play/a03s
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="CumCatano",FOX CRIME
 
@@ -209,13 +209,13 @@ http://painelpro.net:8000/live/Ft0hUkOVt4/Fua2eDNxjt/4310.m3u8
 http://2.15.79.67:9985/play/a03z
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS (Op 2)
 http://painelpro.net:8000/live/Ft0hUkOVt4/Fua2eDNxjt/4304.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SICK.pt" group-title="CumCatano",SIC K
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SicK.pt" group-title="CumCatano",SIC K
 http://painelpro.net:8000/live/Ft0hUkOVt4/Fua2eDNxjt/4301.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JJAM" group-title="CumCatano",JIMJAM
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JimJam.pt" group-title="CumCatano",JIMJAM
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BABYT" group-title="CumCatano",BABY TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BabyTV.pt" group-title="CumCatano",BABY TV
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l5mg6h8" tvg-id="BABYT" group-title="CumCatano",Baby First
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l5mg6h8" tvg-id="BABYFIRST.pt" group-title="CumCatano",Baby First
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydhaysn3" tvg-id="0" group-title="CumCatano",Retro Cartoon (BR)
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
@@ -267,15 +267,15 @@ http://2.15.79.67:9985/play/a03w
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TRACE TV" group-title="CumCatano",TRACE TV
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7cx9xvk" tvg-id="MCMTOP" group-title="CumCatano",MCM TOP
+#EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmtop.png" tvg-id="MCMTOP" group-title="CumCatano",MCM TOP
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png" tvg-id="MCMPOP" group-title="CumCatano",MCM POP
+#EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmpop.png" tvg-id="MCMPOP" group-title="CumCatano",MCM POP
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8bqmax2" group-title="CumCatano", Power TV
+#EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/powertv-lichoridas.png" group-title="CumCatano", Power TV
 http://powertv.cdnturk.com/powertv/powertv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" group-title="CumCatano",M6 MUSIQUE
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" tvg-id="C-Music" group-title="CumCatano",C MUSIC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" tvg-id="C-Music.pt" group-title="CumCatano",C MUSIC
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9bwt2ko" tvg-id="" group-title="CumCatano",Clubbing TV
 
@@ -315,7 +315,7 @@ http://www.djing.com/tv/01.m3u8
 http://www.djing.com/tv/a-05.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/hXyY5B" tvg-id="discoverychannel.pt" group-title="CumCatano",DISCOVERY
 http://2.15.79.67:9981/play/a02r
-#EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" group-title="CumCatano",DISCOVERY SHOWCASE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" tvg-id=" 	DiscoveryHDShowcase.pt" group-title="CumCatano",DISCOVERY SHOWCASE
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="CumCatano",NATIONAL GEOGRAPHIC
 
@@ -339,7 +339,7 @@ http://4.31.30.145:9043
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" tvg-id="0" group-title="CumCatano",MCS LIFESTYLE
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSReality" group-title="CumCatano",CBS REALITY
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSReality.pt" group-title="CumCatano",CBS REALITY
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" tvg-id="TRV.pt" group-title="CumCatano",TRAVEL CHANNEL
 
@@ -369,7 +369,7 @@ http://2.15.79.67:9981/play/a029
 http://2.15.79.67:9981/play/a028
 #EXTINF:-1 tvg-logo="https://goo.gl/UWmNh1" tvg-id="RTPAfrica.pt" group-title="CumCatano",RTP AFRICA
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9lzgwq5" tvg-id="" group-title="CumCatano",Localvisão TV HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9lzgwq5" tvg-id="Localvisao.pt" group-title="CumCatano",Localvisão TV HD
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png" tvg-id="ARTV.pt" group-title="CumCatano",AR TV
 http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
