@@ -3,6 +3,1782 @@
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="---☛★ PORTUGAL ★☚---" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Portugal-icon.png" group-title="PORTUGAL",---☛★ PORTUGAL ★☚---
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/6976.m3u8
+#EXTINF:-1 tvg-id="rtpHD" tvg-name="RTP 1 FHD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d6/RTP_1_HD_Logotipo_2016.png" group-title="PORTUGAL",RTP 1 FHD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5702.m3u8
+#EXTINF:-1 tvg-id="rtpHD" tvg-name="RTP 1 HD LOW" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d6/RTP_1_HD_Logotipo_2016.png" group-title="PORTUGAL",RTP 1 HD LOW
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5694.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://www.thelogodb.com/images/media/logo/qwsuus1474662434.png" group-title="PORTUGAL",RTP 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5703.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 FHD" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqtqq1474662440.png" group-title="PORTUGAL",RTP 2 FHD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5700.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="http://www.thelogodb.com/images/media/logo/vrqtqq1474662440.png" group-title="PORTUGAL",RTP 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5701.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC FHD" tvg-logo="http://www.thelogodb.com/images/media/logo/pdn6lh1488823238.png" group-title="PORTUGAL",SIC FHD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5698.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC HD LOW" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="PORTUGAL",SIC HD LOW
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5692.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="PORTUGAL",SIC
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5699.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI FHD" tvg-logo="http://www.thelogodb.com/images/media/logo/v0ynpw1487621687.png" group-title="PORTUGAL",TVI FHD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5696.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI HD LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png" group-title="PORTUGAL",TVI HD LOW
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5691.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png" group-title="PORTUGAL",TVI
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5697.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores" tvg-logo="https://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png" group-title="PORTUGAL",RTP Açores
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5668.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP Africa" tvg-logo="https://www.thelogodb.com/images/media/logo/ysvppt1438186219.png" group-title="PORTUGAL",RTP Africa
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5671.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" tvg-logo="https://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png" group-title="PORTUGAL",RTP Madeira
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5669.m3u8
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP Memória" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyrwt1466449659.png" group-title="PORTUGAL",RTP Memória
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• INFORMAÇÃO ●•★●•★" tvg-logo="" group-title="PORTUGAL",★●•★●• INFORMAÇÃO ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/11.m3u8
+#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3" tvg-logo="http://www.thelogodb.com/images/media/logo/vtqqpt1474662424.png" group-title="PORTUGAL",RTP 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5673.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group-title="PORTUGAL",TVI 24 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9327.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24" tvg-logo="https://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group-title="PORTUGAL",TVI 24
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5695.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS HD" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png" group-title="PORTUGAL",SIC NOTICIAS HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5677.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Noticias" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png" group-title="PORTUGAL",SIC Noticias
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5678.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV HD" tvg-logo="https://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png" group-title="PORTUGAL",CMTV HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5675.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="https://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png" group-title="PORTUGAL",CMTV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5676.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal HD" tvg-logo="https://www.thelogodb.com/images/media/logo/yuxppt1465900144.png" group-title="PORTUGAL",Porto Canal HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/6975.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://www.thelogodb.com/images/media/logo/yuxppt1465900144.png" group-title="PORTUGAL",Porto Canal
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5674.m3u8
+#EXTINF:-1 tvg-id="TPA Internacional" tvg-name="TPA INTERNACIONAL" tvg-logo="https://www.thelogodb.com/images/media/logo/vtvrvw1435091662.png" group-title="PORTUGAL",TPA INTERNACIONAL
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5672.m3u8
+#EXTINF:-1 tvg-id="TVE24h.pt" tvg-name="TVE 24h" tvg-logo="https://www.thelogodb.com/images/media/logo/qqm3u8sw1436894339.png" group-title="PORTUGAL",TVE 24h
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9344.m3u8
+#EXTINF:-1 tvg-id="FOXNews.uk" tvg-name="FOX News" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png" group-title="PORTUGAL",FOX News
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5580.m3u8
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="EuroNews" tvg-logo="https://1.bp.blogspot.com/-pOZUqgzDb1Y/V0zyeJG7jdI/AAAAAAAAsbA/JALVEgbEqAcMKSzD9rUWCB_9R32At-oXACLcB/s1600/Euronews._2016_alternative_logo.png" group-title="PORTUGAL",EuroNews
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9331.m3u8
+#EXTINF:-1 tvg-id="France24fr.fr" tvg-name="France 24" tvg-logo="https://www.thelogodb.com/images/media/logo/ywxyxx1434552642.png" group-title="PORTUGAL",France 24
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5655.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="BBC WORLD NEWS HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qrqstp1433523015.png" group-title="PORTUGAL",BBC WORLD NEWS HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9328.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.nws" tvg-name="Bloomberg" tvg-logo="https://www.thelogodb.com/images/media/logo/wyqsyw1433449538.png" group-title="PORTUGAL",Bloomberg
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9348.m3u8
+#EXTINF:-1 tvg-id="CNBC.nws" tvg-name="CNBC Europe" tvg-logo="http://www.thelogodb.com/images/media/logo/tecnxg1505903528.png" group-title="PORTUGAL",CNBC Europe
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9349.m3u8
+#EXTINF:-1 tvg-id="CNN.nws" tvg-name="CNN" tvg-logo="https://www.thelogodb.com/images/media/logo/uyswus1433941237.png" group-title="PORTUGAL",CNN
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9329.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS" tvg-logo="https://www.thelogodb.com/images/media/logo/qvvxuq1438374093.png" group-title="PORTUGAL",SKY NEWS
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9324.m3u8
+#EXTINF:-1 tvg-id="STV NOTICIAS" tvg-name="SVT NOTICIAS" tvg-logo="https://vignette.wikia.nocookie.net/ovsc/images/b/b9/SVT-logo_black_rgb.png" group-title="PORTUGAL",SVT NOTICIAS
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• ENTRETENIMENTO ●•★●•★" tvg-logo="" group-title="PORTUGAL",★●•★●• ENTRETENIMENTO ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/19.m3u8
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher" tvg-logo="https://www.thelogodb.com/images/media/logo/suyuur1436891341.png" group-title="PORTUGAL",SIC Mulher
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5683.m3u8
+#EXTINF:-1 tvg-id="SIC Caras" tvg-name="SIC Caras HD" tvg-logo="https://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png" group-title="PORTUGAL",SIC Caras HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5681.m3u8
+#EXTINF:-1 tvg-id="SIC Caras" tvg-name="SIC Caras" tvg-logo="https://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png" group-title="PORTUGAL",SIC Caras
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5682.m3u8
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical HD" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png" group-title="PORTUGAL",SIC Radical HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5679.m3u8
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png" group-title="PORTUGAL",SIC Radical
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5680.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção" tvg-logo="https://www.thelogodb.com/images/media/logo/wpwprr1466449168.png" group-title="PORTUGAL",TVI Ficção
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5690.m3u8
+#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="TVI Reality" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/4/49/20170220205100%21Tvi_reality.png" group-title="PORTUGAL",TVI Reality
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5689.m3u8
+#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="TVI Reality Camera 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png" group-title="PORTUGAL",TVI Reality Camera 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9313.m3u8
+#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="TVI Reality Camera 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png" group-title="PORTUGAL",TVI Reality Camera 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9314.m3u8
+#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="TVI Reality Camera 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png" group-title="PORTUGAL",TVI Reality Camera 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9315.m3u8
+#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="TVI Reality Camera 4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png" group-title="PORTUGAL",TVI Reality Camera 4
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9316.m3u8
+#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="TVI Reality MOSAICO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png" group-title="PORTUGAL",TVI Reality MOSAICO
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9312.m3u8
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24 Kitchen HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpsqps1436892971.png" group-title="PORTUGAL",24 Kitchen HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5548.m3u8
+#EXTINF:-1 tvg-id="Localvisao.pt" tvg-name="LOCALVISAO TV HD" tvg-logo="https://www.thelogodb.com/images/media/logo/srvuqp1471035640.png" group-title="PORTUGAL",LOCALVISAO TV HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9333.m3u8
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="https://www.thelogodb.com/images/media/logo/wpqqwq1436891473.png" group-title="PORTUGAL",Canal Q
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5549.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="SANTUARIO FATIMA" tvg-logo="http://pt.live-tv-channels.net/pt-data/uploads/logo/pt-tv-fatima.jpg" group-title="PORTUGAL",SANTUARIO FATIMA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9335.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="CTV Vaticano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Logo_CTV_1983-2011.png" group-title="PORTUGAL",CTV Vaticano
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/6151.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="Canção Nova" tvg-logo="https://www.thelogodb.com/images/media/logo/vyyvpv1471022673.png" group-title="PORTUGAL",Canção Nova
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/6994.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="CANAL ANGELUS TV" tvg-logo="http://www.mediotejo.net/wp-content/uploads/2017/01/angelus-tv.jpg" group-title="PORTUGAL",CANAL ANGELUS TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9334.m3u8
+#EXTINF:-1 tvg-id="KURIAKOSTV.pt" tvg-name="KURIAKOS TV" tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/kuriakos/medium_kuriakos.jpg" group-title="PORTUGAL",KURIAKOS TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• DESPORTO ●•★●•★" tvg-logo="" group-title="PORTUGAL",★●•★●• DESPORTO ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/28.m3u8
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="Sport TV +  FHD" tvg-logo="http://www.thelogodb.com/images/media/logo/vqrwpt1481664823.png" group-title="PORTUGAL",Sport TV +  FHD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5653.m3u8
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="Sport TV +" tvg-logo="http://www.thelogodb.com/images/media/logo/trtupx1481664790.png" group-title="PORTUGAL",Sport TV +
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5654.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyqws1470407526.png" group-title="PORTUGAL",Sport TV 1 FHD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5649.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyqws1470407526.png" group-title="PORTUGAL",Sport TV 1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5648.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 HD LOW" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyqws1470407526.png" group-title="PORTUGAL",Sport TV 1 HD LOW
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5647.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1" tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" group-title="PORTUGAL",Sport TV 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5652.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyrpq1470407606.png" group-title="PORTUGAL",Sport TV 2 FHD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5644.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyrpq1470407606.png" group-title="PORTUGAL",Sport TV 2 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/7261.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="PORTUGAL",Sport TV 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5646.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 HD LOW" tvg-logo="https://www.thelogodb.com/images/media/logo/qpyrpq1470407606.png" group-title="PORTUGAL",Sport TV 2 HD LOW
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5634.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/xysrvw1470407766.png" group-title="PORTUGAL",Sport TV 3 FHD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5641.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3" tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png" group-title="PORTUGAL",Sport TV 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5643.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png" group-title="PORTUGAL",Sport TV 4 FHD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5638.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4" tvg-logo="https://www.thelogodb.com/images/media/logo/vuytwx1470409983.png" group-title="PORTUGAL",Sport TV 4
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5640.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/vvvqxp1470408443.png" group-title="PORTUGAL",Sport TV 5 FHD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5635.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" group-title="PORTUGAL",SPORT TV 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5637.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1 FHD" tvg-logo="https://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png" group-title="PORTUGAL",BTV 1 FHD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5628.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png" group-title="PORTUGAL",BTV 1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5625.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1 HD LOW" tvg-logo="https://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png" group-title="PORTUGAL",BTV 1 HD LOW
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5624.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1" tvg-logo="https://www.thelogodb.com/images/media/logo/yutwvs1437950085.png" group-title="PORTUGAL",BTV 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5630.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="SPORTING TV HD" tvg-logo="https://www.thelogodb.com/images/media/logo/ryuxxv1470410229.png" group-title="PORTUGAL",SPORTING TV HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9338.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting TV" tvg-logo="https://www.thelogodb.com/images/media/logo/txtxrs1470410327.png" group-title="PORTUGAL",Sporting TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5622.m3u8
+#EXTINF:-1 tvg-id="ChelseaTV.pt" tvg-name="CHELSEA TV" tvg-logo="http://www.thelogodb.com/images/media/logo/mq89bf1504260446.png" group-title="PORTUGAL",CHELSEA TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9339.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.pt" tvg-name="REAL MADRID TV" tvg-logo="https://www.thelogodb.com/images/media/logo/trrqwt1433356293.png" group-title="PORTUGAL",REAL MADRID TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9322.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="EUROSPORT 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xtuusr1474667321.png" group-title="PORTUGAL",EUROSPORT 1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9340.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="http://www.thelogodb.com/images/media/logo/tutyvx1474667310.png" group-title="PORTUGAL",Eurosport 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5618.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="http://www.thelogodb.com/images/media/logo/xvuxxt1474667338.png" group-title="PORTUGAL",Eurosport 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5616.m3u8
+#EXTINF:-1 tvg-id="EurosportNews.pt" tvg-name="Eurosport News" tvg-logo="http://www.thelogodb.com/images/media/logo/xpvxxw1474667533.png" group-title="PORTUGAL",Eurosport News
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9330.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.pt" tvg-name="Fight Network HD" tvg-logo="https://www.thelogodb.com/images/media/logo/sxuxsv1451905938.png" group-title="PORTUGAL",Fight Network HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5555.m3u8
+#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="Kombat Sport" tvg-logo="http://www.thelogodb.com/images/media/logo/wqwm3u8q1478249671.png" group-title="PORTUGAL",Kombat Sport
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5607.m3u8
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="https://www.thelogodb.com/images/media/logo/m3u8qstw1436894693.png" group-title="PORTUGAL",PFC
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5612.m3u8
+#EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://www.thelogodb.com/images/media/logo/xutptv1433429127.png" group-title="PORTUGAL",NBA TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5615.m3u8
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="Motors TV" tvg-logo="https://www.thelogodb.com/images/media/logo/urrwrv1433779906.png" group-title="PORTUGAL",Motors TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5611.m3u8
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision" tvg-logo="http://www.thelogodb.com/images/media/logo/0iiphs1489957842.png" group-title="PORTUGAL",Motorvision
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5610.m3u8
+#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="FUEL TV HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vtytus1436895735.png" group-title="PORTUGAL",FUEL TV HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9341.m3u8
+#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="Fuel TV" tvg-logo="https://www.thelogodb.com/images/media/logo/yxxrqw1436895628.png" group-title="PORTUGAL",Fuel TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5604.m3u8
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="ABola TV" tvg-logo="https://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group-title="PORTUGAL",ABola TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5620.m3u8
+#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="Caçavision" tvg-logo="https://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png" group-title="PORTUGAL",Caçavision
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5608.m3u8
+#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="Caça e Pesca" tvg-logo="https://www.thelogodb.com/images/media/logo/vxwput1438005508.png" group-title="PORTUGAL",Caça e Pesca
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5605.m3u8
+#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="Toros TV" tvg-logo="https://www.thelogodb.com/images/media/logo/xxxum3u81436895323.png" group-title="PORTUGAL",Toros TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• FILMES  ●•★●•★" tvg-logo="" group-title="PORTUGAL",★●•★●• FILMES  ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/63.m3u8
+#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TVCINE 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/m3u8wwqy1436896045.png" group-title="PORTUGAL",TVCINE 1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5602.m3u8
+#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TVCine 1" tvg-logo="https://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png" group-title="PORTUGAL",TVCine 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5603.m3u8
+#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVCine 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qrxsyy1436896058.png" group-title="PORTUGAL",TVCine 2 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5600.m3u8
+#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVCine 2" tvg-logo="https://www.thelogodb.com/images/media/logo/xyvrxy1436896360.png" group-title="PORTUGAL",TVCine 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5601.m3u8
+#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVCine 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/tqtpqv1436896067.png" group-title="PORTUGAL",TVCine 3 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5598.m3u8
+#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVCine 3" tvg-logo="https://www.thelogodb.com/images/media/logo/typxsx1436896370.png" group-title="PORTUGAL",TVCine 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5599.m3u8
+#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVCINE 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vwwvss1436896140.png" group-title="PORTUGAL",TVCINE 4 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5596.m3u8
+#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVCine 4" tvg-logo="https://www.thelogodb.com/images/media/logo/rvtxww1436896380.png" group-title="PORTUGAL",TVCine 4
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5597.m3u8
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC HD" tvg-logo="https://www.thelogodb.com/images/media/logo/m3u8sypq1449496871.png" group-title="PORTUGAL",AMC HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5585.m3u8
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="https://www.thelogodb.com/images/media/logo/txvtyy1441049730.png" group-title="PORTUGAL",AMC
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5586.m3u8
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood HD" tvg-logo="https://www.thelogodb.com/images/media/logo/tupvuv1436899688.png" group-title="PORTUGAL",Hollywood HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5588.m3u8
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood" tvg-logo="https://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png" group-title="PORTUGAL",Hollywood
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5589.m3u8
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX Movies HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vptxrq1436890170.png" group-title="PORTUGAL",FOX Movies HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9323.m3u8
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX Movies" tvg-logo="https://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png" group-title="PORTUGAL",FOX Movies
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5578.m3u8
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="CINEMUNDO HD" tvg-logo="https://www.thelogodb.com/images/media/logo/yxm3u8tt1436845865.png" group-title="PORTUGAL",CINEMUNDO HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9336.m3u8
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemundo" tvg-logo="https://www.thelogodb.com/images/media/logo/rrrvxy1436845857.png" group-title="PORTUGAL",Cinemundo
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• SERIES ●•★●•★" tvg-logo="" group-title="PORTUGAL",★●•★●• SERIES ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/78.m3u8
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="TVSeries HD" tvg-logo="https://www.thelogodb.com/images/media/logo/sprtwx1436898392.png" group-title="PORTUGAL",TVSeries HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5590.m3u8
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="TV SERIES" tvg-logo="https://www.thelogodb.com/images/media/logo/xppsrs1436898382.png" group-title="PORTUGAL",TV SERIES
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5591.m3u8
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logo/xquwxv1436847349.png" group-title="PORTUGAL",FOX HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5581.m3u8
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX COMEDY HD" tvg-logo="http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/foxcomedy%20logo%20hd%20-%20green630x355.png" group-title="PORTUGAL",FOX COMEDY HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9337.m3u8
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX Comedy" tvg-logo="https://vignette3.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png" group-title="PORTUGAL",FOX Comedy
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5575.m3u8
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime HD" tvg-logo="https://www.thelogodb.com/images/media/logo/uptutt1458425697.png" group-title="PORTUGAL",FOX Crime HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5576.m3u8
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="Fox Crime" tvg-logo="https://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png" group-title="PORTUGAL",Fox Crime
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/7267.m3u8
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX Life HD" tvg-logo="https://www.thelogodb.com/images/media/logo/ttvpyv1436846997.png" group-title="PORTUGAL",FOX Life HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5579.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN HD" tvg-logo="https://www.thelogodb.com/images/media/logo/rysqvw1445113783.png" group-title="PORTUGAL",AXN HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5571.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="AXN Black HD" tvg-logo="https://www.thelogodb.com/images/media/logo/m3u8m3u8vx1445114284.png" group-title="PORTUGAL",AXN Black HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5572.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vvwysx1445114035.png" group-title="PORTUGAL",AXN White HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5573.m3u8
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SyFy HD" tvg-logo="http://www.thelogodb.com/images/media/logo/quwyru1480459347.png" group-title="PORTUGAL",SyFy HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5583.m3u8
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://www.thelogodb.com/images/media/logo/qrvqqy1480459300.png" group-title="PORTUGAL",SyFy
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• INFANTIL ●•★●•★" tvg-logo="" group-title="PORTUGAL",★●•★●• INFANTIL ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/92.m3u8
+#EXTINF:-1 tvg-id="SicK.pt" tvg-name="SIC K" tvg-logo="https://www.thelogodb.com/images/media/logo/vuxyry1436891832.png" group-title="PORTUGAL",SIC K
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5529.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://www.thelogodb.com/images/media/logo/turwm3u81438374001.png" group-title="PORTUGAL",Nickelodeon
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5528.m3u8
+#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="Cartoon Network" tvg-logo="https://www.thelogodb.com/images/media/logo/rqswvs1435142683.png" group-title="PORTUGAL",Cartoon Network
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5526.m3u8
+#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="JimJam" tvg-logo="https://www.thelogodb.com/images/media/logo/yupwrv1435102443.png" group-title="PORTUGAL",JimJam
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5527.m3u8
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel" tvg-logo="https://www.thelogodb.com/images/media/logo/supsrs1433943151.png" group-title="PORTUGAL",Disney Channel
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5532.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="Disney Junior" tvg-logo="https://www.thelogodb.com/images/media/logo/uvsyur1433943132.png" group-title="PORTUGAL",Disney Junior
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5531.m3u8
+#EXTINF:-1 tvg-id="PANDA" tvg-name="Canal Panda" tvg-logo="https://www.thelogodb.com/images/media/logo/ruptxu1434712542.png" group-title="PORTUGAL",Canal Panda
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5530.m3u8
+#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="Biggs" tvg-logo="https://www.thelogodb.com/images/media/logo/sqttxp1433353102.png" group-title="PORTUGAL",Biggs
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5523.m3u8
+#EXTINF:-1 tvg-id="BABYFIRST.pt" tvg-name="Baby First" tvg-logo="https://www.thelogodb.com/images/media/logo/yrsxyr1436899990.png" group-title="PORTUGAL",Baby First
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5524.m3u8
+#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="Baby TV" tvg-logo="https://www.thelogodb.com/images/media/logo/vtwttx1462991934.png" group-title="PORTUGAL",Baby TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• Musica ●•★●•★" tvg-logo="" group-title="PORTUGAL",★●•★●• Musica ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/126.m3u8
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="VH1" tvg-logo="https://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png" group-title="PORTUGAL",VH1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5538.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="MTV Portugal" tvg-logo="https://www.thelogodb.com/images/media/logo/qvwrpx1434040693.png" group-title="PORTUGAL",MTV Portugal
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5543.m3u8
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTV MUSIC" tvg-logo="https://www.thelogodb.com/images/media/logo/twupws1433789396.png" group-title="PORTUGAL",MTV MUSIC
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9351.m3u8
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="MTV ROCKS" tvg-logo="https://www.thelogodb.com/images/media/logo/qyuuus1433522058.png" group-title="PORTUGAL",MTV ROCKS
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9352.m3u8
+#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="MTV DANCE" tvg-logo="https://www.thelogodb.com/images/media/logo/xusuwy1433522237.png" group-title="PORTUGAL",MTV DANCE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5539.m3u8
+#EXTINF:-1 tvg-id="VH1Classic.eu" tvg-name="VH1 Classic" tvg-logo="https://www.thelogodb.com/images/media/logo/xrwsty1464441168.png" group-title="PORTUGAL",VH1 Classic
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5537.m3u8
+#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="MEZZO LIVE HD" tvg-logo="https://www.thelogodb.com/images/media/logo/xvwrsp1436893825.png" group-title="PORTUGAL",MEZZO LIVE HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9353.m3u8
+#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="Mezzo" tvg-logo="https://www.thelogodb.com/images/media/logo/tusvrr1436893817.png" group-title="PORTUGAL",Mezzo
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5534.m3u8
+#EXTINF:-1 tvg-id="MCMPop.pt" tvg-name="MCM Pop" tvg-logo="https://www.thelogodb.com/images/media/logo/rvtqvs1435092184.png" group-title="PORTUGAL",MCM Pop
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5541.m3u8
+#EXTINF:-1 tvg-id="mcmtop.pt" tvg-name="MCM TOP" tvg-logo="https://www.thelogodb.com/images/media/logo/wxusxr1433520139.png" group-title="PORTUGAL",MCM TOP
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5540.m3u8
+#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Music Channel" tvg-logo="https://www.thelogodb.com/images/media/logo/yywtqx1456252794.png" group-title="PORTUGAL",Afro Music Channel
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5542.m3u8
+#EXTINF:-1 tvg-id="iconcerm3u8hd" tvg-name="iConcerm3u8 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qxqm3u8v1436893554.png" group-title="PORTUGAL",iConcerm3u8 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5536.m3u8
+#EXTINF:-1 tvg-id="C-Music.pt" tvg-name="C Music TV" tvg-logo="https://www.thelogodb.com/images/media/logo/trwsqp1433864330.png" group-title="PORTUGAL",C Music TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5535.m3u8
+#EXTINF:-1 tvg-id="TraceTV.pt" tvg-name="Trace Urban" tvg-logo="https://www.thelogodb.com/images/media/logo/wvsqxy1433518917.png" group-title="PORTUGAL",Trace Urban
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★DOCUMENTARIOS★●•★" tvg-logo="" group-title="PORTUGAL",★●•★DOCUMENTARIOS★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/103.m3u8
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="https://www.thelogodb.com/images/media/logo/rprruu1433942038.png" group-title="PORTUGAL",TLC
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5545.m3u8
+#EXTINF:-1 tvg-id="FineLiving.pt" tvg-name="Fine Living Network HD" tvg-logo="https://www.thelogodb.com/images/media/logo/sqtrss1436846915.png" group-title="PORTUGAL",Fine Living Network HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5556.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geographic HD" tvg-logo="https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png" group-title="PORTUGAL",National Geographic HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5565.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="Nat Geo Wild HD" tvg-logo="https://www.thelogodb.com/images/media/logo/rtxupw1436899049.png" group-title="PORTUGAL",Nat Geo Wild HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5564.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="Nat Geo Wild" tvg-logo="https://www.thelogodb.com/images/media/logo/ssssww1436899078.png" group-title="PORTUGAL",Nat Geo Wild
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5563.m3u8
+#EXTINF:-1 tvg-id="OUTDOOR HD" tvg-name="Outdoor Channel HD" tvg-logo="https://www.thelogodb.com/images/media/logo/yqxrpv1444920887.png" group-title="PORTUGAL",Outdoor Channel HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5558.m3u8
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="Travel Channel HD" tvg-logo="https://www.thelogodb.com/images/media/logo/urtwxv1436847726.png" group-title="PORTUGAL",Travel Channel HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5554.m3u8
+#EXTINF:-1 tvg-id="DISCOVERYHD.pt" tvg-name="Discovery Channel" tvg-logo="https://www.thelogodb.com/images/media/logo/usvxwq1433945505.png" group-title="PORTUGAL",Discovery Channel
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5566.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHDShowcase.pt" tvg-name="DISCOVERY HD SHOWCASE" tvg-logo="https://www.thelogodb.com/images/media/logo/qqwypw1435092052.png" group-title="PORTUGAL",DISCOVERY HD SHOWCASE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5567.m3u8
+#EXTINF:-1 tvg-id="CBSReality.pt" tvg-name="CBS Reality" tvg-logo="https://www.thelogodb.com/images/media/logo/tywuvw1434287895.png" group-title="PORTUGAL",CBS Reality
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5560.m3u8
+#EXTINF:-1 tvg-id="MCSExtreme.pt" tvg-name="MCS Extreme" tvg-logo="https://www.thelogodb.com/images/media/logo/ruywtq1435099021.png" group-title="PORTUGAL",MCS Extreme
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5552.m3u8
+#EXTINF:-1 tvg-id="MCSLifeStyle.pt" tvg-name="MCS Lifestyle" tvg-logo="https://tekmediamag.files.wordpress.com/2016/02/mcs_lifestyle.png" group-title="PORTUGAL",MCS Lifestyle
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5546.m3u8
+#EXTINF:-1 tvg-id="FASH" tvg-name="Fashion TV" tvg-logo="https://www.thelogodb.com/images/media/logo/tqwvqt1436890707.png" group-title="PORTUGAL",Fashion TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5550.m3u8
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Entertainment" tvg-logo="https://www.thelogodb.com/images/media/logo/uuuxrr1433432619.png" group-title="PORTUGAL",E! Entertainment
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5557.m3u8
+#EXTINF:-1 tvg-id="AandE.pt" tvg-name="A&E" tvg-logo="https://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png" group-title="PORTUGAL",A&E
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5547.m3u8
+#EXTINF:-1 tvg-id="ODIS" tvg-name="Odisseia" tvg-logo="https://www.thelogodb.com/images/media/logo/vpyypr1462122978.png" group-title="PORTUGAL",Odisseia
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5561.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="História" tvg-logo="https://www.thelogodb.com/images/media/logo/usyytw1471035518.png" group-title="PORTUGAL",História
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5562.m3u8
+#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="Crime   Investigation" tvg-logo="https://www.thelogodb.com/images/media/logo/qwsxuu1433432515.png" group-title="PORTUGAL",Crime   Investigation
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• INTERNACIONAIS ●•★●•★" tvg-logo="" group-title="PORTUGAL",★●•★●• INTERNACIONAIS ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/138.m3u8
+#EXTINF:-1 tvg-id="Globo Portugal" tvg-name="Globo Portugal" tvg-logo="https://www.thelogodb.com/images/media/logo/uxvspy1433473246.png" group-title="PORTUGAL",Globo Portugal
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5660.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="Globo int Europa" tvg-logo="http://i1056.photobucket.com/albums/t370/cccpppccc/Insensato%20Corazon/GloboTV_zpscd309960.png" group-title="PORTUGAL",Globo int Europa
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9320.m3u8
+#EXTINF:-1 tvg-id="GloboPremium.pt" tvg-name="Globo Premium" tvg-logo="https://www.thelogodb.com/images/media/logo/vqxxxt1436898683.png" group-title="PORTUGAL",Globo Premium
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5661.m3u8
+#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="TV Record HD" tvg-logo="https://www.thelogodb.com/images/media/logo/yqpwvs1436890865.png" group-title="PORTUGAL",TV Record HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5664.m3u8
+#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="TV Record" tvg-logo="https://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title="PORTUGAL",TV Record
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5663.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT BRASIL" tvg-logo="https://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png" group-title="PORTUGAL",SBT BRASIL
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9342.m3u8
+#EXTINF:-1 tvg-id="TVEi.nws" tvg-name="TVE Internacional" tvg-logo="https://www.thelogodb.com/images/media/logo/trpppt1433946036.png" group-title="PORTUGAL",TVE Internacional
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9343.m3u8
+#EXTINF:-1 tvg-id="TV Galicia" tvg-name="TV GALICIA" tvg-logo="https://www.thelogodb.com/images/media/logo/wwvxvw1435103671.png" group-title="PORTUGAL",TV GALICIA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5666.m3u8
+#EXTINF:-1 tvg-id="TCVINT" tvg-name="TCV Internacional" tvg-logo="https://www.thelogodb.com/images/media/logo/squwqv1438186600.png" group-title="PORTUGAL",TCV Internacional
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9326.m3u8
+#EXTINF:-1 tvg-id="CANAL UM  EUROPA" tvg-name="CANAL UM EUROPA" tvg-logo="https://www.thelogodb.com/images/media/logo/vwyrxq1471035129.png" group-title="PORTUGAL",CANAL UM EUROPA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9319.m3u8
+#EXTINF:-1 tvg-id="Deum3u8cheWelle.pt" tvg-name="Deum3u8che Welle" tvg-logo="https://www.thelogodb.com/images/media/logo/yursqy1436899416.png" group-title="PORTUGAL",Deum3u8che Welle
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9350.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5 MONDE EUROPE" tvg-logo="https://www.thelogodb.com/images/media/logo/xtqxwy1433428426.png" group-title="PORTUGAL",TV5 MONDE EUROPE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9332.m3u8
+#EXTINF:-1 tvg-id="m6.pt" tvg-name="M6" tvg-logo="https://www.thelogodb.com/images/media/logo/qwpvqt1435079173.png" group-title="PORTUGAL",M6
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9347.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="https://www.thelogodb.com/images/media/logo/yxwvyu1433944599.png" group-title="PORTUGAL",RTL
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9346.m3u8
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="SUPER RTL" tvg-logo="http://www.thelogodb.com/images/media/logo/ql079f1500906639.png" group-title="PORTUGAL",SUPER RTL
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9345.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL LUXEMBOURG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTL-Radio-Letzebuerg-Logo.svg/1200px-RTL-Radio-Letzebuerg-Logo.svg.png" group-title="PORTUGAL",RTL LUXEMBOURG
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="---☛★ ADULTOS ★☚---" tvg-logo="http://i.imgur.com/iHYDaOp.png" group-title="ADULTOS",---☛★ ADULTOS ★☚---
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/164.m3u8
+#EXTINF:-1 tvg-id="Playboy.pt" tvg-name="PLAYBOY TV HD" tvg-logo="http://www.thelogodb.com/images/media/logo/u8hf061503078036.png" group-title="ADULTOS",PLAYBOY TV HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9177.m3u8
+#EXTINF:-1 tvg-id="venus.pt" tvg-name="VENUS" tvg-logo="https://www.thelogodb.com/images/media/logo/ruxvwp1436845008.png" group-title="ADULTOS",VENUS
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9171.m3u8
+#EXTINF:-1 tvg-id="Hot.pt" tvg-name="HOT HD" tvg-logo="https://www.thelogodb.com/images/media/logo/syqrwu1436844732.png" group-title="ADULTOS",HOT HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9176.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="BRAZZERS TV" tvg-logo="https://www.thelogodb.com/images/media/logo/ssm3u8ys1433448956.png" group-title="ADULTOS",BRAZZERS TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9166.m3u8
+#EXTINF:-1 tvg-id="Hustler HD" tvg-name="HUSTLER HD" tvg-logo="https://www.thelogodb.com/images/media/logo/wsusvv1444920690.png" group-title="ADULTOS",HUSTLER HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9172.m3u8
+#EXTINF:-1 tvg-id="PENTHOUSEHD1" tvg-name="PENTHOUSE 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/yytxsv1471167847.png" group-title="ADULTOS",PENTHOUSE 1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9174.m3u8
+#EXTINF:-1 tvg-id="PRIVATE TV" tvg-name="PRIVATE TV" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png" group-title="ADULTOS",PRIVATE TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9169.m3u8
+#EXTINF:-1 tvg-id="Redlight FHD (PT)" tvg-name="REDLIGHT HD" tvg-logo="http://www.thelogodb.com/images/media/logo/18s9631490974342.png" group-title="ADULTOS",REDLIGHT HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9175.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="SEXTREME" tvg-logo="https://www.thelogodb.com/images/media/logo/rxpvwp1436844866.png" group-title="ADULTOS",SEXTREME
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9165.m3u8
+#EXTINF:-1 tvg-id="Dorcel HD (PT)" tvg-name="DORCEL TV HD" tvg-logo="https://www.thelogodb.com/images/media/logo/xxwrur1462994411.png" group-title="ADULTOS",DORCEL TV HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9173.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXL" tvg-logo="https://www.thelogodb.com/images/media/logo/tywuqr1442927239.png" group-title="ADULTOS",XXL
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9162.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: CENTO X CENTO TV" tvg-logo="http://savepic.net/7845651.png" group-title="ADULTOS",XXX: CENTO X CENTO TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8666.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: Evil Angel TV" tvg-logo="https://iptv.zone/en/images/logo/channel/crops/0f14e639bc15bcfc5471b032bb7ad236.png" group-title="ADULTOS",XXX: Evil Angel TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8667.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: PASSIONE" tvg-logo="http://www.passionxxx.net/img/logo.png" group-title="ADULTOS",XXX: PASSIONE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9157.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: DUSK" tvg-logo="https://3.bp.blogspot.com/-Dk0OsLIlNHU/WQdUEWnMPaI/AAAAAAAAFl4/OQiST856qAY2j8HZ4q0HzjApzC6tmD2hQCLcB/s1600/dusk_nl.png" group-title="ADULTOS",XXX: DUSK
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9160.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: EROTIC 1" tvg-logo="http://tvprofil.net/img/kanali-logo/erotic-logo.png" group-title="ADULTOS",XXX: EROTIC 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9147.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: EROTIC 2" tvg-logo="http://tvprofil.net/img/kanali-logo/erotic2-logo.png" group-title="ADULTOS",XXX: EROTIC 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9146.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: EROTIC 3" tvg-logo="http://tvprofil.net/img/kanali-logo/erotic3.png" group-title="ADULTOS",XXX: EROTIC 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9145.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: EROTIC 4" tvg-logo="http://tvprofil.net/img/kanali-logo/erotic4.png" group-title="ADULTOS",XXX: EROTIC 4
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9144.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: EROTIC 5" tvg-logo="http://tvprofil.net/img/kanali-logo/pink_erotic_5_logo.png" group-title="ADULTOS",XXX: EROTIC 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9143.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: EROTIC 6" tvg-logo="http://tvprofil.net/img/kanali-logo/pink_erotic_6_logo.png" group-title="ADULTOS",XXX: EROTIC 6
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9142.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: EROTIC 7" tvg-logo="http://tvprofil.net/img/kanali-logo/pink_erotic_7_logo.png" group-title="ADULTOS",XXX: EROTIC 7
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9141.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: EROTIC 8" tvg-logo="http://tvprofil.net/img/kanali-logo/pink_erotic_8_logo.png" group-title="ADULTOS",XXX: EROTIC 8
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9140.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: EROXXX" tvg-logo="https://www.thelogodb.com/images/media/logo/srxsup1469455189.png" group-title="ADULTOS",XXX: EROXXX
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9156.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: PINK O" tvg-logo="http://savepic.net/7769684.png" group-title="ADULTOS",XXX: PINK O
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9158.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: SUPERONE" tvg-logo="http://gergihalo.hu/e_images/newspost_images/super_one_hu.png" group-title="ADULTOS",XXX: SUPERONE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9159.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-name="XXX: SCT" tvg-logo="https://i2.wp.com/www.videosam3u8ervice.eu/wp-content/uploads/2016/04/Sct-1.png" group-title="ADULTOS",XXX: SCT
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="------☛★ BRASIL ★☚------" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Brazil-icon.png" group-title="BRASIL",------☛★ BRASIL ★☚------
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/3493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR :RBS TV" tvg-logo="" group-title="BRASIL",BR :RBS TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band" tvg-logo="" group-title="BRASIL",BR: Band
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band News" tvg-logo="" group-title="BRASIL",BR: Band News
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sporm3u8" tvg-logo="" group-title="BRASIL",BR: Band Sporm3u8
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Brasil" tvg-logo="" group-title="BRASIL",BR: Canal Brasil
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cinemax" tvg-logo="" group-title="BRASIL",BR: Cinemax
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Combate" tvg-logo="" group-title="BRASIL",BR: Combate
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Comedy Central" tvg-logo="" group-title="BRASIL",BR: Comedy Central
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eimax 1" tvg-logo="" group-title="BRASIL",BR: Eimax 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eimax 2" tvg-logo="" group-title="BRASIL",BR: Eimax 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="" group-title="BRASIL",BR: ESPN
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Brasil" tvg-logo="" group-title="BRASIL",BR: ESPN Brasil
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Esporte Interativo" tvg-logo="" group-title="BRASIL",BR: Esporte Interativo
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX" tvg-logo="" group-title="BRASIL",BR: FOX
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Life" tvg-logo="" group-title="BRASIL",BR: Fox Life
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sporm3u8" tvg-logo="" group-title="BRASIL",BR: Fox Sporm3u8
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sporm3u8 2" tvg-logo="" group-title="BRASIL",BR: Fox Sporm3u8 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX" tvg-logo="" group-title="BRASIL",BR: FX
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RJ" tvg-logo="" group-title="BRASIL",BR: Globo RJ
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo SP" tvg-logo="" group-title="BRASIL",BR: Globo SP
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GloboNews" tvg-logo="" group-title="BRASIL",BR: GloboNews
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloob" tvg-logo="" group-title="BRASIL",BR: Gloob
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT" tvg-logo="" group-title="BRASIL",BR: GNT
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO" tvg-logo="" group-title="BRASIL",BR: HBO
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Family" tvg-logo="" group-title="BRASIL",BR: HBO Family
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Plus" tvg-logo="" group-title="BRASIL",BR: HBO Plus
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Signature" tvg-logo="" group-title="BRASIL",BR: HBO Signature
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO2" tvg-logo="" group-title="BRASIL",BR: HBO2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ID - Investiga" tvg-logo="" group-title="BRASIL",BR: ID - Investiga
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Max" tvg-logo="" group-title="BRASIL",BR: Max
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Max Prime" tvg-logo="" group-title="BRASIL",BR: Max Prime
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAX PRIME E" tvg-logo="" group-title="BRASIL",BR: MAX PRIME E
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Max Up" tvg-logo="" group-title="BRASIL",BR: Max Up
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MegaPix" tvg-logo="" group-title="BRASIL",BR: MegaPix
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV" tvg-logo="" group-title="BRASIL",BR: MTV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 2" tvg-logo="" group-title="BRASIL",BR: Premiere 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 5" tvg-logo="" group-title="BRASIL",BR: Premiere 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Prime Box Brasil" tvg-logo="" group-title="BRASIL",BR: Prime Box Brasil
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RBS TV" tvg-logo="" group-title="BRASIL",BR: RBS TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record News" tvg-logo="" group-title="BRASIL",BR: Record News
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Record" tvg-logo="" group-title="BRASIL",BR: Rede Record
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede TV" tvg-logo="" group-title="BRASIL",BR: Rede TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT" tvg-logo="" group-title="BRASIL",BR: SBT
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV" tvg-logo="" group-title="BRASIL",BR: SporTV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 2" tvg-logo="" group-title="BRASIL",BR: SporTV 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 3" tvg-logo="" group-title="BRASIL",BR: SporTV 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Studio Universal" tvg-logo="" group-title="BRASIL",BR: Studio Universal
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Syfy" tvg-logo="" group-title="BRASIL",BR: Syfy
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TBS" tvg-logo="" group-title="BRASIL",BR: TBS
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM" tvg-logo="" group-title="BRASIL",BR: TCM
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Action" tvg-logo="" group-title="BRASIL",BR: Telecine Action
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Cult" tvg-logo="" group-title="BRASIL",BR: Telecine Cult
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Fun" tvg-logo="" group-title="BRASIL",BR: Telecine Fun
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Pipoca" tvg-logo="" group-title="BRASIL",BR: Telecine Pipoca
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Premium" tvg-logo="" group-title="BRASIL",BR: Telecine Premium
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT" tvg-logo="" group-title="BRASIL",BR: TNT
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Series HD" tvg-logo="" group-title="BRASIL",BR: TNT Series HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Brasil" tvg-logo="" group-title="BRASIL",BR: TV Brasil
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="------☛★ FRANÇA ★☚------" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/France-icon.png" group-title="FRANÇA",------☛★ FRANÇA ★☚------
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/1616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13Eme Rue HD" tvg-logo="" group-title="FRANÇA",FR: 13Eme Rue HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6TER" tvg-logo="" group-title="FRANÇA",FR: 6TER
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6TER  HD" tvg-logo="" group-title="FRANÇA",FR: 6TER  HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB Moteur" tvg-logo="" group-title="FRANÇA",FR: AB Moteur
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB1" tvg-logo="" group-title="FRANÇA",FR: AB1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Action HD" tvg-logo="" group-title="FRANÇA",FR: Action HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Animaux HD" tvg-logo="" group-title="FRANÇA",FR: Animaux HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Arte HD" tvg-logo="" group-title="FRANÇA",FR: Arte HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sporm3u8 1" tvg-logo="" group-title="FRANÇA",FR: BeIN Sporm3u8 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sporm3u8 1 HD" tvg-logo="" group-title="FRANÇA",FR: BeIN Sporm3u8 1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sporm3u8 2" tvg-logo="" group-title="FRANÇA",FR: BeIN Sporm3u8 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sporm3u8 2 HD" tvg-logo="" group-title="FRANÇA",FR: BeIN Sporm3u8 2 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sporm3u8 3" tvg-logo="" group-title="FRANÇA",FR: BeIN Sporm3u8 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sporm3u8 3 HD" tvg-logo="" group-title="FRANÇA",FR: BeIN Sporm3u8 3 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sporm3u8 Max 10" tvg-logo="" group-title="FRANÇA",FR: BeIN Sporm3u8 Max 10
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sporm3u8 Max 4" tvg-logo="" group-title="FRANÇA",FR: BeIN Sporm3u8 Max 4
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sporm3u8 Max 5" tvg-logo="" group-title="FRANÇA",FR: BeIN Sporm3u8 Max 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sporm3u8 Max 6" tvg-logo="" group-title="FRANÇA",FR: BeIN Sporm3u8 Max 6
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sporm3u8 Max 7" tvg-logo="" group-title="FRANÇA",FR: BeIN Sporm3u8 Max 7
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sporm3u8 Max 8" tvg-logo="" group-title="FRANÇA",FR: BeIN Sporm3u8 Max 8
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN Sporm3u8 Max 9" tvg-logo="" group-title="FRANÇA",FR: BeIN Sporm3u8 Max 9
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bfm" tvg-logo="" group-title="FRANÇA",FR: Bfm
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Boomerang HD" tvg-logo="" group-title="FRANÇA",FR: Boomerang HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8" tvg-logo="" group-title="FRANÇA",FR: C8
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal" tvg-logo="" group-title="FRANÇA",FR: Canal
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Cinema HD" tvg-logo="" group-title="FRANÇA",FR: Canal Cinema HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Decale HD" tvg-logo="" group-title="FRANÇA",FR: Canal Decale HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Family HD" tvg-logo="" group-title="FRANÇA",FR: Canal Family HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal HD" tvg-logo="" group-title="FRANÇA",FR: Canal HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal J HD" tvg-logo="" group-title="FRANÇA",FR: Canal J HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 1" tvg-logo="" group-title="FRANÇA",FR: Canal Play 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 2" tvg-logo="" group-title="FRANÇA",FR: Canal Play 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 3" tvg-logo="" group-title="FRANÇA",FR: Canal Play 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 4" tvg-logo="" group-title="FRANÇA",FR: Canal Play 4
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 5" tvg-logo="" group-title="FRANÇA",FR: Canal Play 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Sporm3u8 HD" tvg-logo="" group-title="FRANÇA",FR: Canal Sporm3u8 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon Network" tvg-logo="" group-title="FRANÇA",FR: Cartoon Network
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Chasse & Peche HD" tvg-logo="" group-title="FRANÇA",FR: Chasse & Peche HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cherie 25" tvg-logo="" group-title="FRANÇA",FR: Cherie 25
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Classic" tvg-logo="" group-title="FRANÇA",FR: Cine Classic
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Classic HD" tvg-logo="" group-title="FRANÇA",FR: Cine Classic HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Emotion HD" tvg-logo="" group-title="FRANÇA",FR: Cine Emotion HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Famiz HD" tvg-logo="" group-title="FRANÇA",FR: Cine Famiz HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Frisson HD" tvg-logo="" group-title="FRANÇA",FR: Cine Frisson HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine FX" tvg-logo="" group-title="FRANÇA",FR: Cine FX
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Polar" tvg-logo="" group-title="FRANÇA",FR: Cine Polar
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Premier" tvg-logo="" group-title="FRANÇA",FR: Cine Premier
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Comedie" tvg-logo="" group-title="FRANÇA",FR: Comedie
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cstar" tvg-logo="" group-title="FRANÇA",FR: Cstar
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery" tvg-logo="" group-title="FRANÇA",FR: Discovery
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery SC" tvg-logo="" group-title="FRANÇA",FR: Discovery SC
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Chanel" tvg-logo="" group-title="FRANÇA",FR: Disney Chanel
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Cinemagic F" tvg-logo="" group-title="FRANÇA",FR: Disney Cinemagic F
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Junior" tvg-logo="" group-title="FRANÇA",FR: Disney Junior
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney XD" tvg-logo="" group-title="FRANÇA",FR: Disney XD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: E! Entertainment" tvg-logo="" group-title="FRANÇA",FR: E! Entertainment
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Equidia Live" tvg-logo="" group-title="FRANÇA",FR: Equidia Live
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Euronews" tvg-logo="" group-title="FRANÇA",FR: Euronews
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 2" tvg-logo="" group-title="FRANÇA",FR: Eurosport 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport HD" tvg-logo="" group-title="FRANÇA",FR: Eurosport HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 2" tvg-logo="" group-title="FRANÇA",FR: France 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 2 HD" tvg-logo="" group-title="FRANÇA",FR: France 2 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 3" tvg-logo="" group-title="FRANÇA",FR: France 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 3 HD" tvg-logo="" group-title="FRANÇA",FR: France 3 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 4" tvg-logo="" group-title="FRANÇA",FR: France 4
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 4 HD" tvg-logo="" group-title="FRANÇA",FR: France 4 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 5" tvg-logo="" group-title="FRANÇA",FR: France 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 5 HD" tvg-logo="" group-title="FRANÇA",FR: France 5 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France O" tvg-logo="" group-title="FRANÇA",FR: France O
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France O HD" tvg-logo="" group-title="FRANÇA",FR: France O HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: France24" tvg-logo="" group-title="FRANÇA",FR: France24
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Game One" tvg-logo="" group-title="FRANÇA",FR: Game One
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Golf HD" tvg-logo="" group-title="FRANÇA",FR: Golf HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Gulli" tvg-logo="" group-title="FRANÇA",FR: Gulli
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: HD1" tvg-logo="" group-title="FRANÇA",FR: HD1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Histoire" tvg-logo="" group-title="FRANÇA",FR: Histoire
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Infosport" tvg-logo="" group-title="FRANÇA",FR: Infosport
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: L'Equipe21" tvg-logo="" group-title="FRANÇA",FR: L'Equipe21
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6" tvg-logo="" group-title="FRANÇA",FR: M6
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 HD" tvg-logo="" group-title="FRANÇA",FR: M6 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 Music" tvg-logo="" group-title="FRANÇA",FR: M6 Music
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Mangas" tvg-logo="" group-title="FRANÇA",FR: Mangas
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: National Geographic" tvg-logo="" group-title="FRANÇA",FR: National Geographic
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nationalgeo Wild HD" tvg-logo="" group-title="FRANÇA",FR: Nationalgeo Wild HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nickelodeon" tvg-logo="" group-title="FRANÇA",FR: Nickelodeon
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ12" tvg-logo="" group-title="FRANÇA",FR: NRJ12
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NT1" tvg-logo="" group-title="FRANÇA",FR: NT1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: NT1 HD" tvg-logo="" group-title="FRANÇA",FR: NT1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Numéro 23" tvg-logo="" group-title="FRANÇA",FR: Numéro 23
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ocs Choc HD" tvg-logo="" group-title="FRANÇA",FR: Ocs Choc HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ocs Geanm3u8" tvg-logo="" group-title="FRANÇA",FR: Ocs Geanm3u8
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ocs Max" tvg-logo="" group-title="FRANÇA",FR: Ocs Max
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Paramount Channel" tvg-logo="" group-title="FRANÇA",FR: Paramount Channel
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Paris Premiere" tvg-logo="" group-title="FRANÇA",FR: Paris Premiere
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Piwi" tvg-logo="" group-title="FRANÇA",FR: Piwi
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planete   HD" tvg-logo="" group-title="FRANÇA",FR: Planete   HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planete AE" tvg-logo="" group-title="FRANÇA",FR: Planete AE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planete C.I HD" tvg-logo="" group-title="FRANÇA",FR: Planete C.I HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Couverte" tvg-logo="" group-title="FRANÇA",FR: RMC Couverte
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Rtl 9" tvg-logo="" group-title="FRANÇA",FR: Rtl 9
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Rm3u8 Deux HD" tvg-logo="" group-title="FRANÇA",FR: Rm3u8 Deux HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Rm3u8 Un HD" tvg-logo="" group-title="FRANÇA",FR: Rm3u8 Un HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Science et vie HD" tvg-logo="" group-title="FRANÇA",FR: Science et vie HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Season HD" tvg-logo="" group-title="FRANÇA",FR: Season HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Serie Club HD" tvg-logo="" group-title="FRANÇA",FR: Serie Club HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sporm3u8 1" tvg-logo="" group-title="FRANÇA",FR: SFR Sporm3u8 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sporm3u8 1 HD" tvg-logo="" group-title="FRANÇA",FR: SFR Sporm3u8 1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sporm3u8 2" tvg-logo="" group-title="FRANÇA",FR: SFR Sporm3u8 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sporm3u8 2 HD" tvg-logo="" group-title="FRANÇA",FR: SFR Sporm3u8 2 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sporm3u8 3" tvg-logo="" group-title="FRANÇA",FR: SFR Sporm3u8 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sporm3u8 3 HD" tvg-logo="" group-title="FRANÇA",FR: SFR Sporm3u8 3 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Syfy HD" tvg-logo="" group-title="FRANÇA",FR: Syfy HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCM Cinema" tvg-logo="" group-title="FRANÇA",FR: TCM Cinema
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Tcm France" tvg-logo="" group-title="FRANÇA",FR: Tcm France
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Teletoon" tvg-logo="" group-title="FRANÇA",FR: Teletoon
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Teva HD" tvg-logo="" group-title="FRANÇA",FR: Teva HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1" tvg-logo="" group-title="FRANÇA",FR: TF1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HD" tvg-logo="" group-title="FRANÇA",FR: TF1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Tiji" tvg-logo="" group-title="FRANÇA",FR: Tiji
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC HD" tvg-logo="" group-title="FRANÇA",FR: TMC HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: toute l'histoire" tvg-logo="" group-title="FRANÇA",FR: toute l'histoire
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV Breizh HD" tvg-logo="" group-title="FRANÇA",FR: TV Breizh HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ushuaia" tvg-logo="" group-title="FRANÇA",FR: Ushuaia
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Voyage HD" tvg-logo="" group-title="FRANÇA",FR: Voyage HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9" tvg-logo="" group-title="FRANÇA",FR: W9
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: WEO" tvg-logo="" group-title="FRANÇA",FR: WEO
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• Cine&Serie ●•★●•★" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/France-icon.png" group-title="FRANÇA",★●•★●• Cine&Serie ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• Cultur ●•★●•★" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/France-icon.png" group-title="FRANÇA",★●•★●• Cultur ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• Entretainment ●•★●•★" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/France-icon.png" group-title="FRANÇA",★●•★●• Entretainment ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• Sport ●•★●•★" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/France-icon.png" group-title="FRANÇA",★●•★●• Sport ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• Enfanm3u8 ●•★●•★" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/France-icon.png" group-title="FRANÇA",★●•★●• Enfanm3u8 ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★●•★●• Play-Box ●•★●•★" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/France-icon.png" group-title="FRANÇA",★●•★●• Play-Box ●•★●•★
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="---☛★ ALEMANHA ★☚---" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Germany-icon.png" group-title="ALEMANHA",---☛★ ALEMANHA ★☚---
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE Sky Select 1HD" tvg-logo="" group-title="ALEMANHA",DE Sky Select 1HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE Sky Select 2 HD" tvg-logo="" group-title="ALEMANHA",DE Sky Select 2 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE Sky Select 3 HD" tvg-logo="" group-title="ALEMANHA",DE Sky Select 3 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE Sky Select 4 HD" tvg-logo="" group-title="ALEMANHA",DE Sky Select 4 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE Sky Select 5 HD" tvg-logo="" group-title="ALEMANHA",DE Sky Select 5 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE Sky Select 6 HD" tvg-logo="" group-title="ALEMANHA",DE Sky Select 6 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE Sky Select 7 HD" tvg-logo="" group-title="ALEMANHA",DE Sky Select 7 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE SkySelect HD" tvg-logo="" group-title="ALEMANHA",DE SkySelect HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE- 13Th Street HD" tvg-logo="" group-title="ALEMANHA",DE- 13Th Street HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE- Disney Cinemagic HD" tvg-logo="" group-title="ALEMANHA",DE- Disney Cinemagic HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE- Disney Junior HD" tvg-logo="" group-title="ALEMANHA",DE- Disney Junior HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE- Disney XD HD" tvg-logo="" group-title="ALEMANHA",DE- Disney XD HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE- Nat Geo HD" tvg-logo="" group-title="ALEMANHA",DE- Nat Geo HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE- SKY ATLANTIC HD" tvg-logo="" group-title="ALEMANHA",DE- SKY ATLANTIC HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE- Sky Cinema   24 HD" tvg-logo="" group-title="ALEMANHA",DE- Sky Cinema   24 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE- Sky Cinema  1 HD" tvg-logo="" group-title="ALEMANHA",DE- Sky Cinema  1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE- Sky Cinema Action HD" tvg-logo="" group-title="ALEMANHA",DE- Sky Cinema Action HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE- Sky Cinema Family HD" tvg-logo="" group-title="ALEMANHA",DE- Sky Cinema Family HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE- Sport 1  HD" tvg-logo="" group-title="ALEMANHA",DE- Sport 1  HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE- TNT Film (TCM) Local" tvg-logo="" group-title="ALEMANHA",DE- TNT Film (TCM) Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: 13th Street Local" tvg-logo="" group-title="ALEMANHA",DE: 13th Street Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: AXN HD" tvg-logo="" group-title="ALEMANHA",DE: AXN HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Boomerang Local" tvg-logo="" group-title="ALEMANHA",DE: Boomerang Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cartoon Network Local" tvg-logo="" group-title="ALEMANHA",DE: Cartoon Network Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Classica Local" tvg-logo="" group-title="ALEMANHA",DE: Classica Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste HD" tvg-logo="" group-title="ALEMANHA",DE: Das Erste HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste Local" tvg-logo="" group-title="ALEMANHA",DE: Das Erste Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery Channel HD" tvg-logo="" group-title="ALEMANHA",DE: Discovery Channel HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery Channel Local" tvg-logo="" group-title="ALEMANHA",DE: Discovery Channel Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Channel HD" tvg-logo="" group-title="ALEMANHA",DE: Disney Channel HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Cinemagic Local" tvg-logo="" group-title="ALEMANHA",DE: Disney Cinemagic Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Junior Local" tvg-logo="" group-title="ALEMANHA",DE: Disney Junior Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney XD Local" tvg-logo="" group-title="ALEMANHA",DE: Disney XD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX" tvg-logo="" group-title="ALEMANHA",DE: DMAX
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: E! Entertainm. HD Local" tvg-logo="" group-title="ALEMANHA",DE: E! Entertainm. HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 HD Local" tvg-logo="" group-title="ALEMANHA",DE: Eurosport 1 HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD Xtra Local" tvg-logo="" group-title="ALEMANHA",DE: Eurosport 2 HD Xtra Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2HD Lokal" tvg-logo="" group-title="ALEMANHA",DE: Eurosport 2HD Lokal
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Family TV HD Local" tvg-logo="" group-title="ALEMANHA",DE: Family TV HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: FC Bayern TV Full HD" tvg-logo="" group-title="ALEMANHA",DE: FC Bayern TV Full HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: FC Bayern TV HD" tvg-logo="" group-title="ALEMANHA",DE: FC Bayern TV HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Fox HD" tvg-logo="" group-title="ALEMANHA",DE: Fox HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Fox Serie Local" tvg-logo="" group-title="ALEMANHA",DE: Fox Serie Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Franken TV local" tvg-logo="" group-title="ALEMANHA",DE: Franken TV local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Goldstar TV Local" tvg-logo="" group-title="ALEMANHA",DE: Goldstar TV Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: History HD" tvg-logo="" group-title="ALEMANHA",DE: History HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Jukebox Local" tvg-logo="" group-title="ALEMANHA",DE: Jukebox Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Junior Local" tvg-logo="" group-title="ALEMANHA",DE: Junior Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL eins HD Local" tvg-logo="" group-title="ALEMANHA",DE: KABEL eins HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel eins Local" tvg-logo="" group-title="ALEMANHA",DE: Kabel eins Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: KIKA HD" tvg-logo="" group-title="ALEMANHA",DE: KIKA HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Motorvision TV Local" tvg-logo="" group-title="ALEMANHA",DE: Motorvision TV Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: N24 HD Local" tvg-logo="" group-title="ALEMANHA",DE: N24 HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO WILD HD Local" tvg-logo="" group-title="ALEMANHA",DE: NAT GEO WILD HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NatGeo Wild Local" tvg-logo="" group-title="ALEMANHA",DE: NatGeo Wild Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: National Geographic Local" tvg-logo="" group-title="ALEMANHA",DE: National Geographic Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NDR HD" tvg-logo="" group-title="ALEMANHA",DE: NDR HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nickelodeon HD Local" tvg-logo="" group-title="ALEMANHA",DE: Nickelodeon HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: NRJ TV Local" tvg-logo="" group-title="ALEMANHA",DE: NRJ TV Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Oldenburg eins TV Local" tvg-logo="" group-title="ALEMANHA",DE: Oldenburg eins TV Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONE HD Local" tvg-logo="" group-title="ALEMANHA",DE: ONE HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 1 HD" tvg-logo="" group-title="ALEMANHA",DE: ORF 1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 2 HD" tvg-logo="" group-title="ALEMANHA",DE: ORF 2 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Planet HD" tvg-logo="" group-title="ALEMANHA",DE: Planet HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro7 Fun HD" tvg-logo="" group-title="ALEMANHA",DE: Pro7 Fun HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro7 MAXX HD Local" tvg-logo="" group-title="ALEMANHA",DE: Pro7 MAXX HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro7 MAXX Local" tvg-logo="" group-title="ALEMANHA",DE: Pro7 MAXX Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben HD Local" tvg-logo="" group-title="ALEMANHA",DE: ProSieben HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben Local" tvg-logo="" group-title="ALEMANHA",DE: ProSieben Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2 HD Local" tvg-logo="" group-title="ALEMANHA",DE: RTL 2 HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Crime HD Local" tvg-logo="" group-title="ALEMANHA",DE: RTL Crime HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Crime Local" tvg-logo="" group-title="ALEMANHA",DE: RTL Crime Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL HD Local" tvg-logo="" group-title="ALEMANHA",DE: RTL HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Living HD" tvg-logo="" group-title="ALEMANHA",DE: RTL Living HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Passion Local" tvg-logo="" group-title="ALEMANHA",DE: RTL Passion Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Television Local" tvg-logo="" group-title="ALEMANHA",DE: RTL Television Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL2 Local" tvg-logo="" group-title="ALEMANHA",DE: RTL2 Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTLNITRO HD" tvg-logo="" group-title="ALEMANHA",DE: RTLNITRO HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTLNITRO Local" tvg-logo="" group-title="ALEMANHA",DE: RTLNITRO Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTLplus Local" tvg-logo="" group-title="ALEMANHA",DE: RTLplus Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1 Gold" tvg-logo="" group-title="ALEMANHA",DE: Sat 1 Gold
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT.1 emotions" tvg-logo="" group-title="ALEMANHA",DE: SAT.1 emotions
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT.1 Gold Local" tvg-logo="" group-title="ALEMANHA",DE: SAT.1 Gold Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT.1 Local" tvg-logo="" group-title="ALEMANHA",DE: SAT.1 Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky 1 HD" tvg-logo="" group-title="ALEMANHA",DE: Sky 1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Atlantic  1 HD" tvg-logo="" group-title="ALEMANHA",DE: Sky Atlantic  1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Action Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Cinema Action Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Comedy Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Cinema Comedy Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Emotion Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Cinema Emotion Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky cinema Family Local" tvg-logo="" group-title="ALEMANHA",DE: Sky cinema Family Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema HD Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Cinema HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Him3u8 Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Cinema Him3u8 Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Cinema Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Nostalgie Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Cinema Nostalgie Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1 HD Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Sport 1 HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 HD" tvg-logo="" group-title="ALEMANHA",DE: Sky Sport 2 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Sport 2 Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 HD Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Sport 3 HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Sport 4 Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 1 Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Sport Bundesliga 1 Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 2 HD Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Sport Bundesliga 2 HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 3 Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Sport Bundesliga 3 Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 4 Local" tvg-logo="" group-title="ALEMANHA",DE: Sky Sport Bundesliga 4 Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sportdigital HD" tvg-logo="" group-title="ALEMANHA",DE: Sportdigital HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SR HD Local" tvg-logo="" group-title="ALEMANHA",DE: SR HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SUPER RTL HD" tvg-logo="" group-title="ALEMANHA",DE: SUPER RTL HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SUPER RTL Local" tvg-logo="" group-title="ALEMANHA",DE: SUPER RTL Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY HD" tvg-logo="" group-title="ALEMANHA",DE: SYFY HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Syfy Local" tvg-logo="" group-title="ALEMANHA",DE: Syfy Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tele 5" tvg-logo="" group-title="ALEMANHA",DE: Tele 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tele Regional Passau 1 Local" tvg-logo="" group-title="ALEMANHA",DE: Tele Regional Passau 1 Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tide TV Local" tvg-logo="" group-title="ALEMANHA",DE: Tide TV Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC" tvg-logo="" group-title="ALEMANHA",DE: TLC
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Comedy HD Local" tvg-logo="" group-title="ALEMANHA",DE: TNT Comedy HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Serie Local" tvg-logo="" group-title="ALEMANHA",DE: TNT Serie Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: TRP 1 Local" tvg-logo="" group-title="ALEMANHA",DE: TRP 1 Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Universal HD Local" tvg-logo="" group-title="ALEMANHA",DE: Universal HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX HD Local" tvg-logo="" group-title="ALEMANHA",DE: VOX HD Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX Local" tvg-logo="" group-title="ALEMANHA",DE: VOX Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR" tvg-logo="" group-title="ALEMANHA",DE: WDR
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF Local" tvg-logo="" group-title="ALEMANHA",DE: ZDF Local
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: zdf.info" tvg-logo="" group-title="ALEMANHA",DE: zdf.info
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: zdf.neo" tvg-logo="" group-title="ALEMANHA",DE: zdf.neo
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="---☛★ ESPANHA ★☚---" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/128/Spain-icon.png" group-title="ESPANHA",---☛★ ESPANHA ★☚---
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 HORAS" tvg-logo="" group-title="ESPANHA",ES: 24 HORAS
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: A&E" tvg-logo="" group-title="ESPANHA",ES: A&E
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC" tvg-logo="" group-title="ESPANHA",ES: AMC
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC HD" tvg-logo="" group-title="ESPANHA",ES: AMC HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 HD" tvg-logo="" group-title="ESPANHA",ES: ANTENA 3 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE" tvg-logo="" group-title="ESPANHA",ES: AXN WHITE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: BABY TV" tvg-logo="" group-title="ESPANHA",ES: BABY TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: BAR.A TV" tvg-logo="" group-title="ESPANHA",ES: BAR.A TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN LALIGA" tvg-logo="" group-title="ESPANHA",ES: BEIN LALIGA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN LALIGA HD" tvg-logo="" group-title="ESPANHA",ES: BEIN LALIGA HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING" tvg-logo="" group-title="ESPANHA",ES: BOING
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13" tvg-logo="" group-title="ESPANHA",ES: CALLE 13
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA" tvg-logo="" group-title="ESPANHA",ES: CANAL COCINA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DECASA" tvg-logo="" group-title="ESPANHA",ES: CANAL DECASA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ODISEA" tvg-logo="" group-title="ESPANHA",ES: CANAL ODISEA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA" tvg-logo="" group-title="ESPANHA",ES: CAZA Y PESCA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN  TVE" tvg-logo="" group-title="ESPANHA",ES: CLAN  TVE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL" tvg-logo="" group-title="ESPANHA",ES: COMEDY CENTRAL
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO" tvg-logo="" group-title="ESPANHA",ES: COSMO
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CRIMEN INVES" tvg-logo="" group-title="ESPANHA",ES: CRIMEN INVES
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO" tvg-logo="" group-title="ESPANHA",ES: CUATRO
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO HD" tvg-logo="" group-title="ESPANHA",ES: CUATRO HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY" tvg-logo="" group-title="ESPANHA",ES: DISCOVERY
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CH." tvg-logo="" group-title="ESPANHA",ES: DISNEY CH.
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JR" tvg-logo="" group-title="ESPANHA",ES: DISNEY JR
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY XD" tvg-logo="" group-title="ESPANHA",ES: DISNEY XD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY" tvg-logo="" group-title="ESPANHA",ES: DIVINITY
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY" tvg-logo="" group-title="ESPANHA",ES: ENERGY
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1" tvg-logo="" group-title="ESPANHA",ES: EUROSPORT 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="" group-title="ESPANHA",ES: FDF
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX" tvg-logo="" group-title="ESPANHA",ES: FOX
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX HD" tvg-logo="" group-title="ESPANHA",ES: FOX HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE" tvg-logo="" group-title="ESPANHA",ES: FOX LIFE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX NEWS" tvg-logo="" group-title="ESPANHA",ES: FOX NEWS
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL" tvg-logo="" group-title="ESPANHA",ES: GOL
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA" tvg-logo="" group-title="ESPANHA",ES: HISTORIA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD" tvg-logo="" group-title="ESPANHA",ES: HOLLYWOOD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD HD" tvg-logo="" group-title="ESPANHA",ES: HOLLYWOOD HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA TV" tvg-logo="" group-title="ESPANHA",ES: IBERALIA TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="" group-title="ESPANHA",ES: LA 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2" tvg-logo="" group-title="ESPANHA",ES: LA 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA" tvg-logo="" group-title="ESPANHA",ES: LA SEXTA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA HD" tvg-logo="" group-title="ESPANHA",ES: LA SEXTA HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA7d" tvg-logo="" group-title="ESPANHA",ES: LA7d
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LTC" tvg-logo="" group-title="ESPANHA",ES: LTC
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. ACCI©N HD" tvg-logo="" group-title="ESPANHA",ES: M. ACCI©N HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. ACCION" tvg-logo="" group-title="ESPANHA",ES: M. ACCION
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Cine Espanol" tvg-logo="" group-title="ESPANHA",ES: M. Cine Espanol
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. COMEDIA" tvg-logo="" group-title="ESPANHA",ES: M. COMEDIA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DCINE" tvg-logo="" group-title="ESPANHA",ES: M. DCINE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DCINE HD" tvg-logo="" group-title="ESPANHA",ES: M. DCINE HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEP 1" tvg-logo="" group-title="ESPANHA",ES: M. DEP 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. ESTRENOS" tvg-logo="" group-title="ESPANHA",ES: M. ESTRENOS
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. F.TBOL" tvg-logo="" group-title="ESPANHA",ES: M. F.TBOL
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. F.TBOL HD" tvg-logo="" group-title="ESPANHA",ES: M. F.TBOL HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. GOLF" tvg-logo="" group-title="ESPANHA",ES: M. GOLF
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. MOTOGP" tvg-logo="" group-title="ESPANHA",ES: M. MOTOGP
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. SERIESXTRA" tvg-logo="" group-title="ESPANHA",ES: M. SERIESXTRA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. XTRA" tvg-logo="" group-title="ESPANHA",ES: M. XTRA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.FORMULA1" tvg-logo="" group-title="ESPANHA",ES: M.FORMULA1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.FORMULA1HD" tvg-logo="" group-title="ESPANHA",ES: M.FORMULA1HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.MOTO GP HD" tvg-logo="" group-title="ESPANHA",ES: M.MOTO GP HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ESPANA" tvg-logo="" group-title="ESPANHA",ES: MTV ESPANA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO WILD" tvg-logo="" group-title="ESPANHA",ES: NAT GEO WILD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEOGRAPH" tvg-logo="" group-title="ESPANHA",ES: NAT GEOGRAPH
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: NONSTOPEOPLE" tvg-logo="" group-title="ESPANHA",ES: NONSTOPEOPLE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA" tvg-logo="" group-title="ESPANHA",ES: NOVA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY" tvg-logo="" group-title="ESPANHA",ES: SYFY
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM" tvg-logo="" group-title="ESPANHA",ES: TCM
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO" tvg-logo="" group-title="ESPANHA",ES: TELECINCO
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO HD" tvg-logo="" group-title="ESPANHA",ES: TELECINCO HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE" tvg-logo="" group-title="ESPANHA",ES: TELEDEPORTE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT" tvg-logo="" group-title="ESPANHA",ES: TNT
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJAR" tvg-logo="" group-title="ESPANHA",ES: VIAJAR
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESP: AXN" tvg-logo="" group-title="ESPANHA",ESP: AXN
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="------☛★ ITALIA ★☚------" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Italy-icon.png" group-title="ITÁLIA",------☛★ ITALIA ★☚------
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/6643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Alice" tvg-logo="" group-title="ITÁLIA",IT: Alice
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Boing" tvg-logo="" group-title="ITÁLIA",IT: Boing
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 5" tvg-logo="" group-title="ITÁLIA",IT: Canale 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cartoonito" tvg-logo="" group-title="ITÁLIA",IT: Cartoonito
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: cielo" tvg-logo="" group-title="ITÁLIA",IT: cielo
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Iris" tvg-logo="" group-title="ITÁLIA",IT: Iris
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Italia 1" tvg-logo="" group-title="ITÁLIA",IT: Italia 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: La 5" tvg-logo="" group-title="ITÁLIA",IT: La 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: LA7" tvg-logo="" group-title="ITÁLIA",IT: LA7
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset EXTRA" tvg-logo="" group-title="ITÁLIA",IT: Mediaset EXTRA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset ITALIA DUE" tvg-logo="" group-title="ITÁLIA",IT: Mediaset ITALIA DUE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 1" tvg-logo="" group-title="ITÁLIA",IT: Rai 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 1 HD" tvg-logo="" group-title="ITÁLIA",IT: Rai 1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 2" tvg-logo="" group-title="ITÁLIA",IT: Rai 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 2 HD" tvg-logo="" group-title="ITÁLIA",IT: Rai 2 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 3" tvg-logo="" group-title="ITÁLIA",IT: Rai 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 3 HD" tvg-logo="" group-title="ITÁLIA",IT: Rai 3 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 4" tvg-logo="" group-title="ITÁLIA",IT: Rai 4
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 4 HD" tvg-logo="" group-title="ITÁLIA",IT: Rai 4 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 5" tvg-logo="" group-title="ITÁLIA",IT: Rai 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 5 HD" tvg-logo="" group-title="ITÁLIA",IT: Rai 5 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Gulp" tvg-logo="" group-title="ITÁLIA",IT: Rai Gulp
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Gulp HD" tvg-logo="" group-title="ITÁLIA",IT: Rai Gulp HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Movie" tvg-logo="" group-title="ITÁLIA",IT: Rai Movie
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Movie HD" tvg-logo="" group-title="ITÁLIA",IT: Rai Movie HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai News 24" tvg-logo="" group-title="ITÁLIA",IT: Rai News 24
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai News 24 HD" tvg-logo="" group-title="ITÁLIA",IT: Rai News 24 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Premium HD" tvg-logo="" group-title="ITÁLIA",IT: Rai Premium HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Scuola" tvg-logo="" group-title="ITÁLIA",IT: Rai Scuola
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Scuola HD" tvg-logo="" group-title="ITÁLIA",IT: Rai Scuola HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Sport" tvg-logo="" group-title="ITÁLIA",IT: Rai Sport
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Sport   HD" tvg-logo="" group-title="ITÁLIA",IT: Rai Sport   HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Storia" tvg-logo="" group-title="ITÁLIA",IT: Rai Storia
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Storia HD" tvg-logo="" group-title="ITÁLIA",IT: Rai Storia HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai YoYo" tvg-logo="" group-title="ITÁLIA",IT: Rai YoYo
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai YoYo HD" tvg-logo="" group-title="ITÁLIA",IT: Rai YoYo HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete 4" tvg-logo="" group-title="ITÁLIA",IT: Rete 4
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Topcrime" tvg-logo="" group-title="ITÁLIA",IT: Topcrime
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV2000" tvg-logo="" group-title="ITÁLIA",IT: TV2000
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="------☛★ BÉLGICA ★☚------" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Belgium-icon.png" group-title="BÉLGICA",------☛★ BÉLGICA ★☚------
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: AB3 HD" tvg-logo="" group-title="BÉLGICA",BE: AB3 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: ACHT HD" tvg-logo="" group-title="BÉLGICA",BE: ACHT HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: CANVAS HD" tvg-logo="" group-title="BÉLGICA",BE: CANVAS HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: CINEMA 1" tvg-logo="" group-title="BÉLGICA",BE: CINEMA 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: CINEMA 2" tvg-logo="" group-title="BÉLGICA",BE: CINEMA 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: EEN HD" tvg-logo="" group-title="BÉLGICA",BE: EEN HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: ketnet" tvg-logo="" group-title="BÉLGICA",BE: ketnet
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: La deux" tvg-logo="" group-title="BÉLGICA",BE: La deux
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: La trois" tvg-logo="" group-title="BÉLGICA",BE: La trois
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: La une" tvg-logo="" group-title="BÉLGICA",BE: La une
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: PLUG RTL HD" tvg-logo="" group-title="BÉLGICA",BE: PLUG RTL HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: RTL PLUG HD" tvg-logo="" group-title="BÉLGICA",BE: RTL PLUG HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: RTL TVI HD" tvg-logo="" group-title="BÉLGICA",BE: RTL TVI HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: VIER HD" tvg-logo="" group-title="BÉLGICA",BE: VIER HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: VIJF HD" tvg-logo="" group-title="BÉLGICA",BE: VIJF HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: VITAYA" tvg-logo="" group-title="BÉLGICA",BE: VITAYA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE: VTM HD" tvg-logo="" group-title="BÉLGICA",BE: VTM HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="------☛★ USA ★☚------" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/United-States-icon.png" group-title="USA",------☛★ USA ★☚------
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HD" tvg-logo="" group-title="USA",USA: ABC HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC NEWS HD" tvg-logo="" group-title="USA",USA: ABC NEWS HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AETV HD" tvg-logo="" group-title="USA",USA: AETV HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC HD" tvg-logo="" group-title="USA",USA: AMC HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: BeIN Sporm3u8 US HD" tvg-logo="" group-title="USA",USA: BeIN Sporm3u8 US HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: BRAVO HD" tvg-logo="" group-title="USA",USA: BRAVO HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS HD" tvg-logo="" group-title="USA",USA: CBS HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: CN HD" tvg-logo="" group-title="USA",USA: CN HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNBC HD" tvg-logo="" group-title="USA",USA: CNBC HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNN HD" tvg-logo="" group-title="USA",USA: CNN HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISCOVERY HD" tvg-logo="" group-title="USA",USA: DISCOVERY HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: DIY Network HD" tvg-logo="" group-title="USA",USA: DIY Network HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: E! ENTERTAINMENT-US" tvg-logo="" group-title="USA",USA: E! ENTERTAINMENT-US
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 1 HD" tvg-logo="" group-title="USA",USA: ESPN 1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN HD" tvg-logo="" group-title="USA",USA: ESPN HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX HD" tvg-logo="" group-title="USA",USA: FOX HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX NEWS HD" tvg-logo="" group-title="USA",USA: FOX NEWS HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: FX HD" tvg-logo="" group-title="USA",USA: FX HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: LIFETIME HD" tvg-logo="" group-title="USA",USA: LIFETIME HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC HD" tvg-logo="" group-title="USA",USA: NBC HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: NICK HD" tvg-logo="" group-title="USA",USA: NICK HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: PBS HD" tvg-logo="" group-title="USA",USA: PBS HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: RT AMERICA" tvg-logo="" group-title="USA",USA: RT AMERICA
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime Next HD" tvg-logo="" group-title="USA",USA: Showtime Next HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: SHOWTIME SHOWCASE" tvg-logo="" group-title="USA",USA: SHOWTIME SHOWCASE
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPIKE HD" tvg-logo="" group-title="USA",USA: SPIKE HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: SYFY HD" tvg-logo="" group-title="USA",USA: SYFY HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: TBS HD" tvg-logo="" group-title="USA",USA: TBS HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT HD" tvg-logo="" group-title="USA",USA: TNT HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: m3u8N 1" tvg-logo="" group-title="USA",USA: m3u8N 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: m3u8N 2" tvg-logo="" group-title="USA",USA: m3u8N 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: m3u8N 3" tvg-logo="" group-title="USA",USA: m3u8N 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: m3u8N 4" tvg-logo="" group-title="USA",USA: m3u8N 4
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: m3u8N 5" tvg-logo="" group-title="USA",USA: m3u8N 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: WWE HD" tvg-logo="" group-title="USA",USA: WWE HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="------☛★ UK ★☚------" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/United-Kingdom-icon.png" group-title="UK",------☛★ UK ★☚------
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/4874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BoxNation" tvg-logo="" group-title="UK",UK: BoxNation
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: British Eurosport 2" tvg-logo="" group-title="UK",UK: British Eurosport 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT ESPN HD" tvg-logo="" group-title="UK",UK: BT ESPN HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="UK",UK: BT Sport 1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="UK",UK: BT Sport 2 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3HD" tvg-logo="" group-title="UK",UK: BT Sport 3HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Xtra 1" tvg-logo="" group-title="UK",UK: BT Sport Xtra 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Xtra 2" tvg-logo="" group-title="UK",UK: BT Sport Xtra 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Xtra 3" tvg-logo="" group-title="UK",UK: BT Sport Xtra 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Xtra 4" tvg-logo="" group-title="UK",UK: BT Sport Xtra 4
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Xtra 5" tvg-logo="" group-title="UK",UK: BT Sport Xtra 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Chelsea FC" tvg-logo="" group-title="UK",UK: Chelsea FC
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Liverpool" tvg-logo="" group-title="UK",UK: Liverpool
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Motor TV" tvg-logo="" group-title="UK",UK: Motor TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sporm3u8" tvg-logo="" group-title="UK",UK: Premier Sporm3u8
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Racing UK" tvg-logo="" group-title="UK",UK: Racing UK
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky  Disney" tvg-logo="" group-title="UK",UK: Sky  Disney
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky 1 HD" tvg-logo="" group-title="UK",UK: Sky 1 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky 2 HD" tvg-logo="" group-title="UK",UK: Sky 2 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Arm3u8 1" tvg-logo="" group-title="UK",UK: Sky Arm3u8 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Atlantic" tvg-logo="" group-title="UK",UK: Sky Atlantic
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premiere" tvg-logo="" group-title="UK",UK: Sky Cinema Premiere
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Comedy" tvg-logo="" group-title="UK",UK: Sky Comedy
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Drama" tvg-logo="" group-title="UK",UK: Sky Drama
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Family" tvg-logo="" group-title="UK",UK: Sky Family
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: sky Movies Gream3u8 HD" tvg-logo="" group-title="UK",UK: sky Movies Gream3u8 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Movies Select HD" tvg-logo="" group-title="UK",UK: Sky Movies Select HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Movies ShowCase" tvg-logo="" group-title="UK",UK: Sky Movies ShowCase
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky News" tvg-logo="" group-title="UK",UK: Sky News
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Scifi&horror" tvg-logo="" group-title="UK",UK: Sky Scifi&horror
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sporm3u8 Action HD" tvg-logo="" group-title="UK",UK: Sky Sporm3u8 Action HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sporm3u8 Cricket HD" tvg-logo="" group-title="UK",UK: Sky Sporm3u8 Cricket HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sporm3u8 Main Evenm3u8" tvg-logo="" group-title="UK",UK: Sky Sporm3u8 Main Evenm3u8
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sporm3u8 Main Evenm3u8 HD" tvg-logo="" group-title="UK",UK: Sky Sporm3u8 Main Evenm3u8 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sporm3u8 Mix HD" tvg-logo="" group-title="UK",UK: Sky Sporm3u8 Mix HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sporm3u8 News HD" tvg-logo="" group-title="UK",UK: Sky Sporm3u8 News HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sporm3u8 Premier League" tvg-logo="" group-title="UK",UK: Sky Sporm3u8 Premier League
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sporm3u8 The Open HD" tvg-logo="" group-title="UK",UK: Sky Sporm3u8 The Open HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Thriller" tvg-logo="" group-title="UK",UK: Sky Thriller
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="---☛★ HOLANDA ★☚---" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Netherlands-icon.png" group-title="HOLANDA",---☛★ HOLANDA ★☚---
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL:  Rtl Lounge" tvg-logo="" group-title="HOLANDA",NL:  Rtl Lounge
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: 13TH Street" tvg-logo="" group-title="HOLANDA",NL: 13TH Street
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: AT5 HD" tvg-logo="" group-title="HOLANDA",NL: AT5 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Cartoon Network" tvg-logo="" group-title="HOLANDA",NL: Cartoon Network
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Comedy Central" tvg-logo="" group-title="HOLANDA",NL: Comedy Central
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Comedy Central extra" tvg-logo="" group-title="HOLANDA",NL: Comedy Central extra
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Disney Channel HD" tvg-logo="" group-title="HOLANDA",NL: Disney Channel HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Disney Junior" tvg-logo="" group-title="HOLANDA",NL: Disney Junior
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Edge Sport HD" tvg-logo="" group-title="HOLANDA",NL: Edge Sport HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Eurosport" tvg-logo="" group-title="HOLANDA",NL: Eurosport
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Eurosport 2" tvg-logo="" group-title="HOLANDA",NL: Eurosport 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Film 1 Action" tvg-logo="" group-title="HOLANDA",NL: Film 1 Action
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Film 1 Comedy and kids" tvg-logo="" group-title="HOLANDA",NL: Film 1 Comedy and kids
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Film 1 Premiere HD" tvg-logo="" group-title="HOLANDA",NL: Film 1 Premiere HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Film 1 Spotlight" tvg-logo="" group-title="HOLANDA",NL: Film 1 Spotlight
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Film 1 Sundance" tvg-logo="" group-title="HOLANDA",NL: Film 1 Sundance
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: FOX HD" tvg-logo="" group-title="HOLANDA",NL: FOX HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sport HD1" tvg-logo="" group-title="HOLANDA",NL: Fox Sport HD1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sporm3u8 2" tvg-logo="" group-title="HOLANDA",NL: Fox Sporm3u8 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sporm3u8 3" tvg-logo="" group-title="HOLANDA",NL: Fox Sporm3u8 3
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sporm3u8 4" tvg-logo="" group-title="HOLANDA",NL: Fox Sporm3u8 4
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sporm3u8 5" tvg-logo="" group-title="HOLANDA",NL: Fox Sporm3u8 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sporm3u8 6" tvg-logo="" group-title="HOLANDA",NL: Fox Sporm3u8 6
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: MTV HD" tvg-logo="" group-title="HOLANDA",NL: MTV HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Net5 HD" tvg-logo="" group-title="HOLANDA",NL: Net5 HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Nick Jr" tvg-logo="" group-title="HOLANDA",NL: Nick Jr
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Nickelodeon" tvg-logo="" group-title="HOLANDA",NL: Nickelodeon
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Nicktoons" tvg-logo="" group-title="HOLANDA",NL: Nicktoons
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 1HD" tvg-logo="" group-title="HOLANDA",NL: NPO 1HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 2HD" tvg-logo="" group-title="HOLANDA",NL: NPO 2HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 3HD" tvg-logo="" group-title="HOLANDA",NL: NPO 3HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: NPO Doc" tvg-logo="" group-title="HOLANDA",NL: NPO Doc
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: NPO Politiek/Best" tvg-logo="" group-title="HOLANDA",NL: NPO Politiek/Best
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: NPO Zappelin Xtra/Humor TV" tvg-logo="" group-title="HOLANDA",NL: NPO Zappelin Xtra/Humor TV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: RTL  8 Telekids" tvg-logo="" group-title="HOLANDA",NL: RTL  8 Telekids
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: RTL 4" tvg-logo="" group-title="HOLANDA",NL: RTL 4
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: RTL 5" tvg-logo="" group-title="HOLANDA",NL: RTL 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: RTL 7" tvg-logo="" group-title="HOLANDA",NL: RTL 7
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: RTL 8" tvg-logo="" group-title="HOLANDA",NL: RTL 8
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: RTL Z" tvg-logo="" group-title="HOLANDA",NL: RTL Z
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: RTV" tvg-logo="" group-title="HOLANDA",NL: RTV
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: RTV Drenthe" tvg-logo="" group-title="HOLANDA",NL: RTV Drenthe
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport eXtra 1" tvg-logo="" group-title="HOLANDA",NL: Ziggo Sport eXtra 1
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport eXtra 2" tvg-logo="" group-title="HOLANDA",NL: Ziggo Sport eXtra 2
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Golf" tvg-logo="" group-title="HOLANDA",NL: Ziggo Sport Golf
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Racing" tvg-logo="" group-title="HOLANDA",NL: Ziggo Sport Racing
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Select HD" tvg-logo="" group-title="HOLANDA",NL: Ziggo Sport Select HD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Voetbal" tvg-logo="" group-title="HOLANDA",NL: Ziggo Sport Voetbal
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL:Veronica Disney XD" tvg-logo="" group-title="HOLANDA",NL:Veronica Disney XD
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="---☛★ RÁDIOS ★☚---" tvg-logo="https://www.centermidia.com/wp-content/uploads/2015/01/fstream-icon.png" group-title="RÁDIOS",---☛★ RÁDIOS ★☚---
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/6978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nova era" tvg-logo="http://radioportugal.net/sites/default/files/radio/logos/logo-nova-era_0.png" group-title="RÁDIOS",Nova era
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Orbital Mix" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/Esta%C3%A7%C3%A3o-Orbital-101.9-FM-R%C3%A1dio.png" group-title="RÁDIOS",Orbital Mix
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Radio_5_RNE_Spain.svg/2000px-Radio_5_RNE_Spain.svg.png" group-title="RÁDIOS",Radio 5
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RFM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/RFM_logo.png" group-title="RÁDIOS",RFM
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="80s RFM" tvg-logo="http://rfm.sapo.pt/images/logo_webr_80s.png" group-title="RÁDIOS",80s RFM
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comercial" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/d/d7/Logo_Radio_Comercial.png" group-title="RÁDIOS",Comercial
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Festival" tvg-logo="http://yournetindex.com/wp-content/uploads/2016/12/festival.png" group-title="RÁDIOS",Festival
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hiper FM" tvg-logo="https://www.hiper.fm/images/apple_touch_icon.png" group-title="RÁDIOS",Hiper FM
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mega Him3u8 FM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Mega_Him3u8_logo.png" group-title="RÁDIOS",Mega Him3u8 FM
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Popular FM" tvg-logo="http://static.radio.pt/images/broadcasm3u8/d9/1c/4865/c300.png" group-title="RÁDIOS",Popular FM
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Renascenca" tvg-logo="https://pbs.twimg.com/profile_images/708793506119163905/neuTGiLb.png" group-title="RÁDIOS",Renascenca
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="m3u8F" tvg-logo="http://vector.me/files/images/4/4/44117/m3u8f.png" group-title="RÁDIOS",m3u8F
+http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★★★★ Vod Movies ★★★★" tvg-logo="https://orig00.deviantart.net/624e/f/2017/253/2/e/directors_by_newdesign75-dbn0xy5.png" group-title="VOD MOVIES",★★★★ Vod Movies ★★★★
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien Covenant" tvg-logo="http://Revelation.ddnsfree.com:8000/images/not-found.jpg" group-title="VOD MOVIES",Alien Covenant
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9628.avi
+#EXTINF:-1 tvg-id="" tvg-name="Arsenal" tvg-logo="http://Revelation.ddnsfree.com:8000/images/5580536.jpg" group-title="VOD MOVIES",Arsenal
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9629.avi
+#EXTINF:-1 tvg-id="" tvg-name="Baywatch" tvg-logo="http://Revelation.ddnsfree.com:8000/images/1469304.jpg" group-title="VOD MOVIES",Baywatch
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9630.avi
+#EXTINF:-1 tvg-id="" tvg-name="Boyka Undisputed" tvg-logo="http://Revelation.ddnsfree.com:8000/images/3344680.jpg" group-title="VOD MOVIES",Boyka Undisputed
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9631.avi
+#EXTINF:-1 tvg-id="" tvg-name="Colossal" tvg-logo="http://Revelation.ddnsfree.com:8000/images/4680182.jpg" group-title="VOD MOVIES",Colossal
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9632.avi
+#EXTINF:-1 tvg-id="" tvg-name="Eusebio Título 1" tvg-logo="http://Revelation.ddnsfree.com:8000/images/4680182.jpg" group-title="VOD MOVIES",Eusebio Título 1
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9633.avi
+#EXTINF:-1 tvg-id="" tvg-name="Fátima" tvg-logo="http://Revelation.ddnsfree.com:8000/images/5528282.jpg" group-title="VOD MOVIES",Fátima
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9634.avi
+#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades Of Grey" tvg-logo="http://Revelation.ddnsfree.com:8000/images/2322441.jpg" group-title="VOD MOVIES",Fifty Shades Of Grey
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="First Kill" tvg-logo="http://Revelation.ddnsfree.com:8000/images/5884234.jpg" group-title="VOD MOVIES",First Kill
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9635.avi
+#EXTINF:-1 tvg-id="" tvg-name="Fist Fight" tvg-logo="http://Revelation.ddnsfree.com:8000/images/3401882.jpg" group-title="VOD MOVIES",Fist Fight
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9636.avi
+#EXTINF:-1 tvg-id="" tvg-name="Ghost In The Shell" tvg-logo="http://Revelation.ddnsfree.com:8000/images/1219827.jpg" group-title="VOD MOVIES",Ghost In The Shell
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9637.avi
+#EXTINF:-1 tvg-id="" tvg-name="Gifted 2017" tvg-logo="http://Revelation.ddnsfree.com:8000/images/4396630.jpg" group-title="VOD MOVIES",Gifted 2017
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9638.avi
+#EXTINF:-1 tvg-id="" tvg-name="How To Be A Latin Lover" tvg-logo="http://Revelation.ddnsfree.com:8000/images/4795124.jpg" group-title="VOD MOVIES",How To Be A Latin Lover
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9640.avi
+#EXTINF:-1 tvg-id="" tvg-name="Inconceivable" tvg-logo="http://Revelation.ddnsfree.com:8000/images/3481634.jpg" group-title="VOD MOVIES",Inconceivable
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9641.avi
+#EXTINF:-1 tvg-id="" tvg-name="It Comes At Night" tvg-logo="http://Revelation.ddnsfree.com:8000/images/4695012.jpg" group-title="VOD MOVIES",It Comes At Night
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9642.avi
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer Vengeance" tvg-logo="http://Revelation.ddnsfree.com:8000/images/3082898.jpg" group-title="VOD MOVIES",Kickboxer Vengeance
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9643.avi
+#EXTINF:-1 tvg-id="" tvg-name="Kidnap" tvg-logo="http://Revelation.ddnsfree.com:8000/images/1458169.jpg" group-title="VOD MOVIES",Kidnap
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9644.avi
+#EXTINF:-1 tvg-id="" tvg-name="Kill Switch" tvg-logo="http://Revelation.ddnsfree.com:8000/images/5464234.jpg" group-title="VOD MOVIES",Kill Switch
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9645.avi
+#EXTINF:-1 tvg-id="" tvg-name="King Arthur Legend Of The Sword" tvg-logo="http://Revelation.ddnsfree.com:8000/images/1972591.jpg" group-title="VOD MOVIES",King Arthur Legend Of The Sword
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9646.avi
+#EXTINF:-1 tvg-id="" tvg-name="Malapata" tvg-logo="http://Revelation.ddnsfree.com:8000/images/6397530.jpg" group-title="VOD MOVIES",Malapata
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9647.avi
+#EXTINF:-1 tvg-id="" tvg-name="Megan Leavey" tvg-logo="http://Revelation.ddnsfree.com:8000/images/4899370.jpg" group-title="VOD MOVIES",Megan Leavey
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9648.avi
+#EXTINF:-1 tvg-id="" tvg-name="Melhor Da Liga Dos Ultimos Título 1" tvg-logo="http://Revelation.ddnsfree.com:8000/images/4899370.jpg" group-title="VOD MOVIES",Melhor Da Liga Dos Ultimos Título 1
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9649.avi
+#EXTINF:-1 tvg-id="" tvg-name="Once Upon A Time In Venice 2017" tvg-logo="http://Revelation.ddnsfree.com:8000/images/4694544.jpg" group-title="VOD MOVIES",Once Upon A Time In Venice 2017
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9650.avi
+#EXTINF:-1 tvg-id="" tvg-name="Pirates Of The Caribean Dead Men Tell No Tales" tvg-logo="http://Revelation.ddnsfree.com:8000/images/1790809.jpg" group-title="VOD MOVIES",Pirates Of The Caribean Dead Men Tell No Tales
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9652.avi
+#EXTINF:-1 tvg-id="" tvg-name="Rough Night" tvg-logo="http://Revelation.ddnsfree.com:8000/images/4799050.jpg" group-title="VOD MOVIES",Rough Night
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9653.avi
+#EXTINF:-1 tvg-id="" tvg-name="S W A T  Under Siege 2017" tvg-logo="http://Revelation.ddnsfree.com:8000/images/6014472.jpg" group-title="VOD MOVIES",S W A T  Under Siege 2017
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9654.avi
+#EXTINF:-1 tvg-id="" tvg-name="Security" tvg-logo="http://Revelation.ddnsfree.com:8000/images/3501112.jpg" group-title="VOD MOVIES",Security
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9655.avi
+#EXTINF:-1 tvg-id="" tvg-name="Snatched" tvg-logo="http://Revelation.ddnsfree.com:8000/images/2334871.jpg" group-title="VOD MOVIES",Snatched
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9656.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Bye Bye Man" tvg-logo="http://Revelation.ddnsfree.com:8000/images/4030600.jpg" group-title="VOD MOVIES",The Bye Bye Man
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9661.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Circle" tvg-logo="http://Revelation.ddnsfree.com:8000/images/4287320.jpg" group-title="VOD MOVIES",The Circle
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9662.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Good Lie" tvg-logo="http://Revelation.ddnsfree.com:8000/images/2652092.jpg" group-title="VOD MOVIES",The Good Lie
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9663.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Hitmans Bodyguard" tvg-logo="http://Revelation.ddnsfree.com:8000/images/1959563.jpg" group-title="VOD MOVIES",The Hitmans Bodyguard
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9664.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Hunters Prayer" tvg-logo="http://Revelation.ddnsfree.com:8000/images/2674358.jpg" group-title="VOD MOVIES",The Hunters Prayer
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9665.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Lost City Of Z" tvg-logo="http://Revelation.ddnsfree.com:8000/images/1212428.jpg" group-title="VOD MOVIES",The Lost City Of Z
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9666.avi
+#EXTINF:-1 tvg-id="" tvg-name="The-mummy" tvg-logo="http://Revelation.ddnsfree.com:8000/images/2345759.jpg" group-title="VOD MOVIES",The-mummy
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9658.avi
+#EXTINF:-1 tvg-id="" tvg-name="The-recall" tvg-logo="http://Revelation.ddnsfree.com:8000/images/5669936.jpg" group-title="VOD MOVIES",The-recall
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9659.avi
+#EXTINF:-1 tvg-id="" tvg-name="The-wall" tvg-logo="http://Revelation.ddnsfree.com:8000/images/1520211.jpg" group-title="VOD MOVIES",The-wall
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9660.avi
+#EXTINF:-1 tvg-id="" tvg-name="Unlocked" tvg-logo="http://Revelation.ddnsfree.com:8000/images/1734493.jpg" group-title="VOD MOVIES",Unlocked
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9668.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vengeance-a-love-story" tvg-logo="http://Revelation.ddnsfree.com:8000/images/5460530.jpg" group-title="VOD MOVIES",Vengeance-a-love-story
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9669.avi
+#EXTINF:-1 tvg-id="" tvg-name="A Bailarina (pt)" tvg-logo="http://Revelation.ddnsfree.com:8000/images/6759990.jpg" group-title="VOD KIDS",A Bailarina (pt)
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Idade Do Gelo O Big Bang 2016 Anim Pt" tvg-logo="http://Revelation.ddnsfree.com:8000/images/6759990.jpg" group-title="VOD KIDS",A Idade Do Gelo O Big Bang 2016 Anim Pt
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Idade Do Gelo-a Grande Caça Ao Ovo" tvg-logo="http://Revelation.ddnsfree.com:8000/images/5480340.jpg" group-title="VOD KIDS",A Idade Do Gelo-a Grande Caça Ao Ovo
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9618.avi
+#EXTINF:-1 tvg-id="" tvg-name="A Minha Vida De Courgette" tvg-logo="http://Revelation.ddnsfree.com:8000/images/2321405.jpg" group-title="VOD KIDS",A Minha Vida De Courgette
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Procura De Dori 2016(anim)" tvg-logo="http://Revelation.ddnsfree.com:8000/images/2277860.jpg" group-title="VOD KIDS",A Procura De Dori 2016(anim)
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Secreta Dos Nossos Bichos 2016(anim)" tvg-logo="http://Revelation.ddnsfree.com:8000/images/2277860.jpg" group-title="VOD KIDS",A Vida Secreta Dos Nossos Bichos 2016(anim)
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anastasia Anim" tvg-logo="http://Revelation.ddnsfree.com:8000/images/not-found.jpg" group-title="VOD KIDS",Anastasia Anim
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Angry Birds 2016(anim)" tvg-logo="http://Revelation.ddnsfree.com:8000/images/5825444.jpg" group-title="VOD KIDS",Angry Birds 2016(anim)
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animais Unidos Anim" tvg-logo="http://Revelation.ddnsfree.com:8000/images/not-found.jpg" group-title="VOD KIDS",Animais Unidos Anim
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aqui Há Gato" tvg-logo="http://Revelation.ddnsfree.com:8000/images/0076069.jpg" group-title="VOD KIDS",Aqui Há Gato
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carros" tvg-logo="http://Revelation.ddnsfree.com:8000/images/0317219.jpg" group-title="VOD KIDS",Carros
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carros 2" tvg-logo="http://Revelation.ddnsfree.com:8000/images/1216475.jpg" group-title="VOD KIDS",Carros 2
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9619.avi
+#EXTINF:-1 tvg-id="" tvg-name="Carros Toon-as Grandes Histórias Do Mate" tvg-logo="http://Revelation.ddnsfree.com:8000/images/1216475.jpg" group-title="VOD KIDS",Carros Toon-as Grandes Histórias Do Mate
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cegonhas 2016 Anim Pt" tvg-logo="http://Revelation.ddnsfree.com:8000/images/1216475.jpg" group-title="VOD KIDS",Cegonhas 2016 Anim Pt
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despicable Me 3 2017 Anim-eng" tvg-logo="http://Revelation.ddnsfree.com:8000/images/1216475.jpg" group-title="VOD KIDS",Despicable Me 3 2017 Anim-eng
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dofus" tvg-logo="http://Revelation.ddnsfree.com:8000/images/3818446.jpg" group-title="VOD KIDS",Dofus
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9620.avi
+#EXTINF:-1 tvg-id="" tvg-name="Elena E O Segredo De Avalor" tvg-logo="http://Revelation.ddnsfree.com:8000/images/3818446.jpg" group-title="VOD KIDS",Elena E O Segredo De Avalor
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9621.avi
+#EXTINF:-1 tvg-id="" tvg-name="Leap! 2016" tvg-logo="http://Revelation.ddnsfree.com:8000/images/2261287.jpg" group-title="VOD KIDS",Leap! 2016
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ovelhas E Lobos" tvg-logo="http://Revelation.ddnsfree.com:8000/images/3746824.jpg" group-title="VOD KIDS",Ovelhas E Lobos
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ozzy" tvg-logo="http://Revelation.ddnsfree.com:8000/images/5770430.jpg" group-title="VOD KIDS",Ozzy
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Petes Dragon 2016(anim)" tvg-logo="http://Revelation.ddnsfree.com:8000/images/5770430.jpg" group-title="VOD KIDS",Petes Dragon 2016(anim)
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ratchet & Clank 2016(anim)" tvg-logo="http://Revelation.ddnsfree.com:8000/images/0117443.jpg" group-title="VOD KIDS",Ratchet & Clank 2016(anim)
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sing" tvg-logo="http://Revelation.ddnsfree.com:8000/images/3470600.jpg" group-title="VOD KIDS",Sing
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spirit - Espírito Selvagem" tvg-logo="http://Revelation.ddnsfree.com:8000/images/0166813.jpg" group-title="VOD KIDS",Spirit - Espírito Selvagem
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry Willy Wonka" tvg-logo="http://Revelation.ddnsfree.com:8000/images/6803390.jpg" group-title="VOD KIDS",Tom And Jerry Willy Wonka
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9667.avi
+#EXTINF:-1 tvg-id="" tvg-name="Trolls 2016 (anim)" tvg-logo="http://Revelation.ddnsfree.com:8000/images/6803390.jpg" group-title="VOD KIDS",Trolls 2016 (anim)
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uma Aventura No Jurassico 2016 Anim Pt" tvg-logo="http://Revelation.ddnsfree.com:8000/images/6803390.jpg" group-title="VOD KIDS",Uma Aventura No Jurassico 2016 Anim Pt
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vaiana (pt)" tvg-logo="http://Revelation.ddnsfree.com:8000/images/not-found.jpg" group-title="VOD KIDS",Vaiana (pt)
+http://bomba2017.hopto.org:8000/movie/Ribeirao/Ribeirao/9617.mkv
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 HD PT" tvg-logo="http://195.154.221.171/picons/rtp1hdpt.png" group-title="Portugal",RTP 1 HD PT
 http://portal.geniptv.com:8080/live/bmbm/bmbm/2714.m3u8
