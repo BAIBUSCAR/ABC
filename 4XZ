@@ -3,12 +3,16 @@
 
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9177.m3u8
+#EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV (Op 2)
+http://painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4283.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot
 http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4281.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot (Op 2)
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9176.m3u8
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9171.m3u8
+#EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus (Op 2)
+http://painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4282.m3u8
 #EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9166.m3u8
 #EXTINF:-1 tvg-id="Redlight" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
@@ -25,6 +29,8 @@ http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9172.m3u8
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9174.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8667.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",TeenModels.com 
+http://painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/9244.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", VIVID TOUCH
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", STARS TV
