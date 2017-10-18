@@ -76,36 +76,46 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1382.m3u8
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/971.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV + (Op 2)
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5654.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 HD
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/7.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 HQ
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/666.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5648.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 2)
-http://51.255.77.23:7777/live/anouar00/anouar123456/10701.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 3)
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5647.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 SD
 rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 SD (Op 2)
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/723.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 2G
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/324.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/667.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 HD (Op 2)
-http://51.255.77.23:7777/live/anouar00/anouar123456/10700.m3u8
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/8.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 HD (Op 3)
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/7261.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5646.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 2) 
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5634.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 SD
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/724.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 2G
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/325.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/668.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 HD (Op 2) 
-http://51.255.77.23:7777/live/anouar00/anouar123456/10709.m3u8
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/9.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5643.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 SD
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/725.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 2G
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/326.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 HD 
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/669.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 HD  (Op 2) 
-http://51.255.77.23:7777/live/anouar00/anouar123456/10727.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5640.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 HD
@@ -446,7 +456,6 @@ https://nasa-i.akamaihd.net/hls/live/253566/NTV-Media/master.m3u8
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/CumCatano.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/ybu6gb5w" group-title="CumCatano",LIVE ISS STREAM (Op 2)
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-
 
 
 
