@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8potr6o" group-title="FILMES", Dark Tower
+http://assistir.querofilmehd.com/filmes/The.Dark.Tower.2017.1080p.BluRay.DTS.x264-NoGRP.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydamqtya" group-title="FILMES", Planeta dos Macacos - A Guerra
+http://assistir.querofilmehd.com/filmes/macacos-leg.mp4
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc9kz983" group-title="FILMES", Annabelle 2
 http://assistir.querofilmehd.com/filmes/annalegendado.mp4
 
