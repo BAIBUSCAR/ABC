@@ -133,7 +133,7 @@ http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5611.m3u8
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/motorvisiontv.png" tvg-id="Motorvision.pt" group-title="CumCatano",MOTORVISION.TV
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5610.m3u8
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV
-
+https://api-v2.redbull.tv/dms/media/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNvZGVyS2V5IjoibWFzdGVyOjoyOGI0ODgzMSIsInVpZCI6IjU1MGJjY2Q0LThhYWMtNGNmNS1hY2M5LTM0MzgxOGQ4MzZlNyIsIm9mZnNldCI6LTQzMjAwMDAwLCJzb3VyY2UiOiJsaW5lYXIiLCJ2ZXJzaW9uIjo0LCJpYXQiOjE0NzYwNTI2NTh9.al2jB4OdFCTS1PAtFI_709qasPRbMVkUwvs79SDPzWo=/7326000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="CumCatano", Extreme Sports
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="CumCatano",PFC
