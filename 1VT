@@ -223,7 +223,7 @@ http://tv.105.net:1935/live/virgin1/chunklist_w864163580.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/646bh7slp/HEAVYMETAL.png" group-title="CumCatano",Heavy Metal TV
 http://70.166.98.130:1935/hmtv/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yajd7p7e" group-title="CumCatano",ESKA ROCK TV
-http://stream.cdn.smcloud.net/eska_rock-t/eska_rock_720p/playlist.m3u8
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/meq2khq" group-title="CumCatano",INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ycx3z6fp" group-title="CumCatano",ALEX BERLIN (Urban Music)
@@ -240,6 +240,10 @@ http://185.22.78.82:8826/play/a00n
 http://92.249.68.106/15/810
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="CumCatano",MTV BASE
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7enocla" tvg-id="" group-title="CumCatano",REBEL TV
+rtmp://95.211.203.5/live/rebel.stream
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7tpe7aj" tvg-id="" group-title="CumCatano",24RockOne66
+http://194.116.83.15:80/24RockOne66
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybga4dxp" tvg-id="" group-title="CumCatano",ONE Rock HD
 rtmp://91.201.78.3:1935/live/rockhd
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y743efem" tvg-id="" group-title="CumCatano",ONE Jazz HD
@@ -291,7 +295,7 @@ http://rtmp.one.by:2300
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n4j9ver" tvg-id="mezzo.pt" group-title="CumCatano", Mezzo Live 
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9353.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yctjl6cs" tvg-id="0" group-title="CumCatano",Music Box
-
+rtmp://212.26.132.86/live/mb_ua
 #EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/BRIDGETV.png" group-title="CumCatano", Bridge TV  
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycr5tx6x" group-title="CumCatano", DJING HOT HOT HOT HD
