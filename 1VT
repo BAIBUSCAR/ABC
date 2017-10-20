@@ -23,25 +23,25 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="CumCatano",SIC NOTICIAS (Geo Block) (Op 2)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="CumCatano",SIC NOTICIAS
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5678.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/5.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="CumCatano",RTP 3
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5673.m3u8
+http://black.myvnc.com:8000/live/vito/vito/6.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="CumCatano",RTP 3 (Op 2)
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5673.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/96.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" group-title="CumCatano",TVI24 
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" group-title="CumCatano",TVI24 (Op 2)
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lphnap6" tvg-id="CMTV.pt" group-title="CumCatano",CMTV
-http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1389.m3u8
+http://black.myvnc.com:8000/live/vito/vito/14.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="CumCatano",SIC RADICAL (Geo Block)
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="CumCatano",SIC RADICAL
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5679.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/10.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" tvg-id="sicmulher.pt" group-title="CumCatano",SIC MULHER
-http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1315.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/6.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png" tvg-id="SicCaras.pt" group-title="CumCatano",SIC CARAS
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5682.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/9.m3u8
 #EXTINF:-1 tvg-logo="https://s27.postimg.org/jiij9m1xv/Log_tipo_TVI.png" tvg-id="" group-title="CumCatano",+ TVI
 http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/WhvCo4" tvg-id="TVIFiccao.pt" group-title="CumCatano",TVI FICCAO
@@ -49,169 +49,193 @@ http://4.31.30.145:9004
 #EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIReal.pt" group-title="CumCatano",TVI REALITY
 http://4.31.30.145:9040
 #EXTINF:-1 tvg-id="TVIReal.pt" tvg-logo="https://tinyurl.com/yb4t8tuw" group-title="CumCatano",TVI Reality (Op 2)
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5689.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/12.m3u8
 #EXTINF:-1 tvg-id="TVIReal.pt" tvg-logo="https://tinyurl.com/yb4t8tuw" group-title="CumCatano",TVI Reality MOSAICO
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9312.m3u8
+http://black.myvnc.com:8000/live/vito/vito/25.m3u8
 #EXTINF:-1 tvg-id="TVIReal.pt" tvg-logo="https://tinyurl.com/yb4t8tuw" group-title="CumCatano",TVI Reality Camera 1
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9313.m3u8
+http://black.myvnc.com:8000/live/vito/vito/2391.m3u8
 #EXTINF:-1 tvg-id="TVIReal.pt" tvg-logo="https://tinyurl.com/yb4t8tuw" group-title="CumCatano",TVI Reality Camera 2
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9314.m3u8
+http://black.myvnc.com:8000/live/vito/vito/2390.m3u8
 #EXTINF:-1 tvg-id="TVIReal.pt" tvg-logo="https://tinyurl.com/yb4t8tuw" group-title="CumCatano",TVI Reality Camera 3
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9315.m3u8
+http://black.myvnc.com:8000/live/vito/vito/2389.m3u8
 #EXTINF:-1 tvg-id="TVIReal.pt" tvg-logo="https://tinyurl.com/yb4t8tuw" group-title="CumCatano",TVI Reality Camera 4
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9316.m3u8
+http://black.myvnc.com:8000/live/vito/vito/2388.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="CumCatano", PORTO CANAL 
 http://213.13.26.11:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="CumCatano", PORTO CANAL (Op 2)
 http://213.13.26.13:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="CanalQ.pt" group-title="CumCatano",CANAL Q
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5549.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/55.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5548.m3u8
+http://black.myvnc.com:8000/live/vito/vito/26.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD (Op 2)
-http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1382.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/82.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="FoodNetwork.pt" group-title="CumCatano", FOOD NETWORK
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/83.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV +
-http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/971.m3u8
+http://black.myvnc.com:8000/live/vito/vito/29.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV + (Op 2)
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5654.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 HQ
-http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/666.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/19.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 FHD
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/109.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 HD
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/20.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 HD (Op 2)
+http://black.myvnc.com:8000/live/vito/vito/32.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 HD Low 
+http://black.myvnc.com:8000/live/vito/vito/8459.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5648.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/14.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 2)
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5647.m3u8
+http://black.myvnc.com:8000/live/vito/vito/8446.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 SD
 rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 FHD
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/110.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 HD
-http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/667.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/21.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 HD (Op 2)
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/7261.m3u8
+http://black.myvnc.com:8000/live/vito/vito/35.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5646.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 2) 
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5634.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/15.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 FHD
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/111.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 HD
-http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/668.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/22.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 HD
+http://black.myvnc.com:8000/live/vito/vito/38.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5643.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/16.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 FHD 
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/112.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 HD 
-http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/669.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/23.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 HD (Op 2)
+http://black.myvnc.com:8000/live/vito/vito/40.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5640.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/17.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 FHD
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/113.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 HD
-http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/674.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/24.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 HD (Op 2)
+http://black.myvnc.com:8000/live/vito/vito/42.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5637.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/18.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV FHD
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/25.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV FHD (Op 2)
+http://black.myvnc.com:8000/live/vito/vito/3724.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV HD
-http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/675.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV HQ
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5628.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5625.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/26.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV HD (Op 2)
+http://black.myvnc.com:8000/live/vito/vito/3725.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV HD Low
+http://black.myvnc.com:8000/live/vito/vito/8454.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV 
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/25.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 2)
+http://black.myvnc.com:8000/live/vito/vito/46.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5620.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/86.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="CumCatano",SPORTING TV 
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/27.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="CumCatano",EUROSPORT
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5618.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/71.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="CumCatano",EUROSPORT 2
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5616.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/72.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/m5a5vj3" tvg-id="0" group-title="CumCatano",Eurosport 2 Xtra
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mgjb999" tvg-id="EurosportNews.pt" group-title="CumCatano",Eurosport News
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/73.m3u8
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV.pt" group-title="CumCatano",Fuel TV
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9341.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/76.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" tvg-id="FightNetwork" group-title="CumCatano",KOMBAT SPORT
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5607.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/87.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y77b6ep9" tvg-id="FightNetwork.pt" group-title="CumCatano",FIGHT NETWORK HD
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5555.m3u8
+http://black.myvnc.com:8000/live/vito/vito/61.m3u8
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/motorstv.png" tvg-id="MotorsTV.pt" group-title="CumCatano",MOTORS TV
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5611.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/75.m3u8
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/motorvisiontv.png" tvg-id="Motorvision.pt" group-title="CumCatano",MOTORVISION.TV
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5610.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/74.m3u8
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="CumCatano", Extreme Sports
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="CumCatano",PFC
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5612.m3u8
+http://black.myvnc.com:8000/live/vito/vito/62.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n5zs2f4" tvg-id="NBATV" group-title="CumCatano",NBA
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5615.m3u8
+
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5602.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/37.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 (Op 2)
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5603.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2684.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano",TVCINE 2 
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5600.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/38.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano",TVCINE 2 (Op 2)
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5601.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2686.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5598.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/39.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3 (Op 2)
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5599.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2682.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano",TVCINE 4
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5596.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/40.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano",TVCINE 4 (Op 2)
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5597.m3u8
+http://portal.geniptv.com:8080/live/bmbm/bmbm/2681.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="CumCatano",TVSeries HD
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5590.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD HD
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5588.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/41.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5589.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/52.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="CumCatano",SYFY
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5583.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/54.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo.pt" group-title="CumCatano",CINEMUNDO
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9336.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/53.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="SUNDANCE.pt" group-title="CumCatano",Sundance HD
-http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1392.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/68.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="CumCatano",MOV
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC.pt" group-title="CumCatano",AMC HD
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5585.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/46.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="CumCatano",AXN
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5571.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/43.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="CumCatano",AXN Black
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5572.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/45.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mye96kn" tvg-id="AXNWhite.pt" group-title="CumCatano",AXN White
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5573.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/44.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="CumCatano",FOX
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5581.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/47.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt" group-title="CumCatano",FOX LIFE
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5579.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/48.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FoxMovies.pt" group-title="CumCatano",FOX MOVIES
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5578.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/50.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="CumCatano",FOX CRIME
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5576.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/49.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7w737bs" tvg-id="fx.pt" group-title="CumCatano",FX
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="CumCatano",FOX COMEDY
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9337.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/51.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5532.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/34.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5531.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/33.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ml8o23f" tvg-id="" group-title="CumCatano",Mickey Mouse e os seus Amigos
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5526.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/36.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5528.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/35.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5530.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/31.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5523.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/29.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SicK.pt" group-title="CumCatano",SIC K
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5529.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/28.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JimJam.pt" group-title="CumCatano",JIMJAM
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5527.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/30.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BabyTV.pt" group-title="CumCatano",BABY TV
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5525.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/32.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l5mg6h8" tvg-id="BABYFIRST.pt" group-title="CumCatano",Baby First
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5524.m3u8
+http://black.myvnc.com:8000/live/vito/vito/98.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydhaysn3" tvg-id="0" group-title="CumCatano",Retro Cartoon (BR)
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="CumCatano",VIRGIN TV
@@ -229,21 +253,21 @@ http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ycx3z6fp" group-title="CumCatano",ALEX BERLIN (Urban Music)
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="mtvportugal.pt" group-title="CumCatano",MTV PORTUGAL
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/57.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="MTVRocks.uk" group-title="CumCatano",MTV ROCKS 
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9352.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/60.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7tkyapj" tvg-id="MTVMusic.uk" group-title="CumCatano",MTV Music
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9351.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/58.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nPj2Q7" tvg-id="0" group-title="CumCatano",MTV LIVE
-http://185.22.78.82:8826/play/a00n
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="CumCatano",MTV DANCE
-http://92.249.68.106/15/810
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/59.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="CumCatano",MTV BASE
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7enocla" tvg-id="" group-title="CumCatano",REBEL TV
-rtmp://95.211.203.5/live/rebel.stream
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7tpe7aj" tvg-id="" group-title="CumCatano",24RockOne66
 http://194.116.83.15:80/24RockOne66
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7tpe7aj" tvg-id="" group-title="CumCatano",24RockOne66 (Op 2)
+http://194.116.83.15:80/24RockOne66?MSWMExt=.asf
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybga4dxp" tvg-id="" group-title="CumCatano",ONE Rock HD
 rtmp://91.201.78.3:1935/live/rockhd
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y743efem" tvg-id="" group-title="CumCatano",ONE Jazz HD
@@ -257,25 +281,25 @@ rtmp://91.201.78.3:1935/live/classicshd
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycwxlpba" tvg-id="" group-title="CumCatano",ONE Dance HD
 rtmp://91.201.78.3:1935/live/dancehd
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="CumCatano",VH1 EUROPE
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/62.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="vh1.pt" group-title="CumCatano",VH1 CLASSIC
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5538.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/61.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TRACE TV" group-title="CumCatano",TRACE TV
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5553.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/66.m3u8
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmtop.png" tvg-id="MCMTOP" group-title="CumCatano",MCM TOP
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5540.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/63.m3u8
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmpop.png" tvg-id="MCMPOP" group-title="CumCatano",MCM POP
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5541.m3u8
+
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/powertv-lichoridas.png" group-title="CumCatano", Power TV
 http://powertv.cdnturk.com/powertv/powertv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="iconcerm3u8hd" tvg-logo="https://tinyurl.com/y8ne3mbu" group-title="CumCatano",iConcerts HD
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5536.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/64.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" tvg-id="C-Music.pt" group-title="CumCatano",C MUSIC
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5535.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/67.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9bwt2ko" tvg-id="" group-title="CumCatano",Clubbing TV
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" tvg-id="AFRO" group-title="CumCatano",AFRO MUSIC
-http://4.31.30.145:9034
+http://4.31.30.145:9034http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/65.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mro9vmo" tvg-id="0" group-title="CumCatano",VOX
 http://stream.cdn.smcloud.net/vox2-p/stream1/chunklis.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" group-title="CumCatano",M6 MUSIQUE
@@ -291,9 +315,9 @@ http://rtmp.one.by:2200
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CumCatano", ONE.by (RUS) 2 HD
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-logo="https://tinyurl.com/katf23g" tvg-id="mezzo.pt" group-title="CumCatano", Mezzo
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/69.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n4j9ver" tvg-id="mezzo.pt" group-title="CumCatano", Mezzo Live 
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9353.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yctjl6cs" tvg-id="0" group-title="CumCatano",Music Box
 rtmp://212.26.132.86/live/mb_ua
 #EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/BRIDGETV.png" group-title="CumCatano", Bridge TV  
@@ -311,39 +335,39 @@ http://www.djing.com/tv/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CumCatano", DJING ANIMATION   
 http://www.djing.com/tv/a-05.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/hXyY5B" tvg-id="discoverychannel.pt" group-title="CumCatano",DISCOVERY
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5566.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/89.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" tvg-id=" 	DiscoveryHDShowcase.pt" group-title="CumCatano",DISCOVERY SHOWCASE
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5567.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/90.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="CumCatano",NATIONAL GEOGRAPHIC
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5565.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/91.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NatGeoWild.pt" group-title="CumCatano",NAT GEO WILD
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5564.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/92.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="CumCatano",ODISSEIA
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/88.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="CumCatano",HISTORIA
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/104.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="eentertainment.pt" group-title="CumCatano",E! Entertainment
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5557.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/56.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="AandE.pt" group-title="CumCatano",A&E
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5547.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/77.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="CumCatano",TLC
 http://4.31.30.145:9043
 #EXTINF:-1 tvg-logo="http://savepic.net/8100452.png" tvg-id="FineLiving.pt" group-title="CumCatano",FINE LIVING NETWORK
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5556.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/94.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kxh2nlc" tvg-id="" group-title="CumCatano",Crime Investigation CI
-http://painelpro.net:8000/live/Pr1v4t3AC3B0X/PS8yyTIiGN/6231.ts
+http://black.myvnc.com:8000/live/vito/vito/3715.m3u8
 #EXTINF:-1 tvg-id="MCSExtreme.pt" tvg-logo="https://goo.gl/N7hEOL" tvg-id="0" group-title="CumCatano",MCS EXTREME
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5552.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/80.m3u8
 #EXTINF:-1 tvg-id="MCSLifeStyle.pt" tvg-logo="http://i.imgur.com/HdrXSms.png" tvg-id="0" group-title="CumCatano",MCS LIFESTYLE
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5546.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/79.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSReality.pt" group-title="CumCatano",CBS REALITY
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5560.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/81.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" tvg-id="TRV.pt" group-title="CumCatano",TRAVEL CHANNEL
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5554.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/93.m3u8
 #EXTINF:-1 tvg-id="OUTDOOR HD" tvg-logo="https://tinyurl.com/y9ett95g" group-title="CumCatano",OUTDOOR CHANNEL
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5558.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Oo0DzJ" tvg-id="FASH" group-title="CumCatano",FTV
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5550.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y92tyltk" group-title="CumCatano",CLASS TV MODA
 http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ya4886ah" tvg-id="0" group-title="CumCatano",Ocean TV
@@ -351,43 +375,47 @@ http://92.249.68.106/4/19122
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yas6l4td" tvg-id="0" group-title="CumCatano",Landscape  TV
 http://130.88.20.237:1235/monitor.flv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lpl3fes" tvg-id="" group-title="CumCatano",Dog TV
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/78.m3u8
 #EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/yddlnnke" group-title="CumCatano", HISTORY LAB
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yccxcqyw" group-title="CumCatano", Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lWlG90R.png" tvg-id="rtpmemoria.pt" group-title="CumCatano",RTP MEMORIA
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/105.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/52PvNv" tvg-id="RTPi.pt" group-title="CumCatano",RTP INTERNACIONAL
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/97.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" tvg-id="RTPMadeira.pt" group-title="CumCatano",RTP MADEIRA
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/98.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" tvg-id="RTPAcores.pt" group-title="CumCatano",RTP ACORES
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/99.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/UWmNh1" tvg-id="RTPAfrica.pt" group-title="CumCatano",RTP AFRICA
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/100.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9lzgwq5" tvg-id="Localvisao.pt" group-title="CumCatano",Localvisão TV HD
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/103.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://logos.switchtv.net/url/pt/regioes_tv.jpg" group-title="CumCatano",REGIOES TV
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/102.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/j5XGBIT.png" tvg-id="ARTV.pt" group-title="CumCatano",AR TV
 http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://goo.gl/guxnEM" group-title="CumCatano",SANTUARIO DE FATIMA
 http://213.13.26.11:1935/live/santuario.stream/CumCatano.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/ycltdtqd" group-title="CumCatano",FOTO GABRIEL 
+http://4.31.30.145:9002/
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/yboftgp7" group-title="CumCatano",Agueda TV
 http://cmgaia.worldvds.com:8080/hls/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kpae3da" tvg-id="0" group-title="CumCatano",ARROIOS TV
 http://213.13.26.11:1935/live/luis/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yaggzc6y" tvg-id="GloboPremium.pt" group-title="CumCatano",GLOBO PREMIUM
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5661.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="TVGlobo.pt" group-title="CumCatano",GLOBO
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="tvrecord.pt" group-title="CumCatano",TV RECORD
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5664.m3u8
+
 #EXTINF:-1 tvg-logo="http://rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" tvg-id="TCV" group-title="CumCatano",TCV 
 http://213.13.26.11:1935/live/rtc_teste/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/m3u8NZEpc.png" tvg-id="TPA" group-title="CumCatano",TPA
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Xngpfr" tvg-id="Euronews.nws" group-title="CumCatano", EURONEWS PT
-
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/70.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png" tvg-id="0" group-title="CumCatano",BAND
 http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" tvg-id="0" group-title="CumCatano",TV GALICIA
@@ -425,11 +453,11 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 #EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/yakeag9x" group-title="CumCatano",NEWSMAX TV
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" tvg-id="TorosTV.pt" group-title="CumCatano",TOROS TV
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5609.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7ldy687" tvg-id="cazaepesca.pt" group-title="CumCatano",CACA & PESCA
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5605.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/84.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pIEZt5S.png" tvg-id="CacaVision.pt" group-title="CumCatano",CACAVISION
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5608.m3u8
+http://url.switchtv.net:8080/live/alexstreams/santiagocompostela/85.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd74vh52" tvg-id="" group-title="CumCatano", Silence TV
 http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc47w5e5" tvg-id="" group-title="CumCatano", Earth TV
@@ -442,6 +470,10 @@ https://nasa-i.akamaihd.net/hls/live/253566/NTV-Media/master.m3u8
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/CumCatano.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/ybu6gb5w" group-title="CumCatano",LIVE ISS STREAM (Op 2)
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+
+
+
 
 
 
