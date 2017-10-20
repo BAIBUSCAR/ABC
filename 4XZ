@@ -2,35 +2,33 @@
 
 
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9177.m3u8
+http://black.myvnc.com:8000/live/vito/vito/2386.m3u8
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV (Op 2)
-http://painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4283.ts
+http://black.myvnc.com:8000/live/vito/vito/8638.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot
-http://www.painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4281.m3u8
+http://black.myvnc.com:8000/live/vito/vito/2385.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot (Op 2)
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9176.m3u8
+http://black.myvnc.com:8000/live/vito/vito/8634.m3u8
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9171.m3u8
-#EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus (Op 2)
-http://painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/4282.ts
+http://black.myvnc.com:8000/live/vito/vito/166.m3u8
 #EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9166.m3u8
+http://black.myvnc.com:8000/live/vito/vito/3136.m3u8
 #EXTINF:-1 tvg-id="Redlight" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9175.m3u8
+http://black.myvnc.com:8000/live/vito/vito/3039.m3u8
 #EXTINF:-1 tvg-id="PRIVATE TV" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="XTV", Private
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9169.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9173.m3u8
+http://black.myvnc.com:8000/live/vito/vito/2394.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="XTV", Frenchlover
 http://95.28.79.213:34040/udp/233.33.221.36:5050
 #EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9172.m3u8
+http://black.myvnc.com:8000/live/vito/vito/170.m3u8
 #EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9174.m3u8
+http://black.myvnc.com:8000/live/vito/vito/8636.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/8667.m3u8
+http://37.9.0.201:8889 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",TeenModels.com 
-http://painelpro.net:8000/live/RV058uCBRM/a5LajOgO8t/9244.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", VIVID TOUCH
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", STARS TV
@@ -40,7 +38,7 @@ http://62.210.113.177:19000/udp/238.0.100.6:5000
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y84d3d8u" group-title="XTV", O-La-La
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yb3pjv8e" group-title="XTV", Sextreme
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9165.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y96w5do6" group-title="XTV", Satisfaction TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://savepic.net/7824814.png" group-title="XTV",SESTO SENSO TV 
@@ -50,9 +48,9 @@ http://37.9.0.201:8811
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk
 http://37.9.0.201:8890
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yboke6kw" group-title="XTV",Pink O TV
-http://37.9.0.201:8889 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSIONXXX
-http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/9157.m3u8
+http://black.myvnc.com:8000/live/vito/vito/8635.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9kmcv8p" group-title="XTV",PASSIEXXX
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="XTV",Eroxxx HD
