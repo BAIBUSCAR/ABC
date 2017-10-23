@@ -749,7 +749,6 @@ http://video3.earthcam.com:1935/fecnetwork/7322.flv/playlist.m3u8
 
 
 
-http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",Achensee - Christlum
 rtmp://stream.livespotting.tv/windit-edge/vv148_720p.stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",Augsburg - Hotel Augusta
