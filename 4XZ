@@ -19,6 +19,8 @@ http://109.248.70.99:3371/udp/239.195.2.4:1234
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV
 
+#EXTINF:-1 tvg-id="But GO" tvg-name="But GO" tvg-logo="https://tinyurl.com/ycl2uuma" group-title="XTV" , But GO 
+http://playlist.prg09.v-ip-tv.com/atip/1/12/channel-17/0/pc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="XTV", Frenchlover
 http://95.28.79.213:34040/udp/233.33.221.36:5050
 #EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD
@@ -234,10 +236,6 @@ http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-108/pc.m3u8
 #EXTINF:-1,tvg-id=""tvg-logo="https://tinyurl.com/y95gxur8" group-title="XTV", Claro Adulto 18
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yboke6kw" group-title="XTV",Pink TV Asia
-
-#EXTINF:-1 tvg-id="But GO" tvg-name="But GO" tvg-logo="https://tinyurl.com/ycl2uuma" group-title="XTV" , But GO 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/iay7x8" group-title="XTV",BUTGO 
 
 #EXTINF:-1 tvg-id="Live Ting" tvg-name="Live Ting" tvg-logo="https://tinyurl.com/y9dfl76o" group-title="XTV" , Live Ting 
 
