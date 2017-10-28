@@ -2,35 +2,35 @@
 
 
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV
-http://109.248.70.99:3371/udp/239.195.2.5:1234
+http://217.182.165.155:8000/live/spock/spock/2386.m3u8
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV (Op 2)
-
+http://217.182.165.155:8000/live/spock/spock/8638.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot
-
+http://217.182.165.155:8000/live/spock/spock/2385.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot (Op 2)
-
+http://217.182.165.155:8000/live/spock/spock/8634.m3u8
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus
-
+http://217.182.165.155:8000/live/spock/spock/166.m3u8
 #EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers
-http://109.248.70.99:3371/udp/239.195.2.4:1234
+http://217.182.165.155:8000/live/spock/spock/3136.m3u8
 #EXTINF:-1 tvg-id="Redlight" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
 
 #EXTINF:-1 tvg-id="PRIVATE TV" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="XTV", Private
-
+http://217.182.165.155:8000/live/spock/spock/8644.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV
-
+http://217.182.165.155:8000/live/spock/spock/2394.m3u8
 #EXTINF:-1 tvg-id="But GO" tvg-name="But GO" tvg-logo="https://tinyurl.com/ycl2uuma" group-title="XTV" , But GO 
 http://playlist.prg09.v-ip-tv.com/atip/1/12/channel-17/0/pc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="XTV", Frenchlover
 http://95.28.79.213:34040/udp/233.33.221.36:5050
 #EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD
-
+http://217.182.165.155:8000/live/spock/spock/170.m3u8
 #EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 
-
+http://217.182.165.155:8000/live/spock/spock/8636.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel
 http://37.9.0.201:8889 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",TeenModels.com 
-
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",Reality Kings
+http://217.182.165.155:8000/live/spock/spock/8639.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", VIVID TOUCH
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", STARS TV
