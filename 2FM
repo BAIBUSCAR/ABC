@@ -1,6 +1,33 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7tj5plt" group-title="FILMES", It
+http://zeus.netcine.tv/httpdelivery/filmes2017/ACOISA2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yah62ujj" group-title="FILMES", The Gril with all the Gifts
+http://assistir.querofilmehd.com/filmes/Melanie-A.Ultima.Esperanca.2017.2A.720p.BluRay.x264-DRONES-ABS(1).mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9n4k6tc" group-title="FILMES", 1922
+http://assistir.querofilmehd.com/filmes/1922%202017%20720p%20NF%20WEB-DL%20DD5.1%20x264-NTG%20DUAL-IRONSIDE(1).mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8sv5bwk" group-title="FILMES", A Autópsia De Jane Doe
+http://assistir.querofilmehd.com/filmes/The.Autopsy.of.Jane.Doe.2016.1080p.WEB-DL.DD5.1.H264-FGT(1).mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybwvl4oc" group-title="FILMES", A CABANA
+http://zeus.netcine.tv/httpdelivery/filmes2017/4C4B4N42017LEGENDADO-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7r7qmmo" group-title="FILMES", DEATH NOTE
+http://ic-5e3cb500-12687f-1bjdobr.s.loris.llnwd.net/httpdelivery/filmes2017/MORTELEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybk4x4ww" group-title="FILMES", EM RITMO DE FUGA
+http://zeus.netcine.tv/httpdelivery/filmes2017/RITMODEFUGA2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydyhbkub" group-title="FILMES", JUNGLE
+http://assistir.querofilmehd.com/filmes/Jungle.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc49z25l" group-title="FILMES", Gru o maldisposto 3
+http://zeus.netcine.tv/httpdelivery/filmes2017/MALVADOLEG2017-ALTO.mp4
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8potr6o" group-title="FILMES", Dark Tower
 http://assistir.querofilmehd.com/filmes/The.Dark.Tower.2017.1080p.BluRay.DTS.x264-NoGRP.mp4
 
