@@ -4,6 +4,8 @@
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV
 http://217.182.165.155:8000/live/rave/rave/2386.m3u8
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV (Op 2)
+http://188.62.240.200:9000/play/a02k
+#EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV (Op 3)
 http://217.182.165.155:8000/live/rave/rave/8638.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot
 http://217.182.165.155:8000/live/rave/rave/2385.m3u8
@@ -11,6 +13,8 @@ http://217.182.165.155:8000/live/rave/rave/2385.m3u8
 http://217.182.165.155:8000/live/rave/rave/8634.m3u8
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus
 http://217.182.165.155:8000/live/rave/rave/166.m3u8
+#EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus(Op 2)
+http://188.62.240.200:9000/play/a01i
 #EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers
 http://217.182.165.155:8000/live/rave/rave/3136.m3u8
 #EXTINF:-1 tvg-id="Redlight" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
