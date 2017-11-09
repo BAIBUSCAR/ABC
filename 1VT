@@ -4,10 +4,14 @@
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="CumCatano",RTP 1
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="CumCatano",RTP 1 SD
+rtmp://noscdn1.connectedviews.com/live/rtp1.stream
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="CumCatano",RTP 2 HD
 http://noscdn1.connectedviews.com:1935/live/rtp2.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="CumCatano",RTP 2
 http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="CumCatano",RTP 2 SD
+rtmp://noscdn1.connectedviews.com/live/rtp2.stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="CumCatano",SIC
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="CumCatano",SIC (Op 2)
@@ -23,15 +27,15 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="CumCatano",SIC NOTICIAS (Op 2)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="CumCatano",RTP 3
-http://black.myvnc.com:8000/live/rave/rave/6.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/6.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="CumCatano",RTP 3 (Op 2)
-http://perolanegra.net:8000/live/rave/rave/6.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" group-title="CumCatano",TVI24 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" tvg-id="TVI24.pt" group-title="CumCatano",TVI24 
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" group-title="CumCatano",TVI24 (Op 2)
+#EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" tvg-id="TVI24.pt" group-title="CumCatano",TVI24 (Op 2)
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lphnap6" tvg-id="CMTV.pt" group-title="CumCatano",CMTV
-http://black.myvnc.com:8000/live/rave/rave/14.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/2370.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lphnap6" tvg-id="CMTV.pt" group-title="CumCatano",CMTV (Op 2)
 http://188.62.240.200:9000/play/a02o
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="CumCatano",SIC RADICAL
@@ -39,9 +43,9 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="CumCatano",SIC RADICAL (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/2387.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" tvg-id="sicmulher.pt" group-title="CumCatano",SIC MULHER
-http://black.myvnc.com:8000/live/rave/rave/21.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/21.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png" tvg-id="SicCaras.pt" group-title="CumCatano",SIC CARAS
-http://black.myvnc.com:8000/live/rave/rave/22.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/22.m3u8
 #EXTINF:-1 tvg-logo="https://s27.postimg.org/jiij9m1xv/Log_tipo_TVI.png" tvg-id="" group-title="CumCatano",+ TVI
 http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/WhvCo4" tvg-id="TVIFiccao.pt" group-title="CumCatano",TVI FICCAO
@@ -49,43 +53,43 @@ http://4.31.30.145:9004
 #EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIReal.pt" group-title="CumCatano",TVI REALITY
 http://4.31.30.145:9040
 #EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIReal.pt" group-title="CumCatano",TVI Reality (Op 2)
-http://black.myvnc.com:8000/live/rave/rave/3708.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/3708.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIReal.pt" group-title="CumCatano",TVI Reality MOSAICO
-http://black.myvnc.com:8000/live/rave/rave/25.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/25.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIReal.pt" group-title="CumCatano",TVI Reality Camera 1
-http://black.myvnc.com:8000/live/rave/rave/2391.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/2391.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIReal.pt" group-title="CumCatano",TVI Reality Camera 2
-http://black.myvnc.com:8000/live/rave/rave/2390.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/2390.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIReal.pt" group-title="CumCatano",TVI Reality Camera 3
-http://black.myvnc.com:8000/live/rave/rave/2389.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/2389.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/CFniVp" tvg-id="TVIReal.pt" group-title="CumCatano",TVI Reality Camera 4
-http://black.myvnc.com:8000/live/rave/rave/2388.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/2388.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="CumCatano", PORTO CANAL 
 http://213.13.26.11:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/azHle4" tvg-id="PortoCanal.pt" group-title="CumCatano", PORTO CANAL (Op 2)
 http://213.13.26.13:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="CanalQ.pt" group-title="CumCatano",CANAL Q
-http://black.myvnc.com:8000/live/rave/rave/27.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/27.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="CanalQ.pt" group-title="CumCatano",CANAL Q (Op 2)
 http://188.62.240.200:9000/play/a02b
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD
-http://black.myvnc.com:8000/live/rave/rave/26.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/26.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD (Op 2)
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1382.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="FoodNetwork.pt" group-title="CumCatano", FOOD NETWORK
-
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1004.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV +
-http://black.myvnc.com:8000/live/rave/rave/30.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/29.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV + (Op 2)
-http://black.myvnc.com:8000/live/rave/rave/29.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/30.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1
-http://black.myvnc.com:8000/live/rave/rave/32.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/8445.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1(Op 2)
-http://black.myvnc.com:8000/live/rave/rave/8459.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/32.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1(Op 3)
-http://217.182.165.155:8000/live/rave/rave/32.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/8459.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1(Op 4)
-http://217.182.165.155:8000/live/rave/rave/8459.ts
+http://perolanegra.net:8000/live/Jerome/Jerome/8446.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1(Op 5)
 http://188.62.240.200:9000/play/a00c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1(Op 6)
@@ -93,7 +97,7 @@ http://188.62.240.200:9000/play/a021
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 SD
 rtmp://213.152.180.151:17247/sstream/EuxPCYoiaN.stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2
-http://black.myvnc.com:8000/live/rave/rave/35.m3u8
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/667.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/8458.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 3)
@@ -104,32 +108,28 @@ http://188.62.240.200:9000/play/a00d
 http://188.62.240.200:9000/play/a01f
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 SD
 rtmp://213.152.180.151:17247/sstream/0qZjb9kndn.stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3
-http://black.myvnc.com:8000/live/rave/rave/38.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 
 http://perolanegra.net:8000/live/Jerome/Jerome/8457.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 3)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/39.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 4)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 3)
 http://188.62.240.200:9000/play/a00e
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 5)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 4)
 http://188.62.240.200:9000/play/a01h
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 
-http://black.myvnc.com:8000/live/rave/rave/40.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/8456.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 3)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/41.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 4)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 3)
 http://188.62.240.200:9000/play/a00t
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5
-http://black.myvnc.com:8000/live/rave/rave/42.m3u8
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/674.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5(Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/2363.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5(Op 3)
 http://perolanegra.net:8000/live/Jerome/Jerome/8455.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV 
-http://black.myvnc.com:8000/live/rave/rave/3725.m3u8
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/675.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/46.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 3)
@@ -158,7 +158,7 @@ http://188.62.240.200:9000/play/a02l
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n5zs2f4" tvg-id="NBATV" group-title="CumCatano",NBA
 http://perolanegra.net:8000/live/Jerome/Jerome/3696.m3u8
-#EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/motorstv.png" tvg-id="MotorsTV.pt" group-title="CumCatano",MOTORS TV
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7kapnuk" tvg-id="MotorsTV.pt" group-title="CumCatano",MOTORS TV
 http://perolanegra.net:8000/live/Jerome/Jerome/59.m3u8
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/motorvisiontv.png" tvg-id="Motorvision.pt" group-title="CumCatano",MOTORVISION.TV
 http://perolanegra.net:8000/live/Jerome/Jerome/58.m3u8
@@ -167,7 +167,7 @@ http://188.62.240.200:9000/play/a01r
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV
 
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV.pt" group-title="CumCatano",Fuel TV
-
+http://perolanegra.net:8000/live/Jerome/Jerome/60.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" tvg-id="FightNetwork" group-title="CumCatano",KOMBAT SPORT
 http://perolanegra.net:8000/live/Jerome/Jerome/777.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y77b6ep9" tvg-id="FightNetwork.pt" group-title="CumCatano",FIGHT NETWORK HD
@@ -177,139 +177,135 @@ rtmp://213.152.180.151:17247/sstream/6fUnIBKxvH.stream
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="CumCatano", Extreme Sports
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 
-http://black.myvnc.com:8000/live/rave/rave/8467.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/65.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/64.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 (Op 3)
 http://188.62.240.200:9000/play/a01j
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano",TVCINE 2 
-http://black.myvnc.com:8000/live/rave/rave/66.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/67.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano",TVCINE 2 (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/8466.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano",TVCINE 2 (Op 3)
 http://188.62.240.200:9000/play/a00q
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3
-http://black.myvnc.com:8000/live/rave/rave/68.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/69.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3 (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/8465.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3 (Op 3)
 http://188.62.240.200:9000/play/a01u
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano",TVCINE 4
-http://black.myvnc.com:8000/live/rave/rave/70.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/71.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano",TVCINE 4 (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/8464.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano",TVCINE 4 (Op 3)
 http://188.62.240.200:9000/play/a00v
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="CumCatano",TVSeries HD
-http://black.myvnc.com:8000/live/rave/rave/8463.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/80.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="CumCatano",TVSeries HD (Op 2)
 http://188.62.240.200:9000/play/a01v
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD
-http://black.myvnc.com:8000/live/rave/rave/72.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/72.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/73.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD (Op 3)
 http://188.62.240.200:9000/play/a00p
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="CumCatano",SYFY
-http://black.myvnc.com:8000/live/rave/rave/90.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/90.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="CumCatano",SYFY (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/2374.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo.pt" group-title="CumCatano",CINEMUNDO
-http://black.myvnc.com:8000/live/rave/rave/77.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/77.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo.pt" group-title="CumCatano",CINEMUNDO (Op 2)
 http://188.62.240.200:9000/play/a013
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="SUNDANCE.pt" group-title="CumCatano",Sundance
-
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1392.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="CumCatano",MOV
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC.pt" group-title="CumCatano",AMC
-http://black.myvnc.com:8000/live/rave/rave/76.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/1853.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC.pt" group-title="CumCatano",AMC (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/76.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC.pt" group-title="CumCatano",AMC (Op 3)
 http://188.62.240.200:9000/play/a00r
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="CumCatano",AXN
-http://black.myvnc.com:8000/live/rave/rave/81.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/8416.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="CumCatano",AXN (Op 2)
 http://188.62.240.200:9000/play/a00g
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="CumCatano",AXN Black
-http://black.myvnc.com:8000/live/rave/rave/8461.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/83.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="CumCatano",AXN Black (Op 2)
 http://188.62.240.200:9000/play/a02r
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mye96kn" tvg-id="AXNWhite.pt" group-title="CumCatano",AXN White
-http://black.myvnc.com:8000/live/rave/rave/82.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/82.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mye96kn" tvg-id="AXNWhite.pt" group-title="CumCatano",AXN White (Op 2)
 http://188.62.240.200:9000/play/a02t
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="CumCatano",FOX
-http://black.myvnc.com:8000/live/rave/rave/84.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/84.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="CumCatano",FOX (Op 2)
 http://188.62.240.200:9000/play/a00h
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt" group-title="CumCatano",FOX LIFE
-http://black.myvnc.com:8000/live/rave/rave/85.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/85.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt" group-title="CumCatano",FOX LIFE (Op 2)
-
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/963.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FoxMovies.pt" group-title="CumCatano",FOX MOVIES
-http://black.myvnc.com:8000/live/rave/rave/74.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/74.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FoxMovies.pt" group-title="CumCatano",FOX MOVIES (Op 2)
-
+http://perolanegra.net:8000/live/Jerome/Jerome/2367.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="CumCatano",FOX CRIME
-http://black.myvnc.com:8000/live/rave/rave/86.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/85.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="CumCatano",FOX CRIME (Op 2)
 http://188.62.240.200:9000/play/a02v
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7w737bs" tvg-id="fx.pt" group-title="CumCatano",FX
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="CumCatano",FOX COMEDY
-http://black.myvnc.com:8000/live/rave/rave/2373.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/88.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="CumCatano",FOX COMEDY (Op 2)
 http://188.62.240.200:9000/play/a02e
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y874olye" group-title="CumCatano",FILMS 24/7 (BR)
 http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL
-http://black.myvnc.com:8000/live/rave/rave/94.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/94.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL (Op 3)
+#EXTINF:-1 tvg-logo="https://goo.gl/VnJP3g" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL (Op 2)
 http://188.62.240.200:9000/play/a01k
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR
-http://black.myvnc.com:8000/live/rave/rave/93.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/93.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR (Op 2)
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ml8o23f" tvg-id="" group-title="CumCatano",Mickey Mouse e os seus Amigos
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK
-http://black.myvnc.com:8000/live/rave/rave/100.m3u8
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1386.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/100.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK (Op 3)
 http://188.62.240.200:9000/play/a025
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON
-http://black.myvnc.com:8000/live/rave/rave/102.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/102.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON (Op 2)
+
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA
-http://black.myvnc.com:8000/live/rave/rave/96.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/96.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA (Op 2)
+
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS
-http://black.myvnc.com:8000/live/rave/rave/99.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/99.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS (Op 2)
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SicK.pt" group-title="CumCatano",SIC K
-http://black.myvnc.com:8000/live/rave/rave/95.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SicK.pt" group-title="CumCatano",SIC K (Op 2)
 http://perolanegra.net:8000/live/Jerome/Jerome/95.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SicK.pt" group-title="CumCatano",SIC K (Op 3)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SicK.pt" group-title="CumCatano",SIC K (Op 2)
 http://188.62.240.200:9000/play/a018
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JimJam.pt" group-title="CumCatano",JIMJAM
-http://black.myvnc.com:8000/live/rave/rave/101.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/101.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JimJam.pt" group-title="CumCatano",JIMJAM (Op 2)
 http://188.62.240.200:9000/play/a00u
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BabyTV.pt" group-title="CumCatano",BABY TV
-http://black.myvnc.com:8000/live/rave/rave/97.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/97.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BabyTV.pt" group-title="CumCatano",BABY TV (Op 2)
 http://188.62.240.200:9000/play/a015
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l5mg6h8" tvg-id="BABYFIRST.pt" group-title="CumCatano",Baby First
-http://black.myvnc.com:8000/live/rave/rave/98.m3u8
+http://perolanegra.net:8000/live/Jerome/Jerome/98.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydhaysn3" tvg-id="0" group-title="CumCatano",Retro Cartoon (BR)
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7sej2av" group-title="CumCatano", As Aventuras de JACKIE CHAN (BR)
@@ -339,18 +335,18 @@ http://perolanegra.net:8000/live/Jerome/Jerome/120.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="eentertainment.pt" group-title="CumCatano",E! Entertainment (Op 2)
 http://188.62.240.200:9000/play/a02g
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="AandE.pt" group-title="CumCatano",A&E
-
+http://perolanegra.net:8000/live/Jerome/Jerome/154.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="CumCatano",TLC
 http://4.31.30.145:9043
 #EXTINF:-1 tvg-logo="http://savepic.net/8100452.png" tvg-id="FineLiving.pt" group-title="CumCatano",FINE LIVING NETWORK
 http://perolanegra.net:8000/live/Jerome/Jerome/6524.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/kxh2nlc" tvg-id="" group-title="CumCatano",Crime Investigation CI
+#EXTINF:-1 tvg-logo="https://tinyurl.com/kxh2nlc" tvg-id="CRIME INVESTIGATION" group-title="CumCatano",Crime Investigation CI
 
-#EXTINF:-1 tvg-id="MCSExtreme.pt" tvg-logo="https://goo.gl/N7hEOL" tvg-id="0" group-title="CumCatano",MCS EXTREME
+#EXTINF:-1 tvg-logo="https://goo.gl/N7hEOL" tvg-id="MCSExtreme.pt" group-title="CumCatano",MCS EXTREME
 http://perolanegra.net:8000/live/Jerome/Jerome/108.m3u8
-#EXTINF:-1 tvg-id="MCSExtreme.pt" tvg-logo="https://goo.gl/N7hEOL" tvg-id="0" group-title="CumCatano",MCS EXTREME (Op 2)
+#EXTINF:-1 tvg-logo="https://goo.gl/N7hEOL" tvg-id="MCSExtreme.pt" group-title="CumCatano",MCS EXTREME (Op 2)
 http://188.62.240.200:9000/play/a01q
-#EXTINF:-1 tvg-id="MCSLifeStyle.pt" tvg-logo="http://i.imgur.com/HdrXSms.png" tvg-id="0" group-title="CumCatano",MCS LIFESTYLE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" tvg-id="MCSLifeStyle.pt" group-title="CumCatano",MCS LIFESTYLE
 http://perolanegra.net:8000/live/Jerome/Jerome/122.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSReality.pt" group-title="CumCatano",CBS REALITY
 http://perolanegra.net:8000/live/Jerome/Jerome/121.m3u8
@@ -399,34 +395,34 @@ http://188.62.240.200:9000/play/a019
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="MTVRocks.uk" group-title="CumCatano",MTV ROCKS 
 http://persik.by/stream/1417/252987/10227.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="MTVRocks.uk" group-title="CumCatano",MTV ROCKS (Op 2)
-
+http://perolanegra.net:8000/live/Jerome/Jerome/8490.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7tkyapj" tvg-id="MTVMusic.uk" group-title="CumCatano",MTV Music
-
+http://perolanegra.net:8000/live/Jerome/Jerome/4255.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nPj2Q7" tvg-id="0" group-title="CumCatano",MTV LIVE
 http://persik.by/stream/1417/252987/10289.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="CumCatano",MTV DANCE
-
+http://perolanegra.net:8000/live/Jerome/Jerome/131.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9lbkrk3" tvg-id="0" group-title="CumCatano",MTV HITS
 http://persik.by/stream/1417/252987/10208.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="CumCatano",MTV BASE
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="CumCatano",VH1 
-
+http://perolanegra.net:8000/live/Jerome/Jerome/127.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="vh1.pt" group-title="CumCatano",VH1 CLASSIC
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TRACE TV" group-title="CumCatano",TRACE TV
+http://perolanegra.net:8000/live/Jerome/Jerome/128.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TraceTV.pt" group-title="CumCatano",TRACE TV
 http://188.62.240.200:9000/play/a01m
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmtop.png" tvg-id="MCMTOP" group-title="CumCatano",MCM TOP
-
+http://perolanegra.net:8000/live/Jerome/Jerome/132.m3u8
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmpop.png" tvg-id="MCMPOP" group-title="CumCatano",MCM POP
 http://188.62.240.200:9000/play/a02m
-#EXTINF:-1 tvg-id="iconcerm3u8hd" tvg-logo="https://tinyurl.com/y8ne3mbu" group-title="CumCatano",iConcerts HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8ne3mbu" tvg-id="iconcerts" group-title="CumCatano",iConcerts HD
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" tvg-id="C-Music.pt" group-title="CumCatano",C MUSIC
 http://188.62.240.200:9000/play/a00x
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9bwt2ko" tvg-id="" group-title="CumCatano",Clubbing TV
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" tvg-id="AFRO" group-title="CumCatano",AFRO MUSIC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" tvg-id="AfroMusic.pt" group-title="CumCatano",AFRO MUSIC
 http://188.62.240.200:9000/play/a01x
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/meq2khq" group-title="CumCatano",INDIES LIVE 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
@@ -483,12 +479,12 @@ http://188.62.240.200:9000/play/a026
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" tvg-id="RTPMadeira.pt" group-title="CumCatano",RTP MADEIRA
 http://188.62.240.200:9000/play/a00m
 #EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" tvg-id="RTPAcores.pt" group-title="CumCatano",RTP ACORES
-
+http://perolanegra.net:8000/live/Jerome/Jerome/149.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/UWmNh1" tvg-id="RTPAfrica.pt" group-title="CumCatano",RTP AFRICA
-
+http://perolanegra.net:8000/live/Jerome/Jerome/148.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Xngpfr" tvg-id="Euronews.nws" group-title="CumCatano", EURONEWS
 http://perolanegra.net:8000/live/Jerome/Jerome/116.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9lzgwq5" tvg-id="Localvisao.pt" group-title="CumCatano",Localvisão TV HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8xrvp39" tvg-id="Localvisao.pt" group-title="CumCatano",Localvisão TV HD
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logos.switchtv.net/url/pt/regioes_tv.jpg" group-title="CumCatano",REGIOES TV
 
@@ -517,7 +513,7 @@ http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png" tvg-id="0" group-title="CumCatano",TV GALICIA
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DQz5Yu" tvg-id="RecordNews" group-title="CumCatano",RECORD NEWS
-
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Oo0DzJ" tvg-id="FASH" group-title="CumCatano",FTV
 http://188.62.240.200:9000/play/a027
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y75o237v" group-title="CumCatano",World Fashion
@@ -532,14 +528,16 @@ http://130.88.20.237:1235/monitor.flv
 http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc47w5e5" tvg-id="" group-title="CumCatano", Earth TV
 http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/y7xeo2yn" group-title="CumCatano" TecTV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8 
 #EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/yddlnnke" group-title="CumCatano", HISTORY LAB
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" tvg-id="TorosTV.pt" group-title="CumCatano",TOROS TV
-
+http://perolanegra.net:8000/live/Jerome/Jerome/2365.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7ldy687" tvg-id="cazaepesca.pt" group-title="CumCatano",CACA & PESCA
-
+http://perolanegra.net:8000/live/Jerome/Jerome/54.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pIEZt5S.png" tvg-id="CacaVision.pt" group-title="CumCatano",CACAVISION
-
+http://perolanegra.net:8000/live/Jerome/Jerome/53.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" group-title="CumCatano",FOX NEWS
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" tvg-id="CNN" group-title="CumCatano",CNN
@@ -592,6 +590,9 @@ https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/ybu6gb5w" group-title="CumCatano",LIVE ISS STREAM (Op 2)
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+
+
 
 
 
