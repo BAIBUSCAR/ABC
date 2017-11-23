@@ -90,6 +90,8 @@ http://bigiptv.ovh:8000/live/test3/test3/1744.m3u8
 http://185.80.220.79:15214/streamM/nnXWDzhPK1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1
 http://bigiptv.ovh:8000/live/test3/test3/1746.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 TESTE
+http://g1.securestream.streamsport.online/stream/MzhhOWMwNWQ4YTU0ZjI5NWU3ZmNlMjFlNmIxYmJjMzg=/Sport1PT.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1(Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1(Op 3)
