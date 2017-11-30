@@ -1,9 +1,188 @@
 #EXTM3U
 
 
+#EXTINF:-1,======== PORTUGAL ========
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/1761.ts
+#EXTINF:-1,|PT| TV GLOBO
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3103.ts
+#EXTINF:-1,|PT| CANAL Q
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3124.ts
+#EXTINF:-1,|PT| CANAL PANDA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3125.ts
+#EXTINF:-1,|PT| AMC HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3128.ts
+#EXTINF:-1,|PT| A & E
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3130.ts
+#EXTINF:-1,|PT| TVI FICÇÃO
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2270.ts
+#EXTINF:-1,|PT| TVI 24
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2271.ts
+#EXTINF:-1,|PT| TVI
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2272.ts
+#EXTINF:-1,|PT| TVI REALITY
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3091.ts
+#EXTINF:-1,|PT| SIC
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2268.ts
+#EXTINF:-1,|PT| TV RECORD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2269.ts
+#EXTINF:-1,|PT| SIC RADICAL
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2264.ts
+#EXTINF:-1,|PT| SIC NOTÍCIAS
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2265.ts
+#EXTINF:-1,|PT| SIC KIDS
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2266.ts
+#EXTINF:-1,|PT| SIC CARAS
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2267.ts
+#EXTINF:-1,|PT| PFC INTERNACIONAL
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3557.ts
+#EXTINF:-1,|PT| SPORT TV +
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3986.ts
+#EXTINF:-1,|PT| SPORT TV 1
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3720.ts
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2218.ts
+#EXTINF:-1,|PT| SPORT TV 2
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3719.ts
+#EXTINF:-1,|PT| SPORT TV 2 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2219.ts
+#EXTINF:-1,|PT| SPORT TV 3
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3721.ts
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2220.ts
+#EXTINF:-1,|PT| SPORT TV 4
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2221.ts
+#EXTINF:-1,|PT| SPORT TV 5
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2222.ts
+#EXTINF:-1,|PT| SPORTING TV
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2228.ts
+#EXTINF:-1,|PT| RTP 1 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/7496.ts
+#EXTINF:-1,|PT| RTP 1
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2231.ts
+#EXTINF:-1,|PT| RTP 2
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3111.ts
+#EXTINF:-1,|PT| RTP 3
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3110.ts
+#EXTINF:-1,|PT| RTP MADEIRA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2229.ts
+#EXTINF:-1,|PT| RTP MEMÓRIA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2230.ts
+#EXTINF:-1,|PT| RTP AFRICA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3109.ts
+#EXTINF:-1,|PT| RTP ACORES
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3108.ts
+#EXTINF:-1,|PT| MOV HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2232.ts
+#EXTINF:-1,|PT| FOX MOVIES
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2233.ts
+#EXTINF:-1,|PT| FOX LIFE HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2663.ts
+#EXTINF:-1,|PT| FOX TV HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2664.ts
+#EXTINF:-1,|PT| FOX CRIME
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2665.ts
+#EXTINF:-1,|PT| FOX COMEDY
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2666.ts
+#EXTINF:-1,|PT| EUROSPORT 1
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2234.ts
+#EXTINF:-1,|PT| EUROSPORT 2
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3990.ts
+#EXTINF:-1,|PT| EUROSPORT NEWS
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/7495.ts
+#EXTINF:-1,|PT| BENFICA TV 1 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2235.ts
+#EXTINF:-1,|PT| PORTO CANAL
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3988.ts
+#EXTINF:-1,|PT| TV SERIES
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3102.ts
+#EXTINF:-1,|PT| TVCINE 1 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4151.ts
+#EXTINF:-1,|PT| TVCINE 1
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2224.ts
+#EXTINF:-1,|PT| TVCINE 2 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4152.ts
+#EXTINF:-1,|PT| TVCINE 2
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2225.ts
+#EXTINF:-1,|PT| TVCINE 3 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4154.ts
+#EXTINF:-1,|PT| TVCINE 3
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2226.ts
+#EXTINF:-1,|PT| TVCINE 4 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4155.ts
+#EXTINF:-1,|PT| TVCINE 4
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2227.ts
+#EXTINF:-1,|PT| AXN WHITE HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2237.ts
+#EXTINF:-1,|PT| AXN HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2238.ts
+#EXTINF:-1,|PT| AXN BLACK HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2239.ts
+#EXTINF:-1,|PT| HOLLYWOOD HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2662.ts
+#EXTINF:-1,|PT| TOROS TV
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3104.ts
+#EXTINF:-1,|PT| MOTORVISION
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4553.ts
+#EXTINF:-1,|PT| TLC
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3105.ts
+#EXTINF:-1,|PT| SYFY
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3106.ts
+#EXTINF:-1,|PT| SIC MULHER
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3107.ts
+#EXTINF:-1,|PT| ODISSEIA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3112.ts
+#EXTINF:-1,|PT| NICKELODEON
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3113.ts
+#EXTINF:-1,|PT| CARTOON NETWORK
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3261.ts
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3114.ts
+#EXTINF:-1,|PT| NAT GEO WILD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3256.ts
+#EXTINF:-1,|PT| HISTORIA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3126.ts
+#EXTINF:-1,|PT| FUEL TV
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3115.ts
+#EXTINF:-1,|PT| E! ENTERTAINMENT
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3116.ts
+#EXTINF:-1,|PT| JIM JAM
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3991.ts
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3117.ts
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3118.ts
+#EXTINF:-1,|PT| BABY FIRST
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4552.ts
+#EXTINF:-1,|PT| BABY TV
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4551.ts
+#EXTINF:-1,|PT| DISCOVERY HD SHOWCASE
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3119.ts
+#EXTINF:-1,|PT| DISCOVERY CHANNEL
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3120.ts
+#EXTINF:-1,|PT| CACAVISION
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/7494.ts
+#EXTINF:-1,|PT| CM TV
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3121.ts
+#EXTINF:-1,|PT| CINEMUNDO
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3122.ts
+#EXTINF:-1,|PT| CBS REALITY
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3123.ts
+#EXTINF:-1,|PT| TRAVEL CHANNEL
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4538.ts
+#EXTINF:-1,|PT| CAZA Y PESCA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3127.ts
+#EXTINF:-1,|PT| 24 KITCHEN HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3262.ts
+#EXTINF:-1,|PT| ABOLA TV
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3989.ts
+#EXTINF:-1,|PT| ARTV
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4549.ts
+#EXTINF:-1,|PT| MTV PORTUGAL
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4550.ts
 
 
-#EXTM3U
+
+
 #EXTINF:-1 tvg-id="" tvg-name="---☛★ PORTUGAL ★☚---" tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag-borderless/256/Portugal-icon.png" group-title="PORTUGAL",---☛★ PORTUGAL ★☚---
 http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/6976.m3u8
 #EXTINF:-1 tvg-id="rtpHD" tvg-name="RTP 1 FHD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d6/RTP_1_HD_Logotipo_2016.png" group-title="PORTUGAL",RTP 1 FHD
