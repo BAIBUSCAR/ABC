@@ -37,7 +37,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/avFiVT" tvg-id="TVI24.pt" group-title="CumCatano",TVI24 (Op 2)
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lphnap6" tvg-id="CMTV.pt" group-title="CumCatano",CMTV
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1715.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lphnap6" tvg-id="CMTV.pt" group-title="CumCatano",CMTV (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="CumCatano",SIC RADICAL
@@ -45,9 +45,9 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="CumCatano",SIC RADICAL (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png" tvg-id="sicmulher.pt" group-title="CumCatano",SIC MULHER
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1689.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mHv2YrF.png" tvg-id="SicCaras.pt" group-title="CumCatano",SIC CARAS
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1690.m3u8
 #EXTINF:-1 tvg-logo="https://s27.postimg.org/jiij9m1xv/Log_tipo_TVI.png" tvg-id="" group-title="CumCatano",+ TVI
 http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/WhvCo4" tvg-id="TVIFiccao.pt" group-title="CumCatano",TVI FICCAO
@@ -77,9 +77,9 @@ http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3124.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD
 http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3262.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD (Op 2)
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1755.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="FoodNetwork.pt" group-title="CumCatano",FOOD NETWORK
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1717.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9pmq4d4" tvg-id="" group-title="CumCatano",CHEF TV (BR)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV +
@@ -95,11 +95,11 @@ http://portal2.digiportal.xyz:8080/live/Dii-DiiPacheco-4/D98145/15380.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1(Op 3)
 http://portal2.digiportal.xyz:8080/live/Dii-DiiPacheco-4/D98145/79.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1(Op 4)
-http://am-iptv.club:25461/live/emep_8/emep_8/717.m3u8
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3720.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1(Op 5)
 http://portal.onlineiptv.net:5210/live/mecccam/znfDMppvDC/8546.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1(Op 6)
-http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3720.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1(Op 7)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1(Op 8)
@@ -229,7 +229,7 @@ http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3102.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD
 http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2662.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD (Op 2)
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1709.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD (Op 3)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="CumCatano",SYFY
@@ -237,7 +237,7 @@ http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3106.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="CumCatano",SYFY (Op 2)
 http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3106.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo.pt" group-title="CumCatano",CINEMUNDO
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1701.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo.pt" group-title="CumCatano",CINEMUNDO (Op 2)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="SUNDANCE.pt" group-title="CumCatano",Sundance
@@ -279,7 +279,7 @@ http://77.54.249.189:9981/stream/channelid/351019104
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7w737bs" tvg-id="fx.pt" group-title="CumCatano",FX
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="CumCatano",FOX COMEDY
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1706.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="CumCatano",FOX COMEDY (Op 2)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y874olye" group-title="CumCatano",FILMS 24/7 (BR)
@@ -291,13 +291,13 @@ http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3118.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR
 http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3117.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR (Op 2)
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1757.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ml8o23f" tvg-id="" group-title="CumCatano",Mickey Mouse e os seus Amigos
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK
 http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3261.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK (Op 2)
-http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3113.m3u8
+http://bigiptv.ovh:8000/live/dhia/dhia/1756.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK (Op 3)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON
@@ -307,15 +307,15 @@ http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3113.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA
 http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3125.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA (Op 2)
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1758.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1759.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SicK.pt" group-title="CumCatano",SIC K
 http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2266.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SicK.pt" group-title="CumCatano",SIC K (Op 2)
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1691.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JimJam.pt" group-title="CumCatano",JIMJAM
 http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3991.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JimJam.pt" group-title="CumCatano",JIMJAM (Op 2)
@@ -331,21 +331,21 @@ http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7sej2av" group-title="CumCatano", As Aventuras de JACKIE CHAN (BR)
 http://www.blogger.com/video-play.mp4?contentId=40135dfe58db95cc
 #EXTINF:-1 tvg-logo="https://goo.gl/hXyY5B" tvg-id="discoverychannel.pt" group-title="CumCatano",DISCOVERY
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1725.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/hXyY5B" tvg-id="discoverychannel.pt" group-title="CumCatano",DISCOVERY (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" tvg-id=" DiscoveryHDShowcase.pt" group-title="CumCatano",DISCOVERY SHOWCASE
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1726.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="CumCatano",NATIONAL GEOGRAPHIC
 http://77.54.249.189:9981/stream/channelid/1704439334
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="CumCatano",NATIONAL GEOGRAPHIC (Op 2)
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1723.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NatGeoWild.pt" group-title="CumCatano",NAT GEO WILD
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1724.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NatGeoWild.pt" group-title="CumCatano",NAT GEO WILD (Op 2)
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="CumCatano",ODISSEIA
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1730.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="CumCatano",ODISSEIA (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="CumCatano",HISTORIA
@@ -357,7 +357,7 @@ http://77.54.249.189:9981/stream/channelid/1704439334
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="eentertainment.pt" group-title="CumCatano",E! Entertainment (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="AandE.pt" group-title="CumCatano",A&E
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1731.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="CumCatano",TLC
 http://4.31.30.145:9043
 #EXTINF:-1 tvg-logo="http://savepic.net/8100452.png" tvg-id="FineLiving.pt" group-title="CumCatano",FINE LIVING NETWORK
@@ -365,13 +365,13 @@ http://4.31.30.145:9043
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kxh2nlc" tvg-id="CRIME INVESTIGATION" group-title="CumCatano",Crime Investigation CI
 
 #EXTINF:-1 tvg-logo="https://goo.gl/N7hEOL" tvg-id="MCSExtreme.pt" group-title="CumCatano",MCS EXTREME
-
+http://bigiptv.ovh:8000/live/dhia/dhia/10078.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/N7hEOL" tvg-id="MCSExtreme.pt" group-title="CumCatano",MCS EXTREME (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" tvg-id="MCSLifeStyle.pt" group-title="CumCatano",MCS LIFESTYLE
-
+http://bigiptv.ovh:8000/live/dhia/dhia/10079.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSReality.pt" group-title="CumCatano",CBS REALITY
-
+http://bigiptv.ovh:8000/live/dhia/dhia/1718.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSReality.pt" group-title="CumCatano",CBS REALITY (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" tvg-id="TRV.pt" group-title="CumCatano",TRAVEL CHANNEL
@@ -470,10 +470,7 @@ http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3
 
 
 
-
 --------------------------------------------------------------------------------------------------------------------------
-
-
 
 
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="CCMusic",VIRGIN TV
@@ -526,12 +523,14 @@ http://persik.by/stream/1417/252987/10289.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9lbkrk3" tvg-id="0" group-title="CCMusic",MTV HITS
 http://persik.by/stream/1417/252987/10208.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9lbkrk3" tvg-id="0" group-title="CCMusic",MTV HITS (Op 2)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_HITS)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="CCMusic",MTV BASE
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="CCMusic",VH1 
-
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="vh1.pt" group-title="CCMusic",VH1 CLASSIC
-
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1_CLASSIC)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TraceTV.pt" group-title="CCMusic",TRACE TV
 
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmtop.png" tvg-id="MCMTOP" group-title="CCMusic",MCM TOP
@@ -668,11 +667,6 @@ http://www.djing.com/tv/underground.m3u8
 http://www.djing.com/tv/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CCMusic", DJING ANIMATION   
 http://www.djing.com/tv/a-05.m3u8
-
-
-
-
-
 
 
 
