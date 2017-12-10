@@ -452,7 +452,7 @@ http://130.88.20.237:1235/monitor.flv
 http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc47w5e5" tvg-id="" group-title="CumCatano", Earth TV
 http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/y7xeo2yn" group-title="CumCatano" TecTV
+#EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/y7xeo2yn" group-title="CumCatano", TecTV
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8 
 #EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/yddlnnke" group-title="CumCatano", HISTORY LAB
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
