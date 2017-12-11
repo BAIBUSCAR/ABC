@@ -11,89 +11,86 @@ rtmp://edge2.everyon.tv/etv2sb//pld10499
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot (Op 2)
 
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus
-http://192.99.69.207:20024/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus(Op 2)
 
 #EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers
-http://192.99.69.207:20010/http://vk.com/m3u_playlist
+http://89.163.242.108:8088/play/a037
 #EXTINF:-1 tvg-id="Redlight" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
-http://192.99.69.207:20003/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="PRIVATE TV" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="XTV", Private
-http://192.99.69.207:20014/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV
-http://192.99.69.207:20004/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV XXX
-http://192.99.69.207:20005/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="But GO" tvg-name="But GO" tvg-logo="https://tinyurl.com/ycl2uuma" group-title="XTV" , But GO 
 http://playlist.prg09.v-ip-tv.com/atip/1/12/channel-17/0/pc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="XTV", Frenchlover
-http://192.99.69.207:20015/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD
-http://192.99.69.207:20006/http://vk.com/m3u_playlist
+http://89.163.242.108:8088/play/a036
 #EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD (Op 2)
-http://192.99.69.207:20022/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 1
-http://192.99.69.207:20001/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 2
-http://192.99.69.207:20002/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel
 http://37.9.0.201:8889 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel (Op 2)
-http://192.99.69.207:20011/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",Reality Kings
-http://192.99.69.207:20009/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", VIVID TOUCH
-http://192.99.69.207:20026/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", Exotica Plus
-http://192.99.69.207:20025/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", Extasy
-http://192.99.69.207:20027/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ydx93yqj" group-title="XTV", DreamPorn
 http://62.210.113.177:19000/udp/238.0.100.6:5000
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y84d3d8u" group-title="XTV", O-La-La
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yb3pjv8e" group-title="XTV", Sextreme
-http://w03.duoplay.xyz:80/094/myStream/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y96w5do6" group-title="XTV", Satisfaction TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://savepic.net/7824814.png" group-title="XTV",SESTO SENSO TV 
-http://192.99.69.207:20019/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="XTV",CENTOXCENTO TV
 http://37.9.0.201:8811
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="XTV",CENTOXCENTO 
-http://192.99.69.207:20020/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk
 http://37.9.0.201:8890
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk (Op 2)
-http://192.99.69.207:20016/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk Europ
-http://192.99.69.207:20017/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yboke6kw" group-title="XTV",Pink O TV
-http://192.99.69.207:20013/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSION
 http://37.9.0.201:8888
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSION (Op 2)
-http://192.99.69.207:20012/http://vk.com/m3u_playlist
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSION (Op 3)
-http://192.99.69.207:20021/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9kmcv8p" group-title="XTV",PASSIEXXX
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="XTV",Eroxxx HD
-http://192.99.69.207:20008/http://vk.com/m3u_playlist
+
 #EXTINF:1 tvg-logo="https://tinyurl.com/yd8cw47j" group-title="XTV",SUPERONE
-http://192.99.69.207:20007/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", SCT
-http://192.99.69.207:20018/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8fxsflo" group-title="XTV",Babestation Extreme
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",X Desire 
-http://192.99.69.207:20028/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",Red Hot
-http://192.99.69.207:20029/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",X Bunga Bunga [No sound]
-http://192.99.69.207:20030/http://vk.com/m3u_playlist
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",X Bizarre [No sound] http:/vk.com/m3u_playlist
-http://192.99.69.207:20031/http://vk.com/m3u_playlist
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",Sexy Zone 18+
 http://tv.ec.cx:1935/redecanais-stream-hot/myStream/chunklist.m3u8
@@ -332,7 +329,7 @@ http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7q9fert" tvg-id="" group-title="XTV",EVERY ON TV 2
 
 #EXTINF:0,tvg-logo="https://apk2android.com//upload/icon/20150313/1426250744857.png" group-title="XTV", SEXTATION
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://apk2android.com//upload/icon/20150313/1426250744857.png" group-title="XTV",BS24 Live
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://picalt.com/p2m/hmnzmkgj.jpg" tvg-id="" group-title="XTV",BABESTATION
@@ -360,7 +357,7 @@ http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder51/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",Babestation 6
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",BSX 24 (18+)
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Babestation (18+)
 
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Babestation 2 (18+)
@@ -368,11 +365,11 @@ http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Babestation 3 (18+)
 
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Dollhouse Cam 1 (18+)
-rtmp://216.105.165.72:1941/stream9/live
+
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Dollhouse Cam 2 (18+)
-rtmp://216.105.165.72:1939/stream7/live
+
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Dollhouse Cam 3 (18+)
-rtmp://216.105.165.72:1940/stream8/live
+
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Girls (18+)
 
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Honey (18+)
@@ -384,27 +381,25 @@ rtmp://216.105.165.72:1940/stream8/live
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Midnight (18+)
 
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Palmtube HD (18+)
-rtmp://88.198.66.77:1935/hls/palmtube
+
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Playboy TV Chat 1 (18+)
 http://publish.thewebstream.co:1935/rlc/_definst_/livestream1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Playboy TV Chat 2 (18+)
-http://publish.thewebstream.co:1935/rlc/_definst_/livestream_two1/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",STUDIO 66 TV (18+)
-http://ss2.firestormmedia.tv:1935/studio66tv/studio66tv_channel11/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",STUDIO 66 TV 2 (18+)
-http://ss2.firestormmedia.tv:1935/studio66tv/studio66tv_channel21/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",STUDIO 66 TV 3 (18+)
-http://ss2.firestormmedia.tv:1935/studio66tv/studio66tv_channel31/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",STUDIO 66 TV 4 (18+)
-http://ss2.firestormmedia.tv:1935/studio66tv/studio66tv_channel41/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Sakura (18+)
 
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Sex Zone (18+)
 http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",XXXPanded 1 (18+)
-http://vod2t.xxxpanded.com/x3tv/index_wlan.m3u8
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",XXXPanded 2 (18+)
-http://vod2t.xxxpanded.com/x3tv2/index_wlan.m3u8
+
+
 
 
 
