@@ -3,21 +3,21 @@
 
 
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV 
-
+http://portal2.digiportal.xyz:8080/live/dino/dino/9066.m3u8
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV SD
-rtmp://edge2.everyon.tv/etv2sb//pld10499
+
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot
-
-#EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot (Op 2)
-
+http://portal2.digiportal.xyz:8080/live/dino/dino/16931.m3u8
+#EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y9oett7n" group-title="XTV", Sexy Hot
+http://portal2.digiportal.xyz:8080/live/dino/dino/12113.m3u8
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus
-http://185.26.174.67:12345/play/a028
+http://portal2.digiportal.xyz:8080/live/dino/dino/16930.m3u8
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus(Op 2)
 
 #EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers
 http://89.163.242.108:8088/play/a037
 #EXTINF:-1 tvg-id="Redlight" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
-
+http://portal2.digiportal.xyz:8080/live/dino/dino/2419.m3u8
 #EXTINF:-1 tvg-id="PRIVATE TV" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="XTV", Private
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV
@@ -27,13 +27,13 @@ http://89.163.242.108:8088/play/a037
 #EXTINF:-1 tvg-id="But GO" tvg-name="But GO" tvg-logo="https://tinyurl.com/ycl2uuma" group-title="XTV" , But GO 
 http://playlist.prg09.v-ip-tv.com/atip/1/12/channel-17/0/pc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="XTV", Frenchlover
-
+http://portal2.digiportal.xyz:8080/live/dino/dino/9078.m3u8
 #EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD
 http://89.163.242.108:8088/play/a036
 #EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD (Op 2)
 
 #EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 1
-
+http://portal2.digiportal.xyz:8080/live/dino/dino/3992.m3u8
 #EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel
@@ -49,19 +49,19 @@ http://37.9.0.201:8889
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", Extasy
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ydx93yqj" group-title="XTV", DreamPorn
-http://62.210.113.177:19000/udp/238.0.100.6:5000
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y84d3d8u" group-title="XTV", O-La-La
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yb3pjv8e" group-title="XTV", Sextreme
-
+http://67.21.76.99:8080/TV1363
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y96w5do6" group-title="XTV", Satisfaction TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://savepic.net/7824814.png" group-title="XTV",SESTO SENSO TV 
-
+http://portal2.digiportal.xyz:8080/live/dino/dino/4281.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="XTV",CENTOXCENTO TV
 http://37.9.0.201:8811
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="XTV",CENTOXCENTO 
-
+http://portal2.digiportal.xyz:8080/live/dino/dino/9036.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk
 http://37.9.0.201:8890
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk (Op 2)
@@ -73,9 +73,9 @@ http://37.9.0.201:8890
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSION
 http://37.9.0.201:8888
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSION (Op 2)
-
+http://portal2.digiportal.xyz:8080/live/dino/dino/9074.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9kmcv8p" group-title="XTV",PASSIEXXX
-
+http://portal2.digiportal.xyz:8080/live/dino/dino/9068.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="XTV",Eroxxx HD
 
 #EXTINF:1 tvg-logo="https://tinyurl.com/yd8cw47j" group-title="XTV",SUPERONE
@@ -438,6 +438,72 @@ https://cld.pt/dl/download/6381d579-c235-4d5b-afc6-45403be8c66f/La%20Villa%20Des
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 1 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/5/7/2/f/5572f86a809c0.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 10 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/5/8/9/b/5589bd59a6e6e.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 11 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/5/6/a/4/556a44ef99130.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 12 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/5/5/9/56559e9aa119e.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 13 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/5/9/4/1/5594130834415.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 14 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/5/9/7/f/5597f049e0408.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 15 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/5/8/6/a/5586a7d6be257.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 16 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/5/6/c/0/556c0bba3fa7f.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 17 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/5/6/9/d/5569db292d247.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 18 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/5/f/9/e/55f9ec921fa7d.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 19 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/5/f/d/3/55fd394c34f8f.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 2 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/5/6/c/0/556c07cb18cc0.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 20 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/0/2/d/5602db24c78cd.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 21 (IT) 
+http://media.tuboitaliano.xxx:81/videos/5/6/0/b/0/560b06193ab2c.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 22 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/0/e/f/560ef318ba615.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 23 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/1/0/e/5610e9f88d07e.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 24 (IT) 
+http://media.tuboitaliano.xxx:81/videos/5/6/3/7/5/56375d0c81fdb.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 25 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/2/0/2/562024ae52ae4.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 26 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/2/f/d/562fd943cc83c.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 27 (IT) 
+http://media.tuboitaliano.xxx:81/videos/5/5/8/6/9/55869d0ed868d.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 28 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/2/b/d/562bd7b5262d5.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 29 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/2/7/7/562777081b8e7.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 3 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/1/4/0/561408bfc3dc1.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 30 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/3/a/3/563a391e49e4e.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 31 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/2/e/d/562ed8ef7b6cd.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 4 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/1/7/b/5617b94dac6a4.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 5 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/1/d/2/561d234b4d3ad.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 6 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/4/8/9/5648923984ced.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 7 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/6/5/1/a/5651aa1a80ecf.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 8 (IT) 
+http://media.tuboitaliano.xxx:81/videos/5/5/6/a/2/556a2465e5c2b.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybkausu6" group-title="XMOVIES",Video xxx 9 (IT)
+http://media.tuboitaliano.xxx:81/videos/5/5/6/a/c/556acaf32668d.mp4
 
 
 #EXTINF:-1 tvg-logo="http://begin-english.ru/img/upload/2/f/7/7/d989510b55.png" group-title="XMOVIES",LARA CROFT VIDEOGAMES XXX
