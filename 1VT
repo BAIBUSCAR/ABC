@@ -1151,6 +1151,7 @@ http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", MADEIRA JARDIM DO MAR
 http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
 
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PARIS - TORRE EIFFEL 
 http://liveonearth.com:1935/edge0/CDG/playlist.m3u8?5842ba6cbbf0479c3de0a48f
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PISTA DE SKI
@@ -1223,6 +1224,356 @@ http://www.streambnu.info:1935/blumenau5/default.stream/live.m3u8
 http://www.streambnu.info:1935/blumenau7/default.stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Blumenau [Teatro Carlos Gomes]
 http://www.streambnu.info:1935/blumenau2/default.stream/live.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 1
+http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist_w1954852334.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 2
+http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist_w1105786569.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 3
+http://video3.earthcam.com:1935/fecnetwork/6427.flv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 4
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist_w912634094.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 6
+http://video3.earthcam.com:1935/fecnetwork/3983.flv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 7
+http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist_w1101621526.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 9
+http://video3.earthcam.com:1935/fecnetwork/4544.flv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 11
+http://video3.earthcam.com:1935/fecnetwork/7384.flv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bulgaria - Karlowo
+rtsp://85.255.175.244:554/h264
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  EXYUG-Banja luka (trg krajine)
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist_w873016047_b350000.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NL SHEVENINGEN 3
+rtsp://b1.dnsdojo.com:1935/live/sys3.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Scheveningen surf webcam
+rtsp://b1.dnsdojo.com:1935/live/sys3.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Aachen - Drehturm Belvedere Lousberg
+rtmp://stream.livespotting.tv/windit-edge/vv102_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Achensee - Christlum
+rtmp://stream.livespotting.tv/windit-edge/vv148_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Amsterdam - Dam
+rtmp://stream.livespotting.tv/windit-edge/LS_e0cb1_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Augsburg - Hotel Augusta
+rtmp://stream.livespotting.tv/windit-edge/vv73_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bad Brückenau - Kurverwaltung Bad Brückenau
+rtmp://stream.livespotting.tv/windit-edge/vv140_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bamberg - Klein Venedig
+rtmp://stream.livespotting.tv/windit-edge/vv79_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bayreuth - Neues Rathaus
+rtmp://stream.livespotting.tv/windit-edge/vv107_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Berlin - 40 Seconds
+rtmp://stream.livespotting.tv/windit-edge/vv131_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Berlin - Restaurant Hugos/Hotel InterContinental
+rtmp://stream.livespotting.tv/windit-edge/vv133_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bielefeld - Stadthalle
+rtmp://stream.livespotting.tv/windit-edge/vv86_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Binz - HOTEL AM MEER & SPA
+rtmp://stream.livespotting.tv/windit-edge/vv103_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bonn - Hausverwaltung Uwe Brodesser
+rtmp://stream.livespotting.tv/windit-edge/vv114_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bremen - Kontorhaus
+rtmp://stream.livespotting.tv/windit-edge/vv134_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bremerhaven - Hotel Atlantic Sail City
+rtmp://stream.livespotting.tv/windit-edge/vv106_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Brunsbüttel - Schleuse
+rtmp://stream.livespotting.tv/windit-edge/vv37_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Büsum - Familienlagune
+rtmp://stream.livespotting.tv/windit-edge/vv42_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Büsum - Hauptstrand
+rtmp://stream.livespotting.tv/windit-edge/vv32_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Büsum - Museumshafen
+rtmp://stream.livespotting.tv/windit-edge/vv33_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Chemnitz - HeiBe
+rtmp://stream.livespotting.tv/windit-edge/vv93_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Dortmund - Neues Stadthaus
+rtmp://stream.livespotting.tv/windit-edge/vv95_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Dresden - Dresdner Aussicht
+rtmp://stream.livespotting.tv/windit-edge/vv59_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Duisburg - Sportschule Wedau
+rtmp://stream.livespotting.tv/windit-edge/vv61_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Eckernförde - Hafen
+rtmp://stream.livespotting.tv/windit-edge/vv46_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Elburg - Netherlands
+rtmp://stream.livespotting.tv/windit-edge/LS_36290_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Erfurt - KoWo
+rtmp://stream.livespotting.tv/windit-edge/vv101_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Essen - Ruhrturm
+rtmp://stream.livespotting.tv/windit-edge/vv60_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Flensburg - Fjord Tourismus
+rtmp://stream.livespotting.tv/windit-edge/vv17_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Frankfurt - Stadt Frankfurt am Main
+rtmp://stream.livespotting.tv/windit-edge/vv100_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Freiburg - Volksbank
+rtmp://stream.livespotting.tv/windit-edge/vv112_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Fulda - Schlossstraße
+rtmp://stream.livespotting.tv/windit-edge/vv62_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Gaienhofen - Hotel Gasthaus Hirschen
+rtmp://stream.livespotting.tv/windit-edge/vv105_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
+rtmp://stream.livespotting.tv/windit-edge/vv111_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Gehlberg - Michael Gebser
+rtmp://stream.livespotting.tv/windit-edge/vv123_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Haffkrug - Lübecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv40_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Halle - Mitteldeutsches Multimediazentrum
+rtmp://stream.livespotting.tv/windit-edge/vv115_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Hamburg - Empire Riverside
+rtmp://stream.livespotting.tv/windit-edge/vv34_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Hamburg - Emporio
+rtmp://stream.livespotting.tv/windit-edge/vv47_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Hamburg - Michel
+rtmp://stream.livespotting.tv/windit-edge/LS_b5586_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Hamburg - Unileverhaus
+rtmp://stream.livespotting.tv/windit-edge/vv74_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Hannover - Congress Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv71_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Heidelberg - Hotel Panorama
+rtmp://stream.livespotting.tv/windit-edge/vv75_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Heidelberg - PundM
+rtmp://stream.livespotting.tv/windit-edge/vv122_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Hörnum - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv7_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Ischgl - Pardatschgrat Seilbahn
+rtmp://stream.livespotting.tv/windit-edge/vv157_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Ischgl - Talstation
+rtmp://stream.livespotting.tv/windit-edge/vv128_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Juist - Inselgemeinde Juist
+rtmp://stream.livespotting.tv/windit-edge/vv51_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Juister Hof - Juist
+rtmp://stream.livespotting.tv/windit-edge/vv146_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kampen - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv49_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kassel - Best Western
+rtmp://stream.livespotting.tv/windit-edge/vv125_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Katwijk aan Zee - Niederlande
+rtmp://stream.livespotting.tv/windit-edge/LS_8a4f1_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kiel - Ostufer
+rtmp://stream.livespotting.tv/windit-edge/vv28_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kiel - Port of Kiel
+rtmp://stream.livespotting.tv/windit-edge/vv77_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kiel - Schleuse
+rtmp://stream.livespotting.tv/windit-edge/vv38_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kitzbühel - Hahnenkamm Bergstation
+rtmp://stream.livespotting.tv/windit-edge/vv121_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kitzbühel - Hotel Rasmushof
+rtmp://stream.livespotting.tv/windit-edge/vv143_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Koblenz - Hotel Continental
+rtmp://stream.livespotting.tv/windit-edge/vv36_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Krefeld - Garden Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv67_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Köln - Kölnturm
+rtmp://stream.livespotting.tv/windit-edge/vv69_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Köln - Pullman Cologne
+rtmp://stream.livespotting.tv/windit-edge/vv99_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kühlungsborn - Strand
+rtmp://stream.livespotting.tv/windit-edge/vv35_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Laboe - Ehrenmal
+rtmp://stream.livespotting.tv/windit-edge/vv82_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Langeness - TU Harburg
+rtmp://stream.livespotting.tv/windit-edge/vv136_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lech am Arlberg
+rtmp://stream.livespotting.tv/windit-edge/vv22_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lermoos - Zugspitze
+rtmp://stream.livespotting.tv/windit-edge/vv120_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lindau - Bodensee
+rtmp://stream.livespotting.tv/windit-edge/vv50_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lindau - Lindauer Hof
+rtmp://stream.livespotting.tv/windit-edge/vv113_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lübeck - MUK
+rtmp://stream.livespotting.tv/windit-edge/vv44_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lübeck - Radisson Blu
+rtmp://stream.livespotting.tv/windit-edge/vv64_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lüneburg - Hotel Bergström
+rtmp://stream.livespotting.tv/windit-edge/vv135_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Meißen - Fa. Hübner
+rtmp://stream.livespotting.tv/windit-edge/vv94_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Mönchengladbach - Best Western Crown
+rtmp://stream.livespotting.tv/windit-edge/vv118_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  München - Deutsche Eiche
+rtmp://stream.livespotting.tv/windit-edge/vv72_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  München - wetter.com-Redaktion
+rtmp://stream.livespotting.tv/windit-edge/vv55_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Münster - Raphaelsklinik
+rtmp://stream.livespotting.tv/windit-edge/vv116_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Münster - Stadthaus
+rtmp://stream.livespotting.tv/windit-edge/vv63_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Neuharlingersiel - Hafen Ost
+rtmp://stream.livespotting.tv/windit-edge/vv12_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Neuharlingersiel - Hafen West
+rtmp://stream.livespotting.tv/windit-edge/vv13_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Neuharlingersiel - Panorama
+rtmp://stream.livespotting.tv/windit-edge/vv14_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Niendorf - Meerwasserhallenbad
+rtmp://stream.livespotting.tv/windit-edge/vv81_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Norderney - Zimmerservice - Norderney
+rtmp://stream.livespotting.tv/windit-edge/vv147_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Oberstdorf - Hotel Exquisit
+rtmp://stream.livespotting.tv/windit-edge/vv137_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Oberwiesenthal - Hotel Fichtelberghaus
+rtmp://stream.livespotting.tv/windit-edge/vv30_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Oldenburg - Nordwest-Zeitung
+rtmp://stream.livespotting.tv/windit-edge/vv91_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Palma de Mallorca - Hafen
+rtmp://stream.livespotting.tv/windit-edge/LS_1d0c0_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Passau - Hotel König
+rtmp://stream.livespotting.tv/windit-edge/vv98_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Pelzerhaken - Lübecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv8_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Pertisau am Achensee - Bergstation
+rtmp://stream.livespotting.tv/windit-edge/vv126_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Plougonvelin - Bretagne - France
+rtmp://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Potsdam - Hotel Am Luisenplatz
+rtmp://stream.livespotting.tv/windit-edge/vv110_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Rostock - Apartment LIVING HOTEL
+rtmp://stream.livespotting.tv/windit-edge/vv89_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Rostock - Hotel Sportforum
+rtmp://stream.livespotting.tv/windit-edge/vv119_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Rust - Apollon Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv87_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Saalbach-Hinterglemm
+rtmp://stream.livespotting.tv/windit-edge/LS_f695b_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Saarbrücken - La Residence
+rtmp://stream.livespotting.tv/windit-edge/vv68_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Sankt Peter-Ording - Beach Motel
+rtmp://stream.livespotting.tv/windit-edge/vv129_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Scharbeutz - Lübecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv41_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Schwangau - Schloss Neuschwanstein
+rtmp://stream.livespotting.tv/windit-edge/vv108_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Schwerin - Com In IT Solution Center
+rtmp://stream.livespotting.tv/windit-edge/vv97_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Singen - Best Western Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv56_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  St. Anton am Arlberg
+rtmp://stream.livespotting.tv/windit-edge/vv21_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Stralsund - Hotel Hafenresidenz
+rtmp://stream.livespotting.tv/windit-edge/vv132_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Stralsund - Schweriner Hof
+rtmp://stream.livespotting.tv/windit-edge/vv142_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Sölden - Freizeit Arena
+rtmp://stream.livespotting.tv/windit-edge/vv96_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Timmendorfer Strand
+rtmp://stream.livespotting.tv/windit-edge/vv9_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Torfhaus - Harz
+rtmp://stream.livespotting.tv/windit-edge/vv52_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Travemünde - Strand
+rtmp://stream.livespotting.tv/windit-edge/vv54_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Tricht - Niederlande
+rtmp://stream.livespotting.tv/windit-edge/LS_f852f_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Tübingen - Casino am Neckar
+rtmp://stream.livespotting.tv/windit-edge/vv109_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Tübingen - Heindl Internet AG
+rtmp://stream.livespotting.tv/windit-edge/vv104_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Ulm - Hotel Blaubeurer Tor
+rtmp://stream.livespotting.tv/windit-edge/vv66_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Urk - Niederlande
+rtmp://stream.livespotting.tv/windit-edge/LS_cd126_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Vlieland - Niederlande
+rtmp://stream.livespotting.tv/windit-edge/LS_2d053_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Warnemünde - Am Strom 72
+rtmp://stream.livespotting.tv/windit-edge/vv16_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Warnemünde - Best Western Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv20_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Warnemünde - Yachthafen
+rtmp://stream.livespotting.tv/windit-edge/vv4_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Weimar - HotelPension am Goethehaus
+rtmp://stream.livespotting.tv/windit-edge/vv92_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Westerland - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv43_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Wiek - Rügen
+rtmp://stream.livespotting.tv/windit-edge/vv25_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Wolfsburg - Stadt Wolfsburg
+rtmp://stream.livespotting.tv/windit-edge/vv88_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Wuppertal - Barmenia
+rtmp://stream.livespotting.tv/windit-edge/vv117_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Würzburg - Hotel Alter Kranen
+rtmp://stream.livespotting.tv/windit-edge/vv70_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Zaandam - Niederlande
+rtmp://stream.livespotting.tv/windit-edge/LS_e8463_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Zürich - Zoo Cam 1
+rtmp://stream.livespotting.tv/windit-edge/vv78_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Zürich - Zoo Cam 2
+rtmp://stream.livespotting.tv/windit-edge/vv78b_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Zürich - Zoo Cam 3
+rtmp://stream.livespotting.tv/windit-edge/vv23_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Zürich - Uetliberg
+rtmp://stream.livespotting.tv/windit-edge/vv65_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Köln Heumarkt (Rhein- Domblick)
+rtmp://62.113.221.6/neueDorint-rtp/KoelnHeumarkt.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Seefeld (Tirol)
+rtmp://62.113.221.6/neueDorint-rtp playpath=Seefeld.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Beatenberg (Interlaken)
+rtmp://62.113.221.6/neueDorint-rtp playpath=Beatenberg.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Winterberg
+rtmp://62.113.221.6/neueDorint-rtp playpath=Winterberg.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bremen (Bürgerpark)
+rtmp://62.113.221.6/neueDorint-rtp playpath=Bremen.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Gehlberg -  Michael Gebser
+rtmp://stream.livespotting.tv/windit-edge/ playpath=vv123_720p.stream?sa=windit.de
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Düsseldorf Airport cam1
+rtmp://stream-5gw.1000eyes.de/rtplive//dus0600.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Düsseldorf Airport cam2
+rtmp://stream-5gw.1000eyes.de/rtplive//dus8a21.stream
+#EXTINF:1, group-title="WEBCAMS" pltv-subgroup="WEBCAMS",  Düsseldorf Airport cam3
+rtmp://stream-5gw.1000eyes.de/rtplive//dus2777.stream
+#EXTINF:1, group-title="WEBCAMS" pltv-subgroup="WEBCAMS",  Düsseldorf Airport cam4
+rtmp://stream-5gw.1000eyes.de/rtplive//dus275d.stream
+#EXTINF:1, group-title="WEBCAMS" pltv-subgroup="WEBCAMS",  Düsseldorf Airport cam5
+rtmp://stream-5gw.1000eyes.de/rtplive//dusbc0c.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bar Sloppy Joe's em Key West [Duval St.]
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bar Sloppy Joe's em Key West [Palco]
+http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bar Sloppy Joe's em Key West [Interior]
+http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Casa Branca [Washington DC]
+http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Copacabana [Rio de Janeiro]
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Monumento a Washington [Washington DC]
+http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Estacao Espacial 1
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Estacao Espacial 2
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lareira acesa
+http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Marina em Ft. Lauderdale [USA]
+http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Ninho de aguia
+http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Panda Cam 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Ponte de San Francisco [USA]
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Ponte do Brooklyn [NY]
+http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Quinta Avenida [NY]
+http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Seattle [USA]
+http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Times Square 1 [NY]
+http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Times Square 2 [NY]
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Times Square 3 [NY]
+http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Times Square 4 [NY]
+http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Times Square 5 [NY]
+http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Torre CN 1 [Toronto]
+http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Torre CN 2 [Toronto]
+http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Franca [Catedral de Notre Dame]
 http://video3.earthcam.com:1935/fecnetwork/7962.flv/playlist.m3u8
