@@ -3,23 +3,25 @@
 
 
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV 
-http://portal2.digiportal.xyz:8080/live/dino/dino/9066.m3u8
+http://92.60.230.199:3025/udp/239.1.7.12:22712 
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV SD
-
+http://iptv4.ddns.net:8000/live/teststb/punjab/237.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot
-http://portal2.digiportal.xyz:8080/live/dino/dino/16931.m3u8
+http://teuportal.dyndns.org:25461/live/dinho/dinho/196.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y9oett7n" group-title="XTV", Sexy Hot
-http://portal2.digiportal.xyz:8080/live/dino/dino/12113.m3u8
+
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus
-http://portal2.digiportal.xyz:8080/live/dino/dino/16930.m3u8
+http://teuportal.dyndns.org:25461/live/dinho/dinho/192.m3u8
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus(Op 2)
 http://94.60.103.81:9981/stream/channelid/1476957004
 #EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers
 http://89.163.242.108:8088/play/a037
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers(Op 2)
+http://iptv4.ddns.net:8000/live/teststb/punjab/240.m3u8
 #EXTINF:-1 tvg-id="Redlight" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
-http://portal2.digiportal.xyz:8080/live/dino/dino/2419.m3u8
+http://92.60.230.199:3025/udp/239.1.7.21:22721
 #EXTINF:-1 tvg-id="PRIVATE TV" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="XTV", Private
-
+http://92.60.230.199:3025/udp/239.1.7.20:22720 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV XXX
@@ -27,13 +29,15 @@ http://portal2.digiportal.xyz:8080/live/dino/dino/2419.m3u8
 #EXTINF:-1 tvg-id="But GO" tvg-name="But GO" tvg-logo="https://tinyurl.com/ycl2uuma" group-title="XTV" , But GO 
 http://playlist.prg09.v-ip-tv.com/atip/1/12/channel-17/0/pc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="XTV", Frenchlover
-http://portal2.digiportal.xyz:8080/live/dino/dino/9078.m3u8
+
 #EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD
 http://89.163.242.108:8088/play/a036
 #EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD (Op 2)
-
+http://92.60.230.199:3025/udp/239.1.7.18:22718 
+#EXTINF:-1 tvg-id="BlueHustler HD" tvg-logo="https://tinyurl.com/ycb6gqwx" group-title="XTV" , Blue Hustler HD
+http://92.60.230.199:3025/udp/239.1.7.19:22719 
 #EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 1
-http://portal2.digiportal.xyz:8080/live/dino/dino/3992.m3u8
+http://teuportal.dyndns.org:25461/live/dinho/dinho/415.m3u8
 #EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel
@@ -41,7 +45,7 @@ http://37.9.0.201:8889
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel (Op 2)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",Reality Kings
-
+http://92.60.230.199:3025/udp/239.1.7.11:22711 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", VIVID TOUCH
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", Exotica Plus
@@ -57,11 +61,11 @@ http://67.21.76.99:8080/TV1363
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y96w5do6" group-title="XTV", Satisfaction TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://savepic.net/7824814.png" group-title="XTV",SESTO SENSO TV 
-http://portal2.digiportal.xyz:8080/live/dino/dino/4281.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="XTV",CENTOXCENTO TV
 http://37.9.0.201:8811
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="XTV",CENTOXCENTO 
-http://portal2.digiportal.xyz:8080/live/dino/dino/9036.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk
 http://37.9.0.201:8890
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk (Op 2)
@@ -73,9 +77,9 @@ http://37.9.0.201:8890
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSION
 http://37.9.0.201:8888
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSION (Op 2)
-http://portal2.digiportal.xyz:8080/live/dino/dino/9074.m3u8
+http://92.60.230.199:3025/udp/239.1.7.16:22716 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9kmcv8p" group-title="XTV",PASSIEXXX
-http://portal2.digiportal.xyz:8080/live/dino/dino/9068.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="XTV",Eroxxx HD
 
 #EXTINF:1 tvg-logo="https://tinyurl.com/yd8cw47j" group-title="XTV",SUPERONE
@@ -94,6 +98,20 @@ http://portal2.digiportal.xyz:8080/live/dino/dino/9068.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",Sexy Zone 18+
 http://tv.ec.cx:1935/redecanais-stream-hot/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: ELIT ADULT 1" tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",XXX: ELIT ADULT 1
+http://iptv4.ddns.net:8000/live/teststb/punjab/233.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: ELIT ADULT 2" tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",XXX: ELIT ADULT 2
+http://iptv4.ddns.net:8000/live/teststb/punjab/232.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: ELIT ADULT 3" tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",XXX: ELIT ADULT 3
+http://iptv4.ddns.net:8000/live/teststb/punjab/231.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: ELIT ADULT 4" tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",XXX: ELIT ADULT 4
+http://iptv4.ddns.net:8000/live/teststb/punjab/230.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: ELIT ADULT 5" tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",XXX: ELIT ADULT 5
+http://iptv4.ddns.net:8000/live/teststb/punjab/229.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: ELIT ADULT 6" tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",XXX: ELIT ADULT 6
+http://iptv4.ddns.net:8000/live/teststb/punjab/228.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", HOT 01
 http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-15/0/pc.m3u8
@@ -422,7 +440,8 @@ Http://google.pt
 #EXTINF:-1 tvg-logo="http://www.baixedetudo.net/imagens/Emmanuelle-1974-Dublado-205x300-205x300.jpg" group-title="XMOVIES", Emmanuelle Dublado
 magnet:?xt=urn:btih:ac7edb1c0b09e3ee8ed36f97ec6acb74e37b2ff1&dn=Emmanuelle+Collection+%5B1-4%5D+%5BSylvia+Kristel%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969
 
-
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydamjbk8" group-title="XMOVIES", Andrew Blake- Girlfriends
+https://cld.pt/dl/download/763a4a6d-1218-4bc4-94c1-a2e8224112dc/Andrew%20Blake%20-%20Girlfriends.mp4
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/49/ed/c5/49edc56c8dda3cb934ee481cc8080a7c.jpg" group-title="XMOVIES", Pirates 2 - Stagnettis Revenge
 https://cld.pt/dl/download/868daef3-ad7f-4b5e-9286-a9ff01e79fbf/Pirates%20II_%20Stagnetti%27s%20Revenge%20%282008%29%20HDRip.mp4
