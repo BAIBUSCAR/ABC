@@ -307,12 +307,12 @@ http://176.51.101.13:1234/udp/225.54.23.156:5000
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",The O
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",Spice TV
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",Playy>19+
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",GIRLS TV
+http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",Pink TV
+http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8
 #EXTINF:-1 tvg-id="Sakura" tvg-name="Sakura" tvg-logo="https://tinyurl.com/y7qxkmyj" group-title="XTV" , Sakura 
-
+http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
 #EXTINF:-1 tvg-logo="https://apk2android.com//upload/icon/20150313/1426250744857.png" group-title="XTV",Okadai TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s14.postimg.org/sc08zm7kx/motu_1418424sexzone.png" group-title="XTV",Sex Zone
