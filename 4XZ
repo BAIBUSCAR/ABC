@@ -98,6 +98,8 @@ http://92.60.230.199:3025/udp/239.1.7.16:22716
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",Sexy Zone 18+
 http://tv.ec.cx:1935/redecanais-stream-hot/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", Playboy Asia
+http://edge2.everyon.tv:1935/etv2sb/phd499/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="XXX: ELIT ADULT 1" tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",XXX: ELIT ADULT 1
 http://iptv4.ddns.net:8000/live/teststb/punjab/233.m3u8
@@ -283,7 +285,8 @@ http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-108/pc.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", SexFone
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
 #EXTINF:-1,tvg-id=""tvg-logo="https://tinyurl.com/y95gxur8" group-title="XTV", Claro Adulto 18
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yboke6kw" group-title="XTV",Pink TV Asia
