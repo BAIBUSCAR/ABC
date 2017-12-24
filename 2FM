@@ -1,6 +1,33 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://tinyurl.com/yaz369m3",Bright
+http://zeus.netcine.tv/httpdelivery/filmes2017/BRIGHTLEG-ALTO.mp4
+
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://tinyurl.com/y8ck5uk8",Justice League
+http://zeus.netcine.tv/httpdelivery/filmes2017/JUSTICALIGA2017LEG-ALTO.mp4
+
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://tinyurl.com/y7y84bbt",Hey Arnold! The Jungle Movie
+http://zeus.netcine.tv/httpdelivery/filmes2017/HEYARNOLDLEG-ALTO.mp4
+
+#EXTINF:-1 group-title="FILMES" tvg-logo="http://i.imgur.com/y9LAh3B.jpg",Eu Fico Loko FICO [Filme Brasileiro]
+https://ia601504.us.archive.org/21/items/luaEuFicoLoko/luaEuFicoLoko.MP4
+
+#EXTINF:-1 group-title="FILMES" tvg-logo="http://i.imgur.com/qcRJkNI.jpg",Amor.com [Filme Brasileiro]
+https://ia601504.us.archive.org/32/items/luaAmor/luaAmor.MP4
+
+#EXTINF:-1 group-title="FILMES" tvg-logo=https://tinyurl.com/ya2xmcru"",Be Afraid
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BEAFRDLEG.mp4
+
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://tinyurl.com/yc9zyp9t",Jigsaw O Legado de Saw
+http://locaweb123.chronos.feralhosting.com/2017/filmes/2017/jogosmortais8.mp4
+
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://tinyurl.com/y7v4t63n",Vingadores A Era de Ultron
+http://zeus.netcine.tv/httpdelivery/filmes2017/VINGADORESLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://sck.pm/8X" group-title="FILMES",Velocidade Furiosa 8 
+http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017LEG-BAIXO.mp4
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7tj5plt" group-title="FILMES", It
 http://zeus.netcine.tv/httpdelivery/filmes2017/ACOISA2017LEG-ALTO.mp4
 
@@ -63,6 +90,36 @@ http://assistir.querofilmehd.com/filmes/King-Uma.Historia.de.Vinganca.2016.2A.72
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc3jg4be" group-title="FILMES", GOLD
 http://assistir.querofilmehd.com/filmes/Ouro.e.Cobica.2017.720p.BluRay.x264.DRONES.DUAL-OLD(1).mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycas56mk" group-title="FILMES",  Leatherface  O Início do Massacre
+http://s.vstreaming.net/movies/leatherface-leg-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wohKqG9.jpg" group-title="FILMES",  Dunkirk
+http://zeus.netcine.tv/httpdelivery/filmes2017/DUNKIRKLEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPwT3th.jpg" group-title="FILMES",  Policia federal | A Lei é para Todos
+http://zeus.netcine.tv/httpdelivery/filmes2017/POFE20117-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://sck.pm/J0" group-title="FILMES",  Crise na Terra X (serie completa)
+http://zeus.netcine.tv/httpdelivery/filmes2017/CRISENATERRAX-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://sck.pm/iaz" group-title="FILMES",  Kingsman Serviços Secretos
+http://zeus.netcine.tv/httpdelivery/filmes2017/KSSLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://sck.pm/iaz" group-title="FILMES",  Kingsman O Círculo Dourado  
+http://zeus.netcine.tv/httpdelivery/filmes2017/KINGS2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybv5gb4p" group-title="FILMES",  American Assassin 
+http://zeus.netcine.tv/httpdelivery/filmes2017/AMERICANA20177LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7g7k7rj" group-title="FILMES",  O Guarda-Costas e o Assassino 
+http://zeus.netcine.tv/httpdelivery/filmes2017/DUPLA2LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3fehmj" group-title="FILMES",  American Made 
+http://zeus.netcine.tv/httpdelivery/filmes2017/AM2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/91/15/13/20132048.jpg" group-title="FILMES",  Blade Runner  Perigo Iminente (1982)
+http://zeus.netcine.tv/httpdelivery/filmes2017/BLADERUNNERLEG-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycnuy48y" group-title="FILMES", MINE
 http://assistir.querofilmehd.com/filmes/Mine.2016.1080p.BluRay.x264.DTS-FGT%20.Dual-floyd(1).mp4
@@ -663,6 +720,124 @@ https://userscloud.com/vidembed-yxrapr0k1cpf.mp4
 
 
 
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Star_Wars_Logo..png",Star Wars [I] A Ameaça de Fantasma
+http://zeus.netcine.tv/httpdelivery/filmes2017/STARWARS01LEG-BAIXO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Star_Wars_Logo..png",Star Wars [II] Ataque dos Clones
+http://zeus.netcine.tv/httpdelivery/filmes2017/STARWARS02LEG-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Star_Wars_Logo..png",Star Wars [III] A Vinganca dos Sith
+http://zeus.netcine.tv/httpdelivery/filmes2017/STARWARS03LEG-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Star_Wars_Logo..png",Star Wars [IV] Uma Nova Esperanca 
+http://zeus.netcine.tv/httpdelivery/filmes2017/STARWARS04LEG-BAIXO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Star_Wars_Logo..png",Star Wars [V] O Império Contra Ataca
+http://zeus.netcine.tv/httpdelivery/filmes2017/STARWARS05LEG-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Star_Wars_Logo..png",Star Wars [VI] O Retorno de Jedi
+http://zeus.netcine.tv/httpdelivery/filmes2017/STARWARS06LEG-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Star_Wars_Logo..png",Star Wars [VII] O Despertar da Forca
+http://zeus.netcine.tv/httpdelivery/filmes2017/STARWARS07LEG-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Star_Wars_Logo..png",Star Wars [VIII] Rogue One Uma Historia Star Wars
+http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/ROGUELEGG-ALTO.mp4
+
+
+#EXTINF:-1 group-title="SAGAS" tvg-logo="http://blogs-images.forbes.com/danidiplacido/files/2017/09/batman-312342_960_720.jpg?width=960",Batman O Inicio
+http://zeus.netcine.tv/httpdelivery/filmes2017/BATMAN01LEG-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="http://blogs-images.forbes.com/danidiplacido/files/2017/09/batman-312342_960_720.jpg?width=960",Batman O Cavaleiro das Trevas
+http://zeus.netcine.tv/httpdelivery/filmes2017/BATMAN02LEG-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="http://blogs-images.forbes.com/danidiplacido/files/2017/09/batman-312342_960_720.jpg?width=960",Batman O Cavaleiro das Trevas Ressurge
+http://zeus.netcine.tv/httpdelivery/filmes2017/BATMAN03LEG-ALTO.mp4
+
+
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://i0.wp.com/bssevents.com/wp-content/uploads/2017/07/Harry-film-logo.png?fit=484%2C210", [I]  Harry Potter e a Pedra Filosofal
+http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP01LEG-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://i0.wp.com/bssevents.com/wp-content/uploads/2017/07/Harry-film-logo.png?fit=484%2C210", [II]  Harry Potter e a Câmara Secreta
+http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP02LEG-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://i0.wp.com/bssevents.com/wp-content/uploads/2017/07/Harry-film-logo.png?fit=484%2C210", [III]  Harry Potter e o Prisioneiro de Azkaban
+http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP03LEG-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://i0.wp.com/bssevents.com/wp-content/uploads/2017/07/Harry-film-logo.png?fit=484%2C210", [IV]  Harry Potter e o Calice de Fogo
+http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP04LEG-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://i0.wp.com/bssevents.com/wp-content/uploads/2017/07/Harry-film-logo.png?fit=484%2C210", [V]  Harry Potter e a Ordem da Fenix
+http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP05DUB-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://i0.wp.com/bssevents.com/wp-content/uploads/2017/07/Harry-film-logo.png?fit=484%2C210", [VI]  Harry Potter e o Enigma do Principe [Audio BR]
+http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP06DUB-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://i0.wp.com/bssevents.com/wp-content/uploads/2017/07/Harry-film-logo.png?fit=484%2C210", [VII]  Harry Potter e as Reliquias da Morte Parte 1 [Audio BR]
+http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP07DUB-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://i0.wp.com/bssevents.com/wp-content/uploads/2017/07/Harry-film-logo.png?fit=484%2C210", [VIII]  Harry Potter e as Reliquias da Morte Parte 2 [Audio BR]
+http://zeus.netcine.tv/httpdelivery/filmes2017/H4RRYP08DUB-ALTO.mp4
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2015/07/20150727-o-hobbit-papo-de-cinema-600x342.png",O Hobbit A Batalha dos Cinco Exercitos
+http://zeus.netcine.tv/httpdelivery/filmes2017/ohobbit/leg/03-BAIXO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2015/07/20150727-o-hobbit-papo-de-cinema-600x342.png",O Hobbit A Desolacão de Smaug
+http://zeus.netcine.tv/httpdelivery/filmes2017/ohobbit/leg/02-BAIXO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2015/07/20150727-o-hobbit-papo-de-cinema-600x342.png",O Hobbit Uma Jornada Inesperada
+http://zeus.netcine.tv/httpdelivery/filmes2017/ohobbit/leg/01-BAIXO.mp4
+
+
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Jl7LWED-cqV155T8pUPrQkBbOuMA1NMJLrj2ZKji3huv6J-G2C6d6g",O Senhor dos Anéis | A Irmandade do Anel [2001]
+http://zeus.netcine.tv/httpdelivery/filmes2017/S4NH0R4NEYS01LEG-BAIXO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk_xfYtXYxLcMMd6FaHHLbtw4Ae7P35IHJr6YuqS8i34HNkl9T-orM9Q",O Senhor dos Anéis | As Duas Torres [2002]
+http://zeus.netcine.tv/httpdelivery/filmes2017/S4NH0R4NEYS02LEG-BAIXO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk_xfYtXYxLcMMd6FaHHLbtw4Ae7P35IHJr6YuqS8i34HNkl9T-orM9Q",O Senhor dos Anéis | O Regresso do Rei [2003]
+http://zeus.netcine.tv/httpdelivery/filmes2017/S4NH0R4NEYS03LEG-BAIXO.mp4
+
+
+#EXTINF:-1 group-title="SAGAS" tvg-logo="http://images6.fanpop.com/image/photos/33900000/Captain-Jack-Sparrow-captain-jack-sparrow-33965988-357-500.jpg",[I] Pirates of the Caribbean A Maldicão do Pérola Negra
+http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATASC01LEG-BAIXO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="http://images6.fanpop.com/image/photos/33900000/Captain-Jack-Sparrow-captain-jack-sparrow-33965988-357-500.jpg",[II] Pirates of the Caribbean O Baú Da Morte
+http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATASC02LEG-BAIXO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="http://images6.fanpop.com/image/photos/33900000/Captain-Jack-Sparrow-captain-jack-sparrow-33965988-357-500.jpg",[III] Pirates of the Caribbean No Fim do Mundo
+http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATASC03LEG-BAIXO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="http://images6.fanpop.com/image/photos/33900000/Captain-Jack-Sparrow-captain-jack-sparrow-33965988-357-500.jpg",[IV] Pirates of the Caribbean Navegando Em aguas Misteriosas [Audio BR]
+http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATASC04DUB-BAIXO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="http://images6.fanpop.com/image/photos/33900000/Captain-Jack-Sparrow-captain-jack-sparrow-33965988-357-500.jpg",[V] Pirates of the Caribbean A Vinganca de Salazar
+http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5LEG-ALTO.mp4
+
+
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Saw4final.jpg/220px-Saw4final.jpg",SAW [2004]
+https://lh3.googleusercontent.com/ZrzzMekRrkZXW6kNM5mYk1NU406kp-13V59qT1BmBKZSq7R3drMtjq8qq2B6EoDvum9v1ST7HWUMdkMqFN3Z-DMzukPNpu17=m22
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Saw_II_poster.jpg",SAW II [2005]
+https://lh3.googleusercontent.com/qVv6_7NLJuArbRWKzFfmHRqdGy-YUzJuV1MZcJg1DhKiyPhll9z80_iRbhRLTbytzJc_NNbsxyNWveDdzyviPNFsb8wz1E1S=m22
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://resizing.flixster.com/up5pKngDKxX7dcUZTpjfooRrXqU=/206x305/v1.bTsxMTIxNDk2MjtqOzE3NTg5OzEyMDA7OTAwOzEyMDA",SAW III [2006]
+https://lh3.googleusercontent.com/bVcAEH0-4wfhHqo4hhwLnonoF6v_i0E9_xZYfjbQvkc5CFjyReIH4DBj6lOJBdaIFfGGVmKM89k8qkQsYBfT6vWHB9QdlX0o=m22
+#EXTINF:-1 group-title="SAGAS" tvg-logo="http://1.bp.blogspot.com/-wrQGlefF8gE/UjymJn9kpqI/AAAAAAAAB_g/yctOf5GvYUY/s1600/Jogos+Mortais+4.jpg",SAW IV [2007]
+https://lh3.googleusercontent.com/CJGObw9FmQ9M7Ohr9YehjKhyY_Rv9YxBE7TFEYxJ_9cmy6oqwvRjEm20N3HQObGtV6puK8MYaqedNnKuEz2VJ84QhLxKK8us=m22
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/dekLwgyBcckm65Uk8SJjTXD9pf5.jpg",SAW V [2008]
+https://lh3.googleusercontent.com/axH-ocXkj7XVGUvXR2vlg6qsSk1v8GWm5mmuUZUtfYBUzLZReHR9Yz5-t8UOgoftNUWwMy0oe-z8_G25k9OEgYyHfIqOgKOT=m22
+#EXTINF:-1 group-title="SAGAS" tvg-logo="https://resizing.flixster.com/D0iEBb52C2NZ_7nq_WzHU9IxOao=/206x305/v1.bTsxMTIzNjE3NztqOzE3NTkwOzEyMDA7MTA1MDsxNDAw",SAW VI [2009]
+https://lh3.googleusercontent.com/8NeO6B3HkLAI-ZhbyLWzegwH7a7eVB17UQSSW_H7O6snYMcO4b5W7mL0Y9z0CFAv8UzI8Bj-pR1DkMRtJ-gNT41qGSBnP4fz=m22
+#EXTINF:-1 group-title="SAGAS" tvg-logo="http://4.bp.blogspot.com/_BLb7urZZT8s/TFDxyS_U8QI/AAAAAAAAADM/TN2LOAF_mwo/s1600/SAW+7+in+3D.jpg",SAW VII [2010]
+https://lh3.googleusercontent.com/_AC8LfjgVMDFiZOSs_qk7wNm85P2-OviX7YU3kVZVdI-rS2H8T395BJkCHt14UVgFxYmlUX08ZxQF82g-38wPm9fq6V6ts4d=m22
+
+
+
+#EXTINF:-1 group-title="SAGAS" tvg-logo="http://www.pngmart.com/files/2/Thor-PNG-Picture.png", Thor
+http://zeus.netcine.tv/httpdelivery/filmes2017/THOR01LEG-ALTO.mp4
+#EXTINF:-1 group-title="SAGAS" tvg-logo="http://www.pngmart.com/files/2/Thor-PNG-Picture.png", Thor O Mundo das Trevas
+http://zeus.netcine.tv/httpdelivery/filmes2017/THOR02LEG-ALTO.mp4
+
+
+
+
+
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -920,6 +1095,50 @@ https://cld.pt/dl/download/577c6927-72ea-4f83-b95d-485b31e232a7/Um%20Tiro%20no%2
 #EXTINF:-1 tvg-id="" tvg-logo="http://pics.filmaffinity.com/Viagem_a_Portugal-401322508-large.jpg"  group-title="FILMES PORTUGUESES", Viagem A Portugal 2011
 https://cld.pt/dl/download/2724a396-a913-4cff-b100-54bef8953bfc/Viagem%20A%20Portugal%20%282011%29%281%29.avi
 
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",SAL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%201%20-%20Sal%20.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",OURO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%202%20-%20Ouro.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",CAVALO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%203%20-%20Cavalo%20.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",ABAIXO DE ZERO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%204%20-%20Abaixo%20De%20Zero.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",MEGAESTRUTURAS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%205%20-%20Megaestruturas.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",O MUNDO DAS ARMAS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%206%20-%20O%20Mundo%20Das%20Armas.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",A ASCENSÃO DOS CARNIVOROS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%207%20-%20A%20Ascens%c3%a3o%20dos%20Carn%c3%advoros.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",MONTANHAS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%208%20-%20Montanhas.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",ESTIMULO CEREBRAL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%209%20-%20Est%c3%admulo%20Cerebral.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",DESAFIANDO A GRAVIDADE
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2010%20-%20Desafiando%20A%20Gravidade.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",MAQUINA DO TEMPO PORTATIL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2011%20-%20M%c3%a1quina%20do%20Tempo%20Port%c3%a1til.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",METEOROS MORTAIS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2012%20-%20Meteoros%20Mortais.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",DECODIFICANDO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2013%20-%20Decodificado.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",SUPERNOVA DE PRATA
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2014%20-%20Supernova%20de%20Prata.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",O SOL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2015%20-%20O%20Sol.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",H2O
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2016%20-%20H2O.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="Documentarios",FINAL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2017%20-%20Final.mp4
 
 
 
