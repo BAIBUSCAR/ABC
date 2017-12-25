@@ -3,39 +3,43 @@
 
 
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV 
-http://92.60.230.199:3025/udp/239.1.7.12:22712 
+http://186.225.56.22:8010/play/a00e
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV SD
-http://iptv4.ddns.net:8000/live/teststb/punjab/237.m3u8
+http://185.231.160.40/142/2/index.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot
 http://teuportal.dyndns.org:25461/live/dinho/dinho/196.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y9oett7n" group-title="XTV", Sexy Hot
-
+http: / /186.225.56.22:8020/play/a022
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus
 http://teuportal.dyndns.org:25461/live/dinho/dinho/192.m3u8
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus(Op 2)
 http://94.60.103.81:9981/stream/channelid/1476957004
 #EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers
 http://89.163.242.108:8088/play/a037
-#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers(Op 2)
-http://iptv4.ddns.net:8000/live/teststb/punjab/240.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers (Op 2)
+http://109.248.93.205:3371/udp/239.195.2.4:1234
 #EXTINF:-1 tvg-id="Redlight" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
-http://92.60.230.199:3025/udp/239.1.7.21:22721
+http://185.231.160.40/525/1/index.m3u8
 #EXTINF:-1 tvg-id="PRIVATE TV" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="XTV", Private
-http://92.60.230.199:3025/udp/239.1.7.20:22720 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV
-
+http://185.231.160.40/931/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV XXX
-
+http://185.231.160.40/932/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ya5mjy4a" group-title="XTV", Sex Prive
+http://186.225.56.22:8000/play/a05b 
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XTV",Egoist
+http://185.231.160.40/268/2/index.m3u8
 #EXTINF:-1 tvg-id="But GO" tvg-name="But GO" tvg-logo="https://tinyurl.com/ycl2uuma" group-title="XTV" , But GO 
-http://playlist.prg09.v-ip-tv.com/atip/1/12/channel-17/0/pc.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="XTV", Frenchlover
 
 #EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD
 http://89.163.242.108:8088/play/a036
 #EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD (Op 2)
-http://92.60.230.199:3025/udp/239.1.7.18:22718 
+
 #EXTINF:-1 tvg-id="BlueHustler HD" tvg-logo="https://tinyurl.com/ycb6gqwx" group-title="XTV" , Blue Hustler HD
-http://92.60.230.199:3025/udp/239.1.7.19:22719 
+http://185.231.160.40/269/2/index.m3u8
 #EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 1
 http://teuportal.dyndns.org:25461/live/dinho/dinho/415.m3u8
 #EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 2
@@ -43,9 +47,9 @@ http://teuportal.dyndns.org:25461/live/dinho/dinho/415.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel
 http://37.9.0.201:8889 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel (Op 2)
-
+http://185.231.160.40/361/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",Reality Kings
-http://92.60.230.199:3025/udp/239.1.7.11:22711 
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", VIVID TOUCH
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", Exotica Plus
@@ -57,7 +61,7 @@ http://92.60.230.199:3025/udp/239.1.7.11:22711
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y84d3d8u" group-title="XTV", O-La-La
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yb3pjv8e" group-title="XTV", Sextreme
-http://67.21.76.99:8080/TV1363
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y96w5do6" group-title="XTV", Satisfaction TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://savepic.net/7824814.png" group-title="XTV",SESTO SENSO TV 
@@ -65,7 +69,7 @@ http://67.21.76.99:8080/TV1363
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="XTV",CENTOXCENTO TV
 http://37.9.0.201:8811
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="XTV",CENTOXCENTO 
-
+http://185.231.160.40/364/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk
 http://37.9.0.201:8890
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk (Op 2)
@@ -77,15 +81,15 @@ http://37.9.0.201:8890
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSION
 http://37.9.0.201:8888
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSION (Op 2)
-http://92.60.230.199:3025/udp/239.1.7.16:22716 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9kmcv8p" group-title="XTV",PASSIEXXX
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9kmcv8p" group-title="XTV",PASSIEXXX
+http://185.231.160.40/366/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="XTV",Eroxxx HD
 
 #EXTINF:1 tvg-logo="https://tinyurl.com/yd8cw47j" group-title="XTV",SUPERONE
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", SCT
-
+http://185.231.160.40/363/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8fxsflo" group-title="XTV",Babestation Extreme
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",X Desire 
@@ -94,25 +98,13 @@ http://92.60.230.199:3025/udp/239.1.7.16:22716
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",X Bunga Bunga [No sound]
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",X Bizarre [No sound] http:/vk.com/m3u_playlist
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",X Bizarre [No sound] 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",Sexy Zone 18+
 http://tv.ec.cx:1935/redecanais-stream-hot/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", Playboy Asia
 http://edge2.everyon.tv:1935/etv2sb/phd499/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="XXX: ELIT ADULT 1" tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",XXX: ELIT ADULT 1
-http://iptv4.ddns.net:8000/live/teststb/punjab/233.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="XXX: ELIT ADULT 2" tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",XXX: ELIT ADULT 2
-http://iptv4.ddns.net:8000/live/teststb/punjab/232.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="XXX: ELIT ADULT 3" tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",XXX: ELIT ADULT 3
-http://iptv4.ddns.net:8000/live/teststb/punjab/231.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="XXX: ELIT ADULT 4" tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",XXX: ELIT ADULT 4
-http://iptv4.ddns.net:8000/live/teststb/punjab/230.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="XXX: ELIT ADULT 5" tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",XXX: ELIT ADULT 5
-http://iptv4.ddns.net:8000/live/teststb/punjab/229.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="XXX: ELIT ADULT 6" tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",XXX: ELIT ADULT 6
-http://iptv4.ddns.net:8000/live/teststb/punjab/228.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", HOT 01
@@ -419,6 +411,7 @@ http://publish.thewebstream.co:1935/rlc/_definst_/livestream1/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Sex Zone (18+)
 http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
+
 
 
 
@@ -2122,6 +2115,57 @@ http://porneq.com/media/porn/videos/404/Mario-Salieri-Abdul-El-Muriad-XXX-1999-D
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 1
+http://x2t.com/pu708-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 2
+http://x2t.com/pu710-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 3
+http://x2t.com/pu721-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 4
+http://x2t.com/pu711-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 5
+http://x2t.com/pu717-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 6
+http://x2t.com/pu724-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 7
+http://x2t.com/pu718-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 8
+http://x2t.com/toys01-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 9
+http://x2t.com/toys02-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 10
+http://x2t.com/toys03-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 11
+http://x2t.com/toys04-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 12
+http://x2t.com/toys06-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 13
+http://x2t.com/toys05-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 14
+http://x2t.com/toys07-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 15
+http://x2t.com/toys08-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 16
+http://x2t.com/toys09-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 17
+http://x2t.com/toys11-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 18
+http://x2t.com/toys10-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 19
+http://x2t.com/toys13-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 20
+http://x2t.com/toys12-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 21
+http://x2t.com/toys14-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 22
+http://x2t.com/toys15-mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XCLIPS",Ролик № 23
+http://x2t.com/toys16-mp4
 
 
 #EXTINF:-1 tvg-logo="http://begin-english.ru/img/upload/2/f/7/7/d989510b55.png" group-title="XCLIPS",pornoid 73
@@ -8161,6 +8205,100 @@ http://content2.sexforsure.com/2013/07/03/3/Video.mp4
 http://content2.sexforsure.com/2013/07/02/18/Video.mp4
 #EXTINF:-1, group-title="XCLIPS",  Video 9
 http://content2.sexforsure.com/2013/07/03/18/Video.mp4
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pyjJfsM.jpg" group-title="XBrasil",As Panteras - Incesto 7
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FmoUyWO.jpg" group-title="XBrasil",Angel Lima fazendo dupla penetração
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/34a4ffea6a3b6e7eb540ef2b9c87d1837e979cc4f4/22000/22208/22208_720p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/K7gUgXr.jpg" group-title="XBrasil",Ninfeta brasileira fodendo com vizinho
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/09c220507e5eacd02a880a5c0d86d2f054502a0687/21000/21377/21377_480p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yGOBTZr.jpg" group-title="XBrasil",Putinha sentando forte no pau grande do namorado
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/8b6be2c1709099cf93b91e7f678c2405e83cc07459/21000/21437/21437_480p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmD4Z7Z.jpg" group-title="XBrasil",Novinha amadora gostosa dando a xoxota
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/ab4875ffc054d310b3c9212cad744105caede94cbf/21000/21604/21604_720p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QArkW7D.jpg" group-title="XBrasil",Amigas no hotel trepando
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/31dd38c89a8141393b55e646ddef3ff0e0fb32374f/21000/21852/21852_240p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GOsRBYA.jpg" group-title="XBrasil",Morenaça rabuda fodendo no cassete grosso
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/e71af7fb85907d1dcdeb67294606aa968e82f2b211/19000/19307/19307_720p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jLk6XN3.jpg" group-title="XBrasil",Chupando a boceta grande
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/39e59697fb545c20e6579a1ef9a3ea0bcdba216fdf/19000/19133/19133_360p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hN4OBff.jpg" group-title="XBrasil",Pâmela Pantera fodendo toda lambuzada de óleo
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/5b732cbd90fb4ae00e4b00687f76e8e20698260669/19000/19288/19288_720p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OD686na.jpg" group-title="XBrasil",Giovana Bombom fodendo cheia de tesão
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9ad35805e2670ae8523b6ceabb5d826db39d0d2dd4/20000/20347/20347_720p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FXk7xSA.jpg" group-title="XBrasil",Manu Fox fodendo na cozinha
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/01a5b4326587179de1c1c4d9424a54e33314993860/21000/21622/21622_720p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WEDG2jT.jpg" group-title="XBrasil",tio comendo o cu da sobrinha após o banho
+http://edgecast-video.xvideos.com/videos/mp4/f/e/3/xvideos.com_fe3c67881f2d8f262418b9c714a5ee63.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6wraK2Q.jpg" group-title="XBrasil",rabudas levando pica grande do gringo tarado
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/videort577222.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/08z3utx.jpg" group-title="XBrasil",gostosas fazendo boquete
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/video24060297.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/V1Whmiv.jpg" group-title="XBrasil",Empregada gostosona fodendo com o filho tarado do patrão
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/videoph568db638ce681.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kVfR050.jpg" group-title="XBrasil",Loira rabuda, Mirella Mansur, metendo com o negão pauzudo
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/video24761409.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5bty0Se.jpg" group-title="XBrasil",Brasileira novinha de bunda grande trepando com negro safado
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/videoxh2730127.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wh0FFDZ.jpg" group-title="XBrasil",Putinha peituda dando pra dois mulatos de cacete grande
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/video23235823.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IIU3rps.jpg" group-title="XBrasil",Comendo a mãe e a filha
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/cb4ae6395bb82e8b711b220c31151cf925cfcce3f8/21000/21718/21718_480p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CcUOykN.jpg" group-title="XBrasil",Dois paus no mesmo cu
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/1337a738b4fd5a50686c3eeb5e0b5bed2f86053e9f/21000/21717/21717_480p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LYdoldz.jpg" group-title="XBrasil",Sexo quente com uma morena safada
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9c06408da3a8c4aa8eb0f1c76a0c65d305147cda8d/21000/21715/21715_720p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pDoLiOi.jpg" group-title="XBrasil",fodendo na banheira
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/df3ec0bc3c9cdf0da0338717be8a6bf017119c485b/21000/21339/21339_720p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tIiSXMz.jpg" group-title="XBrasil",Loirinha safada no motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9fc60d8a025b57ddfad75bd4b4d494855ca8cb739d/18000/18952/18952_360p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jqxd67C.jpg" group-title="XBrasil",Loirinha safada no motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/0b35c5f955c72ff8c23131e6217bf679832c9629c2/2000/2116/2116_720p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z6r7x8N.jpg" group-title="XBrasil",Loirinha brasileira no seu primeiro porno
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/99d02092b408964ec2938497e8548b8fc8f63bbec9/2000/2131/2131_720p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F5ICepd.jpg" group-title="XBrasil",Pegou na praia e levou para o motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/939dfd767a7cb07739a77f9f80e20491e763ccfa76/2000/2208/2208_480p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/A5Pnx5h.jpg" group-title="XBrasil",Marido aquecendo para o negrão comer
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/154de9282302a6b26fa97650b90a3d5386dc7219ac/2000/2121/2121_480p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="XBrasil",Loira Charmosa
+http://media.pornocarioca.com/videos/mp4/6865/6865.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="XBrasil",Ingênua Mas Adora Foder
+http://media.pornocarioca.com/videos/mp4/7085/7085.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="XBrasil",Escola da Safadeza
+http://media.pornocarioca.com/videos/mp4/7206/7206.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="XBrasil",Do Cuzinho Pra Boca
+http://media.pornocarioca.com/videos/mp4/6689/6689.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="XBrasil",Só Rabuda Deliciosa
+http://media.pornocarioca.com/videos/mp4/6609/6609.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="XBrasil",Ousadia em Locais Pouco Discretos
+http://media.pornocarioca.com/videos/mp4/6515/6515.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="XBrasil",Primeira Vez no Pornô
+http://media.pornocarioca.com/videos/mp4/6404/6404.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="XBrasil",Viviane Araújo a Stripper
+http://media.pornocarioca.com/videos/mp4/6316/6316.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="XBrasil",Quinta do Conde
+http://media.pornocarioca.com/videos/mp4/6222/6222.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="XBrasil",Loira Gostosa Transando Com Gringos
+http://media.pornocarioca.com/videos/mp4/6137/6137.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="XBrasil",Desejos Sexuais
+http://media.pornocarioca.com/videos/mp4/6009/6009.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yEy9urI.png" group-title="XBrasil",A Carioca Monique
+http://media.pornocarioca.com/videos/mp4/5963/5963.mp4
+
+
+
+
+
 
 
 
