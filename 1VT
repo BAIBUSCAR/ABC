@@ -425,7 +425,7 @@ http://web.onair-radio.eu:1935/reloadbizz/reloadbizz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Xngpfr" tvg-id="Euronews.nws" group-title="CumCatano", EURONEWS
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8xrvp39" tvg-id="Localvisao.pt" group-title="CumCatano",Localvisão TV HD
-
+http://188.250.214.28:8889/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logos.switchtv.net/url/pt/regioes_tv.jpg" group-title="CumCatano",REGIOES TV
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://i.vimeocdn.com/portrait/20878121_300x300" group-title="CumCatano",LEIRIA TV
