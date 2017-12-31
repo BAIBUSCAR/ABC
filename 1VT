@@ -692,6 +692,40 @@ http://www.djing.com/tv/a-05.m3u8
 
 
 
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yacoryo5" group-title="CCLive", Faith No More - Hellfest
+https://cld.pt/dl/download/093d1844-4bb8-4719-a332-40d28b7fd48e/Faith%20No%20More%20-%20Hellfest%20%28Full%20Show%29.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yarzpj6u" group-title="CCLive", Fantômas & Mr. Bungle - Rock Squad Special
+https://cld.pt/dl/download/7374c12d-8130-42c4-82a5-bd5307bcd634/Fant%C3%B4mas%20%26%20Mr.%20Bungle%20-%20Rock%20Squad%20Special%20%28Viva%202%29%20%5BFull%5D.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb3o5h29" group-title="CCLive", Faith No More - Download Festival (2009)
+https://cld.pt/dl/download/7139002d-bab7-46f8-84c3-05684bcbe6b5/Faith%20No%20More%20-%20Download%20Festival%20%282009%29%20%5BFull%20Show%5D.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8gsq2ym" group-title="CCLive", Fantômas - The Director's Cut Live
+https://cld.pt/dl/download/3acc66b0-369e-41b0-8bf6-7053a3b483b9/Fant%C3%B4mas%20-%20The%20Director%27s%20Cut%20Live_%20A%20New%20Year%20Revolution%20-%20Full%20Show.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yab9krqx" group-title="CCLive", Mondo Cane - Teatro Caupolicán (Santiago Chile 21/09/2011) 
+https://cld.pt/dl/download/dc82f08d-9341-4e52-b855-30bc01e36b9c/Mike%20Patton%20_%20Mondo%20Cane%20-%20Teatro%20Caupolic%C3%A1n%2C%20Santiago%2C%20Chile%2C%20Sep.%2021%2C%202011%20%28HD%29%20%28Full%20Show%29.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybaggofb" group-title="CCLive", Peeping Tom - Cologne Germany - 11/12/2006
+https://cld.pt/dl/download/f0235c89-8bff-4921-a757-c351bbf79cfc/Mike%20Patton%20and%20Peeping%20Tom%20-%20Cologne%2C%20Germany%20-%20December%2011th%202006.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd8m4fbu" group-title="CCLive", Tomahawk - Portugal 2013
+https://cld.pt/dl/download/3c437e9d-f0f2-49f8-b696-b6bfaf7b8fd8/Tomahawk%20-%20Portugal%202013%20%28full%20show%29.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yazya6xq" group-title="CCLive", Mr. Bungle - Clutch Cargo Pontiac USA (1999)
+https://cld.pt/dl/download/58de7a07-d064-48a9-b276-7ba0d6124651/Mr.%20Bungle%20-%20%20Clutch%20Cargo%27s%2C%20Pontiac%2C%20MI%2C%20USA%20%281999%29.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8nbdapd" group-title="CCLive", Foo Fighters - Live at Hyde Park 2006
+https://cld.pt/dl/download/da7b69b2-f616-4824-8439-05964d481f82/Foo%20Fighters%20-%20Live%20at%20Hyde%20Park%202006%20%28Full%20Concert%29.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yawlh7hv" group-title="CCLive", Foo Fighters in the HD Radio Sound Space at KROQ
+https://cld.pt/dl/download/92b9689e-cd85-4697-91f4-7a995750e783/Foo%20Fighters%20in%20the%20HD%20Radio%20Sound%20Space%20at%20KROQ.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycbdzc32" group-title="CCLive", Queens of the Stone Age - Rock In Rio 2015
+https://cld.pt/dl/download/5673d406-e49f-4dca-b45d-fa19394f8967/Queens%20of%20the%20Stone%20Age%20-%20Rock%20In%20Rio%202015%20%28Full%20Concert%29.mp4
+
+
+
+
+
+
+
 
 
 
@@ -780,301 +814,6 @@ http://178.32.255.199:1935/live/ptven/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="WORLD NEWS",TRT World (Turkey)
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-
-
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-###### ALEMANHA ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",1-2-3 TV [Alemanha] 
-http://123tv.cdn.ses-ps.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",ALEX Berlin [Alemanha] 
-http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Baden TV [Alemanha] 
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Deutsche Welle [Alemanha] 
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Elbekanal [Alemanha] 
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",EOTV [Alemanha] 
-http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Telebasel [Alemanha] 
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",TV Oberfranken [Alemanha] 
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Welt der Wunder [Alemanha] 
-http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
-
-
-###### CHINA ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",China 8 [China] 
-http://ec.sinovision.net/video/ts/lv.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Shandong TV [China] 
-http://eshare.live.otvcloud.com/otv/nyz/live/channel26/700.m3u8
-
-
-###### EMIRADOS ARABES ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Al Hurra [Emirados Arabes] 
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Al Jazeera [Emirados Arabes] 
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",BBC [Emirados Arabes] 
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
-
-###### ESPANHA ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Antena 3 [Espanha] 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Aragon [Espanha] 
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Canal Extremadura [Espanha] 
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Condavision [Espanha] 
-http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",ETB Sat [Espanha] 
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",La Sexta [Espanha] 
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Mega [Espanha] 
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",TV3 [Espanha] 
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-
-
-###### ESTADOS UNIDOS ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",ABC News [Estados Unidos] 
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Bloomberg TV [Estados Unidos] 
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",C-SPAN [Estados Unidos] 
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",C-SPAN 2 [Estados Unidos] 
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",C-SPAN 3 [Estados Unidos] 
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Earth TV [Estados Unidos] 
-http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",CBS News [Estados Unidos] 
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Weather Channel [Estados Unidos] 
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Weather Nation [Estados Unidos] 
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-
-
-###### FRANCA ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",BFM TV [Franca] 
-http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",France 24 [Franca] 
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",La Chaine Normande [Franca] 
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",TV5 Monde [Franca] 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-
-
-###### GRECIA ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Aigaio TV [Grecia] 
-http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Kontra TV [Grecia] 
-http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Skai TV [Grecia] 
-http://iphone.skai.gr.edgesuite.net/iphone_iphone.m3u8
-
-
-###### INDIA ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Abp News [India] 
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",CNBC [India] 
-http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",DD News [India] 
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Lok Sabha TV [India] 
-http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-
-
-###### ISRAEL ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Channel 20 [Israel] 
-http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Hidabroot TV [Israel] 
-https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Kan11 [Israel] 
-http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Knesset Channel [Israel] 
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8 
-
-
-###### ITALIA ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Canale 7 [Italia] 
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",History Lab [Italia] 
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Orler TV [Italia] 
-http://77.92.76.135:1935/orler/livestream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Rai 5 [Italia] 
-http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Rai News 24 [Italia] 
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Rai Premium [Italia] 
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Videolina [Italia] 
-http://178.33.229.111:1935/live/Videolina/livestream.m3u8
-
-
-###### JAPAO ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",BS 12 TwellV [Japao] 
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",BS Asahi [Japao] 
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",BS Japan [Japao] 
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Fuji TV [Japao] 
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd05.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",NHK General TV [Japao] 
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",NHK World [Japao] 
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Nippon TV [Japao] 
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd03.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",TV Tokyo [Japao] 
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
-
-
-
-
-###### REINO UNIDO ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Arise News [Reino Unido] 
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",BBC World News [Reino Unido] 480p
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",IdealWorld [Reino Unido] 
-http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",London Live [Reino Unido] 
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Sky News [Reino Unido] 
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-
-###### RUSSIA ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",24 Krim [Russia] 
-http://vid.techbee.pro:8080/crimea24/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Euronews [Russia] 
-http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Mir 24 [Russia] 
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Moya Planet [Russia] 
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
-
-
-###### TURQUIA ######
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",CNN Turk [Turquia] 
-http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Kanal 24 [Turquia] 
-http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Kanal D [Turquia] 
-http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazsel2a" group-title="Internacionais",Meclis TV [Turquia] 
-http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-
-
-
 
 
 
