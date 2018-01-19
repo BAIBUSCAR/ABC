@@ -13,7 +13,7 @@ http://noscdno.entrprise.tv:1935/live/rtp2.stream/streamkrtp.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="CumCatano",RTP 2 (Op 3)
 http://noscdn1.connectedviews.com:1935/live/rtp2.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="CumCatano",SIC
-
+http://185.26.174.67:12345/play/a01y
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="CumCatano",SIC (Op 2)
 http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="CumCatano",SIC (Op 3)
@@ -25,7 +25,7 @@ http://noscdno.entrprise.tv:1935/live/tvi.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9yuavg6" tvg-id="TVI.pt" group-title="CumCatano",TVI (Op 3)
 http://noscdno.entrprise.tv:1935/live/tvi.stream/streamktvi.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="CumCatano",SIC NOTICIAS
-
+http://185.26.174.67:12345/play/a01z
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="CumCatano",SIC NOTICIAS (Op 2)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="CumCatano",RTP 3
@@ -93,15 +93,15 @@ http://merlin.magikdata.biz:8000/live/james1/james1/2155.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y95rernu" tvg-id="" group-title="CumCatano",SPORT TV 4K UHD
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1
-http://37.187.25.37:8081/live/Benoitb/c0efbegORe/1721.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 2)
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 3)
 http://185.26.174.67:12345/play/a01j
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 2)
+http://merlin.magikdata.biz:8000/live/james1/james1/206.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 3)
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 4)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 5)
-http://merlin.magikdata.biz:8000/live/james1/james1/206.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 6)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 7)
@@ -111,21 +111,21 @@ http://merlin.magikdata.biz:8000/live/james1/james1/206.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 9)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2
-http://37.187.25.37:8081/live/Benoitb/c0efbegORe/1722.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 2)
 http://185.26.174.67:12345/play/a016 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 2)
+http://merlin.magikdata.biz:8000/live/james1/james1/205.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 3)
-
+http://185.26.174.67:12345/play/a021
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 4)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 5)
-http://merlin.magikdata.biz:8000/live/james1/james1/205.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 6)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 
-http://37.187.25.37:8081/live/Benoitb/c0efbegORe/1723.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 2)
 http://185.26.174.67:12345/play/a01a
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 2)
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 3)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 4)
@@ -133,23 +133,23 @@ http://185.26.174.67:12345/play/a01a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 5)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 2)
 http://185.26.174.67:12345/play/a01c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 2)
+http://merlin.magikdata.biz:8000/live/james1/james1/1110.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 3)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 4)
-http://merlin.magikdata.biz:8000/live/james1/james1/1110.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5
+http://merlin.magikdata.biz:8000/live/james1/james1/1111.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5(Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5(Op 3)
-http://merlin.magikdata.biz:8000/live/james1/james1/1111.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 (Op 4)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV 
-
+http://185.26.174.67:12345/play/a002
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 2)
 http://185.26.174.67:12345/play/a002
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 3)
@@ -157,7 +157,7 @@ http://185.26.174.67:12345/play/a002
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 4)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV
-
+http://185.26.174.67:12345/play/a02g
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="CumCatano",SPORTING TV 
@@ -165,7 +165,7 @@ http://185.26.174.67:12345/play/a002
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="CumCatano",PFC
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="CumCatano",EUROSPORT 1
-
+http://185.26.174.67:12345/play/a01d
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="CumCatano",EUROSPORT 2
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8zf5d39" tvg-id="0" group-title="CumCatano",Eurosport 2 Xtra
@@ -177,13 +177,13 @@ http://185.26.174.67:12345/play/a002
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://webtv.autohoje.com/images/autohoje-tv.gif" group-title="CumCatano",AUTO HOJE TV
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9u2kl5g" tvg-id="MotorsTV.pt" group-title="CumCatano",MOTORSPORT TV
-
+http://185.26.174.67:12345/play/a023
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/motorvisiontv.png" tvg-id="Motorvision.pt" group-title="CumCatano",MOTORVISION.TV
 
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV.pt" group-title="CumCatano",Fuel TV
-
+http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV.pt" group-title="CumCatano",Fuel TV (Op 2)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="CumCatano", Extreme Sports
@@ -199,7 +199,7 @@ http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s26.postimg.org/xot1ydtq1/nfl1.png" group-title="CumCatano",NFL |USA|
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 
-
+http://185.26.174.67:12345/play/a029
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 (Op 2)
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 (Op 3)
@@ -211,7 +211,7 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano",TVCINE 2 (Op 3)
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3
-
+http://185.26.174.67:12345/play/a02a
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3 (Op 2)
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3 (Op 3)
@@ -223,7 +223,7 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano",TVCINE 4 (Op 3)
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="CumCatano",TVSeries
-
+http://185.26.174.67:12345/play/a02b
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="CumCatano",TVSeries (Op 2)
 
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD
@@ -233,7 +233,7 @@ http://185.26.174.67:12345/play/a01e
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD (Op 3)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="CumCatano",SYFY
-
+http://185.26.174.67:12345/play/a020
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="CumCatano",SYFY (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo.pt" group-title="CumCatano",CINEMUNDO
@@ -287,13 +287,13 @@ http://185.26.174.67:12345/play/a01e
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y874olye" group-title="CumCatano",FILMS 24/7 (BR)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybcer5ao" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL
-http://37.187.25.37:8081/live/Benoitb/c0efbegORe/1697.m3u8
+http://185.26.174.67:12345/play/a02d
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybcer5ao" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL (Op 2)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybcer5ao" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL (Op 3)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR
-http://37.187.25.37:8081/live/Benoitb/c0efbegORe/1696.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR (Op 3)
@@ -303,7 +303,7 @@ http://37.187.25.37:8081/live/Benoitb/c0efbegORe/1696.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ml8o23f" tvg-id="" group-title="CumCatano",Mickey Mouse e os seus Amigos
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK
-http://37.187.25.37:8081/live/Benoitb/c0efbegORe/2330.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK (Op 3)
@@ -311,13 +311,13 @@ http://37.187.25.37:8081/live/Benoitb/c0efbegORe/2330.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9fq3kp5" tvg-id="" group-title="CumCatano", Nick Jr
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON
-http://37.187.25.37:8081/live/Benoitb/c0efbegORe/1688.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON (BR)
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA
-http://37.187.25.37:8081/live/Benoitb/c0efbegORe/1705.m3u8
+
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA (Op 2)
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA (Op 3)
@@ -379,7 +379,7 @@ http://4.31.30.145:9043
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kxh2nlc" tvg-id="CRIME INVESTIGATION" group-title="CumCatano",Crime Investigation CI
 
 #EXTINF:-1 tvg-logo="https://goo.gl/N7hEOL" tvg-id="MCSExtreme.pt" group-title="CumCatano",MCS EXTREME
-
+http://185.26.174.67:12345/play/a022
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" tvg-id="MCSLifeStyle.pt" group-title="CumCatano",MCS LIFESTYLE
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSReality.pt" group-title="CumCatano",CBS REALITY
@@ -477,222 +477,6 @@ http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/ybu6gb5w" group-title="CumCatano",LIVE ISS STREAM
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
-
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------
-
-
-
-#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="CCMusic",VIRGIN TV
-http://fms.105.net:1935/live/virgin2/playlist.m3u8
-#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="CCMusic",VIRGIN TV (Op 2)
-http://wow01.105.net:1935/live/virgin1/livestream.m3u8
-#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="CCMusic",VIRGIN TV (Op 3)
-http://tv.105.net:1935/live/virgin1/chunklist_w864163580.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7tpe7aj" tvg-id="" group-title="CCMusic",24RockOne66
-http://194.116.83.15:80/24RockOne66
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7tpe7aj" tvg-id="" group-title="CCMusic",24RockOne66 (Op 2)
-http://194.116.83.15:80/24RockOne66?MSWMExt=.asf
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ybga4dxp" tvg-id="" group-title="CCMusic",ONE Rock HD
-rtmp://91.201.78.3:1935/live/rockhd
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y743efem" tvg-id="" group-title="CCMusic",ONE Jazz HD
-rtmp://91.201.78.3:1935/live/jazzhd
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaeu4c72" tvg-id="" group-title="CCMusic",ONE Pop HD
-rtmp://91.201.78.3:1935/live/pophd
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y82q9de7" tvg-id="" group-title="CCMusic",ONE HD Live Mix
-rtmp://91.201.78.3:1935/live/onehdhd
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycexukkf" tvg-id="" group-title="CCMusic",ONE Classic HD
-rtmp://91.201.78.3:1935/live/classicshd
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycwxlpba" tvg-id="" group-title="CCMusic",ONE Dance HD
-rtmp://91.201.78.3:1935/live/dancehd
-#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/646bh7slp/HEAVYMETAL.png" group-title="CCMusic",Heavy Metal TV
-rtmp://70.166.99.93:1935/hmtv/myStream
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yajd7p7e" group-title="CCMusic",ESKA ROCK TV
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Metal
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Indie
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Alternative
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC 90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y95dtnj5" tvg-id="" group-title="CCMusic",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="mtvportugal.pt" group-title="CCMusic",MTV PORTUGAL
-http://grouprevelation.com:8000/live/vasco/1234/5543.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="MTVRocks.uk" group-title="CCMusic",MTV ROCKS 
-http://grouprevelation.com:8000/live/vasco/1234/9352.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="MTVRocks.uk" group-title="CCMusic",MTV ROCKS (Op 2)
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7tkyapj" tvg-id="MTVMusic.uk" group-title="CCMusic",MTV Music
-http://grouprevelation.com:8000/live/vasco/1234/9351.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ybe5phvx" tvg-id="0" group-title="CCMusic",MTV LIVE
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="CCMusic",MTV DANCE
-http://grouprevelation.com:8000/live/vasco/1234/5539.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9lbkrk3" tvg-id="0" group-title="CCMusic",MTV HITS
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9lbkrk3" tvg-id="0" group-title="CCMusic",MTV HITS (Op 2)
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="CCMusic",MTV BASE
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="CCMusic",VH1 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="vh1.pt" group-title="CCMusic",VH1 CLASSIC
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TraceTV.pt" group-title="CCMusic",TRACE TV
-http://94.60.103.81:9981/stream/channelid/219544333
-#EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmtop.png" tvg-id="MCMTOP" group-title="CCMusic",MCM TOP
-http://grouprevelation.com:8000/live/vasco/1234/5540.m3u8
-#EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmpop.png" tvg-id="MCMPOP" group-title="CCMusic",MCM POP
-http://grouprevelation.com:8000/live/vasco/1234/5541.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8ne3mbu" tvg-id="iconcerts" group-title="CCMusic",iConcerts HD
-http://grouprevelation.com:8000/live/vasco/1234/5536.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" tvg-id="C-Music.pt" group-title="CCMusic",C MUSIC
-http://grouprevelation.com:8000/live/vasco/1234/5535.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9bwt2ko" tvg-id="" group-title="CCMusic",Clubbing TV
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" tvg-id="AfroMusic.pt" group-title="CCMusic",AFRO MUSIC
-http://94.60.103.81:9981/stream/channelid/1028492571
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/meq2khq" group-title="CCMusic",INDIES LIVE 
-http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ycx3z6fp" group-title="CCMusic",ALEX BERLIN (Urban Music)
-http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9jh27h8" tvg-id="0" group-title="CCMusic",XITE BASE
-http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yb9meaol" tvg-id="0" group-title="CCMusic",XITE POP
-http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mro9vmo" tvg-id="0" group-title="CCMusic",VOX
-http://stream.cdn.smcloud.net/vox2-p/stream1/chunklis.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Alternative
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Brits + Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Dance/EDM
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Hip Hop/R+B
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Hit List
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Indie
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Metal
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Pop + Country
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC R+B/Soul
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Rap
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Rap 2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Today's Country
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC 90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Throwback Jamz
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Y2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Mexicana
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Musica Urbana
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Teen Beats
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Kidz Only!
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="CCMusic", MC Toddler Tunes
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" group-title="CCMusic",M6 MUSIQUE
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CCMusic", ONE.by 1 
-http://rtmp.one.by:1200
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CCMusic", ONE.by 2 
-http://rtmp.one.by:1300
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CCMusic", ONE.by 3 
-http://rtmp.one.by:1400
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CCMusic", ONE.by (RUS) 1 HD
-http://rtmp.one.by:2200
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CCMusic", ONE.by (RUS) 2 HD
-http://rtmp.one.by:2300
-#EXTINF:-1 tvg-logo="https://tinyurl.com/katf23g" tvg-id="mezzo.pt" group-title="CCMusic", Mezzo
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/n4j9ver" tvg-id="mezzo.pt" group-title="CCMusic", Mezzo Live 
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yctjl6cs" tvg-id="0" group-title="CCMusic",Music Box
-rtmp://212.26.132.86/live/mb_ua
-#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/BRIDGETV.png" group-title="CCMusic", Bridge TV  
-
-#EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/powertv-lichoridas.png" group-title="CCMusic", Power TV
-http://powertv.cdnturk.com/powertv/powertv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yb62tguh" tvg-id="0" group-title="CCMusic",ATOMIC TV
-http://5.154.185.153/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ydb9q3yg" tvg-id="0" group-title="CCMusic",M2O.TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycr5tx6x" group-title="CCMusic", DJING HOT HOT HOT HD
-http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycy3zl7h" group-title="CCMusic", DJING IBIZA  
-http://cdn.djing.com/tv/d-03.m3u8
-#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CCMusic", DJING DANCE FLOOR  
-http://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7lmq9k6" group-title="CCMusic", DJING UNDERGROUND  
-http://www.djing.com/tv/underground.m3u8
-#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CCMusic", DJING CLASSIC  
-http://www.djing.com/tv/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CCMusic", DJING ANIMATION   
-http://www.djing.com/tv/a-05.m3u8
-
-
-
-
-
------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yacoryo5" group-title="CCLive", Faith No More - Hellfest
-https://cld.pt/dl/download/093d1844-4bb8-4719-a332-40d28b7fd48e/Faith%20No%20More%20-%20Hellfest%20%28Full%20Show%29.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yarzpj6u" group-title="CCLive", Fantômas & Mr. Bungle - Rock Squad Special
-https://cld.pt/dl/download/7374c12d-8130-42c4-82a5-bd5307bcd634/Fant%C3%B4mas%20%26%20Mr.%20Bungle%20-%20Rock%20Squad%20Special%20%28Viva%202%29%20%5BFull%5D.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yb3o5h29" group-title="CCLive", Faith No More - Download Festival (2009)
-https://cld.pt/dl/download/7139002d-bab7-46f8-84c3-05684bcbe6b5/Faith%20No%20More%20-%20Download%20Festival%20%282009%29%20%5BFull%20Show%5D.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8gsq2ym" group-title="CCLive", Fantômas - The Director's Cut Live
-https://cld.pt/dl/download/3acc66b0-369e-41b0-8bf6-7053a3b483b9/Fant%C3%B4mas%20-%20The%20Director%27s%20Cut%20Live_%20A%20New%20Year%20Revolution%20-%20Full%20Show.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yab9krqx" group-title="CCLive", Mondo Cane - Teatro Caupolicán (Santiago Chile 21/09/2011) 
-https://cld.pt/dl/download/dc82f08d-9341-4e52-b855-30bc01e36b9c/Mike%20Patton%20_%20Mondo%20Cane%20-%20Teatro%20Caupolic%C3%A1n%2C%20Santiago%2C%20Chile%2C%20Sep.%2021%2C%202011%20%28HD%29%20%28Full%20Show%29.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ybaggofb" group-title="CCLive", Peeping Tom - Cologne Germany - 11/12/2006
-https://cld.pt/dl/download/f0235c89-8bff-4921-a757-c351bbf79cfc/Mike%20Patton%20and%20Peeping%20Tom%20-%20Cologne%2C%20Germany%20-%20December%2011th%202006.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yd8m4fbu" group-title="CCLive", Tomahawk - Portugal 2013
-https://cld.pt/dl/download/3c437e9d-f0f2-49f8-b696-b6bfaf7b8fd8/Tomahawk%20-%20Portugal%202013%20%28full%20show%29.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yazya6xq" group-title="CCLive", Mr. Bungle - Clutch Cargo Pontiac USA (1999)
-https://cld.pt/dl/download/58de7a07-d064-48a9-b276-7ba0d6124651/Mr.%20Bungle%20-%20%20Clutch%20Cargo%27s%2C%20Pontiac%2C%20MI%2C%20USA%20%281999%29.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8nbdapd" group-title="CCLive", Foo Fighters - Live at Hyde Park 2006
-https://cld.pt/dl/download/da7b69b2-f616-4824-8439-05964d481f82/Foo%20Fighters%20-%20Live%20at%20Hyde%20Park%202006%20%28Full%20Concert%29.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yawlh7hv" group-title="CCLive", Foo Fighters in the HD Radio Sound Space at KROQ
-https://cld.pt/dl/download/92b9689e-cd85-4697-91f4-7a995750e783/Foo%20Fighters%20in%20the%20HD%20Radio%20Sound%20Space%20at%20KROQ.mp4
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycbdzc32" group-title="CCLive", Queens of the Stone Age - Rock In Rio 2015
-https://cld.pt/dl/download/5673d406-e49f-4dca-b45d-fa19394f8967/Queens%20of%20the%20Stone%20Age%20-%20Rock%20In%20Rio%202015%20%28Full%20Concert%29.mp4
 
 
 
