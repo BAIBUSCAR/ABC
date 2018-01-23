@@ -429,7 +429,7 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="https://goo.gl/Xngpfr" tvg-id="Euronews.nws" group-title="CumCatano", EURONEWS
 http://euronews-pt-p2-cdn.hexaglobe.net/1e888411a324cfc604af3240c6a0201d/5a677d76/euronews/euronews-euronews-website-web-responsive-2/ewnsabrptpri_por.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Xngpfr" tvg-id="Euronews.nws" group-title="CumCatano", EURONEWS (Op 2)
-http://euronews-pt-p2-cdn.hexaglobe.net/1e888411a324cfc604af3240c6a0201d/5a677d76/euronews/euronews-euronews-website-web-responsive-2/ewnsabrptpri_por.smil/ewnsabrptpri_por_90p.m3u8
+http://euronews-pt-p2-cdn.hexaglobe.net/1e888411a324cfc604af3240c6a0201d/5a677d76/euronews/euronews-euronews-website-web-responsive-2/ewnsabrptpri_por.smil/ewnsabrptpri_por_720p.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8xrvp39" tvg-id="Localvisao.pt" group-title="CumCatano",Localvisão TV HD
 http://leaderpro.com.br:25461/live/Henio/Henio/400.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logos.switchtv.net/url/pt/regioes_tv.jpg" group-title="CumCatano",REGIOES TV
