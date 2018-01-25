@@ -1,6 +1,105 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydh3lpmz" group-title="FILMES", VALERIAN 
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/VCMLEG-BAIXO.mp4
+
+#EXTINF:0 tvg-logo="https://cinepop.com.br/wp-content/uploads/2018/01/openhouse-750x380.jpg" group-title="FILMES 2018", OPEN HOUSE
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OPENHOUSE2018LEG-ALTO.mp4
+
+#EXTINF:0 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/2sw5VlWftU7QiQJW4jgYitoqpMu-185x278.jpg" group-title="FILMES 2018",VOLDEMORT: ORIGINS OF THE HEIR 
+http://cloud.popfilmeshd.net/popfilmes/FILMES/LEGENDADO/Voldemort.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycz5dc2p" group-title="FILMES", DUNKIRK 
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/DUNKIRKLEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydbrpnc8" group-title="FILMES", THOR 3: RAGNAROK
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THORRLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7rmj2gq" group-title="FILMES", BLADE RUNNER 2049
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/BR2049LEG-BAIXO.mp4
+
+#EXTINF:-1  tvg-logo="https://tinyurl.com/y8d9hm3f" group-title="FILMES", BRIGHT
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/BRIGHTLEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd5xy54r" group-title="FILMES", JOGOS MORTAIS 8: JIGSAW
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JIGSAW2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y895w9k4" group-title="FILMES", Happy Death Day
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/HAPPYDEATHLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/FofzKa" group-title="FILMES", SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS (BR)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4
+#EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/1542819.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="FILMES",SCOOBY-DOO & BATMAN: OS BRAVOS E DESTEMIDOS (LEG) 
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANLEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yabfgb2m" group-title="FILMES", Geostorm 
+http://themediafire.club/ondemand/TEMPESTADE%20LEGENDADO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7zapjpf" group-title="FILMES", Bad Moms 2 
+http://themediafire.club/ondemand/PerfeitaEAMae%20Dublado.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yap7okhg" group-title="FILMES", , LEATHERFACE 
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/LETHRFCLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc4ztobl" group-title="FILMES", KINGSMAN 2: O CÍRCULO DOURADO
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/KINGS2017LEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7gepfrf" group-title="FILMES", American Made
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/AM2017LEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybew2vaj" group-title="FILMES", AMERICAN ASSASSIN
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/AMERICANA20177LEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybjecs2y" group-title="FILMES", IT: A COISA
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/ACOISA2017LEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ZNmwra" group-title="FILMES", A TORRE NEGRA
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/TDT2017LEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/YC6Ftq" group-title="FILMES", PLANETA DOS MACACOS 3: A GUERRA 
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/PLANETADOSMACACOS-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5nRiuh" group-title="FILMES", O CULTO DE CHUCKY 
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCLTDCHCKLEG.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/itzw5X" group-title="FILMES", HOMEM-ARANHA: DE VOLTA AO LAR 
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/ARANHAHOMEMLEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/G6JPyd" group-title="FILMES", EM RITMO DE FUGA
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/RITMODEFUGA2017LEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Zj6Mnv" group-title="FILMES", DUPLA EXPLOSIVA 
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/DUPLA2LEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EkHvj3" group-title="FILMES", TRANSFORMERS 5: O ÚLTIMO CAVALEIRO 
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/TRANSFORMERS2017LEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/dPjxqV" group-title="FILMES", PIRATAS DO CARIBE 5: A VINGANÇA DE SALAZAR 
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/PIRATAS5LEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/PLNwvT" group-title="FILMES", MEU MALVADO FAVORITO 3 
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/MALVADOLEG2017-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/uwFzvr" group-title="FILMES", DEATH NOTE
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/MORTELEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/vTDstS" group-title="FILMES", BAYWATCH - S.O.S MALIBU 
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/BAYWATCHLEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/XPufPq" group-title="FILMES", GUARDIÕES DA GALÁXIA VOL.2 
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/GUARDIOESLEG2017-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/if6Byx" group-title="FILMES", Z - A CIDADE PERDIDA
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/ZLOSTCITYLEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/KN6ufK" group-title="FILMES", O CÍRCULO 
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/OCIRCULOLEG-BAIXO.mp4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/qcRJkNI.jpg" group-title="FILMES", AMOR.COM (BR)
+https://ia601504.us.archive.org/32/items/luaAmor/luaAmor.MP4
+
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/08/24/21/35/065978.jpg" group-title="FILMES", Inferno
 https://cld.pt/dl/download/2c8e7132-6ba6-443c-892a-55f42bb8c538/Inferno.mkv
 
