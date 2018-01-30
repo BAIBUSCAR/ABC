@@ -273,6 +273,8 @@ http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-107/pc.m3u8
 http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-108/pc.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0njVq9.png" group-title="XTV",Girls TV
+http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", SexFone
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
 #EXTINF:-1,tvg-id=""tvg-logo="https://tinyurl.com/y95gxur8" group-title="XTV", Claro Adulto 18
