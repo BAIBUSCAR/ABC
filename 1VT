@@ -60,6 +60,8 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8427.ts
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y79cclaw" tvg-id="TVIReal.pt" group-title="CumCatano",TVI Reality Camera 4
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9lrm8t3" tvg-id="0" group-title="CumCatano", Big Brother Brasil
+http://142.44.137.23/BBB-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycjatr33" tvg-id="PortoCanal.pt" group-title="CumCatano", PORTO CANAL 
 http://213.13.26.11:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycjatr33" tvg-id="PortoCanal.pt" group-title="CumCatano", PORTO CANAL (Op 2)
