@@ -76,6 +76,8 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8497.ts
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="FoodNetwork.pt" group-title="CumCatano",FOOD NETWORK
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="" group-title="CumCatano",FOOD NETWORK (BR)
+http://142.44.137.23/FOOD/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7n5mj6l" tvg-id="MyCuisine.pt" group-title="CumCatano", My Cuisine
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9pmq4d4" tvg-id="" group-title="CumCatano",CHEF TV (BR)
@@ -186,6 +188,8 @@ http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV.pt" group-title="CumCatano",Fuel TV (Op 2)
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8472.ts
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycc4rrx5" tvg-id="" group-title="CumCatano", OFF (BR)
+http://142.44.137.23:8080/OFF/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="CumCatano", Extreme Sports
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7dn2azu" tvg-id="FuelTV.pt" group-title="CumCatano",WOOHOO
@@ -195,7 +199,7 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8472.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y77b6ep9" tvg-id="FightNetwork.pt" group-title="CumCatano",FIGHT NETWORK HD
 http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydeb24wr" tvg-id="" group-title="CumCatano",COMBATE
-
+http://142.44.137.23/COMBATE/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.megatvaovivo.com/wp-content/uploads/2016/08/all-sports.png" group-title="CumCatano",All Sports (BR)
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s26.postimg.org/xot1ydtq1/nfl1.png" group-title="CumCatano",NFL |USA|
@@ -304,8 +308,6 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8477.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR (Op 3)
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ybqhk87e" tvg-id="" group-title="CumCatano",DISNEY XD (BR)
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ml8o23f" tvg-id="" group-title="CumCatano",Mickey Mouse e os seus Amigos
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK
@@ -346,6 +348,18 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8445.ts
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8490.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l5mg6h8" tvg-id="BABYFIRST.pt" group-title="CumCatano",Baby First
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="0" group-title="CumCatano",DISNEY JUNIOR (BR)
+http://142.44.137.23/DISNEYJR/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybqhk87e" tvg-id="" group-title="CumCatano",DISNEY XD (BR)
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="0" group-title="CumCatano",CARTOON NETWORK (BR)
+http://142.44.137.23/CARTOON/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/nxfotpr" tvg-id="" group-title="CumCatano",Boomerang (BR)
+http://142.44.137.23/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y96czgwq" tvg-id="" group-title="CumCatano",Discovery Kids (BR)
+http://142.44.137.23/DISCOVERYKIDS-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y96czgwq" tvg-id="" group-title="CumCatano",Nat Geo Kids (BR)
+http://142.44.137.23/NATGEOKIDS/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydhaysn3" tvg-id="0" group-title="CumCatano",Retro Cartoon (BR)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycm8csyk" tvg-id="discoverychannel.pt" group-title="CumCatano",DISCOVERY
