@@ -23,6 +23,8 @@ http://89.163.242.108:8088/play/a037
 http://109.248.93.205:3371/udp/239.195.2.4:1234
 #EXTINF:-1 tvg-id="Redlight" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s14.postimg.org/sc08zm7kx/motu_1418424sexzone.png" group-title="XTV",Sex Zone
+http://142.44.137.23/SEXZONE/index.m3u8
 #EXTINF:-1 tvg-id="PRIVATE TV" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="XTV", Private
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV
@@ -305,7 +307,7 @@ http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8
 http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
 #EXTINF:-1 tvg-logo="https://apk2android.com//upload/icon/20150313/1426250744857.png" group-title="XTV",Okadai TV
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s14.postimg.org/sc08zm7kx/motu_1418424sexzone.png" group-title="XTV",Sex Zone
+#EXTINF:-1 tvg-id="" tvg-logo="http://s14.postimg.org/sc08zm7kx/motu_1418424sexzone.png" group-title="XTV",Sex Zone (SD)
 http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://freeweb.t-2.net/kibtu/logo/Daring_TV.png" group-title="XTV",Daring (18+)
 
