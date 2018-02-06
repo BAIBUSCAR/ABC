@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="CumCatano",RTP 1 
-http://asdp.ddns.net:8000/live/joaquim/joaquim/470.m3u8
+http://188.165.13.95:8080/44/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="CumCatano",RTP 1 (Op 2)
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8456.ts
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="CumCatano",RTP 2
-http://asdp.ddns.net:8000/live/joaquim/joaquim/344.m3u8
+http://188.165.13.95:8080/43/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="CumCatano",RTP 2 (Op 2)
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8455.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png" tvg-id="sic.pt" group-title="CumCatano",SIC
@@ -17,8 +17,10 @@ http://asdp.ddns.net:8000/live/joaquim/joaquim/346.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9yuavg6" tvg-id="TVI.pt" group-title="CumCatano",TVI (Op 2)
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8430.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="CumCatano",SIC NOTICIAS
-http://185.26.174.67:12345/play/a01z
+http://188.165.13.95:8080/36/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="CumCatano",SIC NOTICIAS (Op 2)
+http://185.26.174.67:12345/play/a01z
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png" tvg-id="sicnoticias.pt" group-title="CumCatano",SIC NOTICIAS (Op 3)
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/LOGORTP3" tvg-id="rtpn.pt" group-title="CumCatano",RTP 3
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8454.ts
@@ -29,7 +31,7 @@ https://video-auth4.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lphnap6" tvg-id="CMTV.pt" group-title="CumCatano",CMTV
 http://asdp.ddns.net:8000/live/joaquim/joaquim/473.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lphnap6" tvg-id="CMTV.pt" group-title="CumCatano",CMTV (Op 2)
-
+http://188.165.13.95:8080/76/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="CumCatano",SIC RADICAL
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png" tvg-id="sicradical.pt" group-title="CumCatano",SIC RADICAL (Op 2)
@@ -76,10 +78,10 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8497.ts
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="FoodNetwork.pt" group-title="CumCatano",FOOD NETWORK
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7n5mj6l" tvg-id="MyCuisine.pt" group-title="CumCatano", My Cuisine
+http://188.165.13.95:8080/150/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="" group-title="CumCatano",FOOD NETWORK (BR)
 http://142.44.137.23/FOOD/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7n5mj6l" tvg-id="MyCuisine.pt" group-title="CumCatano", My Cuisine
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9pmq4d4" tvg-id="" group-title="CumCatano",CHEF TV (BR)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV +
@@ -91,17 +93,17 @@ http://142.44.137.23/FOOD/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y95rernu" tvg-id="" group-title="CumCatano",SPORT TV 4K UHD
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1
-http://asdp.ddns.net:8000/live/joaquim/joaquim/177.m3u8
+http://188.165.13.95:8080/33/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 2)
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8509.ts
+http://188.165.13.95:8080/8/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 3)
 http://asdp.ddns.net:8000/live/daniel/daniel/177.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 4)
-
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8509.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 5)
-
+http://asdp.ddns.net:8000/live/joaquim/joaquim/177.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 6)
-
+http://188.165.13.95:8080/8/mpegts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 7)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (SD)
@@ -111,60 +113,66 @@ http://185.26.174.67:12345/play/a01j
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2
 http://asdp.ddns.net:8000/live/joaquim/joaquim/471.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 2)
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8508.ts
+http://188.165.13.95:8080/32/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 3)
 http://185.26.174.67:12345/play/a021
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 4)
 http://185.26.174.67:12345/play/a016
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 5)
-
+http://188.165.13.95:8080/7/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 6)
-
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8508.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 
-http://asdp.ddns.net:8000/live/joaquim/joaquim/472.m3u8
+http://188.165.13.95:8080/6/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 2)
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8507.ts
+http://188.165.13.95:8080/31/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 3)
 http://185.26.174.67:12345/play/a01a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 4)
-
+http://asdp.ddns.net:8000/live/joaquim/joaquim/472.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 5)
-
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8507.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 
 http://asdp.ddns.net:8000/live/joaquim/joaquim/202.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 2)
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8506.ts
+http://188.165.13.95:8080/30/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 3)
 http://185.26.174.67:12345/play/a01c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 4)
-
+http://188.165.13.95:8080/5/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 5)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8506.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5
+http://188.165.13.95:8080/29/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 (Op 2)
 http://asdp.ddns.net:8000/live/joaquim/joaquim/184.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5(Op 2)
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8441.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5(Op 3)
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 (Op 3)
+http://188.165.13.95:8080/4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 (Op 4)
-
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8441.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 (Op 5)
+http://188.165.13.95:8080/4/mpegts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV 
-http://asdp.ddns.net:8000/live/joaquim/joaquim/475.m3u8
+http://188.165.13.95:8080/11/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 2)
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8488.ts
-#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 3)
 http://asdp.ddns.net:8000/live/daniel/daniel/475.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 3)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8488.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 4)
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8489.ts
+http://asdp.ddns.net:8000/live/joaquim/joaquim/475.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 5)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 6)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8496.ts
+http://188.165.13.95:8080/93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV (Op 2)
 http://185.26.174.67:12345/play/a02g
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="CumCatano",SPORTING TV 
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8440.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="CumCatano",PFC
+http://188.165.13.95:8080/48/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="CumCatano",PFC (Op 2)
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8458.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="CumCatano",EUROSPORT 1
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8475.ts
@@ -180,8 +188,12 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8473.ts
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9u2kl5g" tvg-id="MotorsTV.pt" group-title="CumCatano",MOTORSPORT TV
 http://185.26.174.67:12345/play/a023
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9u2kl5g" tvg-id="MotorsTV.pt" group-title="CumCatano",MOTORSPORT TV (Op 2)
+http://188.165.13.95:8080/57/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/motorvisiontv.png" tvg-id="Motorvision.pt" group-title="CumCatano",MOTORVISION.TV
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8464.ts
+#EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/motorvisiontv.png" tvg-id="Motorvision.pt" group-title="CumCatano",MOTORVISION.TV (Op 2)
+http://188.165.13.95:8080/56/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV.pt" group-title="CumCatano",Fuel TV
@@ -209,40 +221,48 @@ https://live.olympicchannel.com/ocs/channel01b/master.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 
 http://asdp.ddns.net:8000/live/joaquim/joaquim/405.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 (Op 2)
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8431.ts
+http://188.165.13.95:8080/23/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 (Op 3)
 http://185.26.174.67:12345/play/a029
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 (Op 4)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8431.ts
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano",TVCINE 2 
 http://asdp.ddns.net:8000/live/joaquim/joaquim/301.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano",TVCINE 2 (Op 2)
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8437.ts
+http://188.165.13.95:8080/22/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano",TVCINE 2 (Op 3)
-
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8437.ts
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3
 http://asdp.ddns.net:8000/live/joaquim/joaquim/476.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3 (Op 2)
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8436.ts
+http://188.165.13.95:8080/21/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3 (Op 3)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8436.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3 (Op 4)
 http://185.26.174.67:12345/play/a02a
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano",TVCINE 4
 http://asdp.ddns.net:8000/live/joaquim/joaquim/302.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano",TVCINE 4 (Op 2)
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8435.ts
+http://188.165.13.95:8080/20/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano",TVCINE 4 (Op 3)
-
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8435.ts
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="CumCatano",TVSeries
-
+http://188.165.13.95:8080/15/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="CumCatano",TVSeries (Op 2)
 http://185.26.174.67:12345/play/a02b
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD
 http://asdp.ddns.net:8000/live/joaquim/joaquim/205.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD (Op 2)
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8466.ts
+http://188.165.13.95:8080/61/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD (Op 3)
 http://185.26.174.67:12345/play/a01e
+#EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD (Op 4)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8466.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="CumCatano",SYFY
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8439.ts
+http://188.165.13.95:8080/28/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="CumCatano",SYFY (Op 2)
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8439.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F1nf2YL.png" tvg-id="SyFy.pt" group-title="CumCatano",SYFY (Op 3)
 http://185.26.174.67:12345/play/a020
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo.pt" group-title="CumCatano",CINEMUNDO
 http://asdp.ddns.net:8000/live/joaquim/joaquim/494.m3u8
@@ -253,16 +273,18 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8481.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="CumCatano",MOV
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8463.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC.pt" group-title="CumCatano",AMC
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8494.ts
+http://188.165.13.95:8080/91/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC.pt" group-title="CumCatano",AMC (Op 2)
-
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8494.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="CumCatano",AXN
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8493.ts
+http://188.165.13.95:8080/90/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="CumCatano",AXN (Op 2)
-
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8493.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="CumCatano",AXN Black
 http://asdp.ddns.net:8000/live/joaquim/joaquim/359.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="CumCatano",AXN Black (Op 2)
+http://188.165.13.95:8080/89/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="CumCatano",AXN Black (Op 3)
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8492.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mye96kn" tvg-id="AXNWhite.pt" group-title="CumCatano",AXN White
 http://asdp.ddns.net:8000/live/joaquim/joaquim/358.m3u8
@@ -289,7 +311,7 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8469.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="CumCatano",FOX COMEDY
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8470.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="CumCatano",FOX COMEDY (Op 2)
-
+http://188.165.13.95:8080/2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8nchqwh" tvg-id="" group-title="CumCatano",Universal(BR)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" group-title="CumCatano",Sundance (BR)
@@ -323,9 +345,9 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8483.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9fq3kp5" tvg-id="" group-title="CumCatano", Nick Jr
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8460.ts
+http://188.165.13.95:8080/52/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON (Op 2)
-
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8460.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON (BR)
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA
@@ -335,9 +357,9 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8485.ts
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA (Op 3)
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8487.ts
+http://188.165.13.95:8080/50/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS (Op 2)
-
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8487.ts
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS (Op 3)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SicK.pt" group-title="CumCatano",SIC K
@@ -345,7 +367,7 @@ http://asdp.ddns.net:8000/live/joaquim/joaquim/497.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SicK.pt" group-title="CumCatano",SIC K (Op 2)
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8445.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JimJam.pt" group-title="CumCatano",JIMJAM
-
+http://188.165.13.95:8080/59/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JimJam.pt" group-title="CumCatano",JIMJAM (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BabyTV.pt" group-title="CumCatano",BABY TV
@@ -377,17 +399,19 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8478.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yawp48mq" group-title="CumCatano",DISCOVERY TURBO
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="CumCatano",NATIONAL GEOGRAPHIC
-
+http://188.165.13.95:8080/54/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="CumCatano",NATIONAL GEOGRAPHIC (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NatGeoWild.pt" group-title="CumCatano",NAT GEO WILD
-
+http://188.165.13.95:8080/53/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NatGeoWild.pt" group-title="CumCatano",NAT GEO WILD (Op 2)
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="CumCatano",ODISSEIA
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8459.ts
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="CumCatano",ODISSEIA (Op 2)
 http://185.26.174.67:12345/play/a01i
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="CumCatano",ODISSEIA (Op 3)
+http://188.165.13.95:8080/51/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="CumCatano",HISTORIA
 http://185.26.174.67:12345/play/a01g
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="CumCatano",HISTORIA (Op 2)
@@ -441,7 +465,7 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8452.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/Xngpfr" tvg-id="Euronews.nws" group-title="CumCatano", EURONEWS
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8xrvp39" tvg-id="Localvisao.pt" group-title="CumCatano",Localvisão TV HD
-
+http://188.165.13.95:8080/171/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logos.switchtv.net/url/pt/regioes_tv.jpg" group-title="CumCatano",REGIOES TV
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/y873gmpm" group-title="CumCatano",CANAL 180
@@ -471,7 +495,7 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8433.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="TVGlobo.pt" group-title="CumCatano",GLOBO
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8434.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="TVGlobo.pt" group-title="CumCatano",GLOBO (Op 2)
-http://185.26.174.67:12345/play/a018
+http://188.165.13.95:8080/63/index.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="tvrecord.pt" group-title="CumCatano",TV RECORD
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8432.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9llwlgv" tvg-id="" group-title="CumCatano", SBT BRASIL
@@ -520,6 +544,8 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8486.ts
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/ybu6gb5w" group-title="CumCatano",LIVE ISS STREAM
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+
 
 
 
