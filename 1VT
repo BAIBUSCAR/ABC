@@ -62,6 +62,8 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8427.ts
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y79cclaw" tvg-id="TVIReal.pt" group-title="CumCatano",TVI Reality Camera 4
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9lrm8t3" tvg-id="0" group-title="CumCatano" Big Brother Brasil 
+http://live.abcast.net:8081/edge/verbe1990bdc8ff9636fbedb0dad379bf88/chunks.m3u8?nimblesessionid=874678&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMTggNjozNDowNSBQTSZoYXNoX3ZhbHVlPWVDNThrWDNHamNKcGJaN0E0OFRlMFE9PSZ2YWxpZG1pbnV0ZXM9MTIw
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycjatr33" tvg-id="PortoCanal.pt" group-title="CumCatano", PORTO CANAL 
 http://213.13.26.11:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycjatr33" tvg-id="PortoCanal.pt" group-title="CumCatano", PORTO CANAL (Op 2)
@@ -71,11 +73,11 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8484.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="CanalQ.pt" group-title="CumCatano",CANAL Q (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8497.ts
+http://188.165.13.95:8080/95/index.m3u8 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD (Op 2)
-
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8497.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="FoodNetwork.pt" group-title="CumCatano",FOOD NETWORK
-
+http://188.165.13.95:8080/97/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7n5mj6l" tvg-id="MyCuisine.pt" group-title="CumCatano", My Cuisine
 http://188.165.13.95:8080/150/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9pmq4d4" tvg-id="" group-title="CumCatano",CHEF TV (BR)
@@ -91,7 +93,7 @@ http://188.165.13.95:8080/150/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1
 http://188.165.13.95:8080/33/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 2)
-http://188.165.13.95:8080/8/playlist.m3u8
+http://188.165.13.95:8080/8/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 3)
 http://asdp.ddns.net:8000/live/daniel/daniel/177.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 4)
@@ -263,7 +265,7 @@ http://asdp.ddns.net:8000/live/joaquim/joaquim/494.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cU4rgbA.png" tvg-id="Cinemundo.pt" group-title="CumCatano",CINEMUNDO (Op 2)
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8481.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="SUNDANCE.pt" group-title="CumCatano",Sundance
-
+http://188.165.13.95:8080/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="CumCatano",MOV
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8463.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC.pt" group-title="CumCatano",AMC
@@ -534,7 +536,6 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8486.ts
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/ybu6gb5w" group-title="CumCatano",LIVE ISS STREAM
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-
 
 
 
