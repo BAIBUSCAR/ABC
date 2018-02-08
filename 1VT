@@ -197,7 +197,7 @@ http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV.pt" group-title="CumCatano",Fuel TV (Op 2)
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8472.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycc4rrx5" tvg-id="" group-title="CumCatano", OFF (BR)
-http://142.44.137.23:8080/OFF/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="CumCatano", Extreme Sports
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7dn2azu" tvg-id="FuelTV.pt" group-title="CumCatano",WOOHOO
@@ -314,6 +314,10 @@ http://188.165.13.95:8080/2/playlist.m3u8
 http://142.44.137.23/SPACE/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="CumCatano",Cine+ (BR)
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc784kco" group-title="CumCatano",Cine sky (BR)
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc5696c5" group-title="CumCatano",Classique TV (BR)
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y874olye" group-title="CumCatano",FILMS 24/7 (BR)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybcer5ao" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL
@@ -480,8 +484,8 @@ http://4.31.30.145:9002/
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7bzz2s3" group-title="CumCatano",TV Art (BR)
 http://stmv1.srvstm.com/tvarthd/tvarthd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/ybav58g6" group-title="CumCatano",TV Cultura
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/ybav58g6" group-title="CumCatano",TV Cultura (BR)
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9737mmy" tvg-id="GloboPremium.pt" group-title="CumCatano",GLOBO PREMIUM
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8433.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/2RYRF4" tvg-id="TVGlobo.pt" group-title="CumCatano",GLOBO
@@ -490,8 +494,10 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8434.ts
 http://188.165.13.95:8080/63/index.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" tvg-id="tvrecord.pt" group-title="CumCatano",TV RECORD
 http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8432.ts
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y9llwlgv" tvg-id="" group-title="CumCatano", SBT BRASIL
-http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8448.ts
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9llwlgv" tvg-id="" group-title="CumCatano",SBT BRASIL
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8zdbdz6" tvg-id="" group-title="CumCatano", REDE BRASIL
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/o1qPwNa.png" tvg-id="0" group-title="CumCatano",BAND
 
 #EXTINF:-1 tvg-logo="http://rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" tvg-id="TCV" group-title="CumCatano",TCV 
@@ -536,6 +542,10 @@ http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8486.ts
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/ybu6gb5w" group-title="CumCatano",LIVE ISS STREAM
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+
+
+
 
 
 
