@@ -5,10 +5,10 @@
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydh3lpmz" group-title="FILMES", VALERIAN 
 http://origin.ntcdn.us/content/httpdelivery/filmes2017/VCMLEG-BAIXO.mp4
 
-#EXTINF:0 tvg-logo="https://cinepop.com.br/wp-content/uploads/2018/01/openhouse-750x380.jpg" group-title="FILMES 2018", OPEN HOUSE
+#EXTINF:0 tvg-logo="https://cinepop.com.br/wp-content/uploads/2018/01/openhouse-750x380.jpg" group-title="FILMES", OPEN HOUSE
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OPENHOUSE2018LEG-ALTO.mp4
 
-#EXTINF:0 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/2sw5VlWftU7QiQJW4jgYitoqpMu-185x278.jpg" group-title="FILMES 2018",VOLDEMORT: ORIGINS OF THE HEIR 
+#EXTINF:0 tvg-logo="https://www.popfilmeshd.net/wp-content/uploads/2018/01/2sw5VlWftU7QiQJW4jgYitoqpMu-185x278.jpg" group-title="FILMES",VOLDEMORT: ORIGINS OF THE HEIR 
 http://cloud.popfilmeshd.net/popfilmes/FILMES/LEGENDADO/Voldemort.mp4
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycz5dc2p" group-title="FILMES", DUNKIRK 
@@ -22,6 +22,24 @@ http://origin.ntcdn.us/content/httpdelivery/filmes2017/BR2049LEG-BAIXO.mp4
 
 #EXTINF:-1  tvg-logo="https://tinyurl.com/y8d9hm3f" group-title="FILMES", BRIGHT
 http://origin.ntcdn.us/content/httpdelivery/filmes2017/BRIGHTLEG-BAIXO.mp4
+
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geyu6rplpbp7OUeOfB2uRVf1LpG.jpg"  group-title="FILMES",Liga da Justiça 
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/LJ2017LEG-ALTO.mp4
+
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avy7IR8UMlIIyE2BPCI4plW4Csc.jpg"  group-title="FILMES",Thor: Ragnarok 
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THORRLEG-ALTO.mp4
+
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8hE0wbJKL0ise4NuX3g5vZHznv.jpg"  group-title="FILMES",Voldemort: Origins of the Heir 
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VOLDEMORT2018-ALTO.mp4
+
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7souLi5zqQCnpZVghaXv0Wowi0y.jpg"  group-title="FILMES",Batman: Gotham by Gaslight
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GOTHAMGASLIGHT18LEG-ALTO.mp4
+
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAcsTHfzYwxe0QkarzHqNfnqvxa.jpg"  group-title="FILMES",Vende-se Esta Casa 
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OPENHOUSE2018LEG-ALTO.mp4
+
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnXqUTvBfqt5CDcyjJ6ziQBp1q4.jpg"  group-title="FILMES",Jogos Mortais: Jigsaw 
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JIGSAW2017LEG-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd5xy54r" group-title="FILMES", JOGOS MORTAIS 8: JIGSAW
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JIGSAW2017LEG-ALTO.mp4
