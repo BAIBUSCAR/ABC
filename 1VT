@@ -85,7 +85,7 @@ http://188.165.13.95:8080/150/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9pmq4d4" tvg-id="" group-title="CumCatano",CHEF TV (BR)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV +
-
+http://teuportal.dyndns.org:25461/live/beto/beto/48.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV + (Op 2)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/k9lcxxy" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV + (Op 3)
@@ -159,7 +159,7 @@ http://188.165.13.95:8080/86/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 4)
 http://asdp.ddns.net:8000/live/joaquim/joaquim/475.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 5)
-
+http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/14564.ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 6)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV
@@ -331,9 +331,9 @@ http://185.26.174.67:12345/play/a02d
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybcer5ao" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL (Op 3)
 http://188.165.13.95:8080/73/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR
-
+http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/14549.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR (Op 2)
-
+http://teuportal.dyndns.org:25461/live/beto/beto/42.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR (Op 3)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ml8o23f" tvg-id="" group-title="CumCatano",Mickey Mouse e os seus Amigos
@@ -349,7 +349,7 @@ http://188.165.13.95:8080/79/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON
 http://188.165.13.95:8080/52/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON (Op 2)
-
+http://classeiptv.es:25300/live/mmesebtinoufissa/6bKStQi1b9/14523.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON (BR)
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA
@@ -361,7 +361,7 @@ http://188.165.13.95:8080/81/index.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS
 http://188.165.13.95:8080/50/index.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS (Op 2)
-
+http://teuportal.dyndns.org:25461/live/beto/beto/178.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS (Op 3)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SicK.pt" group-title="CumCatano",SIC K
@@ -570,6 +570,7 @@ https://tinyurl.com/y9mxwrgd
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/ybu6gb5w" group-title="CumCatano",LIVE ISS STREAM
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
 
 
 
