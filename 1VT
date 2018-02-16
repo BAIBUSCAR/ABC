@@ -106,6 +106,10 @@ http://fostefodido.ddns.net:8000/live/JJcJMz9QQr/yrR360pCwO/13257.m3u8
 http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2234.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 7)
 http://iptv-belge.ddns.net:8012/live/petit/petit/2409.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (TEST)
+http://live1.livetvindia.co.in:8000/live/SportsTTv/fuckyou/7.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (TEST 2)
+http://live1.livetvindia.co.in:8000/live/SportsTTv/fuckyou/7.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (SD)
 http://185.26.174.67:12345/play/a01j
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2
