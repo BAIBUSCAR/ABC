@@ -183,15 +183,6 @@ http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://picalt.com/p2m/hmnzmkgj.jpg" tvg-id="" group-title="XTV",BABESTATION
 http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7agmgny" tvg-id="" group-title="XTV",BABE SEXO CHANNEL
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y756k7hy" tvg-id="" group-title="XTV",SEXY SAT BRASIL
-
-#EXTINF:-1 tvg-logo="" tvg-id="https://tinyurl.com/y7agmgny" group-title="XTV",SEXSAT TV
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",SexySat TV
-
-#EXTINF:-1 tvg-logo="https://goo.gl/2mdBfN" group-title="XTV", SEXY SAT 1 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",Babestation 1
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/livestream1/playlist.m3u8
@@ -205,45 +196,6 @@ http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder31/playlist.m3u8
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder51/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",Babestation 6
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",BSX 24 (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Babestation (18+)
--
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Babestation 2 (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Babestation 3 (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Dollhouse Cam 1 (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Dollhouse Cam 2 (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Dollhouse Cam 3 (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Girls (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Honey (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Hot and wet (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Live Sex Latinas (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Midnight (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Palmtube HD (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Playboy TV Chat 1 (18+)
-http://publish.thewebstream.co:1935/rlc/_definst_/livestream1/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Playboy TV Chat 2 (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",STUDIO 66 TV (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",STUDIO 66 TV 2 (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",STUDIO 66 TV 3 (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",STUDIO 66 TV 4 (18+)
-
-#EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Sakura (18+)
 
 #EXTINF:-1, tvg-logo="https://tinyurl.com/y95gxur8", group-title="XTV",Sex Zone (18+)
 http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
@@ -257,64 +209,84 @@ http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", HOTGOLD - Amadoras Portuguesas
+http://stor80.streamcloud.eu:8080/f3v74kgh5woax3ptx2ky7tpsvtxi5fceexa6f44uxiykz7liqpfd7i4ige/video.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Tuga Hot Gold 1
+http://stor77.streamcloud.eu:8080/epv74rwh5woax3ptx2ky7q5rvygrierjz7djq45kfsx7gpidxzmuxw6q2a/video.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Tuga Hot Gold 2
+http://stor77.streamcloud.eu:8080/epv75joh5woax3ptx2ky7u74wqzpeyecuojluqq4pu3xrk6nslj4oz4fla/video.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8xyxgak" group-title="XTUGA", Diana Cu De Melancia - Casting Anal No Hotel
 https://cld.pt/dl/download/bc0a15d5-fa4b-45d0-9a79-fad2c4141360/XXX.Diana%20Cu%20de%20Melancia%20-%20Casting%20Anal%20no%20Hotel.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybkuu9zy" group-title="XTUGA", Tugas De Luxo (2015)
 https://cld.pt/dl/download/e9accd69-2626-47c0-a481-4e1a6e93cef0/xxx.Tugas.De.Luxo.2015.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Diana Cu de Melancia - Violada no Sofa
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Diana Cu de Melancia - Violada no Sofa
 https://cld.pt/dl/download/8b848aec-951e-4b79-a049-fa8739c6486e/Diana%20Cu%20de%20Melancia%20-%20Violada%20no%20Sofa.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Diana Cu de Melancia
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Diana Cu de Melancia
 https://cld.pt/dl/download/695b6447-cdfc-474a-acd7-523f977ff2a5/Diana%20Cu%20De%20Melancia.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Carol Sousa - A Madeirense
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Carol Sousa - A Madeirense
 https://cld.pt/dl/download/a1080e3d-cd6f-492b-836e-3594df1031d0/Carol%20Sousa%2C%20a%20madeirense%20XXX%20TUGA.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Rebecca Pinar - Casa nova foda nova
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Rebecca Pinar - Casa nova foda nova
 https://cld.pt/dl/download/ffa055f9-85a3-42af-b748-625f0d0bd0c5/Rebeca%20Pinar%20-%20Casa%20nova%2C%20foda%20nova%20XXX%20TUGA.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Rebecca Pinar
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Rebecca Pinar
 https://cld.pt/dl/download/849e6899-ded0-4770-863a-231842393748/Rebecca%20Pinar%20XXX%20TUGA.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Susana Melo - Hard Bed 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Susana Melo - Hard Bed 4
 https://cld.pt/dl/download/c4c0f831-8c09-4272-b374-018b0b9e806e/Susana%20Melo%20%28Aka%20Suzana%29%20-%20Hard%20Bed%204%20%28DP%20e%20DP%20Anal%29%20XXX%20TUGA.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Susana Melo - E agora vais-me foder o cu
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Susana Melo - E agora vais-me foder o cu
 https://cld.pt/dl/download/ec60ab02-fc2f-47d3-8a76-71655bbf48fd/Susana%20Melo%20-%20E%20agora%20vais-me%20foder%20o%20cu%20XXX%20TUGA.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Noemilk - Mulata Portuguesa
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Noemilk - Mulata Portuguesa
 https://cld.pt/dl/download/10ec7561-bbd4-4d9c-a0b4-5d9bca72520f/Noemilk%20-%20Mulata%20Portuguesa%20XXX.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Renata - Vila Nova de Gaita
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Renata - Vila Nova de Gaita
 https://cld.pt/dl/download/aa2814aa-b9d4-4f81-a143-e6d512bf2e6d/Renata%20-%20Vila%20Nova%20de%20Gaita%20XXX.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Sónia Kel - Secretária de dia stripper de noite
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Sónia Kel - Secretária de dia stripper de noite
 https://cld.pt/dl/download/5f02ec43-f2b3-46fb-a988-163a3c4130e3/S%C3%B3nia%20Kel%20-%20Secret%C3%A1ria%20de%20dia%2C%20stripper%20de%20noite%20XXX.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Ana Monte Real - Vatman
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Ana Monte Real - Vatman
 https://cld.pt/dl/download/8b512ecf-6c97-4ff2-a5c1-79edbe339b4a/%20Ana%20Monte%20Real%20-%20Vatman%20%28CumLouder%29.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Ana Monte-Real - O Regresso (Anal)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Ana Monte-Real - O Regresso (Anal)
 https://cld.pt/dl/download/50a2be32-716b-422f-9a7a-75a4a79a4208/Ana%20Monte-Real%20-%20O%20Regresso%20%28Anal%29%20da%20Portuguesa%20Ana%20Monte-Real.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Erica Fontes - Va Fode o meu cuzinho
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Erica Fontes - Va Fode o meu cuzinho
 https://cld.pt/dl/download/dc9c4d7b-7478-4f23-8159-393286acbcdc/Erica%20Fontes%20-%20V%C3%A1%21%20Fode%20o%20meu%20cuzinho%2C%20fode%21%20%28DDF%29.wmv
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", O diario sexual de Maria
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", O diario sexual de Maria
 https://cld.pt/dl/download/1cfc4542-dfc1-42f0-9aae-c46d1ddf0251/Erica%20Fontes%2C%20Sylvie%20Castro%2C%20Maria%20e%20Catarina%20-%20O%20Diario%20Sexual%20de%20Maria.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Joana Belmonte - Madura por tras
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Joana Belmonte - Madura por tras
 https://cld.pt/dl/download/cafc6d3f-435d-408f-97de-6c06ba02af85/Joana%20Belmonte%20-%20Madura%20por%20tr%C3%A1s%20XXX.m4v
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Marta Quatro - Caseiradas Portuguesas 8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Marta Quatro - Caseiradas Portuguesas 8
 https://cld.pt/dl/download/8b751e38-fee0-4247-8ffc-4b0ddf832bd8/Marta%20Quatro%20-%20Caseiradas%20Portuguesas%208%20XXX.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Susana Melo & Samantha Joons
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Susana Melo & Samantha Joons
 https://cld.pt/dl/download/aadf1b6d-fc53-4dcc-bd3f-80a4db89afdd/Susana%20Melo%20%26%20Samantha%20Joons.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Susana Melo - Fuckin Van
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Susana Melo - Fuckin Van
 https://cld.pt/dl/download/7ff9a151-9249-4f76-9b5e-b52c8094bef2/Susana%20Melo%20-%20Fuckin%20Van%20%28Cum%20Louder%20June%2024%2C%202014%29.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Sylvie Castro - A Portuguesa Desaparecida em combate
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Sylvie Castro - A Portuguesa Desaparecida em combate
 https://cld.pt/dl/download/129ba982-172c-4d0f-99db-e243e68f6513/Sylvie%20Castro%20-%20A%20Portuguesa%20Desaparecida%20Em%20Combate.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Sofa Vermelho 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Sofa Vermelho 1
 https://cld.pt/dl/download/d9a8d376-1105-4c93-b09b-6b20924eac5b/Sylvie%20Castro%2C%20Erica%20Fontes%2C%20Ana%20Monte-Real%2C%20Andreia%20Viveiro%2C%20Isabel%2C%20Jessica%2C%20Monica%20Doce%20-%20Sof%C3%A1%20vermelho%201.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Erica Fontes - Foi treinar na academia
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Erica Fontes - Foi treinar na academia
 https://cld.pt/dl/download/3f360b81-4bdf-410f-8f2b-f92fa1124f7c/%20Erica%20Fontes%20-%20Foi%20treinar%20na%20academia%20%28NaughtyAmerica%29.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Erica - Caseiradas portuguesas 9
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Erica - Caseiradas portuguesas 9
 https://cld.pt/dl/download/7c11d692-e69c-43c6-880d-560812890e83/Erica%20-%20Caseiradas%20portuguesas%209%20XXX.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Erica Fontes - Babes
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Erica Fontes - Babes
 https://cld.pt/dl/download/6fb75496-67b2-4fe9-992e-62496d70b183/Erica%20Fontes%20-%20Babes%20XXX.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Rebeca Pinar - Casa nova foda nova
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Rebeca Pinar - Casa nova foda nova
 https://cld.pt/dl/download/ffa055f9-85a3-42af-b748-625f0d0bd0c5/Rebeca%20Pinar%20-%20Casa%20nova%2C%20foda%20nova%20XXX%20TUGA.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Rebeca Pinar
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Rebeca Pinar
 https://cld.pt/dl/download/849e6899-ded0-4770-863a-231842393748/Rebecca%20Pinar%20XXX%20TUGA.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Susana Melo (Aka Suzana) - Hard Bed 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Susana Melo (Aka Suzana) - Hard Bed 4
 https://cld.pt/dl/download/c4c0f831-8c09-4272-b374-018b0b9e806e/Susana%20Melo%20%28Aka%20Suzana%29%20-%20Hard%20Bed%204%20%28DP%20e%20DP%20Anal%29%20XXX%20TUGA.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yachunud" group-title="XTUGA", Susana Melo - E agora vais-me foder o cu
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Susana Melo - E agora vais-me foder o cu
 https://cld.pt/dl/download/ec60ab02-fc2f-47d3-8a76-71655bbf48fd/Susana%20Melo%20-%20E%20agora%20vais-me%20foder%20o%20cu%20XXX%20TUGA.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Tuga Gostosa
+http://stor77.streamcloud.eu:8080/epv74ygh5woax3ptx2ky7vh7ualwn7x4hyqgf547a5zc2g4iifzypy7pk4/video.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Video caseiro
+http://stor77.streamcloud.eu:8080/epv74w6h5woax3ptx2ky7whgvgtogvw7zubqcx2skswayvuqcily5rrfuq/video.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Stunning Brunete Portuguese Teen
+http://stor77.streamcloud.eu:8080/epv745oh5woax3ptx2ky7dpmx4jgt3o6xss2cbvizwd75d3y3c6tpz466q/video.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Sasha Tuga
+http://stor76.streamcloud.eu:8080/elv74zoh5woax3ptx2ky7b74vwlxcu7noadsy2ecq4cq557cmscwkdyd3m/video.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Homemade Portuguese
+http://stor78.streamcloud.eu:8080/ftv75ngh5woax3ptx2ky7r52w2fwhfb6dwu3kr7glgiz6filz2bslojt5a/video.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.porn.pt/images/logo.png" group-title="XTUGA", Tuga Oral
+http://stor79.streamcloud.eu:8080/fxv75nwh5woax3ptx2ky7qnz6bzgk4sne3eilvcp5wgkdzoayf52la7abu/video.mp4
+
 
 
 
