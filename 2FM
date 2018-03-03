@@ -2,7 +2,6 @@
 
 
 
-
 #EXTINF:-1 tvg-logo"https://fanart.tv/detailpreview/fanart/movies/399055/movieposter/the-shape-of-water-5a52cd80c301a.jpg" group-title="FILMES",A Forma da Água
 https://lh3.googleusercontent.com/qk5mPMwKNjTsJJfm1-nhMarhKYp_EABuZFWbe2r5P_0i8D8phwotsg6x_yUBD_8mS9AaudYHiGC3H8L--w=m18
 
@@ -102,6 +101,7 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/HAPPYDEATHLEG-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/FofzKa" group-title="FILMES", SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS (BR)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4
+
 #EXTINF:0 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2018/01/1542819.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="FILMES",SCOOBY-DOO & BATMAN: OS BRAVOS E DESTEMIDOS (LEG) 
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/SCOOBYEBATMANLEG-ALTO.mp4
 
@@ -912,8 +912,11 @@ https://cld.pt/dl/download/2724a396-a913-4cff-b100-54bef8953bfc/Viagem%20A%20Por
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9pjx6az" type="MOVIE" group-title="3D",Rogue One a Star Wars Story 
 https://cld.pt/dl/download/5569e0a7-bb63-47ec-8eda-64bf519f41ae/Rogue.One.A.Star.Wars.Story.3d.h-sbs.mkv
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yb3krd94" type="MOVIE" group-title="3D",Aassassins Creed
-https://cld.pt/dl/download/11b70bfd-6d0c-412d-9b44-6263f80a0354/Assassins.Creed.2016.3d.mkv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybzl9dfw" type="MOVIE" group-title="3D",Captain America Civil War
+https://cld.pt/dl/download/ea827864-8d0c-4796-a8a6-b11ee859d548/Captain.America.Civil.War.2016.3d.mkv
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y78yl5mn" type="MOVIE" group-title="3D",Kong Skull Island
+https://cld.pt/dl/download/a0498ec0-d76e-4f84-a56f-766c6b707ad1/Kong.Skull.Island.2017-hsbs.mkv
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycypualk" type="MOVIE" group-title="3D",Ghost in the Shell
 https://cld.pt/dl/download/2b4337fa-9121-4180-9614-92e235876b5d/Ghost.in.the.Shell.2017.3d.h-sbs.mkv
@@ -922,6 +925,8 @@ https://cld.pt/dl/download/2b4337fa-9121-4180-9614-92e235876b5d/Ghost.in.the.She
 https://cld.pt/dl/download/8dae08d8-4ad2-4f35-bf0d-b033ab1ce021/Guardians.of.the.Galaxy.Vol.2.2017.3d.mkv
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb3krd94" type="MOVIE" group-title="3D",Aassassins Creed
+https://cld.pt/dl/download/11b70bfd-6d0c-412d-9b44-6263f80a0354/Assassins.Creed.2016.3d.mkv
 
 
 
