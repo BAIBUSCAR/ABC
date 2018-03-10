@@ -1,14 +1,17 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd4jvm8m" type="MOVIE" group-title="ANIMACAO",Super Heróis (Bling)
+https://cld.pt/dl/download/432aa5f3-e3d8-4e54-b2d9-5d9ffcca4c1d/Bling.2016.720p.BRRip.PT.%5BT-Rex%5D.mkv
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y6ve63ha" type="MOVIE" group-title="ANIMACAO",Um Susto de Familia
 https://cld.pt/dl/download/4c156d0c-e0cf-4874-90da-5ec5bb15826c/Um.Susto.De.Familia.2017.AC3.PT.BDRip.XviD-A.C.avi
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycsd5f6o" type="MOVIE" group-title="ANIMACAO", Emoji o Filme
-https://cld.pt/dl/download/89912c7a-8555-4bda-91ce-a9a6327f02d3/Emoji%20o%20Filme.2017.720p.BluRay.x264.%28PT%29T-Rex.mkv
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y92u2cvy" type="MOVIE" group-title="ANIMACAO",Rock Dog
 https://cld.pt/dl/download/2d46bfce-261b-4795-b78d-6f708c4c2445/Rock.Dog.2016.anim.mkv
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycsd5f6o" type="MOVIE" group-title="ANIMACAO", Emoji o Filme
+https://cld.pt/dl/download/89912c7a-8555-4bda-91ce-a9a6327f02d3/Emoji%20o%20Filme.2017.720p.BluRay.x264.%28PT%29T-Rex.mkv
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7bwrlnu" type="MOVIE" group-title="ANIMACAO",Lego Batman
 https://cld.pt/dl/download/f3d46549-d1a4-422b-b0bc-3ba98c2b9ca0/Lego.Batman.O.Filme.2017.anim.mkv
