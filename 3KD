@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6ve63ha" type="MOVIE" group-title="ANIMACAO",Um Susto de Familia
+https://cld.pt/dl/download/4c156d0c-e0cf-4874-90da-5ec5bb15826c/Um.Susto.De.Familia.2017.AC3.PT.BDRip.XviD-A.C.avi
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycsd5f6o" type="MOVIE" group-title="ANIMACAO", Emoji o Filme
 https://cld.pt/dl/download/89912c7a-8555-4bda-91ce-a9a6327f02d3/Emoji%20o%20Filme.2017.720p.BluRay.x264.%28PT%29T-Rex.mkv
 
