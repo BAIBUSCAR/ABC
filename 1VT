@@ -81,7 +81,7 @@ http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1003.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="FoodNetwork.pt" group-title="CumCatano",FOOD NETWORK
 http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/12849.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="FoodNetwork.pt" group-title="CumCatano",FOOD NETWORK (Op 2)
-http://content.asplaylist.net/cdn/1010_all.acelive
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7n5mj6l" tvg-id="MyCuisine.pt" group-title="CumCatano", My Cuisine
 http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2443.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9pmq4d4" tvg-id="" group-title="CumCatano",CHEF TV (BR)
@@ -174,6 +174,8 @@ http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2241.m3u8
 http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2241.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 7)
 http://185.26.174.67:12345/play/a002
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (ACE)
+http://content.asplaylist.net/MERxSnRoV20wN3pYNS9ScW5ZRTF0U1RnZ0NqeDlNeDJiNUZCUEl6RW5GOVVMam83c1JNYWZqTmRNRjNrVmhnK1lYTHdGWW5CcXBNbXZGTTJidGxZdVE9PQ/14840.acelive
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV
 http://185.26.174.67:12345/play/a02g
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV (Op 2)
