@@ -80,6 +80,8 @@ http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1003.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="FoodNetwork.pt" group-title="CumCatano",FOOD NETWORK
 http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/12849.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="FoodNetwork.pt" group-title="CumCatano",FOOD NETWORK (Op 2)
+http://content.asplaylist.net/cdn/1010_all.acelive
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7n5mj6l" tvg-id="MyCuisine.pt" group-title="CumCatano", My Cuisine
 http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2443.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9pmq4d4" tvg-id="" group-title="CumCatano",CHEF TV (BR)
@@ -226,6 +228,11 @@ http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14313.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s26.postimg.org/xot1ydtq1/nfl1.png" group-title="CumCatano",NFL |USA|
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1 tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/70.jpg" group-title="CumCatano",Golf Network
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www2.myjcom.jp/special/common/channel_logo/400x150/samurai.jpg" group-title="CumCatano", Samurai Fighting TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yadd9rad" group-title="CumCatano", Olympic Channel
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 
@@ -470,6 +477,8 @@ http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2824.m3u8
 http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4155.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Oo0DzJ" tvg-id="FASH" group-title="CumCatano",FTV
 
+#EXTINF:-1 tvg-logo="https://goo.gl/Oo0DzJ" tvg-id="FASH" group-title="CumCatano",FTV (ACE)
+http://content.asplaylist.net/NEIyQXVRQWRmL2hvZlBLQzNaWFhBckc1My9oSUxSRVNrWWEwdmxWQ0JIeWl3dWh6cHZXRWl3SE9uSkR0VWI2empRdUNnaTlXR2YwS2NiWGxlQkJXWWc9PQ/cdn/160_reg.acelive
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y75o237v" group-title="CumCatano",World Fashion
 http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y92tyltk" group-title="CumCatano",CLASS TV MODA
