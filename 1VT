@@ -479,6 +479,8 @@ http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2824.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lpl3fes" tvg-id="" group-title="CumCatano",Dog TV
 http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4155.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/lpl3fes" tvg-id="" group-title="CumCatano",Dog TV (ACE)
+http://192.168.1.1:6878/ace/getstream?url=http://content.asplaylist.net/ZEo1UXRPTndrQzVwcmZCSCtIeGkrdXJyT21kSUx0dThOZkY2YlUwei82YlhsbEFud0F6Y0F3ZXlRYmVtc3A3TzRGeVZUVnhzMzdUVktZQWgwQXJad2c9PQ/cdn/1182_reg.acelive
 #EXTINF:-1 tvg-logo="https://goo.gl/Oo0DzJ" tvg-id="FASH" group-title="CumCatano",FTV
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Oo0DzJ" tvg-id="FASH" group-title="CumCatano",FTV (ACE)
