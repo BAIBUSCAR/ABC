@@ -175,7 +175,7 @@ http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2241.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 7)
 http://185.26.174.67:12345/play/a002
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (ACE)
-http://content.asplaylist.net/MERxSnRoV20wN3pYNS9ScW5ZRTF0U1RnZ0NqeDlNeDJiNUZCUEl6RW5GOVVMam83c1JNYWZqTmRNRjNrVmhnK1lYTHdGWW5CcXBNbXZGTTJidGxZdVE9PQ/14840.acelive
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV
 http://185.26.174.67:12345/play/a02g
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV (Op 2)
@@ -217,7 +217,7 @@ http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14208.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="CumCatano", Extreme Sports
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="CumCatano", Extreme Sports (ACE)
-http://content.asplaylist.net/RzU2OTZ4aWNNRHJFWmg5QTBMNS8rbVVXdUZ6WkxuK1V2QVE5NkZ6NmhUVU10dklJOHJRTWQ5MHJna0ZuUFdldUpPbUhockpVbHpnSGkwdU9sMUVnUWc9PQ/cdn/1092_all.acelive
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7dn2azu" tvg-id="FuelTV.pt" group-title="CumCatano",WOOHOO
 http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14119.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" tvg-id="FightNetwork" group-title="CumCatano",KOMBAT SPORT
