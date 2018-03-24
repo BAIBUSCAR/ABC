@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yad3jra5" type="MOVIE" group-title="ANIMACAO", Bigfoot Junior
+http://stor79.streamcloud.eu:8080/fxv75apnskoax3ptx2dy7qn7vlzylhn4semyhijivldipwet75zedtwxpy/video.mp4
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7et678g" type="MOVIE" group-title="ANIMACAO",Top Cat - O Inicio
 https://cld.pt/dl/download/8c7e1b0f-f267-4568-8367-8a9b4e6ea163/Top%20Cat-O%20In%C3%ADcio.2016.PT.DVDRip.X264.%5BT-Rex%5D.mkv
 
@@ -24,12 +30,6 @@ https://cld.pt/dl/download/aa1e1201-9098-4ae1-be40-afa31c851f60/Dia.de.Surf.2.01
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycub7vn5" type="MOVIE" group-title="ANIMACAO",Um Voo em Grande
 https://cld.pt/dl/download/d28768b2-2359-49df-9cb3-d789812d8f63/Um.Voo.em.Grande.2017.PT.mkv
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ydamq4lf" type="MOVIE" group-title="ANIMACAO", Descendentes 2
-https://cld.pt/dl/download/ee2c2431-2b82-4b57-8746-5846a9bbb8f0/Os.Descendentes.2.mkv
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7hzal9t" type="MOVIE" group-title="ANIMACAO", Descendentes 1
-https://cld.pt/dl/download/c7a1488b-c3f0-4c0e-95ac-14da46780201/Descendentes.2015.PT.1080p-FIURi.mkv
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybqcgequ" type="MOVIE" group-title="ANIMACAO", Como Salvar o Pai Natal
 https://cld.pt/dl/download/eeb5ecfc-54fd-4b07-914a-ae0da7d0aaf3/Como%20Salvar%20o%20Pai%20Natal.avi
@@ -267,6 +267,16 @@ https://cld.pt/dl/download/755a065b-79ec-48fe-988e-93edb29c6702/Elena%20De%20Ava
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/The_Secret_Life_of_Pets_poster.jpg" type="MOVIE" group-title="ANIMACAO", The Secret Life of Pets
 https://cld.pt/dl/download/0664bb6b-b037-4cfd-814a-4ba9d1438cf8/The.Secret.Life.of.Pets.2016.PT.720p.BRRip.x264.AC3-R23..mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydzx8g2u" type="MOVIE" group-title="ANIMACAO", Descendentes 2
+https://cld.pt/dl/download/ee2c2431-2b82-4b57-8746-5846a9bbb8f0/Os.Descendentes.2.mkv
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7hzal9t" type="MOVIE" group-title="ANIMACAO", Descendentes 1
+https://cld.pt/dl/download/c7a1488b-c3f0-4c0e-95ac-14da46780201/Descendentes.2015.PT.1080p-FIURi.mkv
+
+
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9uy3jsd" type="MOVIE" group-title="ANIMACAO", Fabulas da Disney - Volume 1 (BR) 
 http://archive.org/download/FabulasDisney-Volume1Dublado/Fabulas%20Disney%20%e2%80%93%20Volume%201%20-%20Dublado.mp4
