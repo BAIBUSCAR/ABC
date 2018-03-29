@@ -49,9 +49,9 @@ http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/978.m3u8
 #EXTINF:-1 tvg-logo="https://s27.postimg.org/jiij9m1xv/Log_tipo_TVI.png" tvg-id="" group-title="CumCatano",+ TVI
 http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd8le7tb" tvg-id="TVIFiccao.pt" group-title="CumCatano",TVI FICCAO
-http://4.31.30.145:9004
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/88.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y79cclaw" tvg-id="TVIReal.pt" group-title="CumCatano",TVI REALITY
-http://4.31.30.145:9040
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/86.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y79cclaw" tvg-id="TVIReal.pt" group-title="CumCatano",TVI Reality (Camaras)
 http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2822.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y79cclaw" tvg-id="TVIReal.pt" group-title="CumCatano",TVI Reality MOSAICO
