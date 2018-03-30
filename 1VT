@@ -119,7 +119,7 @@ http://asdp.ddns.net:8000/live/roberto/roberto/177.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 9)
 http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/101.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (SD)
-
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2
 http://asdp.ddns.net:8000/live/joaquim/joaquim/471.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 2)
@@ -162,20 +162,24 @@ http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5389.m3u8
 http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5389.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 (Op 5)
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 (SD)
+http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV 
 http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2241.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 2)
 http://asdp.ddns.net:8000/live/daniel/daniel/475.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 3)
-http://asdp.ddns.net:8000/live/joaquim/joaquim/475.m3u8
+http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2241.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 4)
 http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/113.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 5)
-http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2241.m3u8
+http://asdp.ddns.net:8000/live/joaquim/joaquim/475.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 6)
-http://tveagle.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2241.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 7)
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2241.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (SD)
+http://185.80.220.79:15214/streamM/9DOXhIxxsw.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV
 http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1002.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV (Op 2)
@@ -333,11 +337,11 @@ http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="CumCatano",Cine+ (BR)
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc784kco" group-title="CumCatano",Cine sky (BR)
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc5696c5" group-title="CumCatano",Classique TV (BR)
 http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y874olye" group-title="CumCatano",FILMS 24/7 (BR)
-http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybcer5ao" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL
 http://asdp.ddns.net:8000/live/joaquim/joaquim/481.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybcer5ao" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL (Op 2)
