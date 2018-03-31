@@ -2,12 +2,13 @@
 
 
 
-#EXTINF:-1 group-title="FILMES" tvg-logo="https://tinyurl.com/yar2gr5x", MAZE RUNNER 3: A CURA MORTAL
-http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MAZERUNNERLEG-ALTO.mp4
+
 #EXTINF:-1group-title="FILMES" tvg-logo="https://tinyurl.com/yamk9lmf", STAR WARS 8: OS ÚLTIMOS JEDI
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/STARWARS8LEG-ALTO.mp4
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://tinyurl.com/ya25lnfb", EU TONYA
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/ITONYALEG-ALTO.mp4
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://tinyurl.com/yar2gr5x", MAZE RUNNER 3: A CURA MORTAL
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MAZERUNNERLEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8vdf9hq" group-title="FILMES",Lady Bird - Hora de Voar 
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LADYBIRDLEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybz3oyux" group-title="FILMES",THE POST: A GUERRA SECRETA
