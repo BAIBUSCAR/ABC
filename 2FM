@@ -3,12 +3,57 @@
 
 
 
-#EXTINF:-1group-title="FILMES" tvg-logo="https://tinyurl.com/yamk9lmf", STAR WARS 8: OS ÚLTIMOS JEDI
+
+#EXTINF:-1 tvg-id="" tvg-name=" THE TITAN (LEG) " tvg-logo="https://goo.gl/EYmyyS" group-title="FILMES",  THE TITAN
+http://cdn7.ntcdn.us/content/delivery/filmes2018/THETITANLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" O PASSAGEIRO (LEG) " tvg-logo="https://goo.gl/n1oMqr" group-title="FILMES",  O PASSAGEIRO
+http://cdn7.ntcdn.us/content/delivery/filmes2018/THECOMMUTERLEGV2-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" MAZE RUNNER 3: A CURA MORTAL (LEG)" tvg-logo="https://goo.gl/NJEzeY" group-title="FILMES",  MAZE RUNNER 3: A CURA MORTAL
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MAZERUNNERLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" FALA SÉRIO MÃE! (NAC)" tvg-logo="https://goo.gl/qMMdq7" group-title="FILMES",  FALA SÉRIO MÃE! (BR)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FALASERIEMAE-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" CONSPIRAÇÃO TERRORISTA (LEG)" tvg-logo="https://goo.gl/tKr24o" group-title="FILMES",  CONSPIRAÇÃO TERRORISTA
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/CONSPIRACAOTERRORISTALEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" PERDA TOTAL (LEG)" tvg-logo="https://goo.gl/F4ci7v" group-title="FILMES",  PERDA TOTAL
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PERDATORALLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" O TOURO FERDINANDO (LEG)" tvg-logo="https://goo.gl/TTg8GX" group-title="FILMES",  O TOURO FERDINANDO
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FERDINANDOLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" SOBRENATURAL 4: A ÚLTIMA CHAVE (LEG)" tvg-logo="https://goo.gl/Jzj2ww" group-title="FILMES",  SOBRENATURAL 4: A ÚLTIMA CHAVE
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/INSIDIOUS4LEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" CORRIDA MORTAL 4 (LEG)" tvg-logo="https://goo.gl/KWPp68" group-title="FILMES",  CORRIDA MORTAL 4
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/DEATHRACE4-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" PADDINGTON 2 (LEG)" tvg-logo="https://goo.gl/yEDFYo" group-title="FILMES",  PADDINGTON 2 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PADDINGTON2-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O: SUPER-HERÓIS - THE  FLASH (LEG)" tvg-logo="https://goo.gl/kR2prc" group-title="FILMES", O: SUPER-HERÓIS - THE  FLASH
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LEGOTHEFLASHLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" COM AMOR - VAN GOGH (LEG)" tvg-logo="https://goo.gl/2LKgT9" group-title="FILMES",  COM AMOR - VAN GOGH 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VANGOGHLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" BRAVEN (LEG)" tvg-logo="https://goo.gl/Gh8nGb" group-title="FILMES",  BRAVEN
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BRAVEN18LEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" DÍVIDA PERIGOSA (LEG)" tvg-logo="https://goo.gl/LRFFpa" group-title="FILMES",  DÍVIDA PERIGOSA 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THEOUTSIDE2018LEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" JUMANJI: BEM-VINDO A SELVA (LEG)" tvg-logo="https://goo.gl/SN8Pc2" group-title="FILMES",  JUMANJI: BEM-VINDO A SELVA
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/JUMANJI2018LEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" O REI DO SHOW (LEG)" tvg-logo="https://goo.gl/TVdGjy" group-title="FILMES",  O REI DO SHOW 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/REIDANOITELEG2017-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" ESPELHO (LEG)" tvg-logo="https://goo.gl/xiUAS4" group-title="FILMES",  ESPELHO 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LOOKINGGLASSLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" EXTRAORDINÁRIO (LEG)" tvg-logo="https://goo.gl/VFv3TC" group-title="FILMES",  EXTRAORDINÁRIO 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/WONDERR2018-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" DOENTES DE AMOR (LEG)" tvg-logo="https://goo.gl/5P128M" group-title="FILMES",  DOENTES DE AMOR 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BIGSICKLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" TRÊS ANÚNCIOS PARA UM CRIME (LEG)" tvg-logo="https://goo.gl/G4AgcF" group-title="FILMES",  TRÊS ANÚNCIOS PARA UM CRIME 
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/TRESANUNCIOS2018LEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" FULLMETAL ALCHEMIST (LEG)" tvg-logo="https://goo.gl/WeZ5Bm" group-title="FILMES",  FULLMETAL ALCHEMIST
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FULLMETALLEG-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" GOSTO SE DISCUTE (NAC)" tvg-logo="https://goo.gl/cLTazL" group-title="FILMES",  GOSTO SE DISCUTE (BR)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/G0ST0S3DISCUT3-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" O DESTINO DE UMA NAÇÃO (LEG)" tvg-logo="https://goo.gl/KPKTWC" group-title="FILMES",  O DESTINO DE UMA NAÇÃO
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/DARKEST2017LEG-ALTO.mp4
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://tinyurl.com/yamk9lmf", STAR WARS 8: OS ÚLTIMOS JEDI
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/STARWARS8LEG-ALTO.mp4
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://tinyurl.com/ya25lnfb", EU TONYA
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/ITONYALEG-ALTO.mp4
-#EXTINF:-1 group-title="FILMES" tvg-logo="https://tinyurl.com/yar2gr5x", MAZE RUNNER 3: A CURA MORTAL
-http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MAZERUNNERLEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8vdf9hq" group-title="FILMES",Lady Bird - Hora de Voar 
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LADYBIRDLEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybz3oyux" group-title="FILMES",THE POST: A GUERRA SECRETA
