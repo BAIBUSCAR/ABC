@@ -552,6 +552,181 @@ http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3
 
 
 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP 1 HD" tvg-logo="" group-title="TEMPORARIOS",PT: RTP 1 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2555.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTP 1 FHD" tvg-logo="" group-title="TEMPORARIOS",RTP 1 FHD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2554.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTP 2 HD" tvg-logo="" group-title="TEMPORARIOS",RTP 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2553.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SIC CARAS HD" tvg-logo="" group-title="TEMPORARIOS",SIC CARAS HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2536.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SIC HD" tvg-logo="" group-title="TEMPORARIOS",SIC HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2552.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVI 24" tvg-logo="" group-title="TEMPORARIOS",TVI 24
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2546.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="SIC NOTICIAS HD" tvg-logo="" group-title="TEMPORARIOS",SIC NOTICIAS HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2548.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVI 24 HQ" tvg-logo="" group-title="TEMPORARIOS",TVI 24 HQ
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2545.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SIC MULHER HD" tvg-logo="" group-title="TEMPORARIOS",SIC MULHER HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2535.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SIC RADICAL HD" tvg-logo="" group-title="TEMPORARIOS",SIC RADICAL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2534.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CMTV HD" tvg-logo="" group-title="TEMPORARIOS",CMTV HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2551.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="PORTO CANAL HD" tvg-logo="" group-title="TEMPORARIOS",PORTO CANAL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2549.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="24 KITCHEN HD" tvg-logo="" group-title="TEMPORARIOS",24 KITCHEN HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2496.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV MOSAICO" tvg-logo="" group-title="TEMPORARIOS",PT: SPORT TV MOSAICO
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2529.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV   HD" tvg-logo="" group-title="TEMPORARIOS",SPORT TV   HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2528.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV 1 HD" tvg-logo="" group-title="TEMPORARIOS",SPORT TV 1 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2527.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV 2 HD" tvg-logo="" group-title="TEMPORARIOS",SPORT TV 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2526.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV 3 HD" tvg-logo="" group-title="TEMPORARIOS",SPORT TV 3 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2525.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV 4 HD" tvg-logo="" group-title="TEMPORARIOS",SPORT TV 4 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2524.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV 5 HD" tvg-logo="" group-title="TEMPORARIOS",SPORT TV 5 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2523.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BTV 1 HD" tvg-logo="" group-title="TEMPORARIOS",BTV 1 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2530.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="A BOLA TV" tvg-logo="" group-title="TEMPORARIOS",A BOLA TV
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2532.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTING TV HD" tvg-logo="" group-title="TEMPORARIOS",SPORTING TV HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2519.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBA HD" tvg-logo="" group-title="TEMPORARIOS",NBA HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2521.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT NETWORK HD" tvg-logo="" group-title="TEMPORARIOS",FIGHT NETWORK HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2522.m3u8
+#EXTINF:-1 tvg-ID="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="TEMPORARIOS",BAND SPORTS HD (BR)
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/515.m3u8
+#EXTINF:-1 tvg-ID="Bandsports.br" tvg-name="BAND SPORTS" tvg-logo="" group-title="TEMPORARIOS",BAND SPORTS (BR)
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/717.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVCINE 1 HD" tvg-logo="" group-title="TEMPORARIOS",TVCINE 1 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2514.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVCINE 2 HD" tvg-logo="" group-title="TEMPORARIOS",TVCINE 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2513.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVCINE 3 HD" tvg-logo="" group-title="TEMPORARIOS",TVCINE 3 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2512.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVCINE 4 HD" tvg-logo="" group-title="TEMPORARIOS",TVCINE 4 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2511.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV SERIES HD" tvg-logo="" group-title="TEMPORARIOS",TV SERIES HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2497.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="TEMPORARIOS",HOLLYWOOD HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2507.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMUNDO" tvg-logo="" group-title="TEMPORARIOS",CINEMUNDO
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2509.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SYFY HD" tvg-logo="" group-title="TEMPORARIOS",SYFY HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2498.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AMC HD" tvg-logo="" group-title="TEMPORARIOS",AMC HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2510.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="" group-title="TEMPORARIOS",AXN HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2504.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AXN BLACK HD" tvg-logo="" group-title="TEMPORARIOS",AXN BLACK HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2505.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="TEMPORARIOS",AXN WHITE HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2503.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="" group-title="TEMPORARIOS",FOX HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2502.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="TEMPORARIOS",FOX LIFE HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2499.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CRIME HD" tvg-logo="" group-title="TEMPORARIOS",FOX CRIME HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2500.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES HD" tvg-logo="" group-title="TEMPORARIOS",FOX MOVIES HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2508.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY HD" tvg-logo="" group-title="TEMPORARIOS",FOX COMEDY HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2501.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL HQ" tvg-logo="" group-title="TEMPORARIOS",DISNEY CHANNEL HQ
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2517.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="TEMPORARIOS",DISNEY JUNIOR
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2516.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="TEMPORARIOS",CARTOON NETWORK
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2518.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="" group-title="TEMPORARIOS",NICKELODEON
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2515.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="TEMPORARIOS",DISCOVERY CHANNEL
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2494.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SHOWCASE HD" tvg-logo="" group-title="TEMPORARIOS",DISCOVERY SHOWCASE HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2493.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO HD" tvg-logo="" group-title="TEMPORARIOS",NAT GEO HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2491.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="TEMPORARIOS",NAT GEO WILD HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2490.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORIA" tvg-logo="" group-title="TEMPORARIOS",HISTORIA
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2492.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="A & E" tvg-logo="" group-title="TEMPORARIOS",A & E
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2506.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBS REALITY" tvg-logo="" group-title="TEMPORARIOS",CBS REALITY
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2495.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TRAVEL HD" tvg-logo="" group-title="TEMPORARIOS",TRAVEL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2489.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV RECORD HD" tvg-logo="" group-title="TEMPORARIOS",TV RECORD HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2533.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO PREMIUM" tvg-logo="" group-title="TEMPORARIOS",GLOBO PREMIUM
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2544.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO PREMIUM HD" tvg-logo="" group-title="TEMPORARIOS",GLOBO PREMIUM HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2543.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO PT" tvg-logo="" group-title="TEMPORARIOS",GLOBO PT
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2542.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO PT HQ" tvg-logo="" group-title="TEMPORARIOS",GLOBO PT HQ
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2541.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ICONCERTS" tvg-logo="" group-title="TEMPORARIOS",ICONCERTS
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2488.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MCM POP" tvg-logo="" group-title="TEMPORARIOS",MCM POP
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2487.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MCM TOP" tvg-logo="" group-title="TEMPORARIOS",MCM TOP
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2486.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MTV DANCE" tvg-logo="" group-title="TEMPORARIOS",MTV DANCE
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2485.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MTV PORTUGAL" tvg-logo="" group-title="TEMPORARIOS",MTV PORTUGAL
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2484.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 CLASSIC" tvg-logo="" group-title="TEMPORARIOS",VH1 CLASSIC
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2483.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTP ACORES" tvg-logo="" group-title="TEMPORARIOS",RTP ACORES
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2540.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTP AFRICA" tvg-logo="" group-title="TEMPORARIOS",RTP AFRICA
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2539.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTP MADEIRA" tvg-logo="" group-title="TEMPORARIOS",RTP MADEIRA
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2538.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RTP MEMORIA" tvg-logo="" group-title="TEMPORARIOS",RTP MEMORIA
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2537.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVE 24 HORAS" tvg-logo="" group-title="TEMPORARIOS",TVE 24 HORAS
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2547.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CNBC EUROPE" tvg-logo="" group-title="TEMPORARIOS",CNBC EUROPE
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2550.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="REAL MADRID TV" tvg-logo="" group-title="TEMPORARIOS",REAL MADRID TV
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2520.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BARÇA TV" tvg-logo="" group-title="TEMPORARIOS",BARÇA TV
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2531.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 
