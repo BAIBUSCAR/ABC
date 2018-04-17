@@ -1,38 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Glorioso - Recos",PT: BTV 1 LOW
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5313.m3u8
-#EXTINF:-1 group-title="Glorioso - Recos",PT: BTV (Extra Jogo 1)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/14349.m3u8
-#EXTINF:-1 group-title="Glorioso - Recos",PT: BTV (Extra Jogo 2)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/14350.m3u8
-#EXTINF:-1 group-title="Glorioso - Recos",PT: BTV HD LOW (Extra Jogo 3)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/14351.m3u8
-#EXTINF:-1 group-title="Glorioso - Recos",PT: BTV
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/12723.m3u8
-#EXTINF:-1 group-title="Glorioso - Recos",PT: BTV 1
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/339.m3u8
-#EXTINF:-1 group-title="Glorioso - Recos",PT: BTV 1 Alt.
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5312.m3u8
-#EXTINF:-1 group-title="Glorioso - Recos",PT: BTV 1 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/338.m3u8
-#EXTINF:-1 group-title="Glorioso - Recos",PT: BTV HD (Extra Jogo 4)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/14352.m3u8
-#EXTINF:-1 group-title="Glorioso - Recos",PT: BTV 1 HD *
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5314.m3u8
-#EXTINF:-1 group-title="Glorioso - Recos",PT: BTV FHD*
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/12722.m3u8
-#EXTINF:-1 group-title="Glorioso - Recos",PT: BTV FHD (Extra Jogo 5)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/14353.m3u8
-#EXTINF:-1 group-title="Glorioso - Recos",PT: BTV 1 FULL HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/337.m3u8
-
-
-
-
--------------------------------------------------------------------------------------------------------------
-
 
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="CumCatano",RTP 1 
