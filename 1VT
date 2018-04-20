@@ -5,8 +5,6 @@
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="CumCatano",RTP 1 
 http://62.28.213.14:9981/stream/channelid/1439506767
-#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="CumCatano",RTP 1 (TEST)
-http://www.joanjsimpson.synology.me:52080/web/stream.m3u?ref=1:0:1:65:65:53:CE40000:0:0:0:&name=RTP%201
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP1" tvg-id="rtp1.pt" group-title="CumCatano",RTP 1 (SD)
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_RTP2" tvg-id="rtp2.pt" group-title="CumCatano",RTP 2
