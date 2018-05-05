@@ -18,9 +18,9 @@ http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2HgFOZo" tvg-id="TVI.pt" group-title="CumCatano",TVI
 http://62.28.213.14:9981/stream/channelid/1402355728
 #EXTINF:-1 tvg-logo="https://bit.ly/2HgFOZo" tvg-id="TVI.pt" group-title="CumCatano",TVI (SD)
-http://87.118.138.144:8030/play/a02n
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/3932.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2Hk2OTd" tvg-id="sicnoticias.pt" group-title="CumCatano",SIC NOTICIAS
-http://87.118.138.144:8030/play/a00u
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/3935.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2Hk2OTd" tvg-id="sicnoticias.pt" group-title="CumCatano",SIC NOTICIAS (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/427.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2Hk2OTd" tvg-id="sicnoticias.pt" group-title="CumCatano",SIC NOTICIAS (SD)
@@ -32,11 +32,11 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-logo="https://bit.ly/2HmyNSQ" tvg-id="TVI24.pt" group-title="CumCatano",TVI24 
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/425.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2HmyNSQ" tvg-id="TVI24.pt" group-title="CumCatano",TVI24 (SD)
-
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/3933.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2F2D4c1" tvg-id="CMTV.pt" group-title="CumCatano",CMTV
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/14354.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2F2D4c1" tvg-id="CMTV.pt" group-title="CumCatano",CMTV (Op 2)
-
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/4329.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2qQ0R9P" tvg-id="sicradical.pt" group-title="CumCatano",SIC RADICAL
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/408.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2qQ0R9P" tvg-id="sicradical.pt" group-title="CumCatano",SIC RADICAL (SD)
@@ -44,11 +44,11 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2HjgkGC" tvg-id="sicmulher.pt" group-title="CumCatano",SIC MULHER
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/410.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2HjgkGC" tvg-id="sicmulher.pt" group-title="CumCatano",SIC MULHER (Op 2)
-
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/4332.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2K4WkJp" tvg-id="SicCaras.pt" group-title="CumCatano",SIC CARAS
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/411.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2K4WkJp" tvg-id="SicCaras.pt" group-title="CumCatano",SIC CARAS (Op 2) 
-
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/4333.m3u8
 #EXTINF:-1 tvg-logo="https://s27.postimg.org/jiij9m1xv/Log_tipo_TVI.png" tvg-id="" group-title="CumCatano",+ TVI
 http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yd8le7tb" tvg-id="TVIFiccao.pt" group-title="CumCatano",TVI FICCAO
@@ -56,7 +56,7 @@ http://tvgold.top:25461/live/vI60TgeOhF/Listahome/407.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2K6eL0C" tvg-id="TVIReal.pt" group-title="CumCatano",TVI REALITY
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/406.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2K6eL0C" tvg-id="TVIReal.pt" group-title="CumCatano",TVI REALITY (Op 2) 
-http://87.118.138.144:8031/play/a045
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/4330.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2K6eL0C" tvg-id="TVIReal.pt" group-title="CumCatano",TVI Reality (Camaras)
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2K6eL0C" tvg-id="TVIReal.pt" group-title="CumCatano",TVI Reality MOSAICO
@@ -78,13 +78,13 @@ http://213.13.26.11:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycjatr33" tvg-id="PortoCanal.pt" group-title="CumCatano", PORTO CANAL (Op 2)
 http://213.13.26.13:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="CanalQ.pt" group-title="CumCatano",CANAL Q
-http://87.118.138.144:8030/play/a032
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/6388.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" tvg-id="CanalQ.pt" group-title="CumCatano",CANAL Q (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/290.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/283.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN HD (Op 2)
-http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/2203.m3u8
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/6383.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="FoodNetwork.pt" group-title="CumCatano",FOOD NETWORK
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/282.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydyxot8k" tvg-id="FoodNetwork.pt" group-title="CumCatano",FOOD NETWORK (Op 2)
@@ -94,13 +94,13 @@ http://tvgold.top:25461/live/vI60TgeOhF/Listahome/282.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7n5mj6l" tvg-id="MyCuisine.pt" group-title="CumCatano", My Cuisine (Op 2)
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2qQ8blT" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV +
-http://87.118.138.144:8031/play/a04a
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1053.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2qQ8blT" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV + (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/341.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2qQ8blT" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV + (Op 3)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/340.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2qQ8blT" tvg-id="sporttvmais.pt" group-title="CumCatano",SPORT TV + (Op 4)
-http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/136265.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y95rernu" tvg-id="" group-title="CumCatano",SPORT TV 4K UHD
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/5487.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y95rernu" tvg-id="" group-title="CumCatano",SPORT TV 4K UHD (Op 2)
@@ -126,29 +126,29 @@ http://tvgold.top:25461/live/vI60TgeOhF/Listahome/5392.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 9)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/5403.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (Op 10)
-http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/1455.m3u8
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/1813.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png" tvg-id="sporttv1.pt" group-title="CumCatano",SPORT TV 1 (SD)
-http://87.118.138.144:8031/play/a03e
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1034.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/353.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 2)
-http://87.118.138.144:8031/play/a03f
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1035.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 3)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/352.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 4)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/5402.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 5)
-http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/1456.m3u8
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/889.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png" tvg-id="sporttv2.pt" group-title="CumCatano",SPORT TV 2 (Op 6)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 
-http://87.118.138.144:8031/play/a03g
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/1273.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/350.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 3)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/5296.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 4)
-http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/1457.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png" tvg-id="sporttv3.pt" group-title="CumCatano",SPORT TV 3 (Op 5)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 
@@ -158,17 +158,17 @@ http://tvgold.top:25461/live/vI60TgeOhF/Listahome/5408.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 3)
 http://5.63.160.25:9001/play/a01v
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 4)
-http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/1458.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png" tvg-id="sporttv4.pt" group-title="CumCatano",SPORT TV 4 (Op 5)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/344.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 (Op 2)
-http://87.118.138.144:8031/play/a04c
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/1814.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 (Op 3)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/5329.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 (Op 4)
-http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/1459.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 (Op 5)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png" tvg-id="sporttv5.pt" group-title="CumCatano",SPORT TV 5 (SD)
@@ -192,19 +192,19 @@ http://tvgold.top:25461/live/vI60TgeOhF/Listahome/12722.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 9)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/337.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (Op 10)
-http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/2229.m3u8
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/1286.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l9dlbtn" tvg-id="BenficaTV.pt" group-title="CumCatano", BENFICA TV (SD)
-http://87.118.138.144:8031/play/a03k
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1893.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/332.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kvdj2dt" tvg-id="ABolaTV.pt" group-title="CumCatano",A Bola TV (Op 2)
-
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/3705.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" tvg-id="SPORTINGTV.pt" group-title="CumCatano",SPORTING TV 
-http://87.118.138.144:8031/play/a04f
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1077.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="CumCatano",PFC
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/334.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hFOEDRM.png" tvg-id="PFC" group-title="CumCatano",PFC (Op 2)
-http://87.118.138.144:8030/play/a034
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/6395.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8KXbjyH.jpg" tvg-id="eurosport.pt" group-title="CumCatano",EUROSPORT 1
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/329.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fhg3V6Q.jpg" tvg-id="eurosport2.pt" group-title="CumCatano",EUROSPORT 2
@@ -214,19 +214,19 @@ http://tvgold.top:25461/live/vI60TgeOhF/Listahome/327.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mgjb999" tvg-id="EurosportNews.pt" group-title="CumCatano",Eurosport News
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/418.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n5zs2f4" tvg-id="NBATV" group-title="CumCatano",NBA
-http://87.118.138.144:8030/play/a02o
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1895.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9u2kl5g" tvg-id="MotorsTV.pt" group-title="CumCatano",MOTORSPORT TV
-http://87.118.138.144:8030/play/a00x
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1989.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9u2kl5g" tvg-id="MotorsTV.pt" group-title="CumCatano",MOTORSPORT TV (Op 2)
 
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/motorvisiontv.png" tvg-id="Motorvision.pt" group-title="CumCatano",MOTORVISION.TV
-http://87.118.138.144:8031/play/a03y
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1990.m3u8
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/motorvisiontv.png" tvg-id="Motorvision.pt" group-title="CumCatano",MOTORVISION.TV (Op 2)
 
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV.pt" group-title="CumCatano",Fuel TV
-http://87.118.138.144:8031/play/a04l
+
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV.pt" group-title="CumCatano",Fuel TV (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/326.m3u8
 #EXTINF:-1 tvg-logo="http://skately.com/img/library/logos/large/fuel-tv.png" tvg-id="FuelTV.pt" group-title="CumCatano",Fuel TV (SD)
@@ -234,7 +234,7 @@ http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8jncmcv" tvg-id="" group-title="CumCatano", Extreme Sports (SD)
 http://91.149.172.100:80/channel?id=24&u=demo&p=demo
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" tvg-id="FightNetwork" group-title="CumCatano",KOMBAT SPORT
-http://87.118.138.144:8031/play/a03d
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y77b6ep9" tvg-id="FightNetwork.pt" group-title="CumCatano",FIGHT NETWORK HD
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/325.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y77b6ep9" tvg-id="FightNetwork.pt" group-title="CumCatano",FIGHT NETWORK SD
@@ -250,7 +250,7 @@ https://live.olympicchannel.com/ocs/channel01b/master.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/384.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 (Op 2)
-http://87.118.138.144:8031/play/a03u
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1038.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 (Op 3)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/383.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE1" tvg-id="TVCine1.pt" group-title="CumCatano",TVCINE 1 (Op 4)
@@ -258,19 +258,19 @@ http://tvgold.top:25461/live/vI60TgeOhF/Listahome/383.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano",TVCINE 2 
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/382.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano",TVCINE 2 (Op 2)
-http://87.118.138.144:8031/play/a03o
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1039.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE2" tvg-id="TVCine2.pt" group-title="CumCatano",TVCINE 2 (Op 3)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/381.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/380.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3 (Op 2)
-http://87.118.138.144:8030/play/a045
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1040.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE3" tvg-id="TVCine3.pt" group-title="CumCatano",TVCINE 3 (Op 3)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/379.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano",TVCINE 4
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/378.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano",TVCINE 4 (Op 2)
-http://87.118.138.144:8030/play/a044
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1041.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVCINE4" tvg-id="TVCine4.pt" group-title="CumCatano",TVCINE 4 (Op 3)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/377.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="CumCatano",TVSeries
@@ -278,9 +278,9 @@ http://tvgold.top:25461/live/vI60TgeOhF/Listahome/376.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="CumCatano",TVSeries (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/375.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_TVSERIES" tvg-id="TVSeries.pt" group-title="CumCatano",TVSeries (Op 3)
-
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1042.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD
-http://87.118.138.144:8031/play/a03c
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1070.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/386.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nxK2OS" tvg-id="hollywood.pt" group-title="CumCatano",HOLLYWOOD (Op 3)
@@ -298,15 +298,15 @@ http://tvgold.top:25461/live/vI60TgeOhF/Listahome/369.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybm3bqjj" tvg-id="SUNDANCE.pt" group-title="CumCatano",Sundance (Op 2)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="CumCatano",MOV
-http://87.118.138.144:8031/play/a03v
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kgkt9q7" tvg-id="mov.pt" group-title="CumCatano",MOV (Op 2)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC.pt" group-title="CumCatano",AMC
-http://87.118.138.144:8031/play/a03v
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1062.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/lcysyu2" tvg-id="AMC.pt" group-title="CumCatano",AMC (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/372.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="CumCatano",AXN
-http://87.118.138.144:8031/play/a03i
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1063.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="CumCatano",AXN (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/367.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" tvg-id="axn.pt" group-title="CumCatano",AXN (Op 3)
@@ -314,29 +314,29 @@ http://tvgold.top:25461/live/vI60TgeOhF/Listahome/366.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="CumCatano",AXN Black
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/364.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ln9zoxw" tvg-id="AXNBlack.pt" group-title="CumCatano",AXN Black (Op 2)
-http://87.118.138.144:8031/play/a03z
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mye96kn" tvg-id="AXNWhite.pt" group-title="CumCatano",AXN White
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/365.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mye96kn" tvg-id="AXNWhite.pt" group-title="CumCatano",AXN White (Op 2)
-http://87.118.138.144:8031/play/a040
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="CumCatano",FOX
-http://87.118.138.144:8031/play/a03j
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1050.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="CumCatano",FOX (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/9736.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X4XkCez.png" tvg-id="fox.pt" group-title="CumCatano",FOX (Op 3)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/363.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt" group-title="CumCatano",FOX LIFE
-http://87.118.138.144:8031/play/a041
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1051.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/giiQxbn.png" tvg-id="foxlife.pt" group-title="CumCatano",FOX LIFE (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/362.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FoxMovies.pt" group-title="CumCatano",FOX MOVIES
-http://87.118.138.144:8031/play/a048
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1054.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gbjSBds.png" tvg-id="FoxMovies.pt" group-title="CumCatano",FOX MOVIES (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/360.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="CumCatano",FOX CRIME
-http://87.118.138.144:8031/play/a042
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="CumCatano",FOX CRIME (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/361.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" tvg-id="foxcrime.pt" group-title="CumCatano",FOX CRIME (Op 2)
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7w737bs" tvg-id="fx.pt" group-title="CumCatano",FX
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="CumCatano",FOX COMEDY
@@ -344,27 +344,27 @@ http://tvgold.top:25461/live/vI60TgeOhF/Listahome/358.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" tvg-id="FOXComedy.pt" group-title="CumCatano",FOX COMEDY (Op 2)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybcer5ao" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL
-http://tvgold.top:25461/live/vI60TgeOhF/Listahome/393.
+http://tvgold.top:25461/live/vI60TgeOhF/Listahome/393.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybcer5ao" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL (Op 2)
-http://87.118.138.144:8030/play/a015
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/3696.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybcer5ao" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL (Op 3)
-http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/2223.m3u8
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1081.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybcer5ao" tvg-id="disneychannel.pt" group-title="CumCatano",DISNEY CHANNEL (Op 4)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/394.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR (Op 2)
-http://87.118.138.144:8031/play/a04e
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/6390.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR (Op 3)
-http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/2224.m3u8
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1049.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png" tvg-id="disneyjunior.pt" group-title="CumCatano",DISNEY JUNIOR (Op 4)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/392.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK (Op 2)
-http://87.118.138.144:8030/play/a02t
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1089.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png" tvg-id="cartoon.pt" group-title="CumCatano",CARTOON NETWORK (Op 3)
-http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/132902.m3u8
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/6399.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9fq3kp5" tvg-id="" group-title="CumCatano", Nick Jr
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9fq3kp5" tvg-id="" group-title="CumCatano", Nick Jr (Op 2)
@@ -372,43 +372,43 @@ http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/132902.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/395.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON (Op 2)
-http://87.118.138.144:8031/play/a03r
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/6071.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" tvg-id="Nickelodeon.pt" group-title="CumCatano",NICKELODEON (Op 3)
-
+http://king365tv.podzone.org:2103/live/Faysal/12345678/3955.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/396.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA (Op 2)
-http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/2222.m3u8
+http://king365tv.podzone.org:2103/live/Faysal/12345678/3956.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA (Op 3)
-http://87.118.138.144:8030/play/a02p
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/6068.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_CANALPANDA" tvg-id="canalpanda.pt" group-title="CumCatano",PANDA (Op 4)
 
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/391.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS (Op 2)
-http://87.118.138.144:8031/play/a04b
+http://king365tv.podzone.org:2103/live/Faysal/12345678/3957.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_BIGGS" tvg-id="PandaBiggs.pt" group-title="CumCatano",PANDA BIGGS (Op 3)
-
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/4335.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SicK.pt" group-title="CumCatano",SIC K
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/388.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png" tvg-id="SicK.pt" group-title="CumCatano",SIC K (Op 2)
-
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1057.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JimJam.pt" group-title="CumCatano",JIMJAM
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/387.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" tvg-id="JimJam.pt" group-title="CumCatano",JIMJAM (Op 2)
-http://87.118.138.144:8030/play/a00n
+http://clientportalpro.com:2500/live/ahmed-1200212/ahmed-1200212/3692.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png" tvg-id="BabyTV.pt" group-title="CumCatano",BABY TV
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/389.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/l5mg6h8" tvg-id="BABYFIRST.pt" group-title="CumCatano",Baby First
-http://87.118.138.144:8031/play/a03s
+http://king365tv.podzone.org:2103/live/Faysal/12345678/1896.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycm8csyk" tvg-id="discoverychannel.pt" group-title="CumCatano",DISCOVERY
-http://87.118.138.144:8030/play/a00y
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycm8csyk" tvg-id="discoverychannel.pt" group-title="CumCatano",DISCOVERY (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/300.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycm8csyk" tvg-id="discoverychannel.pt" group-title="CumCatano",DISCOVERY (Op 3)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" tvg-id=" DiscoveryHDShowcase.pt" group-title="CumCatano",DISCOVERY SHOWCASE
-http://87.118.138.144:8031/play/a04h
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/H3pCgSC.png" tvg-id=" DiscoveryHDShowcase.pt" group-title="CumCatano",DISCOVERY SHOWCASE (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/299.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yawp48mq" group-title="CumCatano",DISCOVERY TURBO
@@ -418,43 +418,43 @@ http://tvgold.top:25461/live/vI60TgeOhF/Listahome/301.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UPqfbBu.png" tvg-id="nationalgeographic.pt" group-title="CumCatano",NATIONAL GEOGRAPHIC (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NatGeoWild.pt" group-title="CumCatano",NAT GEO WILD
-http://87.118.138.144:8030/play/a02q
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mNhHiku.png" tvg-id="NatGeoWild.pt" group-title="CumCatano",NAT GEO WILD (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/302.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="CumCatano",ODISSEIA
-http://87.118.138.144:8030/play/a00z
+
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="CumCatano",ODISSEIA (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/292.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_ODISSEIA" tvg-id="odisseia.pt" group-title="CumCatano",ODISSEIA (Op 3)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="CumCatano",HISTORIA
-http://87.118.138.144:8030/play/a00c
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="CumCatano",HISTORIA (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/294.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" tvg-id="HistoryChannel.pt" group-title="CumCatano",HISTORIA (Op 3)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="eentertainment.pt" group-title="CumCatano",E! Entertainment
-http://87.118.138.144:8030/play/a02x
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" tvg-id="eentertainment.pt" group-title="CumCatano",E! Entertainment (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/288.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="AandE.pt" group-title="CumCatano",A&E
-http://87.118.138.144:8031/play/a049
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W4mLcJh.png" tvg-id="AandE.pt" group-title="CumCatano",A&E (Op 2)
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/291.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="CumCatano",TLC
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/285.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/w78ijP" tvg-id="TLC.pt" group-title="CumCatano",TLC (Op 2)
-http://87.118.138.144:8031/play/a047
+
 #EXTINF:-1 tvg-logo="http://savepic.net/8100452.png" tvg-id="FineLiving.pt" group-title="CumCatano",FINE LIVING NETWORK
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/kxh2nlc" tvg-id="CRIME INVESTIGATION" group-title="CumCatano",Crime Investigation CI
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/368.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/N7hEOL" tvg-id="MCSExtreme.pt" group-title="CumCatano",MCS EXTREME
-http://87.118.138.144:8030/play/a00w
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" tvg-id="MCSLifeStyle.pt" group-title="CumCatano",MCS LIFESTYLE
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/287.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/X0YowUz.png" tvg-id="CBSReality.pt" group-title="CumCatano",CBS REALITY
-http://87.118.138.144:8030/play/a013
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" tvg-id="TRV.pt" group-title="CumCatano",TRAVEL CHANNEL
 http://tvgold.top:25461/live/vI60TgeOhF/Listahome/289.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xgqZgC6.png" tvg-id="TRV.pt" group-title="CumCatano",TRAVEL CHANNEL (SD)
@@ -565,449 +565,6 @@ https://tinyurl.com/y9mxwrgd
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://tinyurl.com/ybu6gb5w" group-title="CumCatano",LIVE ISS STREAM
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-#EXTINF:-1 group-title="TEMP",PT: RTP 1
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/440.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTP 1 LOW
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5304.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTP 1 (Alt.)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5303.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTP 1 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/439.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTP1 FULL HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/438.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTP 2
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/437.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTP 2 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/436.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTP 2 FULL HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/435.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SIC
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/433.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SIC*
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5404.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SIC LOW
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5306.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SIC HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/432.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SIC FULL HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/431.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5393.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI SD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5307.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI LOW
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5308.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/429.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI FULL HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/428.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SIC NOTICIAS
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/427.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SIC NOTICIAS HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/426.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI 24
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/425.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI 24 LOW
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/11731.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI 24  HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/424.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTP 3 SD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5323.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTP 3
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/434.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CMTV
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/423.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CMTV LOW
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5315.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CMTV HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/14354.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CMTV FHD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/422.m3u8
-#EXTINF:-1 group-title="TEMP",PT: LOCALVISAO TV HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/400.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BBC WORLD NEWS HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/421.m3u8
-#EXTINF:-1 group-title="TEMP",PT: Bloomberg
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/298.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CNN
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/420.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SKY NEWS
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/419.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVE 24h
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/311.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SIC RADICAL
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/409.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SIC RADICAL HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/408.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SIC CARAS
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/412.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SIC CARAS HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/411.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SIC MULHER
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/410.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI FICÇÃO
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/407.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI REALITY
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/406.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI REALITY CAMARA 1
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/404.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI REALITY CAMARA 2
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/403.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI REALITY CAMARA 3
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/402.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI REALITY CAMARA 4
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/401.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVI REALITY MOSAICO
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/405.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTP Açores
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/306.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTP Africa
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/303.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTP Madeira
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/305.m3u8
-#EXTINF:-1 group-title="TEMP",PT: PORTO CANAL
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/414.m3u8
-#EXTINF:-1 group-title="TEMP",PT: PORTO CANAL HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/413.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTP Memoria
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/304.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BBC Entertainment
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/297.m3u8
-#EXTINF:-1 group-title="TEMP",PT: GLOBO
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/319.m3u8
-#EXTINF:-1 group-title="TEMP",PT: GLOBO PREMIUM
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/318.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TV RECORD HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/317.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CANAL Q
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/290.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CBS Reality
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/296.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TV CINE 1
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/384.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TV CINE 1 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/383.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TV CINE 2
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/382.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TV CINE 2 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/381.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TV CINE 3
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/380.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TV CINE 3 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/379.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TV CINE 4
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/378.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TV CINE 4 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/377.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TV Series
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/376.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TV SERIES HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/375.m3u8
-#EXTINF:-1 group-title="TEMP",PT: HOLLYWOOD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/386.m3u8
-#EXTINF:-1 group-title="TEMP",PT: HOLLYWOOD HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/385.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CINEMUNDO
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/370.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CINEMUNDO HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/369.m3u8
-#EXTINF:-1 group-title="TEMP",PT: AMC
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/372.m3u8
-#EXTINF:-1 group-title="TEMP",PT: AMC HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/371.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SYfY
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/374.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SYFY HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/373.m3u8
-#EXTINF:-1 group-title="TEMP",PT: FOX
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/9736.m3u8
-#EXTINF:-1 group-title="TEMP",PT: FOX HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/363.m3u8
-#EXTINF:-1 group-title="TEMP",PT: FOX MOVIES
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/360.m3u8
-#EXTINF:-1 group-title="TEMP",PT: FOX MOVIES HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/359.m3u8
-#EXTINF:-1 group-title="TEMP",PT: FOX COMEDY
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/358.m3u8
-#EXTINF:-1 group-title="TEMP",PT: FOX COMEDY HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/357.m3u8
-#EXTINF:-1 group-title="TEMP",PT: FOX CRIME HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/361.m3u8
-#EXTINF:-1 group-title="TEMP",PT: FOX LIFE HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/362.m3u8
-#EXTINF:-1 group-title="TEMP",PT: AXN
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/367.m3u8
-#EXTINF:-1 group-title="TEMP",PT: AXN HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/366.m3u8
-#EXTINF:-1 group-title="TEMP",PT: AXN BLACK HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/364.m3u8
-#EXTINF:-1 group-title="TEMP",PT: AXN WHITE HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/365.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SIC K
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/388.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TLC
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/285.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CRIME INVESTIGATION
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/368.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/341.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV  HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/340.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV MOSAICO
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/13587.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 1
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5293.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 1 (2)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5484.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 1 (3)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/12720.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 1 (Alt.)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5309.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 1 (5)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5485.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 1 (6)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5486.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORTV 1 HD  LOW
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5398.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 1 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5392.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 1 HD *
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5400.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 1 FHD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5295.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 1 FHD (1)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5403.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 1 FHD (2)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/12721.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 1  4K
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5487.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV   4K  LOW
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/14348.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 2
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/353.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 2 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/352.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 2 HD*
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5402.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORTV 2 FULL HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/351.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 2*
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5401.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 3
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/350.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 3 FHD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5297.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 3 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5296.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 4
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5407.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 4 FHD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5410.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 4 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5408.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 4 HD *
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5409.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 5
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/344.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 5 (Alt.)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5327.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 5 FHD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5406.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORTV 5 HD  LOW
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5329.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 5 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5405.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORT TV 5 HD (Alt.)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5328.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORTING TV
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/336.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SPORTING TV HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/335.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BTV 1 LOW
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5313.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BTV (Extra Jogo 1)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/14349.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BTV (Extra Jogo 2)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/14350.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BTV HD LOW (Extra Jogo 3)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/14351.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BTV
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/12723.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BTV 1
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/339.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BTV 1 Alt.
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5312.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BTV 1 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/338.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BTV HD (Extra Jogo 4)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/14352.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BTV 1 HD *
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5314.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BTV FHD*
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/12722.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BTV FHD (Extra Jogo 5)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/14353.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BTV 1 FULL HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/337.m3u8
-#EXTINF:-1 group-title="TEMP",PT: A BOLA TV
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/332.m3u8
-#EXTINF:-1 group-title="TEMP",PT: Eurosport
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/329.m3u8
-#EXTINF:-1 group-title="TEMP",PT: EUROSPORT 1 HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/328.m3u8
-#EXTINF:-1 group-title="TEMP",PT: EUROSPORT 2
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/327.m3u8
-#EXTINF:-1 group-title="TEMP",PT: Eurosport News
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/418.m3u8
-#EXTINF:-1 group-title="TEMP",PT: KOMBAT SPORT
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/324.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CANAL DE HISTÓRIA
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/294.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BABY TV
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/389.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BABY FIRST
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/390.m3u8
-#EXTINF:-1 group-title="TEMP",PT: DISNEY CHANNEL
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/393.m3u8
-#EXTINF:-1 group-title="TEMP",PT: DISNEY JUNIOR
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/394.m3u8
-#EXTINF:-1 group-title="TEMP",PT: JIM JAM
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/387.m3u8
-#EXTINF:-1 group-title="TEMP",PT: BIGGS
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/391.m3u8
-#EXTINF:-1 group-title="TEMP",PT: PANDA
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/396.m3u8
-#EXTINF:-1 group-title="TEMP",PT: MCM POP
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/274.m3u8
-#EXTINF:-1 group-title="TEMP",PT: MCM TOP
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/275.m3u8
-#EXTINF:-1 group-title="TEMP",PT: MCS Extreme
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/286.m3u8
-#EXTINF:-1 group-title="TEMP",PT: MCS Lifestyle
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/287.m3u8
-#EXTINF:-1 group-title="TEMP",PT: MOTORS TV
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/323.m3u8
-#EXTINF:-1 group-title="TEMP",PT: Motorvision
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/322.m3u8
-#EXTINF:-1 group-title="TEMP",PT: MTV DANCE
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/279.m3u8
-#EXTINF:-1 group-title="TEMP",PT: MTV MUSIC
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/278.m3u8
-#EXTINF:-1 group-title="TEMP",PT: MTV PORTUGAL HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/276.m3u8
-#EXTINF:-1 group-title="TEMP",PT: A&E
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/291.m3u8
-#EXTINF:-1 group-title="TEMP",PT: AFRO MUSIC
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/273.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CACA E PESCA
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/321.m3u8
-#EXTINF:-1 group-title="TEMP",PT: Cacavision
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/320.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CARTOON NETWORK
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/392.m3u8
-#EXTINF:-1 group-title="TEMP",PT: DISCOVERY CHANNEL
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/300.m3u8
-#EXTINF:-1 group-title="TEMP",PT: DISCOVERY SHOWCASE HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/299.m3u8
-#EXTINF:-1 group-title="TEMP",PT: E! ENTERTAINMENT
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/288.m3u8
-#EXTINF:-1 group-title="TEMP",PT: FOOD NETWORK HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/282.m3u8
-#EXTINF:-1 group-title="TEMP",PT: FUEL TV HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/326.m3u8
-#EXTINF:-1 group-title="TEMP",PT: 24 KITCHEN
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/283.m3u8
-#EXTINF:-1 group-title="TEMP",PT: DOG TV FHD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/11947.m3u8
-#EXTINF:-1 group-title="TEMP",PT: ODISSEIA
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/292.m3u8
-#EXTINF:-1 group-title="TEMP",PT: PFC
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/334.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TRAVEL CHANNEL HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/289.m3u8
-#EXTINF:-1 group-title="TEMP",PT: VH1
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/281.m3u8
-#EXTINF:-1 group-title="TEMP",PT: VH1 CLASSIC
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/280.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TRACE URBAN
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/271.m3u8
-#EXTINF:-1 group-title="TEMP",PT: NAT GEO WILD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/302.m3u8
-#EXTINF:-1 group-title="TEMP",PT: NATIONAL GEOGRAPHIC HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/301.m3u8
-#EXTINF:-1 group-title="TEMP",PT: NICKELODEON
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/395.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CANCAO NOVA
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/267.m3u8
-#EXTINF:-1 group-title="TEMP",PT: FIGHT NETWORK HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/325.m3u8
-#EXTINF:-1 group-title="TEMP",PT: ICONCERTS HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/268.m3u8
-#EXTINF:-1 group-title="TEMP",PT: C-MUSIC
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/270.m3u8
-#EXTINF:-1 group-title="TEMP",PT: FASHION TV HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/284.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CHELSEA TV
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/331.m3u8
-#EXTINF:-1 group-title="TEMP",PT: REAL MADRID
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/330.m3u8
-#EXTINF:-1 group-title="TEMP",PT: FOX News
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/416.m3u8
-#EXTINF:-1 group-title="TEMP",PT: EuroNews
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/417.m3u8
-#EXTINF:-1 group-title="TEMP",PT: Record News
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/316.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TVE Internacional
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/312.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CANAL ANGELUS TV
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/398.m3u8
-#EXTINF:-1 group-title="TEMP",PT: CNBC Europe
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/295.m3u8
-#EXTINF:-1 group-title="TEMP",PT: Deutsche Welle
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/293.m3u8
-#EXTINF:-1 group-title="TEMP",PT: France 24
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/313.m3u8
-#EXTINF:-1 group-title="TEMP",PT: KURIAKOS TV FHD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/399.m3u8
-#EXTINF:-1 group-title="TEMP",PT: M6
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/307.m3u8
-#EXTINF:-1 group-title="TEMP",PT: MEZZO LIVE FHD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/269.m3u8
-#EXTINF:-1 group-title="TEMP",PT: NBA TV
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/333.m3u8
-#EXTINF:-1 group-title="TEMP",PT: RTL
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/308.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SANTUARIO FATIMA
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/397.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SBT BRASIL
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/315.m3u8
-#EXTINF:-1 group-title="TEMP",PT: SUPER RTL
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/309.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TPA INTERNACIONAL
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/314.m3u8
-#EXTINF:-1 group-title="TEMP",PT: Trace TV
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/272.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TV Galicia
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/310.m3u8
-#EXTINF:-1 group-title="TEMP",PT: TV5 MONDE EUROPE
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/415.m3u8
 
 
 
