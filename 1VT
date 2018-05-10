@@ -535,7 +535,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/230/inde
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7tkyapj" tvg-id="MTVMusic.uk" group-title="CCMusic",MTV Music
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybe5phvx" tvg-id="0" group-title="CCMusic",MTV LIVE
-
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/26/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="CCMusic",MTV DANCE
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9lbkrk3" tvg-id="0" group-title="CCMusic",MTV HITS
@@ -545,9 +545,9 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/inde
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="CCMusic",MTV BASE
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="CCMusic",VH1 
-
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/238/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="vh1.pt" group-title="CCMusic",VH1 CLASSIC
-
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/237/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TraceTV.pt" group-title="CCMusic",TRACE TV
 http://94.60.103.81:9981/stream/channelid/219544333
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmtop.png" tvg-id="MCMTOP" group-title="CCMusic",MCM TOP
@@ -585,7 +585,7 @@ http://rtmp.one.by:2200
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CCMusic", ONE.by (RUS) 2 HD
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-logo="https://tinyurl.com/katf23g" tvg-id="mezzo.pt" group-title="CCMusic", Mezzo
-http://a6ef665f.ottclub.mobi/iptv/DPGK2RFY6XHPHF/707/index.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/67/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n4j9ver" tvg-id="mezzo.pt" group-title="CCMusic", Mezzo Live 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/153/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yctjl6cs" tvg-id="0" group-title="CCMusic",Music Box
