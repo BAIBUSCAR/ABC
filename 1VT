@@ -532,6 +532,9 @@ http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FIGHTNET.png" group-title="CumCatano",FIGHT NETWORK 
 http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettexequine.com/wp-content/uploads/2016/11/V.I.P.Logo_white_200x200px_website.png" group-title="CumCatano",Combate HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1601.ts?token=TxAMVEBeQwMQBQ8PUAADVgAFBVEEWAEHV1oKUwNUBAANBlNUCg9UAFcUGxoRRRBRV1hpXFYbDwIHUgNOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QJVVtTGBAUXFcUWxsAAwMKVRNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBg4BER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwMHAQwXTg==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png" group-title="CumCatano",TVCINE 1 HD 
 http://asdp.ddns.net:8000/live/adriano/adriano/405.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png" group-title="CumCatano",TVCINE 2 HD 
