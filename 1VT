@@ -506,6 +506,8 @@ https://video-auth7.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8?wmsAuth
 http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="CumCatano",RTP MEMORIA 
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN 
+http://178.132.4.81/a/guest/live/1178.ts?n=1&b=3&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE1MjYwMzYyOTQ0OTgsXCJ2YWxpZFVudGlsXCI6MTUyNjAzNjg5NDQ5OCxcImlwc1wiOltcIjk0LjYwLjE4MS4yNTFcIl0sXCJydWxlc2V0XCI6XCJndWVzdFwiLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGFja2FnZVwiOm51bGwsXCJ2ZXJzaW9uXCI6XCIxLjUxXCIsXCJwbGF0Zm9ybVwiOlwid2luMzJcIixcImJyYW5jaFwiOlwibWFzdGVyXCIsXCJzZXJpdmNlXCI6XCIxLjIuN1wifX0iLCJzaWduYXR1cmUiOiJrZjhHV3VnUnFUTnpVL0lQS3Y0YnJOTGZ0dGdnMHFOSDlpQUREZ2t6WjlBeEs0cnpDV01xUGFVMGQvQTY3c1ZhL09sQUN2bmtLTzk5OWwxQjlWd0lIc3p1VkRPWit2Y2ZxL0YxdzA3NmRPODBvWmxHNnM5bFl3bWpqNFpxemlFdnQ3YWtTdWJBSmZ0UWxLWGZOYkE0MFpyaEFnRzlFcmZCQzZxUlQ1TDlMZ2M9In0=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="CumCatano",SPORT TV 1 
 http://asdp.ddns.net:8000/live/adriano/adriano/177.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" group-title="CumCatano",SPORT TV 2 
