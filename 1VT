@@ -371,8 +371,6 @@ http://thebestiptv.selfip.org:8000/live/tati/tati/6072.m3u8
 http://thebestiptv.selfip.org:8000/live/tati/tati/6074.m3u8
 #EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Jr" tvg-logo="http://nickjr-intl.mtvnimages.com/uk/img/nav/logo-nickjr-desktop-2x.png" group-title="Portugal",Nick Jr
 http://thebestiptv.selfip.org:8000/live/tati/tati/26219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="—— DOCUMENTÁRIOS ——" tvg-logo="https://seboquerelle.files.wordpress.com/2010/08/documentarios.jpg?w=100" group-title="Portugal",—— DOCUMENTÁRIOS ——
-http://thebestiptv.selfip.org:8000/live/tati/tati/15781.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/discoverychannel.png" group-title="Portugal",Discovery Channel
 http://thebestiptv.selfip.org:8000/live/tati/tati/6132.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/usyusu1480364903.png/small" group-title="Portugal",Discovery Channel HD
@@ -507,7 +505,7 @@ http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="CumCatano",RTP MEMORIA 
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ds8f0f4.png" tvg-id="24Kitchen.pt" group-title="CumCatano",24 KITCHEN 
-http://178.132.4.81/a/guest/live/1178.ts?n=1&b=3&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE1MjYwMzYyOTQ0OTgsXCJ2YWxpZFVudGlsXCI6MTUyNjAzNjg5NDQ5OCxcImlwc1wiOltcIjk0LjYwLjE4MS4yNTFcIl0sXCJydWxlc2V0XCI6XCJndWVzdFwiLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGFja2FnZVwiOm51bGwsXCJ2ZXJzaW9uXCI6XCIxLjUxXCIsXCJwbGF0Zm9ybVwiOlwid2luMzJcIixcImJyYW5jaFwiOlwibWFzdGVyXCIsXCJzZXJpdmNlXCI6XCIxLjIuN1wifX0iLCJzaWduYXR1cmUiOiJrZjhHV3VnUnFUTnpVL0lQS3Y0YnJOTGZ0dGdnMHFOSDlpQUREZ2t6WjlBeEs0cnpDV01xUGFVMGQvQTY3c1ZhL09sQUN2bmtLTzk5OWwxQjlWd0lIc3p1VkRPWit2Y2ZxL0YxdzA3NmRPODBvWmxHNnM5bFl3bWpqNFpxemlFdnQ3YWtTdWJBSmZ0UWxLWGZOYkE0MFpyaEFnRzlFcmZCQzZxUlQ1TDlMZ2M9In0=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="CumCatano",SPORT TV 1 
 http://asdp.ddns.net:8000/live/adriano/adriano/177.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" group-title="CumCatano",SPORT TV 2 
