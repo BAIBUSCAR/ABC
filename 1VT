@@ -526,6 +526,8 @@ http://asdp.ddns.net:8000/live/adriano/adriano/475.m3u8
 http://asdp.ddns.net:8000/live/adriano/adriano/499.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png" group-title="CumCatano",NBA 
 http://109.201.133.83:8000/play/10108/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png" group-title="CumCatano",NBA (OP 2)
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUELTV.png" group-title="CumCatano",FUEL TV 
