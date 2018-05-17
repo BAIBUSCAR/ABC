@@ -2,55 +2,69 @@
 
 
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV 
-http://asdp.ddns.net:8000/live/joaquim/joaquim/323.m3u8
+http://81.177.254.23:9996/play/Playboy/index.m3u8
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV (Op 2)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5521.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/142/index.m3u8
+#EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV (Op 3)
+http://asdp.ddns.net:8000/live/Tiago/Tiago/323.m3u8
+#EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV (Op 4)
+http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/365/index.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot
-http://87.118.138.144:8031/play/a04d
+
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot (Op 2)
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5529.m3u8
+
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y9oett7n" group-title="XTV", Sexy Hot
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/190.m3u8
+http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/3921.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y9oett7n" group-title="XTV", Sexy Hot (Op 2)
 
+#EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://bit.ly/2rPeGHb" group-title="XTV",Claro Adulto
+http://217.182.173.184:8000/live/micha/micha/2078.m3u8
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus
 http://asdp.ddns.net:8000/live/joaquim/joaquim/480.m3u8
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus(Op 2)
-http://87.118.138.144:8030/play/a011
+http://asdp.ddns.net:8000/live/Tiago/Tiago/480.m3u8
 #EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers
-http://89.163.242.108:8088/play/a037
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/346/index.m3u8
 #EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://tinyurl.com/yauqkvvb" group-title="XTV", Brazzers (Op 2)
 
 #EXTINF:-1 tvg-id="Redlight" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
-
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/501/index.m3u8
+#EXTINF:-1 tvg-id="Redlight" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight (Op 2)
+http://81.177.254.23:9996/play/Redlight_HD/index.m3u8
+#EXTINF:-1 tvg-id="Redlight" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight (Op 3)
+http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/354/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s14.postimg.org/sc08zm7kx/motu_1418424sexzone.png" group-title="XTV",Sex Zone
 
 #EXTINF:-1 tvg-id="PRIVATE TV" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="XTV", Private
-
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/354/index.m3u8
+#EXTINF:-1 tvg-id="PRIVATE TV" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="XTV", Private (Op 2)
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/354/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5530.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/851/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV XXX
-
+http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/851/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ya5mjy4a" group-title="XTV", Sex Prive
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XTV",Egoist
-
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/267/index.m3u8
 #EXTINF:-1 tvg-id="But GO" tvg-name="But GO" tvg-logo="https://tinyurl.com/ycl2uuma" group-title="XTV" , But GO 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="XTV", Frenchlover
-
+http://81.177.254.23:9996/play/FRENCHLOVER/index.m3u8
 #EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/11722.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/502/index.m3u8
 #EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD (Op 2)
-
+http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/502/index.m3u8
+#EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD (Op 3)
+http://81.177.254.23:9996/play/Hustler_HD/index.m3u8
 #EXTINF:-1 tvg-id="BlueHustler HD" tvg-logo="https://tinyurl.com/ycb6gqwx" group-title="XTV" , Blue Hustler HD
 
-#EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 1
-http://leaderpro.pt:25461/live/isptT9wCLv/0MvkYTQkPW/5524.m3u8
-#EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 2
-
+#EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 
+http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/363/index.m3u8
+#EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse (Op 2)
+http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/4583.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel
-http://37.9.0.201:8889 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/358/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9haf69t" group-title="XTV", Evil Angel (Op 2)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",Reality Kings
@@ -64,52 +78,102 @@ http://37.9.0.201:8889
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ydx93yqj" group-title="XTV", DreamPorn
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y84d3d8u" group-title="XTV", O-La-La
-
+http://81.177.254.23:9996/play/O-la-la/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y84d3d8u" group-title="XTV", O-La-La (Op 2)
+http://62.210.139.246:25461/live/898989/898989/690.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yb3pjv8e" group-title="XTV", Sextreme
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yb3pjv8e" group-title="XTV", Sextreme (OP2)
+http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/3922.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yb3pjv8e" group-title="XTV", Sextreme (Op 2)
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y96w5do6" group-title="XTV", Satisfaction TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://savepic.net/7824814.png" group-title="XTV",SESTO SENSO TV 
-
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/362/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://savepic.net/7824814.png" group-title="XTV",SESTO SENSO TV (Op 2)
+http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/360/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="XTV",CENTOXCENTO TV
-http://37.9.0.201:8811
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="XTV",CENTOXCENTO 
-
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/361/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8v8wc3y" group-title="XTV",CENTOXCENTO TV (Op 2)
+http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/361/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk
-http://37.9.0.201:8890
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/359/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk (Op 2)
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yayb4ywk" group-title="XTV",Dusk Europ
-
+http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/359/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2rRp7Je" group-title="XTV",Euro Dolls
+http://217.182.173.184:8000/live/micha/micha/2060.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yboke6kw" group-title="XTV",Pink O TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSION
-http://37.9.0.201:8888
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/363/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybbdhhj7" group-title="XTV",PASSION (Op 2)
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y9kmcv8p" group-title="XTV",PASSIEXXX
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y95gxur8" group-title="XTV",Eroxxx HD
-
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/866/index.m3u8
 #EXTINF:1 tvg-logo="https://tinyurl.com/yd8cw47j" group-title="XTV", PINK
 
-#EXTINF:1 tvg-logo="https://tinyurl.com/yd8cw47j" group-title="XTV",MEIDEN VAN HOLLAND (NL)
-
+#EXTINF:1 tvg-logo="https://bit.ly/2rP6Op2" group-title="XTV",MEIDEN VAN HOLLAND
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/266/index.m3u8
+#EXTINF:1 tvg-logo="https://bit.ly/2rP6Op2" group-title="XTV",MEIDEN VAN HOLLAND (NL)
+http://217.182.173.184:8000/live/micha/micha/2073.m3u8
 #EXTINF:1 tvg-logo="https://tinyurl.com/yd8cw47j" group-title="XTV",NUBILES CASTING
-
+http://217.182.173.184:8000/live/micha/micha/2059.m3u8
 #EXTINF:1 tvg-logo="https://tinyurl.com/yd8cw47j" group-title="XTV",SUPERONE
-
+http://217.182.173.184:8000/live/micha/micha/2062.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", SCT
-
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/360/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV", SCT (Op 2)
+http://81.177.254.23:9996/play/SCT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y8fxsflo" group-title="XTV",Babestation Extreme
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",X Desire 
-
+http://217.182.173.184:8000/live/micha/micha/2077.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yayygckj" group-title="XTV",Red Hot
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.dautkom.lv/upload/image/channels/opis/nuartlogo.png" group-title="XTV", Nuarte
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/264/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://magazin.jasmin.rs/wp-content/uploads/2015/03/logo.png" group-title="XTV", Jasmim TV HD
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1068947352.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://magazin.jasmin.rs/wp-content/uploads/2015/03/logo.png" group-title="XTV", Jasmim TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/b2ZEuF" group-title="XTV",JASMIN TV 
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://iptv-ural.narod.ru/images/25.png" group-title="XTV", Russian Night
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://iptv-ural.narod.ru/images/25.png" group-title="XTV", Russian Night (Op 2)
+
+#EXTINF:-1 tvg-logo="https://goo.gl/j2ppNr" group-title="XTV",BRASILEIRINHAS TV 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",The O
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",GIRLS TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",Pink TV
+
+#EXTINF:-1 tvg-id="Sakura" tvg-name="Sakura" tvg-logo="https://tinyurl.com/y7qxkmyj" group-title="XTV" , Sakura 
+
+#EXTINF:-1 tvg-logo="https://apk2android.com//upload/icon/20150313/1426250744857.png" group-title="XTV",Okadai TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s14.postimg.org/sc08zm7kx/motu_1418424sexzone.png" group-title="XTV",Sex Zone
+http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/3920.m3u8
+#EXTINF:-1, tvg-logo="http://freeweb.t-2.net/kibtu/logo/Daring_TV.png" group-title="XTV",Daring (18+)
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/9lLezT" group-title="XTV",FUNDORADO TV 
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/9lLezT" group-title="XTV",FUNDORADO TV 
+http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ZELUfu" group-title="XTV",VISIT-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/ZELUfu" group-title="XTV",VISIT-X TV (Op 2)
+http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apk2android.com//upload/icon/20150313/1426250744857.png" group-title="XTV",Ask
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J0njVq9.png" group-title="XTV",Girls TV
@@ -122,47 +186,6 @@ http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Live Ting" tvg-name="Live Ting" tvg-logo="https://tinyurl.com/y9dfl76o" group-title="XTV" , Live Ting 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/ZELUfu" group-title="XTV",VISIT-X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/ZELUfu" group-title="XTV",VISIT-X TV (Op 2)
-http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://apk2android.com//upload/icon/20150313/1426250744857.png" group-title="XTV",Ask
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptv-ural.narod.ru/images/25.png" group-title="XTV", Русскаја ночь
-http://78.111.176.132:8082
-#EXTINF:-1 tvg-id="" tvg-logo="http://iptv-ural.narod.ru/images/25.png" group-title="XTV", Русскаја ночь (Op 2)
-http://176.51.101.13:1234/udp/225.54.23.156:5000
-#EXTINF:-1 tvg-logo="https://goo.gl/j2ppNr" group-title="XTV",BRASILEIRINHAS TV 
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",The O
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",GIRLS TV
-http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",Pink TV
-http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8
-#EXTINF:-1 tvg-id="Sakura" tvg-name="Sakura" tvg-logo="https://tinyurl.com/y7qxkmyj" group-title="XTV" , Sakura 
-http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
-#EXTINF:-1 tvg-logo="https://apk2android.com//upload/icon/20150313/1426250744857.png" group-title="XTV",Okadai TV
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s14.postimg.org/sc08zm7kx/motu_1418424sexzone.png" group-title="XTV",Sex Zone (SD)
-http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://freeweb.t-2.net/kibtu/logo/Daring_TV.png" group-title="XTV",Daring (18+)
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/9lLezT" group-title="XTV",FUNDORADO TV 
-http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/9lLezT" group-title="XTV",FUNDORADO TV 
-http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.dautkom.lv/upload/image/channels/opis/nuartlogo.png" group-title="XTV", Nuarte
-http://78.111.176.132:8080
-#EXTINF:-1 tvg-id="" tvg-logo="http://magazin.jasmin.rs/wp-content/uploads/2015/03/logo.png" group-title="XTV", Jasmim TV HD
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1068947352.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://magazin.jasmin.rs/wp-content/uploads/2015/03/logo.png" group-title="XTV", Jasmim TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/b2ZEuF" group-title="XTV",JASMIN TV 
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",Viki Enjoy Premium
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s17.postimg.org/mfa7i0r0v/canaladulto.png" group-title="XTV",Honey 18++
