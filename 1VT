@@ -74,7 +74,7 @@ http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/203.m3u8
 http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/202.m3u8
 #EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="http://ctv.homelinux.net/logos/sportv1.png" group-title="Portugal",Sport TV 1
 http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/79.m3u8
-#EXTINF:-1 tvg-name="Sport TV 1 Alternativa" tvg-logo="" group-title="Portugal",Sport TV 1 Alternativa
+#EXTINF:-1 tvg-name="Sport TV 1 Alternativa" tvg-logo="http://ctv.homelinux.net/logos/sportv1.png" group-title="Portugal",Sport TV 1 Alternativa
 http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/20093.m3u8
 #EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="http://ctv.homelinux.net/logos/sptv2.png" group-title="Portugal",Sport TV 2
 http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/80.m3u8
