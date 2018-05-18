@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ANON" tvg-name="https://bit.ly/2rOGOJz" tvg-logo="" group-title="FILMES", ANON
+#EXTINF:-1 tvg-id="" tvg-name="ANON" tvg-logo="https://bit.ly/2rOGOJz" group-title="FILMES", ANON
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ANONLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/8SZ9bv" group-title="FILMES", AMERICAN SATAN
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.mp4
