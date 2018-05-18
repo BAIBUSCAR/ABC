@@ -1,5 +1,326 @@
 #EXTM3U
 
+
+
+
+
+#EXTINF:-1 tvg-name="RTP 1 HD" tvg-logo="http://ctv.homelinux.net/logos/rtp1hd.png" group-title="Portugal",RTP 1 HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1.m3u8
+#EXTINF:-1 tvg-name="RTP 1" tvg-logo="http://ctv.homelinux.net/logos/rtp1.png" group-title="Portugal",RTP 1
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1565.m3u8
+#EXTINF:-1 tvg-name="RTP 2 HD" tvg-logo="http://ctv.homelinux.net/logos/rtp2.png" group-title="Portugal",RTP 2 HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2.m3u8
+#EXTINF:-1 tvg-name="RTP2" tvg-logo="http://ctv.homelinux.net/logos/rtp2.png" group-title="Portugal",RTP2
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1566.m3u8
+#EXTINF:-1 tvg-name="Sic HD" tvg-logo="http://ctv.homelinux.net/logos/sichd.png" group-title="Portugal",Sic HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/3.m3u8
+#EXTINF:-1 tvg-name="SIC" tvg-logo="http://ctv.homelinux.net/logos/sic.png" group-title="Portugal",SIC
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1567.m3u8
+#EXTINF:-1 tvg-name="TVI HD" tvg-logo="http://ctv.homelinux.net/logos/tvi.png" group-title="Portugal",TVI HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/4.m3u8
+#EXTINF:-1 tvg-name="TVI" tvg-logo="http://ctv.homelinux.net/logos/tvi.png" group-title="Portugal",TVI
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/3591.m3u8
+#EXTINF:-1 tvg-name="Sic Noticias HD" tvg-logo="http://ctv.homelinux.net/logos/sicnoticias.png" group-title="Portugal",Sic Noticias HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2681.m3u8
+#EXTINF:-1 tvg-name="RTP 3 HD" tvg-logo="http://ctv.homelinux.net/logos/rtp3.png" group-title="Portugal",RTP 3 HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/6.m3u8
+#EXTINF:-1 tvg-name="TVI 24" tvg-logo="http://ctv.homelinux.net/logos/tvi24.png" group-title="Portugal",TVI 24
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/7.m3u8
+#EXTINF:-1 tvg-name="CMTV HD" tvg-logo="http://ctv.homelinux.net/logos/cmtvhd.png" group-title="Portugal",CMTV HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/8.m3u8
+#EXTINF:-1 tvg-name="SIC Mulher HD" tvg-logo="http://ctv.homelinux.net/logos/sicmulherhd.png" group-title="Portugal",SIC Mulher HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/10.m3u8
+#EXTINF:-1 tvg-name="SIC Radical HD" tvg-logo="http://ctv.homelinux.net/logos/sicradicalhd.png" group-title="Portugal",SIC Radical HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/9.m3u8
+#EXTINF:-1 tvg-name="Sic Caras HD" tvg-logo="http://ctv.homelinux.net/logos/siccarashd.png" group-title="Portugal",Sic Caras HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/15083.m3u8
+#EXTINF:-1 tvg-name="TVI Ficção" tvg-logo="http://ctv.homelinux.net/logos/tvificcao.png" group-title="Portugal",TVI Ficção
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/11.m3u8
+#EXTINF:-1 tvg-name="Porto Canal HD" tvg-logo="http://ctv.homelinux.net/logos/portocanal.png" group-title="Portugal",Porto Canal HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2229.m3u8
+#EXTINF:-1 tvg-name="Canal Q" tvg-logo="http://ctv.homelinux.net/logos/canalq.png" group-title="Portugal",Canal Q
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/14.m3u8
+#EXTINF:-1 tvg-name="RTP Memória" tvg-logo="http://ctv.homelinux.net/logos/rtpmemoria.png" group-title="Portugal",RTP Memória
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/16.m3u8
+#EXTINF:-1 tvg-name="RTP África" tvg-logo="http://ctv.homelinux.net/logos/rtpafrica.png" group-title="Portugal",RTP África
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/70.m3u8
+#EXTINF:-1 tvg-name="RTP Madeira" tvg-logo="http://ctv.homelinux.net/logos/rtpmadeira.png" group-title="Portugal",RTP Madeira
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/61.m3u8
+#EXTINF:-1 tvg-name="RTP Açores" tvg-logo="http://ctv.homelinux.net/logos/rtpacores.png" group-title="Portugal",RTP Açores
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/60.m3u8
+#EXTINF:-1 tvg-name="TVI Reality" tvg-logo="http://ctv.homelinux.net/logos/tvireality.png" group-title="Portugal",TVI Reality
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/148.m3u8
+#EXTINF:-1 tvg-name="Globo" tvg-logo="http://ctv.homelinux.net/logos/globo.png" group-title="Portugal",Globo
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/78.m3u8
+#EXTINF:-1 tvg-name="Globo Premium" tvg-logo="http://ctv.homelinux.net/logos/globopremium.png" group-title="Portugal",Globo Premium
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/290.m3u8
+#EXTINF:-1 tvg-name="TV Record HD" tvg-logo="" group-title="Portugal",TV Record HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/19485.m3u8
+#EXTINF:-1 tvg-name="TV Fátima" tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-grelha/maio2017/fatimatv-logo/large_fatimatv.jpg" group-title="Portugal",TV Fátima
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/3442.m3u8
+#EXTINF:-1 tvg-name="----- Desporto -----" tvg-logo="https://i0.wp.com/macmagazine.com.br/wp-content/uploads/2011/09/06-futebol_icon.png?fit=537%2C537&ssl=1" group-title="Portugal",----- Desporto -----
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/18594.m3u8
+#EXTINF:-1 tvg-name="Sport Tv + HD" tvg-logo="http://ctv.homelinux.net/logos/sptv+hd.png" group-title="Portugal",Sport Tv + HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1129.m3u8
+#EXTINF:-1 tvg-name="Sport TV 1 HD" tvg-logo="http://ctv.homelinux.net/logos/sptv1hd.png" group-title="Portugal",Sport TV 1 HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/205.m3u8
+#EXTINF:-1 tvg-name="Sport TV 1HD ALTERNATIVA" tvg-logo="" group-title="Portugal",Sport TV 1HD ALTERNATIVA
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/20092.m3u8
+#EXTINF:-1 tvg-name="Sport TV 2 HD" tvg-logo="http://ctv.homelinux.net/logos/sptv2hd.png" group-title="Portugal",Sport TV 2 HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/204.m3u8
+#EXTINF:-1 tvg-name="Sport TV 3 HD" tvg-logo="http://ctv.homelinux.net/logos/sptv3hd.png" group-title="Portugal",Sport TV 3 HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/203.m3u8
+#EXTINF:-1 tvg-name="Sport TV 4 HD" tvg-logo="http://ctv.homelinux.net/logos/sptv4hd.png" group-title="Portugal",Sport TV 4 HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/202.m3u8
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="http://ctv.homelinux.net/logos/sportv1.png" group-title="Portugal",Sport TV 1
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/79.m3u8
+#EXTINF:-1 tvg-name="Sport TV 1 Alternativa" tvg-logo="" group-title="",Sport TV 1 Alternativa
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/20093.m3u8
+#EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="http://ctv.homelinux.net/logos/sptv2.png" group-title="Portugal",Sport TV 2
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/80.m3u8
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="http://ctv.homelinux.net/logos/sptv3.png" group-title="Portugal",Sport TV 3
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/81.m3u8
+#EXTINF:-1 tvg-name="Sport TV 4" tvg-logo="http://ctv.homelinux.net/logos/sptv4.png" group-title="Portugal",Sport TV 4
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/82.m3u8
+#EXTINF:-1 tvg-name="Sport Tv 5" tvg-logo="http://ctv.homelinux.net/logos/sptv5.png" group-title="Portugal",Sport Tv 5
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/146.m3u8
+#EXTINF:-1 tvg-name="Benfica TV HD" tvg-logo="http://ctv.homelinux.net/logos/btvhd.png" group-title="Portugal",Benfica TV HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2423.m3u8
+#EXTINF:-1 tvg-name="Benfica TV" tvg-logo="http://ctv.homelinux.net/logos/btv.png" group-title="Portugal",Benfica TV
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/73.m3u8
+#EXTINF:-1 tvg-name="Sporting TV HD" tvg-logo="http://ctv.homelinux.net/logos/sportingtvhd.png" group-title="Portugal",Sporting TV HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/17.m3u8
+#EXTINF:-1 tvg-name="A Bola TV" tvg-logo="http://ctv.homelinux.net/logos/abolatv.png" group-title="Portugal",A Bola TV
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/12.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="http://ctv.homelinux.net/logos/realmadrid.png" group-title="Portugal",Real Madrid TV
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/55.m3u8
+#EXTINF:-1 tvg-name="Barça TV" tvg-logo="http://qwertylist.soeu.ws/logos/BARCA%20TV.png" group-title="Portugal",Barça TV
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/56.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-logo="http://ctv.homelinux.net/logos/eurosport1hd.png" group-title="Portugal",Eurosport 1 HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/18.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="http://ctv.homelinux.net/logos/eurosport2.png" group-title="Portugal",Eurosport 2
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1212.m3u8
+#EXTINF:-1 tvg-name="NBA TV HD" tvg-logo="http://ctv.homelinux.net/logos/nbatv.png" group-title="Portugal",NBA TV HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2331.m3u8
+#EXTINF:-1 tvg-name="PFC" tvg-logo="http://ctv.homelinux.net/logos/pfc.png" group-title="Portugal",PFC
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/301.m3u8
+#EXTINF:-1 tvg-name="motorsport.tv" tvg-logo="http://ctv.homelinux.net/logos/motorsport.png" group-title="Portugal",motorsport.tv
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/54.m3u8
+#EXTINF:-1 tvg-name="MCS EXTREME" tvg-logo="http://ctv.homelinux.net/logos/mcsextreme.png" group-title="Portugal",MCS EXTREME
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1116.m3u8
+#EXTINF:-1 tvg-name="Kombat Sport" tvg-logo="http://ctv.homelinux.net/logos/kombam3u8port.png" group-title="Portugal",Kombat Sport
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/286.m3u8
+#EXTINF:-1 tvg-name="Fight Network HD" tvg-logo="http://ctv.homelinux.net/logos/fightnetworkhd.png" group-title="Portugal",Fight Network HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/292.m3u8
+#EXTINF:-1 tvg-name="Motorvision" tvg-logo="http://ctv.homelinux.net/logos/motorvision.png" group-title="Portugal",Motorvision
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/284.m3u8
+#EXTINF:-1 tvg-name="Fuel Tv HD" tvg-logo="http://ctv.homelinux.net/logos/fueltv.png" group-title="Portugal",Fuel Tv HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/583.m3u8
+#EXTINF:-1 tvg-name="Caça e Pesca" tvg-logo="http://ctv.homelinux.net/logos/cacaepesca.png" group-title="Portugal",Caça e Pesca
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/581.m3u8
+#EXTINF:-1 tvg-name="Toros" tvg-logo="http://ctv.homelinux.net/logos/toros.png" group-title="Portugal",Toros
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/159.m3u8
+#EXTINF:-1 tvg-name="Caçavision" tvg-logo="http://ctv.homelinux.net/logos/cacavision.png" group-title="Portugal",Caçavision
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/294.m3u8
+#EXTINF:-1 tvg-name="----- Filmes -----" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2010/06/30-cinemobim3u8_icon.jpg" group-title="Portugal",----- Filmes -----
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/18595.m3u8
+#EXTINF:-1 tvg-name="TVCine1HD" tvg-logo="http://ctv.homelinux.net/logos/tvc1hd.png" group-title="Portugal",TVCine1HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/84.m3u8
+#EXTINF:-1 tvg-name="TVCine2HD" tvg-logo="http://ctv.homelinux.net/logos/tvc2hd.png" group-title="Portugal",TVCine2HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/85.m3u8
+#EXTINF:-1 tvg-name="TVCine 3 HD" tvg-logo="http://ctv.homelinux.net/logos/tvc3hd.png" group-title="Portugal",TVCine 3 HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/86.m3u8
+#EXTINF:-1 tvg-name="TVCine 4 HD" tvg-logo="http://ctv.homelinux.net/logos/tvc4hd.png" group-title="Portugal",TVCine 4 HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/87.m3u8
+#EXTINF:-1 tvg-name="TVCine1" tvg-logo="http://ctv.homelinux.net/logos/tvc1.png" group-title="Portugal",TVCine1
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2687.m3u8
+#EXTINF:-1 tvg-name="TVCine2" tvg-logo="http://ctv.homelinux.net/logos/tvc2.png" group-title="Portugal",TVCine2
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2688.m3u8
+#EXTINF:-1 tvg-name="TVCine3" tvg-logo="http://ctv.homelinux.net/logos/tvc3.png" group-title="Portugal",TVCine3
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2689.m3u8
+#EXTINF:-1 tvg-name="TVCine4" tvg-logo="http://ctv.homelinux.net/logos/tvc4.png" group-title="Portugal",TVCine4
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2690.m3u8
+#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="http://ctv.homelinux.net/logos/hollywoodhd.png" group-title="Portugal",Hollywood HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/15077.m3u8
+#EXTINF:-1 tvg-name="Hollywood" tvg-logo="http://ctv.homelinux.net/logos/hollywoodhd.png" group-title="Portugal",Hollywood
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/28.m3u8
+#EXTINF:-1 tvg-name="Cinemundo" tvg-logo="http://ctv.homelinux.net/logos/cinemundo.png" group-title="Portugal",Cinemundo
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/27.m3u8
+#EXTINF:-1 tvg-name="AMC HD" tvg-logo="http://ctv.homelinux.net/logos/amchd.png" group-title="Portugal",AMC HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1126.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="http://ctv.homelinux.net/logos/amc.png" group-title="Portugal",AMC
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2692.m3u8
+#EXTINF:-1 tvg-name="Fox Movies HD" tvg-logo="http://ctv.homelinux.net/logos/foxmovies.png" group-title="Portugal",Fox Movies HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/19484.m3u8
+#EXTINF:-1 tvg-name="FOX Movies" tvg-logo="http://ctv.homelinux.net/logos/foxmovies.png" group-title="Portugal",FOX Movies
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/29.m3u8
+#EXTINF:-1 tvg-name="----- Series -----" tvg-logo="data:image/jpeg;base64,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" group-title="Portugal",----- Series -----
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/18596.m3u8
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="http://ctv.homelinux.net/logos/axnhd.png" group-title="Portugal",AXN HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/30.m3u8
+#EXTINF:-1 tvg-name="AXN White HD" tvg-logo="http://ctv.homelinux.net/logos/axnwhitehd.png" group-title="Portugal",AXN White HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1574.m3u8
+#EXTINF:-1 tvg-name="AXN Black HD" tvg-logo="http://ctv.homelinux.net/logos/axnblack.png" group-title="Portugal",AXN Black HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1573.m3u8
+#EXTINF:-1 tvg-name="FOX HD" tvg-logo="http://ctv.homelinux.net/logos/foxhd.png" group-title="Portugal",FOX HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/34.m3u8
+#EXTINF:-1 tvg-name="FOX Life HD" tvg-logo="http://ctv.homelinux.net/logos/foxlifehd.png" group-title="Portugal",FOX Life HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2682.m3u8
+#EXTINF:-1 tvg-name="FOX Life" tvg-logo="http://ctv.homelinux.net/logos/foxlife.png" group-title="Portugal",FOX Life
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/35.m3u8
+#EXTINF:-1 tvg-name="FOX Crime HD" tvg-logo="http://ctv.homelinux.net/logos/foxcrimehd.png" group-title="Portugal",FOX Crime HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2683.m3u8
+#EXTINF:-1 tvg-name="FOX Crime" tvg-logo="http://ctv.homelinux.net/logos/foxcrimehd.png" group-title="Portugal",FOX Crime
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/36.m3u8
+#EXTINF:-1 tvg-name="TVSeries HD" tvg-logo="http://ctv.homelinux.net/logos/tvshd.png" group-title="Portugal",TVSeries HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2693.m3u8
+#EXTINF:-1 tvg-name="FOX Comedy HD" tvg-logo="http://ctv.homelinux.net/logos/foxcomedyhd.png" group-title="Portugal",FOX Comedy HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/7127.m3u8
+#EXTINF:-1 tvg-name="SyFy HD" tvg-logo="http://ctv.homelinux.net/logos/syfyhd.png" group-title="Portugal",SyFy HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/33.m3u8
+#EXTINF:-1 tvg-name="Syfy" tvg-logo="http://qwertylist.soeu.ws/logos/SYFY.png" group-title="Portugal",Syfy
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2691.m3u8
+#EXTINF:-1 tvg-name="E! Entertainment HD" tvg-logo="http://ctv.homelinux.net/logos/e!.png" group-title="Portugal",E! Entertainment HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1108.m3u8
+#EXTINF:-1 tvg-name="Max" tvg-logo="http://ctv.homelinux.net/logos/sonymax.png" group-title="Portugal",Max
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1572.m3u8
+#EXTINF:-1 tvg-name="Zee TV" tvg-logo="http://ctv.homelinux.net/logos/zeetv.png" group-title="Portugal",Zee TV
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1571.m3u8
+#EXTINF:-1 tvg-name="----- Cultura -----" tvg-logo="http://dvbplus.devrybrasil.edu.br/wp-content/themes/dvbplus/media/icon-cultura-e-entretenimento.png" group-title="Portugal",----- Cultura -----
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/18597.m3u8
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="http://ctv.homelinux.net/logos/natgeohd.png" group-title="Portugal",National Geographic HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2685.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="http://ctv.homelinux.net/logos/natgeohd.png" group-title="Portugal",National Geographic
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/48.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="http://ctv.homelinux.net/logos/natgeowild.png" group-title="Portugal",Nat Geo Wild HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/282.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="http://ctv.homelinux.net/logos/discoverychannel.png" group-title="Portugal",Discovery Channel
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/45.m3u8
+#EXTINF:-1 tvg-name="Discovery Showcase" tvg-logo="http://ctv.homelinux.net/logos/discoveryshowcasehd.png" group-title="Portugal",Discovery Showcase
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/293.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-logo="http://ctv.homelinux.net/logos/tlc.png" group-title="Portugal",TLC
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/83.m3u8
+#EXTINF:-1 tvg-name="Odisseia" tvg-logo="http://ctv.homelinux.net/logos/odisseia.png" group-title="Portugal",Odisseia
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/46.m3u8
+#EXTINF:-1 tvg-name="Canal de História" tvg-logo="http://ctv.homelinux.net/logos/historia.png" group-title="Portugal",Canal de História
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/76.m3u8
+#EXTINF:-1 tvg-name="A&E" tvg-logo="http://ctv.homelinux.net/logos/a&e.png" group-title="Portugal",A&E
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/39.m3u8
+#EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="http://ctv.homelinux.net/logos/travelchannel.png" group-title="Portugal",Travel Channel HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/43.m3u8
+#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="http://ctv.homelinux.net/logos/travelchannel.png" group-title="Portugal",Travel Channel
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2695.m3u8
+#EXTINF:-1 tvg-name="My Cuisine" tvg-logo="http://ctv.homelinux.net/logos/mycusine.png" group-title="Portugal",My Cuisine
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/15477.m3u8
+#EXTINF:-1 tvg-name="24Kitchen HD" tvg-logo="http://ctv.homelinux.net/logos/24kitchen.png" group-title="Portugal",24Kitchen HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2694.m3u8
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="http://ctv.homelinux.net/logos/foodnetworkhd.png" group-title="Portugal",Food Network
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/44.m3u8
+#EXTINF:-1 tvg-name="MCS Lifestyle" tvg-logo="http://qwertylist.soeu.ws/logos/MCS%20LIFESTYLE.png" group-title="Portugal",MCS Lifestyle
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/591.m3u8
+#EXTINF:-1 tvg-name="CRIME INVESTIGATION" tvg-logo="http://ctv.homelinux.net/logos/ci.png" group-title="Portugal",CRIME INVESTIGATION
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1118.m3u8
+#EXTINF:-1 tvg-name="CBS Reality" tvg-logo="http://ctv.homelinux.net/logos/cbsreality.png" group-title="Portugal",CBS Reality
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/582.m3u8
+#EXTINF:-1 tvg-name="Dog TV" tvg-logo="http://ctv.homelinux.net/logos/dogtv.png" group-title="Portugal",Dog TV
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/3993.m3u8
+#EXTINF:-1 tvg-name="Fine Living HD" tvg-logo="http://ctv.homelinux.net/logos/finelivinghd.png" group-title="Portugal",Fine Living HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/3996.m3u8
+#EXTINF:-1 tvg-name="Luxe TV HD" tvg-logo="http://qwertylist.soeu.ws/logos/LUXE%20TV.png" group-title="Portugal",Luxe TV HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/15082.m3u8
+#EXTINF:-1 tvg-name="----- Infantil -----" tvg-logo="http://www.juanxxiiidiscipulas.es/Etapas/kids-icon.png" group-title="Portugal",----- Infantil -----
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/18598.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="http://ctv.homelinux.net/logos/disneychannel.png" group-title="Portugal",Disney Channel
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/20.m3u8
+#EXTINF:-1 tvg-name="Disney Júnior" tvg-logo="http://ctv.homelinux.net/logos/disneyjunior.png" group-title="Portugal",Disney Júnior
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/24.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="http://ctv.homelinux.net/logos/nickelodeon.png" group-title="Portugal",Nickelodeon
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1432.m3u8
+#EXTINF:-1 tvg-name="Nick Jr." tvg-logo="http://ctv.homelinux.net/logos/nicjr.png" group-title="Portugal",Nick Jr.
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/18602.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="http://www.thelogodb.com/images/media/logo/rqswvs1435142683.png" group-title="Portugal",Cartoon Network
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/26.m3u8
+#EXTINF:-1 tvg-name="Canal Panda" tvg-logo="http://ctv.homelinux.net/logos/canalpanda.png" group-title="Portugal",Canal Panda
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/23.m3u8
+#EXTINF:-1 tvg-name="Biggs" tvg-logo="http://ctv.homelinux.net/logos/biggs.png" group-title="Portugal",Biggs
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/22.m3u8
+#EXTINF:-1 tvg-name="SIC K" tvg-logo="http://ctv.homelinux.net/logos/sick.png" group-title="Portugal",SIC K
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/21.m3u8
+#EXTINF:-1 tvg-name="Jim Jam" tvg-logo="http://www.thelogodb.com/images/media/logo/suvqtv1433943639.png" group-title="Portugal",Jim Jam
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/25.m3u8
+#EXTINF:-1 tvg-name="Baby First" tvg-logo="http://ctv.homelinux.net/logos/babyfirst.png" group-title="Portugal",Baby First
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2684.m3u8
+#EXTINF:-1 tvg-name="Tiji" tvg-logo="" group-title="Portugal",Tiji
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/15080.m3u8
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="http://ctv.homelinux.net/logos/babytv.png" group-title="Portugal",Baby TV
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/207.m3u8
+
+#EXTINF:-1 tvg-name="----- Musica -----" tvg-logo="data:image/png;base64,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" group-title="Portugal",----- Musica -----
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/18599.m3u8
+#EXTINF:-1 tvg-name="MTV Portugal" tvg-logo="http://ctv.homelinux.net/logos/mtvportugal.png" group-title="Portugal",MTV Portugal
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/37.m3u8
+#EXTINF:-1 tvg-name="MCM Pop" tvg-logo="http://ctv.homelinux.net/logos/mcmpop.png" group-title="Portugal",MCM Pop
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1135.m3u8
+#EXTINF:-1 tvg-name="VH1" tvg-logo="http://ctv.homelinux.net/logos/vh1.png" group-title="Portugal",VH1
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/49.m3u8
+#EXTINF:-1 tvg-name="VH1 Classic" tvg-logo="http://ctv.homelinux.net/logos/vh1classic.png" group-title="Portugal",VH1 Classic
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/300.m3u8
+#EXTINF:-1 tvg-name="Trace TV" tvg-logo="http://qwertylist.soeu.ws/logos/TRACE%20TV.png" group-title="Portugal",Trace TV
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/50.m3u8
+#EXTINF:-1 tvg-name="C-Music" tvg-logo="http://ctv.homelinux.net/logos/c-music.png" group-title="Portugal",C-Music
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/295.m3u8
+#EXTINF:-1 tvg-name="Afro Music" tvg-logo="http://ctv.homelinux.net/logos/afromusic.png" group-title="Portugal",Afro Music
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/52.m3u8
+#EXTINF:-1 tvg-name="Outdoor HD" tvg-logo="http://ctv.homelinux.net/logos/outdoorhd.png" group-title="Portugal",Outdoor HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/3995.m3u8
+#EXTINF:-1 tvg-name="Sundance" tvg-logo="http://ctv.homelinux.net/logos/sundancehd.png" group-title="Portugal",Sundance
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/589.m3u8
+#EXTINF:-1 tvg-name="Trace Urban HD" tvg-logo="http://ctv.homelinux.net/logos/traceurbanhd.png" group-title="Portugal",Trace Urban HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/3997.m3u8
+#EXTINF:-1 tvg-name="Mezzo" tvg-logo="http://ctv.homelinux.net/logos/mezzo.png" group-title="Portugal",Mezzo
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/587.m3u8
+#EXTINF:-1 tvg-name="----- Informacao Int -----" tvg-logo="data:image/png;base64,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" group-title="Portugal",----- Informacao Int -----
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/18600.m3u8
+#EXTINF:-1 tvg-name="Record News" tvg-logo="http://ctv.homelinux.net/logos/recordnews.png" group-title="Portugal",Record News
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/592.m3u8
+#EXTINF:-1 tvg-name="RTP INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_RTP_Internacional.png" group-title="Portugal",RTP INTERNACIONAL
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/1109.m3u8
+#EXTINF:-1 tvg-name="TPA Internacional" tvg-logo="http://ctv.homelinux.net/logos/tpa.png" group-title="Portugal",TPA Internacional
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/297.m3u8
+#EXTINF:-1 tvg-name="Cubavision Internacional" tvg-logo="http://qwertylist.soeu.ws/logos/cubavision_internacional.png" group-title="Portugal",Cubavision Internacional
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/4002.m3u8
+#EXTINF:-1 tvg-name="TV Galicia" tvg-logo="http://ctv.homelinux.net/logos/galiciatv.png" group-title="Portugal",TV Galicia
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/3985.m3u8
+#EXTINF:-1 tvg-name="TCV Internacional" tvg-logo="http://ctv.homelinux.net/logos/tcv.png" group-title="Portugal",TCV Internacional
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/15081.m3u8
+#EXTINF:-1 tvg-name="----- Internacional -----" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBfiHjPUzHmW5hFE_us6hkD4QpImDHjDrox6eTQsBWvGTciNxIFg" group-title="Portugal",----- Internacional -----
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/18601.m3u8
+#EXTINF:-1 tvg-name="Angelus TV" tvg-logo="http://ctv.homelinux.net/logos/angelustv.png" group-title="Portugal",Angelus TV
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/16881.m3u8
+#EXTINF:-1 tvg-name="Canção Nova" tvg-logo="http://qwertylist.soeu.ws/logos/CANCAO%20NOVA.png" group-title="Portugal",Canção Nova
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-name="Localvisão TV HD" tvg-logo="http://ctv.homelinux.net/logos/localvisao.png" group-title="Portugal",Localvisão TV HD
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/59.m3u8
+#EXTINF:-1 tvg-name="Regiões TV" tvg-logo="http://qwertylist.soeu.ws/logos/REGIOES%20TV.png" group-title="Portugal",Regiões TV
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/3998.m3u8
+#EXTINF:-1 tvg-name="Arroios TV" tvg-logo="" group-title="Portugal",Arroios TV
+http://portal2.digiportal.xyz:8080/live/marcelo/m2ezHeAh0j/2292.m3u8
+#EXTINF:-1 tvg-name="Santuario de Fátima" tvg-logo="http://qwertylist.soeu.ws/logos/SANTUARIO%20FATIMA.png" group-title="Portugal",Santuario de Fátima
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1
 http://62.28.213.14:9981/stream/channelid/1439506767
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1 LOW
