@@ -470,6 +470,491 @@ http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
 
 
 
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-ID="GloboAnhangueraGoias.br" tvg-name="TV ANHANGUERA FULL HD" tvg-logo="http://playhdtv.pw/logs/tvanhaguera-full-hd.jpg" group-title="BRASIL",TV ANHANGUERA FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/834.m3u8
+#EXTINF:-1 tvg-ID="GloboAnhangueraGoias.br" tvg-name="TV ANHAGUERA HD" tvg-logo="http://playhdtv.pw/logs/tvanhaguera-full-hd.jpg" group-title="BRASIL",TV ANHAGUERA HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2194.m3u8
+#EXTINF:-1 tvg-ID="Globosphd.br" tvg-name="GLOBO SP HD" tvg-logo="http://playhdtv.pw/logs/globo-sp-hd.jpg" group-title="BRASIL",GLOBO SP HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/513.m3u8
+#EXTINF:-1 tvg-ID="Globosp.br" tvg-name="GLOBO SP" tvg-logo="http://playhdtv.pw/logs/globo-sp.jpg" group-title="BRASIL",GLOBO SP
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1065.m3u8
+#EXTINF:-1 tvg-ID="Globorjhd.br" tvg-name="GLOBO RJ HD" tvg-logo="http://playhdtv.pw/logs/globo-RIO-HD.jpg" group-title="BRASIL",GLOBO RJ HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/467.m3u8
+#EXTINF:-1 tvg-ID="Globorj.br" tvg-name="GLOBO RJ" tvg-logo="http://playhdtv.pw/logs/globo-RIO.jpg" group-title="BRASIL",GLOBO RJ
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1506.m3u8
+#EXTINF:-1 tvg-ID="Globominas.br" tvg-name="GLOBO MG HD" tvg-logo="http://playhdtv.pw/logs/globo-mg-hd.jpg" group-title="BRASIL",GLOBO MG HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/466.m3u8
+#EXTINF:-1 tvg-ID="GloboAnhangueraGoias.br" tvg-name="GLOBO VITORIA HD" tvg-logo="http://playhdtv.pw/logs/globo-VITORIA-FULL-HD.jpg" group-title="BRASIL",GLOBO VITORIA HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/152.m3u8
+#EXTINF:-1 tvg-ID="GloboBrasiliahd.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://playhdtv.pw/logs/globo-brasilia-hd.jpg" group-title="BRASIL",GLOBO BRASILIA HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1687.m3u8
+#EXTINF:-1 tvg-ID="GloboBrasilia.br" tvg-name="GLOBO BRASILIA" tvg-logo="http://playhdtv.pw/logs/globo-brasilia.jpg" group-title="BRASIL",GLOBO BRASILIA
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1532.m3u8
+#EXTINF:-1 tvg-ID="GLOBO NORDESTE HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://playhdtv.pw/logs/globo-nordeste-hd.jpg" group-title="BRASIL",GLOBO NORDESTE HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/817.m3u8
+#EXTINF:-1 tvg-ID="GLOBO NORDESTE HD" tvg-name="GLOBO PARANA HD" tvg-logo="https://pt.wikipedia.org/wiki/RPC_(rede_de_televis%C3%A3o)" group-title="BRASIL",GLOBO PARANA HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2186.m3u8
+#EXTINF:-1 tvg-ID="GloboRedeBahia.br" tvg-name="TV BAHIA HD" tvg-logo="http://playhdtv.pw/logs/tv-bahia.jpg" group-title="BRASIL",TV BAHIA HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/983.m3u8
+#EXTINF:-1 tvg-ID="GloboPortoAlegre.br" tvg-name="RBS TV" tvg-logo="http://playhdtv.pw/logs/globo-rbstv.jpg" group-title="BRASIL",RBS TV
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1492.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="http://playhdtv.pw/logs/globo-internacional-hd.jpg" group-title="BRASIL",GLOBO INTERNACIONAL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1789.m3u8
+#EXTINF:-1 tvg-ID="GloboPremium.pt" tvg-name="GLOBO INTERNACIONAL FULL HD" tvg-logo="http://playhdtv.pw/logs/globo-internacional-fullhd.jpg" group-title="BRASIL",GLOBO INTERNACIONAL FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/153.m3u8
+#EXTINF:-1 tvg-ID="Rederecordhd.br" tvg-name="REDE RECORD FULL HD" tvg-logo="http://playhdtv.pw/logs/record-hd.jpg" group-title="BRASIL",REDE RECORD FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/478.m3u8
+#EXTINF:-1 tvg-ID="Rederecord2.br" tvg-name="REDE RECORD HD" tvg-logo="http://playhdtv.pw/logs/record-hd.jpg" group-title="BRASIL",REDE RECORD HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/937.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD USA" tvg-logo="http://playhdtv.pw/logs/record.jpg" group-title="CANAIS USA",REDE RECORD USA
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/912.m3u8
+#EXTINF:-1 tvg-ID="Rederecordhd.br" tvg-name="REDE RECORD" tvg-logo="http://playhdtv.pw/logs/record.jpg" group-title="BRASIL",REDE RECORD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/679.m3u8
+#EXTINF:-1 tvg-ID="Sbthd.br" tvg-name="SBT HD" tvg-logo="http://playhdtv.pw/logs/sbt-hd.jpg" group-title="BRASIL",SBT HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/411.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SBT" tvg-logo="http://playhdtv.pw/logs/sbt.jpg" group-title="BRASIL",SBT
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/678.m3u8
+#EXTINF:-1 tvg-ID="Bandhd.br" tvg-name="BAND HD" tvg-logo="http://playhdtv.pw/logs/band-hd.jpg" group-title="BRASIL",BAND HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/523.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BAND" tvg-logo="http://playhdtv.pw/logs/band-hd.jpg" group-title="BRASIL",BAND
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/959.m3u8
+#EXTINF:-1 tvg-ID="Redetvhd.br" tvg-name="REDE TV HD" tvg-logo="http://playhdtv.pw/logs/redetv-hd.jpg" group-title="BRASIL",REDE TV HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/414.m3u8
+#EXTINF:-1 tvg-ID="Tvcultura.br" tvg-name="TV CULTURA" tvg-logo="http://playhdtv.pw/logs/tvcultura.jpg" group-title="BRASIL",TV CULTURA
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/681.m3u8
+#EXTINF:-1 tvg-ID="Futura.br" tvg-name="FUTURA" tvg-logo="http://playhdtv.pw/logs/futura.jpg" group-title="BRASIL",FUTURA
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1577.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Rede Vida" tvg-logo="https://yt3.ggpht.com/--toHuFYI9x0/AAAAAAAAAAI/AAAAAAAAAAA/uAe17RFWFCo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="BRASIL",Rede Vida
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1578.m3u8
+#EXTINF:-1 tvg-ID="Canalrural.br" tvg-name="CANAL RURAL" tvg-logo="http://playhdtv.pw/logs/Canal-rural.png" group-title="BRASIL",CANAL RURAL
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/761.m3u8
+#EXTINF:-1 tvg-ID="Redegospel.br" tvg-name="REDE GOSPEL" tvg-logo="http://playhdtv.pw/logs/rede-gospel.png" group-title="BRASIL",REDE GOSPEL
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1567.m3u8
+#EXTINF:-1 tvg-ID="CancaoNova.br" tvg-name="CANÇAO NOVA HD" tvg-logo="http://playhdtv.pw/logs/cancao-nova-hd.jpg" group-title="BRASIL",CANÇAO NOVA HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1360.m3u8
+#EXTINF:-1 tvg-ID="Tvaparecida.br" tvg-name="TV APARECIDA" tvg-logo="http://playhdtv.pw/logs/redeAparecida.png" group-title="BRASIL",TV APARECIDA
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/790.m3u8
+#EXTINF:-1 tvg-ID="TVGazeta.br" tvg-name="TV GAZETA HD" tvg-logo="http://www.playhdtv.pw/img/gazeta.jpg" group-title="BRASIL",TV GAZETA HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/789.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FISH TV" tvg-logo="https://lh5.ggpht.com/XnGz5jsT_iy1nyrnnDteRK0v0XttfgJsHMZRDq54nqQbEiUn56f9a6yYKSBmjAhnwlfs=w300" group-title="BRASIL",FISH TV
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/854.m3u8
+#EXTINF:-1 tvg-ID="Nbr.br" tvg-name="NBR" tvg-logo="http://playhdtv.pw/logs/nbr-hd.jpg" group-title="BRASIL",NBR
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/763.m3u8
+#EXTINF:-1 tvg-ID="Redebrasil.br" tvg-name="REDE BRASIL" tvg-logo="http://playhdtv.pw/logs/rede-brasil-hd.jpg" group-title="BRASIL",REDE BRASIL
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/788.m3u8
+#EXTINF:-1 tvg-ID="Tvnovotempo.br" tvg-name="TV NOVO TEMPO" tvg-logo="http://1.bp.blogspot.com/-h9_CkH7QJXI/VEAb0dcWxWI/AAAAAAAAAuM/ylmZcAxl9lg/s320/novotempo.jpg" group-title="BRASIL",TV NOVO TEMPO
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/734.m3u8
+#EXTINF:-1 tvg-ID="Multishowhd.br" tvg-name="MULTISHOW HD" tvg-logo="http://playhdtv.pw/logs/multishow-hd.jpg" group-title="BRASIL",MULTISHOW HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/476.m3u8
+#EXTINF:-1 tvg-ID="Multishow.br" tvg-name="MULTISHOW" tvg-logo="http://playhdtv.pw/logs/multishow.jpg" group-title="BRASIL",MULTISHOW
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/174.m3u8
+#EXTINF:-1 tvg-ID="Comedycentralhd.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://playhdtv.pw/logs/comedycentral-hd.jpg" group-title="BRASIL",COMEDY CENTRAL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1792.m3u8
+#EXTINF:-1 tvg-ID="Comedycentral.br" tvg-name="COMEDY CENTRAL" tvg-logo="http://playhdtv.pw/logs/comedycentral.jpg" group-title="BRASIL",COMEDY CENTRAL
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/849.m3u8
+#EXTINF:-1 tvg-ID="Offhd.br" tvg-name="OFF HD" tvg-logo="http://playhdtv.pw/logs/canaloff-hd.jpg" group-title="BRASIL",OFF HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/183.m3u8
+#EXTINF:-1 tvg-ID="Vivahd.br" tvg-name="VIVA HD" tvg-logo="http://playhdtv.pw/logs/viva-hd.jpg" group-title="BRASIL",VIVA HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/491.m3u8
+#EXTINF:-1 tvg-ID="Viva.br" tvg-name="VIVA" tvg-logo="http://playhdtv.pw/logs/viva.jpg" group-title="BRASIL",VIVA
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/243.m3u8
+#EXTINF:-1 tvg-ID="Bishd.br" tvg-name="BIS HD" tvg-logo="http://playhdtv.pw/logs/bis-hd.jpg" group-title="BRASIL",BIS HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/102.m3u8
+#EXTINF:-1 tvg-ID="VH1HD.br" tvg-name="VH1 HD" tvg-logo="http://playhdtv.pw/logs/vh1--hd.jpg" group-title="BRASIL",VH1 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/676.m3u8
+#EXTINF:-1 tvg-ID="VH1MegaH.m3u8.br" tvg-name="VH1 MEGA H.m3u8" tvg-logo="http://playhdtv.pw/logs/vh1-megah.m3u8.jpg" group-title="BRASIL",VH1 MEGA H.m3u8
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/735.m3u8
+#EXTINF:-1 tvg-ID="Trutvhd.br" tvg-name="TruTV" tvg-logo="http://playhdtv.pw/logs/trutv.jpg" group-title="BRASIL",TruTV
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1071.m3u8
+#EXTINF:-1 tvg-ID="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://portfoliodemidia.meioemensagem.com.br/portfolio/midia/conteudo-img/img2849.png" group-title="BRASIL",WOOHOO HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1361.m3u8
+#EXTINF:-1 tvg-ID="Foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://playhdtv.pw/logs/foodnetwor-hd.jpg" group-title="BRASIL",FOOD NETWORK HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1542.m3u8
+#EXTINF:-1 tvg-ID="Foodnetwork.br" tvg-name="FOOD NETWORK" tvg-logo="http://playhdtv.pw/logs/foodnetwor.jpg" group-title="BRASIL",FOOD NETWORK
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1531.m3u8
+#EXTINF:-1 tvg-ID="Playtv.br" tvg-name="Play TV" tvg-logo="http://www.playhdtv.pw/img/playtv.jpg" group-title="BRASIL",Play TV
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1025.m3u8
+#EXTINF:-1 tvg-ID="MUSIC BOX BRASIL" tvg-name="MUSIC BOX BRASIL" tvg-logo="http://playhdtv.pw/logs/music-box-brasil.jpg" group-title="BRASIL",MUSIC BOX BRASIL
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/762.m3u8
+#EXTINF:-1 tvg-ID="PRIME BOX BRASIL" tvg-name="PRIME BOX BRASIL" tvg-logo="http://playhdtv.pw/logs/prime-box-brasil.jpg" group-title="BRASIL",PRIME BOX BRASIL
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/764.m3u8
+#EXTINF:-1 tvg-ID="+globosathd.br" tvg-name="GLOBOSAT HD" tvg-logo="http://playhdtv.pw/logs/globosat-hd.jpg" group-title="BRASIL",GLOBOSAT HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/93.m3u8
+#EXTINF:-1 tvg-ID="+globosat.br" tvg-name="GLOBOSAT" tvg-logo="http://playhdtv.pw/logs/globosa.jpg" group-title="BRASIL",GLOBOSAT
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1566.m3u8
+#EXTINF:-1 tvg-ID="Gnthd.br" tvg-name="GNT HD" tvg-logo="http://playhdtv.pw/logs/gnt-hd.jpg" group-title="BRASIL",GNT HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/157.m3u8
+#EXTINF:-1 tvg-ID="Gnt.br" tvg-name="GNT" tvg-logo="http://playhdtv.pw/logs/gnt.jpg" group-title="BRASIL",GNT
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/829.m3u8
+#EXTINF:-1 tvg-ID="Tlchd.br" tvg-name="TLC HD" tvg-logo="http://playhdtv.pw/logs/tlc-hd.jpg" group-title="BRASIL",TLC HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/644.m3u8
+#EXTINF:-1 tvg-ID="Tlchd.br" tvg-name="TLC" tvg-logo="http://playhdtv.pw/logs/tlc.jpg" group-title="BRASIL",TLC
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/825.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="E! HD" tvg-logo="https://s32.postimg.org/ioprt4kyt/canal_E.png" group-title="",E! HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1635.m3u8
+#EXTINF:-1 tvg-ID="E.br" tvg-name="E!" tvg-logo="http://playhdtv.pw/logs/E!-.jpg" group-title="BRASIL",E!
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/632.m3u8
+#EXTINF:-1 tvg-ID="Mtvhd.br" tvg-name="MTV HD" tvg-logo="http://playhdtv.pw/logs/mtv-hd.jpg" group-title="BRASIL",MTV HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/620.m3u8
+#EXTINF:-1 tvg-ID="Mtv.br" tvg-name="MTV" tvg-logo="http://playhdtv.pw/logs/mtv.jpg" group-title="BRASIL",MTV
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/891.m3u8
+#EXTINF:-1 tvg-ID="Syfyhd.br" tvg-name="SYFY HD" tvg-logo="http://playhdtv.pw/logs/syfy-hd.jpg" group-title="BRASIL",SYFY HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/480.m3u8
+#EXTINF:-1 tvg-ID="Tbs.br" tvg-name="TBS" tvg-logo="http://playhdtv.pw/logs/tbs.jpg" group-title="BRASIL",TBS
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/683.m3u8
+#EXTINF:-1 tvg-ID="iSat.br" tvg-name="I-SAT" tvg-logo="http://www.playhdtv.pw/img/isat.png" group-title="BRASIL",I-SAT
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/727.m3u8
+#EXTINF:-1 tvg-ID="Megapixhd.br" tvg-name="MEGAPIX FULL HD" tvg-logo="http://playhdtv.pw/logs/megapix-full-hd.jpg" group-title="BRASIL",MEGAPIX FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2100.m3u8
+#EXTINF:-1 tvg-ID="Megapixhd.br" tvg-name="MEGAPIX HD" tvg-logo="http://playhdtv.pw/logs/megapix-full-hd.jpg" group-title="BRASIL",MEGAPIX HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/475.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MEGAPIX" tvg-logo="http://playhdtv.pw/logs/megapix.jpg" group-title="BRASIL",MEGAPIX
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1026.m3u8
+#EXTINF:-1 tvg-ID="Maxhd.br" tvg-name="MAX HD" tvg-logo="http://playhdtv.pw/logs/max-hd.jpg" group-title="BRASIL",MAX HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/501.m3u8
+#EXTINF:-1 tvg-ID="Cinemaxhd.br" tvg-name="CINEMAX HD" tvg-logo="http://playhdtv.pw/logs/cinemax-hd.jpg" group-title="BRASIL",CINEMAX HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/450.m3u8
+#EXTINF:-1 tvg-ID="Cinemax.br" tvg-name="CINEMAX" tvg-logo="http://playhdtv.pw/logs/cinemax.jpg" group-title="BRASIL",CINEMAX
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1044.m3u8
+#EXTINF:-1 tvg-ID="Spacehd.br" tvg-name="SPACE HD" tvg-logo="http://playhdtv.pw/logs/space--hd.jpg" group-title="BRASIL",SPACE HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/479.m3u8
+#EXTINF:-1 tvg-ID="Space.br" tvg-name="SPACE" tvg-logo="http://playhdtv.pw/logs/space--.jpg" group-title="BRASIL",SPACE
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1042.m3u8
+#EXTINF:-1 tvg-ID="Tnthd.br" tvg-name="TNT HD" tvg-logo="http://playhdtv.pw/logs/tnt-hd.jpg" group-title="BRASIL",TNT HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/482.m3u8
+#EXTINF:-1 tvg-ID="Tnt.br" tvg-name="TNT" tvg-logo="http://playhdtv.pw/logs/tnt.jpg" group-title="BRASIL",TNT
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1073.m3u8
+#EXTINF:-1 tvg-ID="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://playhdtv.pw/logs/paramount-hd.jpg" group-title="BRASIL",PARAMOUNT CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/709.m3u8
+#EXTINF:-1 tvg-ID="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://playhdtv.pw/logs/studio-universal-hd.jpg" group-title="BRASIL",STUDIO UNIVERSAL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/720.m3u8
+#EXTINF:-1 tvg-ID="Canalbrasilhd.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://playhdtv.pw/logs/canal-brasil.png" group-title="BRASIL",CANAL BRASIL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/708.m3u8
+#EXTINF:-1 tvg-ID="Tcpremiumhd2.br" tvg-name="TELECINE PREMIUM FULL HD" tvg-logo="http://playhdtv.pw/logs/tc-premium-full-hd.jpg" group-title="CANAIS FULL HD",TELECINE PREMIUM FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2092.m3u8
+#EXTINF:-1 tvg-ID="Tcpremiumhd.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://playhdtv.pw/logs/tc-premium-hd.jpg" group-title="BRASIL",TELECINE PREMIUM HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/487.m3u8
+#EXTINF:-1 tvg-ID="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="http://playhdtv.pw/logs/tc-premium.jpg" group-title="BRASIL",TELECINE PREMIUM
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1049.m3u8
+#EXTINF:-1 tvg-ID="Tcactionhd2.br" tvg-name="TELECINE ACTION FULL HD" tvg-logo="http://playhdtv.pw/logs/tc-action-full-hd.jpg" group-title="BRASIL",TELECINE ACTION FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2099.m3u8
+#EXTINF:-1 tvg-ID="Tcactionhd.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://playhdtv.pw/logs/tc-action-hd.jpg" group-title="BRASIL",TELECINE ACTION HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/483.m3u8
+#EXTINF:-1 tvg-ID="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="http://playhdtv.pw/logs/tc-action.jpg" group-title="BRASIL",TELECINE ACTION
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1050.m3u8
+#EXTINF:-1 tvg-ID="Tctouchhd2.br" tvg-name="TELECINE TOUCH FULL HD" tvg-logo="http://playhdtv.pw/logs/tc-touch-full-hd.jpg" group-title="BRASIL",TELECINE TOUCH FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2095.m3u8
+#EXTINF:-1 tvg-ID="Tctouchhd.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://playhdtv.pw/logs/tc-touch-hd.jpg" group-title="BRASIL",TELECINE TOUCH HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/488.m3u8
+#EXTINF:-1 tvg-ID="Tctouch.br" tvg-name="TELECINE TOUCH" tvg-logo="http://playhdtv.pw/logs/tc-touch.jpg" group-title="BRASIL",TELECINE TOUCH
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1057.m3u8
+#EXTINF:-1 tvg-ID="Tcpipocahd2.br" tvg-name="TELECINE PIPOCA FULL HD" tvg-logo="http://playhdtv.pw/logs/tc-pipoca-full-hd.jpg" group-title="BRASIL",TELECINE PIPOCA FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2097.m3u8
+#EXTINF:-1 tvg-ID="Tcpipocahd.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://playhdtv.pw/logs/tc-pipoca-hd.jpg" group-title="BRASIL",TELECINE PIPOCA HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/486.m3u8
+#EXTINF:-1 tvg-ID="Tcpipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="http://playhdtv.pw/logs/tc-pipoca.jpg" group-title="BRASIL",TELECINE PIPOCA
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/687.m3u8
+#EXTINF:-1 tvg-ID="Tcfunhd2.br" tvg-name="TELECINE FUN FULL HD" tvg-logo="http://playhdtv.pw/logs/tc-fun-full-hd.jpg" group-title="BRASIL",TELECINE FUN FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2096.m3u8
+#EXTINF:-1 tvg-ID="Tcfunhd.br" tvg-name="TELECINE FUN HD" tvg-logo="http://playhdtv.pw/logs/tc-fun-hd.jpg" group-title="BRASIL",TELECINE FUN HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/485.m3u8
+#EXTINF:-1 tvg-ID="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="http://playhdtv.pw/logs/tc-fun.jpg" group-title="BRASIL",TELECINE FUN
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1047.m3u8
+#EXTINF:-1 tvg-ID="Tcculthd.br" tvg-name="TELECINE CULT FULL HD" tvg-logo="http://playhdtv.pw/logs/tc-cult-full-hd.jpg" group-title="BRASIL",TELECINE CULT FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2098.m3u8
+#EXTINF:-1 tvg-ID="Tcculthd.br" tvg-name="TELECINE CULT HD" tvg-logo="http://playhdtv.pw/logs/tc-cult-hd.jpg" group-title="BRASIL",TELECINE CULT HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/484.m3u8
+#EXTINF:-1 tvg-ID="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="http://playhdtv.pw/logs/tc-cult.jpg" group-title="BRASIL",TELECINE CULT
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/685.m3u8
+#EXTINF:-1 tvg-ID="Hbohd.br" tvg-name="HBO HD" tvg-logo="http://playhdtv.pw/logs/hbo-hd.jpg" group-title="BRASIL",HBO HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/473.m3u8
+#EXTINF:-1 tvg-ID="Hbo.br" tvg-name="HBO" tvg-logo="http://playhdtv.pw/logs/hbo.jpg" group-title="BRASIL",HBO
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1031.m3u8
+#EXTINF:-1 tvg-ID="Hbo2hd.br" tvg-name="HBO 2 HD" tvg-logo="http://playhdtv.pw/logs/hbo-2-hd.jpg" group-title="BRASIL",HBO 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/690.m3u8
+#EXTINF:-1 tvg-ID="Hbo2.br" tvg-name="HBO 2" tvg-logo="http://playhdtv.pw/logs/hbo-2.jpg" group-title="BRASIL",HBO 2
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1030.m3u8
+#EXTINF:-1 tvg-ID="Hboplushd.br" tvg-name="HBO PLUS HD" tvg-logo="http://playhdtv.pw/logs/hbo-plus-hd.jpg" group-title="BRASIL",HBO PLUS HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/497.m3u8
+#EXTINF:-1 tvg-ID="Hboplus.br" tvg-name="HBO PLUS" tvg-logo="http://playhdtv.pw/logs/hbo-plus.jpg" group-title="BRASIL",HBO PLUS
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1032.m3u8
+#EXTINF:-1 tvg-ID="Hbofamilyhd.br" tvg-name="HBO FAMILY HD" tvg-logo="http://playhdtv.pw/logs/hbo-famly-hd.jpg" group-title="BRASIL",HBO FAMILY HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/472.m3u8
+#EXTINF:-1 tvg-ID="Hbofamily.br" tvg-name="HBO FAMILY" tvg-logo="http://playhdtv.pw/logs/hbo-famly.jpg" group-title="BRASIL",HBO FAMILY
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/691.m3u8
+#EXTINF:-1 tvg-ID="Hbosighd.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://playhdtv.pw/logs/hbo-signature-hd.jpg" group-title="BRASIL",HBO SIGNATURE HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/474.m3u8
+#EXTINF:-1 tvg-ID="Hbosignature.br" tvg-name="HBO SIGNATURE" tvg-logo="http://playhdtv.pw/logs/hbo-signature.jpg" group-title="BRASIL",HBO SIGNATURE
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/694.m3u8
+#EXTINF:-1 tvg-ID="Max.br" tvg-name="MAX" tvg-logo="http://playhdtv.pw/logs/max.jpg" group-title="BRASIL",MAX
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/728.m3u8
+#EXTINF:-1 tvg-ID="Maxprimehd.br" tvg-name="MAX PRIME HD" tvg-logo="http://playhdtv.pw/logs/max-prime-hd.jpg" group-title="BRASIL",MAX PRIME HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/502.m3u8
+#EXTINF:-1 tvg-ID="Maxprime.br" tvg-name="MAX PRIME" tvg-logo="http://playhdtv.pw/logs/max-prime.jpg" group-title="BRASIL",MAX PRIME
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/729.m3u8
+#EXTINF:-1 tvg-ID="Maxuphd.br" tvg-name="MAX UP HD" tvg-logo="http://playhdtv.pw/logs/max-up-hd.jpg" group-title="BRASIL",MAX UP HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/503.m3u8
+#EXTINF:-1 tvg-ID="Maxup.br" tvg-name="MAX UP" tvg-logo="http://playhdtv.pw/logs/max-up.jpg" group-title="BRASIL",MAX UP
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/730.m3u8
+#EXTINF:-1 tvg-ID="Tcm.br" tvg-name="TCM" tvg-logo="http://playhdtv.pw/logs/tcm.jpg" group-title="BRASIL",TCM
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/682.m3u8
+#EXTINF:-1 tvg-ID="AMC.pt" tvg-name="AMC HD" tvg-logo="http://playhdtv.pw/logs/amc-hd.jpg" group-title="BRASIL",AMC HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1812.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="http://playhdtv.pw/logs/amc.jpg" group-title="BRASIL",AMC
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1813.m3u8
+#EXTINF:-1 tvg-ID="Axnhd.br" tvg-name="AXN HD" tvg-logo="http://playhdtv.pw/logs/axn-hd.jpg" group-title="BRASIL",AXN HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/447.m3u8
+#EXTINF:-1 tvg-ID="Axn.br" tvg-name="AXN" tvg-logo="http://playhdtv.pw/logs/axn.jpg" group-title="BRASIL",AXN
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1028.m3u8
+#EXTINF:-1 tvg-ID="Aehd.br" tvg-name="A&E HD" tvg-logo="http://playhdtv.pw/logs/A&E-hd.jpg" group-title="BRASIL",A&E HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/745.m3u8
+#EXTINF:-1 tvg-ID="Ae.br" tvg-name="A&E" tvg-logo="http://playhdtv.pw/logs/A&E.jpg" group-title="BRASIL",A&E
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1529.m3u8
+#EXTINF:-1 tvg-ID="Sonyhd.br" tvg-name="CANAL SONY HD" tvg-logo="http://playhdtv.pw/logs/sonny-canal-HD.jpg" group-title="BRASIL",CANAL SONY HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/507.m3u8
+#EXTINF:-1 tvg-ID="Sony.br" tvg-name="CANAL SONY" tvg-logo="http://playhdtv.pw/logs/sonny-canal.jpg" group-title="BRASIL",CANAL SONY
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/719.m3u8
+#EXTINF:-1 tvg-ID="T.m3u8eriehd.br" tvg-name="TNT SERIES HD" tvg-logo="http://playhdtv.pw/logs/tnt-series-hd.jpg" group-title="BRASIL",TNT SERIES HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1105.m3u8
+#EXTINF:-1 tvg-ID="T.m3u8erie.br" tvg-name="TNT SERIES" tvg-logo="http://playhdtv.pw/logs/tnt-series.jpg" group-title="BRASIL",TNT SERIES
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1046.m3u8
+#EXTINF:-1 tvg-ID="Warnerhd.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://playhdtv.pw/logs/wanerchannel-hd.jpg" group-title="BRASIL",WARNER CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/500.m3u8
+#EXTINF:-1 tvg-ID="Warnerchannel.br" tvg-name="WARNER CHANNEL" tvg-logo="http://playhdtv.pw/logs/wanerchannel.jpg" group-title="BRASIL",WARNER CHANNEL
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1072.m3u8
+#EXTINF:-1 tvg-ID="Foxhd2.br" tvg-name="FOX FULL HD" tvg-logo="http://playhdtv.pw/logs/fox-full-hd.jpg" group-title="BRASIL",FOX FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2152.m3u8
+#EXTINF:-1 tvg-ID="Foxhd.br" tvg-name="FOX HD" tvg-logo="http://playhdtv.pw/logs/fox-hd.jpg" group-title="BRASIL",FOX HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/972.m3u8
+#EXTINF:-1 tvg-ID="Fox.br" tvg-name="FOX" tvg-logo="http://playhdtv.pw/logs/fox.jpg" group-title="BRASIL",FOX
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1110.m3u8
+#EXTINF:-1 tvg-ID="Fxhd.br" tvg-name="FX HD" tvg-logo="http://playhdtv.pw/logs/fx-hd.jpg" group-title="BRASIL",FX HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/462.m3u8
+#EXTINF:-1 tvg-ID="Fx.br" tvg-name="FX" tvg-logo="http://playhdtv.pw/logs/fx.jpg" group-title="BRASIL",FX
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1043.m3u8
+#EXTINF:-1 tvg-ID="Foxlifehd.br" tvg-name="FOX LIFE HD" tvg-logo="http://playhdtv.pw/logs/foxlife-hd.jpg" group-title="BRASIL",FOX LIFE HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/463.m3u8
+#EXTINF:-1 tvg-ID="Universalhd.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://playhdtv.pw/logs/universal-channel-hd.jpg" group-title="BRASIL",UNIVERSAL CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/700.m3u8
+#EXTINF:-1 tvg-ID="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://playhdtv.pw/logs/universal-channel.jpg" group-title="BRASIL",UNIVERSAL CHANNEL
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/929.m3u8
+#EXTINF:-1 tvg-ID="Lifetimehd.br" tvg-name="LIFETIME HD" tvg-logo="http://playhdtv.pw/logs/life-time-hd.jpg" group-title="BRASIL",LIFETIME HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/725.m3u8
+#EXTINF:-1 tvg-ID="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="BRASIL",FOX PREMIUM 1 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/978.m3u8
+#EXTINF:-1 tvg-ID="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://cdn.foxplaybrasil.com.br/sites/foxplay-br/files/img/fox-action.png" group-title="BRASIL",FOX PREMIUM 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1310.m3u8
+#EXTINF:-1 tvg-ID="Cartoonhd.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://playhdtv.pw/logs/cartoonnetwork-hd.jpg" group-title="BRASIL",CARTOON NETWORK HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/449.m3u8
+#EXTINF:-1 tvg-ID="Cartoonnetwork.br" tvg-name="CARTOON NETWORK" tvg-logo="http://playhdtv.pw/logs/cartoonnetwork.jpg" group-title="BRASIL",CARTOON NETWORK
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/587.m3u8
+#EXTINF:-1 tvg-ID="Nickelodeonhd.br" tvg-name="NICKELODEN HD" tvg-logo="http://playhdtv.pw/logs/nickelodeon-hd.jpg" group-title="BRASIL",NICKELODEN HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1774.m3u8
+#EXTINF:-1 tvg-ID="Nickelodeon.br" tvg-name="NICKLODEON" tvg-logo="http://playhdtv.pw/logs/nickelodeon.jpg" group-title="BRASIL",NICKLODEON
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/477.m3u8
+#EXTINF:-1 tvg-ID="NickJr.br" tvg-name="NICK JR" tvg-logo="http://playhdtv.pw/logs/nickjr.jpg" group-title="BRASIL",NICK JR
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/506.m3u8
+#EXTINF:-1 tvg-ID="Disneychannelhd.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://playhdtv.pw/logs/disney-channel-hd.jpg" group-title="BRASIL",DISNEY CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/494.m3u8
+#EXTINF:-1 tvg-ID="Disneyxd.br" tvg-name="DISNEY XD" tvg-logo="http://playhdtv.pw/logs/disneyxd.jpg" group-title="BRASIL",DISNEY XD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/460.m3u8
+#EXTINF:-1 tvg-ID="Disneyjr.br" tvg-name="DISNEY JUNIOR" tvg-logo="http://playhdtv.pw/logs/disneyjr.jpg" group-title="BRASIL",DISNEY JUNIOR
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/459.m3u8
+#EXTINF:-1 tvg-ID="Discoverykidshd.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://playhdtv.pw/logs/discoverykids-hd.jpg" group-title="BRASIL",DISCOVERY KIDS HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/455.m3u8
+#EXTINF:-1 tvg-ID="Discoverykids.br" tvg-name="DISCOVERY KIDS" tvg-logo="http://playhdtv.pw/logs/discoverykids.jpg" group-title="BRASIL",DISCOVERY KIDS
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1058.m3u8
+#EXTINF:-1 tvg-ID="Boomerang.br" tvg-name="BOOMERANG" tvg-logo="http://playhdtv.pw/logs/boomerang.jpg" group-title="BRASIL",BOOMERANG
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/448.m3u8
+#EXTINF:-1 tvg-ID="Tooncast.br" tvg-name="TOONCAST" tvg-logo="http://playhdtv.pw/logs/tooncoscat.jpg" group-title="BRASIL",TOONCAST
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/702.m3u8
+#EXTINF:-1 tvg-ID="Gloobhd.br" tvg-name="GLOOB HD" tvg-logo="http://playhdtv.pw/logs/gloob-hd.jpg" group-title="BRASIL",GLOOB HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/156.m3u8
+#EXTINF:-1 tvg-ID="Gloob.br" tvg-name="GLOOB" tvg-logo="http://playhdtv.pw/logs/gloob.jpg" group-title="BRASIL",GLOOB
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/823.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV RATIMBOOM" tvg-logo="http://playhdtv.pw/logs/tv-ratibom-sd.jpg" group-title="BRASIL",TV RATIMBOOM
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1796.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO KIDS HD" tvg-logo="http://playhdtv.pw/logs/natgeokids-hd.jpg" group-title="BRASIL",NATGEO KIDS HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1773.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="OS SIMPSONS" tvg-logo="https://static.vix.com/pt/sites/default/files/styles/large/public/bbr/9-errores-de-los-simpson-que-nunca-habias-notado-7.jpg?itok=A9EgffUL" group-title="BRASIL",OS SIMPSONS
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2045.m3u8
+#EXTINF:-1 tvg-ID="Bandspo.m3u8hd.br" tvg-name="BAND SPO.m3u8 HD" tvg-logo="http://playhdtv.pw/logs/bandspo.m3u8-hd.jpg" group-title="BRASIL",BAND SPO.m3u8 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/515.m3u8
+#EXTINF:-1 tvg-ID="Bandspo.m3u8.br" tvg-name="BAND SPO.m3u8" tvg-logo="http://playhdtv.pw/logs/bandspo.m3u8.jpg" group-title="BRASIL",BAND SPO.m3u8
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/717.m3u8
+#EXTINF:-1 tvg-ID="Sportvhd2.br" tvg-name="SPORTV FULL HD" tvg-logo="http://playhdtv.pw/logs/SPORTTV-FULL-HD.jpg" group-title="BRASIL",SPORTV FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2091.m3u8
+#EXTINF:-1 tvg-ID="Sportvhd.br" tvg-name="SPORTV HD" tvg-logo="http://playhdtv.pw/logs/sportvhd.jpg" group-title="BRASIL",SPORTV HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2090.m3u8
+#EXTINF:-1 tvg-ID="Sportv.br" tvg-name="SPORTV" tvg-logo="http://playhdtv.pw/logs/sportv.jpg" group-title="BRASIL",SPORTV
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/212.m3u8
+#EXTINF:-1 tvg-ID="Sportv2hd2.br" tvg-name="SPORTV 2 FULL HD" tvg-logo="http://playhdtv.pw/logs/SPORTTV2-FULL-HD.jpg" group-title="BRASIL",SPORTV 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2103.m3u8
+#EXTINF:-1 tvg-ID="Sportv2hd.br" tvg-name="SPORTV 2 HD" tvg-logo="http://playhdtv.pw/logs/sportv-2-hd.jpg" group-title="BRASIL",SPORTV 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/508.m3u8
+#EXTINF:-1 tvg-ID="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="http://playhdtv.pw/logs/sportv-2.jpg" group-title="BRASIL",SPORTV 2
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/213.m3u8
+#EXTINF:-1 tvg-ID="Sportv3hd.br" tvg-name="SPORTV 3 FULL HD" tvg-logo="http://playhdtv.pw/logs/SPORTTV3-FULL-HD.jpg" group-title="BRASIL",SPORTV 3 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2157.m3u8
+#EXTINF:-1 tvg-ID="Sportv3hd.br" tvg-name="SPORTV 3 HD" tvg-logo="http://playhdtv.pw/logs/sportv-3-hd.jpg" group-title="BRASIL",SPORTV 3 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/511.m3u8
+#EXTINF:-1 tvg-ID="Sportv3.br" tvg-name="SPORTV 3" tvg-logo="http://playhdtv.pw/logs/sportv-3.jpg" group-title="BRASIL",SPORTV 3
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/214.m3u8
+#EXTINF:-1 tvg-ID="Foxspo.m3u8hd2.br" tvg-name="FOX SPO.m3u8 FULL HD" tvg-logo="http://playhdtv.pw/logs/foxspo.m3u8-full-hd.jpg" group-title="BRASIL",FOX SPO.m3u8 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2101.m3u8
+#EXTINF:-1 tvg-ID="Foxspo.m3u8hd.br" tvg-name="FOX SPO.m3u8 HD" tvg-logo="http://playhdtv.pw/logs/foxspo.m3u8-hd.jpg" group-title="BRASIL",FOX SPO.m3u8 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/464.m3u8
+#EXTINF:-1 tvg-ID="Foxspo.m3u8.br" tvg-name="FOX SPO.m3u8" tvg-logo="http://playhdtv.pw/logs/foxspo.m3u8.jpg" group-title="BRASIL",FOX SPO.m3u8
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/695.m3u8
+#EXTINF:-1 tvg-ID="Foxspo.m3u82hd.br" tvg-name="FOX SPO.m3u8 2 FULL HD" tvg-logo="http://playhdtv.pw/logs/foxspo.m3u82-full-hd.jpg" group-title="BRASIL",FOX SPO.m3u8 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2102.m3u8
+#EXTINF:-1 tvg-ID="Foxspo.m3u8hd2.br" tvg-name="FOX SPO.m3u8 2 HD" tvg-logo="http://playhdtv.pw/logs/foxspo.m3u82-hd.jpg" group-title="BRASIL",FOX SPO.m3u8 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/465.m3u8
+#EXTINF:-1 tvg-ID="Foxspo.m3u82.br" tvg-name="FOX SPO.m3u8 2" tvg-logo="http://playhdtv.pw/logs/foxspo.m3u82.jpg" group-title="BRASIL",FOX SPO.m3u8 2
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/696.m3u8
+#EXTINF:-1 tvg-ID="Eimaxxhd2.br" tvg-name="EI MAXX FULL HD" tvg-logo="http://playhdtv.pw/logs/EI-MAXX-FULL-HD.jpg" group-title="BRASIL",EI MAXX FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2155.m3u8
+#EXTINF:-1 tvg-ID="Eimaxxhd.br" tvg-name="EI MAXX HD" tvg-logo="http://playhdtv.pw/logs/EI-MAXX-HD.jpg" group-title="BRASIL",EI MAXX HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/660.m3u8
+#EXTINF:-1 tvg-ID="Eimaxx.br" tvg-name="EI MAXX" tvg-logo="http://playhdtv.pw/logs/EI-MAXX.jpg" group-title="BRASIL",EI MAXX
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1069.m3u8
+#EXTINF:-1 tvg-ID="Eimaxx2hd2.br" tvg-name="EI MAXX 2 FULL HD" tvg-logo="http://playhdtv.pw/logs/EI-MAXX2-FULL-HD.jpg" group-title="BRASIL",EI MAXX 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2141.m3u8
+#EXTINF:-1 tvg-ID="Eimaxx2hd.br" tvg-name="EI MAXX 2 HD" tvg-logo="http://playhdtv.pw/logs/EI-MAXX2-HD.jpg" group-title="BRASIL",EI MAXX 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/661.m3u8
+#EXTINF:-1 tvg-ID="Eimaxx2.br" tvg-name="EI MAXX 2" tvg-logo="http://playhdtv.pw/logs/EI-MAXX2.jpg" group-title="BRASIL",EI MAXX 2
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1070.m3u8
+#EXTINF:-1 tvg-ID="Espnbrasilhd.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://playhdtv.pw/logs/espnbrasil-hdtv.jpg" group-title="BRASIL",ESPN BRASIL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1109.m3u8
+#EXTINF:-1 tvg-ID="Espnbrasil.br" tvg-name="ESPN BRASIL" tvg-logo="http://playhdtv.pw/logs/espnbrasil.jpg" group-title="BRASIL",ESPN BRASIL
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1023.m3u8
+#EXTINF:-1 tvg-ID="Espnhd.br" tvg-name="ESPN HD" tvg-logo="http://playhdtv.pw/logs/espn-hd.jpg" group-title="BRASIL",ESPN HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/521.m3u8
+#EXTINF:-1 tvg-ID="Espn.br" tvg-name="ESPN" tvg-logo="http://playhdtv.pw/logs/espn.jpg" group-title="BRASIL",ESPN
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1733.m3u8
+#EXTINF:-1 tvg-ID="ESPN+hd.br" tvg-name="ESPN + HD" tvg-logo="http://playhdtv.pw/logs/espn+-hd.jpg" group-title="BRASIL",ESPN + HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/522.m3u8
+#EXTINF:-1 tvg-ID="ESPN+.br" tvg-name="ESPN +" tvg-logo="http://playhdtv.pw/logs/espn+.jpg" group-title="BRASIL",ESPN +
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/698.m3u8
+#EXTINF:-1 tvg-ID="Combatehd2.br" tvg-name="COMBATE FULL HD" tvg-logo="http://playhdtv.pw/logs/combate-full-hd.jpg" group-title="BRASIL",COMBATE FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2094.m3u8
+#EXTINF:-1 tvg-ID="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://playhdtv.pw/logs/combate-hd.jpg" group-title="BRASIL",COMBATE HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/451.m3u8
+#EXTINF:-1 tvg-ID="Combate.br" tvg-name="COMBATE" tvg-logo="http://playhdtv.pw/logs/combate.jpg" group-title="BRASIL",COMBATE
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/114.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ALL SPO.m3u8 BR HD" tvg-logo="http://www.playhdtv.pw/img/allspo.m3u8.png" group-title="BRASIL",ALL SPO.m3u8 BR HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/765.m3u8
+#EXTINF:-1 tvg-ID="Premclubeshd.br" tvg-name="PREMIER CLUBES FULL HD" tvg-logo="http://playhdtv.pw/logs/premierer-fullhd.jpg" group-title="BRASIL",PREMIER CLUBES FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/509.m3u8
+#EXTINF:-1 tvg-ID="Premierefchd.br" tvg-name="PREMIER CLUBES" tvg-logo="http://playhdtv.pw/logs/premierer.jpg" group-title="BRASIL",PREMIER CLUBES
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1090.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 1" tvg-logo="http://playhdtv.pw/logs/premierer-HD.jpg" group-title="BRASIL",PREMIER - 1
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/645.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 2" tvg-logo="http://playhdtv.pw/logs/premierer-HD.jpg" group-title="BRASIL",PREMIER - 2
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/646.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 3" tvg-logo="http://playhdtv.pw/logs/premierer-HD.jpg" group-title="BRASIL",PREMIER - 3
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/647.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 4" tvg-logo="http://playhdtv.pw/logs/premierer-HD.jpg" group-title="BRASIL",PREMIER - 4
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/648.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 5" tvg-logo="http://playhdtv.pw/logs/premierer-HD.jpg" group-title="BRASIL",PREMIER - 5
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/649.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 6" tvg-logo="http://playhdtv.pw/logs/premierer-HD.jpg" group-title="BRASIL",PREMIER - 6
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/650.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 7" tvg-logo="http://playhdtv.pw/logs/premierer-HD.jpg" group-title="BRASIL",PREMIER - 7
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/651.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 8" tvg-logo="http://playhdtv.pw/logs/premierer-HD.jpg" group-title="BRASIL",PREMIER - 8
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/652.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 9" tvg-logo="http://playhdtv.pw/logs/premierer-HD.jpg" group-title="BRASIL",PREMIER - 9
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/653.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 10" tvg-logo="http://playhdtv.pw/logs/premierer-HD.jpg" group-title="BRASIL",PREMIER - 10
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/654.m3u8
+#EXTINF:-1 tvg-ID="Premiere2hd.br" tvg-name="PREMIER 2 FULL HD" tvg-logo="http://playhdtv.pw/logs/premierer-HD.jpg" group-title="BRASIL",PREMIER 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/510.m3u8
+#EXTINF:-1 tvg-ID="Premiere2.br" tvg-name="PREMIER 2" tvg-logo="http://www.playhdtv.pw/img/Premier2.png" group-title="BRASIL",PREMIER 2
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/903.m3u8
+#EXTINF:-1 tvg-ID="Premiere3hd.br" tvg-name="PREMIER 3 FULL HD" tvg-logo="http://www.playhdtv.pw/img/Premier3.png" group-title="BRASIL",PREMIER 3 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/543.m3u8
+#EXTINF:-1 tvg-ID="Premiere3.br" tvg-name="PREMIER 3" tvg-logo="http://www.playhdtv.pw/img/Premier3.png" group-title="BRASIL",PREMIER 3
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/902.m3u8
+#EXTINF:-1 tvg-ID="Premiere4hd.br" tvg-name="PREMIER 4 HD" tvg-logo="http://www.playhdtv.pw/img/Premier4.png" group-title="BRASIL",PREMIER 4 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/544.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 5 FULL HD" tvg-logo="http://www.playhdtv.pw/img/Premier5.png" group-title="BRASIL",PREMIER 5 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/545.m3u8
+#EXTINF:-1 tvg-ID="Premiere5.br" tvg-name="PREMIER 5" tvg-logo="http://www.playhdtv.pw/img/Premier5.png" group-title="BRASIL",PREMIER 5
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/904.m3u8
+#EXTINF:-1 tvg-ID="Premiere6hd.br" tvg-name="PREMIER 6 HD" tvg-logo="http://www.playhdtv.pw/img/Premier6.png" group-title="BRASIL",PREMIER 6 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/976.m3u8
+#EXTINF:-1 tvg-ID="Premiere6.br" tvg-name="PREMIER 6" tvg-logo="http://www.playhdtv.pw/img/Premier6.png" group-title="BRASIL",PREMIER 6
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/905.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 7 HD" tvg-logo="http://playhdtv.pw/logs/premierer-fullhd.jpg" group-title="BRASIL",PREMIER 7 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/977.m3u8
+#EXTINF:-1 tvg-ID="Premiere7.br" tvg-name="PREMIER 7" tvg-logo="http://www.playhdtv.pw/img/Premier7.png" group-title="BRASIL",PREMIER 7
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/906.m3u8
+#EXTINF:-1 tvg-ID="Premiere8.br" tvg-name="PREMIER 8" tvg-logo="http://www.playhdtv.pw/img/Premier8.png" group-title="BRASIL",PREMIER 8
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/907.m3u8
+#EXTINF:-1 tvg-ID="Premiere8.br" tvg-name="PREMIER 9" tvg-logo="http://www.playhdtv.pw/img/Premier9.png" group-title="BRASIL",PREMIER 9
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/908.m3u8
+#EXTINF:-1 tvg-ID="Animalplanethd.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://playhdtv.pw/logs/animalplanet-hd.jpg" group-title="BRASIL",ANIMAL PLANET HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1324.m3u8
+#EXTINF:-1 tvg-ID="Animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="http://playhdtv.pw/logs/animalplanet.jpg" group-title="BRASIL",ANIMAL PLANET
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/711.m3u8
+#EXTINF:-1 tvg-ID="Discoveryhd.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://playhdtv.pw/logs/discovery-channel-hd.jpg" group-title="BRASIL",DISCOVERY CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/516.m3u8
+#EXTINF:-1 tvg-ID="Disneychannel.br" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://playhdtv.pw/logs/discovery-channel.jpg" group-title="BRASIL",DISCOVERY CHANNEL
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1055.m3u8
+#EXTINF:-1 tvg-ID="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://playhdtv.pw/logs/discovery-turbo-hd.jpg" group-title="BRASIL",DISCOVERY TURBO HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1059.m3u8
+#EXTINF:-1 tvg-ID="Discturbo.br" tvg-name="DISCOVERY TURBO" tvg-logo="http://playhdtv.pw/logs/discovery-turbo.jpg" group-title="BRASIL",DISCOVERY TURBO
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1060.m3u8
+#EXTINF:-1 tvg-ID="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FULL HD" tvg-logo="http://playhdtv.pw/logs/DISCOVERYSCIENCE-FULL-HD.jpg" group-title="BRASIL",DISCOVERY SCIENCE FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/736.m3u8
+#EXTINF:-1 tvg-ID="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION FULL HD" tvg-logo="https://ulango.tv/uploads/channels/122779/logo_discovery%20civilization.png" group-title="BRASIL",DISCOVERY CIVILIZATION FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1797.m3u8
+#EXTINF:-1 tvg-ID="Discoveryhomehealthhd.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://playhdtv.pw/logs/discovery-home-healt-hd.jpg" group-title="BRASIL",DISCOVERY HOME & HEALTH HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/656.m3u8
+#EXTINF:-1 tvg-ID="Discoveryhomehealthhd.br" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://playhdtv.pw/logs/discovery-home-healt.jpg" group-title="BRASIL",DISCOVERY HOME & HEALTH
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1054.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://s19.postimg.org/6hlawfswj/Discovery_HD_Theater.png" group-title="BRASIL",DISCOVERY THEATER HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/655.m3u8
+#EXTINF:-1 tvg-ID="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://playhdtv.pw/logs/discoveryworld-HD.jpg" group-title="BRASIL",DISCOVERY WORLD HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/832.m3u8
+#EXTINF:-1 tvg-ID="Natgeohd.br" tvg-name="NATGEO HD" tvg-logo="http://playhdtv.pw/logs/natgeo-hd.jpg" group-title="BRASIL",NATGEO HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/498.m3u8
+#EXTINF:-1 tvg-ID="Nationalgeographic.br" tvg-name="NATGEO" tvg-logo="http://playhdtv.pw/logs/natgeo.jpg" group-title="BRASIL",NATGEO
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1202.m3u8
+#EXTINF:-1 tvg-ID="Natgeowild.br" tvg-name="NATGEO WILD HD" tvg-logo="http://playhdtv.pw/logs/natgeo-will-hd.jpg" group-title="BRASIL",NATGEO WILD HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/712.m3u8
+#EXTINF:-1 tvg-ID="Natgeowild.br" tvg-name="NATGEO WILD" tvg-logo="http://playhdtv.pw/logs/natgeo-will.jpg" group-title="BRASIL",NATGEO WILD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/787.m3u8
+#EXTINF:-1 tvg-ID="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY  FULL HD" tvg-logo="http://playhdtv.pw/logs/ID-HD.jpg" group-title="BRASIL",INVESTIGATION DISCOVERY  FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2154.m3u8
+#EXTINF:-1 tvg-ID="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://playhdtv.pw/logs/ID-HD.jpg" group-title="BRASIL",INVESTIGATION DISCOVERY HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/658.m3u8
+#EXTINF:-1 tvg-ID="Historychannelhd.br" tvg-name="HISTORY CHANNEL FULL HD" tvg-logo="http://playhdtv.pw/logs/history-full-hd.jpg" group-title="BRASIL",HISTORY CHANNEL FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2153.m3u8
+#EXTINF:-1 tvg-ID="Historychannelhd.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://playhdtv.pw/logs/history-hd.jpg" group-title="BRASIL",HISTORY CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/499.m3u8
+#EXTINF:-1 tvg-ID="Historychannel.br" tvg-name="HISTORY CHANNEL" tvg-logo="http://playhdtv.pw/logs/history.jpg" group-title="BRASIL",HISTORY CHANNEL
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1067.m3u8
+#EXTINF:-1 tvg-ID="H2HD.br" tvg-name="H2 HD" tvg-logo="http://playhdtv.pw/logs/h2-hd.jpg" group-title="BRASIL",H2 HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/470.m3u8
+#EXTINF:-1 tvg-ID="H2.br" tvg-name="H2" tvg-logo="http://playhdtv.pw/logs/h2.jpg" group-title="BRASIL",H2
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/714.m3u8
+#EXTINF:-1 tvg-ID="Globonewshd.br" tvg-name="GLOBO NEWS FULL HD" tvg-logo="http://playhdtv.pw/logs/globo-news-full-hd.jpg" group-title="BRASIL",GLOBO NEWS FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2093.m3u8
+#EXTINF:-1 tvg-ID="Globonewshd.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://playhdtv.pw/logs/globo-news-hd.jpg" group-title="BRASIL",GLOBO NEWS HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/663.m3u8
+#EXTINF:-1 tvg-ID="Globonews.br" tvg-name="GLOBO NEWS" tvg-logo="http://playhdtv.pw/logs/globo-news.jpg" group-title="BRASIL",GLOBO NEWS
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1108.m3u8
+#EXTINF:-1 tvg-ID="Recordnewshd.br" tvg-name="RECORD NEWS HD" tvg-logo="http://playhdtv.pw/logs/record-news-hd.jpg" group-title="BRASIL",RECORD NEWS HD
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1798.m3u8
+#EXTINF:-1 tvg-ID="Bandnews.br" tvg-name="BAND NEWS" tvg-logo="http://playhdtv.pw/logs/bandnews-sd.jpg" group-title="BRASIL",BAND NEWS
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/726.m3u8
+#EXTINF:-1 tvg-ID="Cnninternat.br" tvg-name="CNN" tvg-logo="http://playhdtv.pw/logs/CNN.png" group-title="BRASIL",CNN
+http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/724.m3u8
 
 
 
