@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1
 http://62.28.213.14:9981/stream/channelid/1439506767
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1 LOW
 
@@ -509,7 +509,7 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/153.m3u8
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/478.m3u8
 #EXTINF:-1 tvg-ID="Rederecord2.br" tvg-name="REDE RECORD HD" tvg-logo="http://playhdtv.pw/logs/record-hd.jpg" group-title="BRASIL",REDE RECORD HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/937.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD USA" tvg-logo="http://playhdtv.pw/logs/record.jpg" group-title="CANAIS USA",REDE RECORD USA
+#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD USA" tvg-logo="http://playhdtv.pw/logs/record.jpg" group-title="BRASIL",REDE RECORD USA
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/912.m3u8
 #EXTINF:-1 tvg-ID="Rederecordhd.br" tvg-name="REDE RECORD" tvg-logo="http://playhdtv.pw/logs/record.jpg" group-title="BRASIL",REDE RECORD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/679.m3u8
@@ -593,7 +593,7 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/829.m3u8
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/644.m3u8
 #EXTINF:-1 tvg-ID="Tlchd.br" tvg-name="TLC" tvg-logo="http://playhdtv.pw/logs/tlc.jpg" group-title="BRASIL",TLC
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/825.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="E! HD" tvg-logo="https://s32.postimg.org/ioprt4kyt/canal_E.png" group-title="",E! HD
+#EXTINF:-1 tvg-ID="" tvg-name="E! HD" tvg-logo="https://s32.postimg.org/ioprt4kyt/canal_E.png" group-title="BRASIL",E! HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/1635.m3u8
 #EXTINF:-1 tvg-ID="E.br" tvg-name="E!" tvg-logo="http://playhdtv.pw/logs/E!-.jpg" group-title="BRASIL",E!
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/632.m3u8
@@ -633,7 +633,7 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/709.m3u8
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/720.m3u8
 #EXTINF:-1 tvg-ID="Canalbrasilhd.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://playhdtv.pw/logs/canal-brasil.png" group-title="BRASIL",CANAL BRASIL HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/708.m3u8
-#EXTINF:-1 tvg-ID="Tcpremiumhd2.br" tvg-name="TELECINE PREMIUM FULL HD" tvg-logo="http://playhdtv.pw/logs/tc-premium-full-hd.jpg" group-title="CANAIS FULL HD",TELECINE PREMIUM FULL HD
+#EXTINF:-1 tvg-ID="Tcpremiumhd2.br" tvg-name="TELECINE PREMIUM FULL HD" tvg-logo="http://playhdtv.pw/logs/tc-premium-full-hd.jpg" group-title="BRASIL",TELECINE PREMIUM FULL HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2092.m3u8
 #EXTINF:-1 tvg-ID="Tcpremiumhd.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://playhdtv.pw/logs/tc-premium-hd.jpg" group-title="BRASIL",TELECINE PREMIUM HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/487.m3u8
