@@ -823,7 +823,7 @@ http://62.28.213.14:9981/stream/channelid/1439506767
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1 HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3900.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1 FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/550.m3u8
 #EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2
 http://62.28.213.14:9981/stream/channelid/1580833545
 #EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2 LOW
@@ -831,7 +831,7 @@ http://62.28.213.14:9981/stream/channelid/1580833545
 #EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2 HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3899.m3u8
 #EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2 FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/76.m3u8
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC LOW
@@ -839,7 +839,7 @@ http://62.28.213.14:9981/stream/channelid/1682111017
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3898.m3u8
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/75.m3u8
 #EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="CumCatano",TVI
 http://62.28.213.14:9981/stream/channelid/1402355728
 #EXTINF:-1 tvg-id="TVI" tvg-name="TVI LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/96g97k1515364471.png/small" group-title="CumCatano",TVI LOW
@@ -847,13 +847,13 @@ http://62.28.213.14:9981/stream/channelid/1402355728
 #EXTINF:-1 tvg-id="TVI" tvg-name="TVI HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="CumCatano",TVI HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3897.m3u8
 #EXTINF:-1 tvg-id="TVI" tvg-name="TVI FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="CumCatano",TVI FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/74.m3u8
 #EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicnoticias.png" group-title="CumCatano",SIC Noticias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicnoticias.png" group-title="CumCatano",SIC Noticias HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3896.m3u8
 #EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ppc81z1515843799.png/small" group-title="CumCatano",SIC Noticias FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/73.m3u8
 #EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp3.png" group-title="CumCatano",RTP 3
 http://62.28.213.14:9981/stream/channelid/1434611461
 #EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp3.png" group-title="CumCatano",RTP 3 HD
@@ -863,15 +863,15 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3894.m3u8
 #EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi24.png" group-title="CumCatano",TVI 24 HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3895.m3u8
 #EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi24.png" group-title="CumCatano",TVI 24
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/71.m3u8
 #EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="CumCatano",CMTV
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/67.m3u8
 #EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="CumCatano",CMTV HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3893.m3u8
 #EXTINF:-1 tvg-id="CMTVHD" tvg-name="CMTV FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wqrwxy1436843726.png/small" group-title="CumCatano",CMTV FHD
 
 #EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicmulher.png" group-title="CumCatano",SIC Mulher
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/72.m3u8
 #EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicmulher.png" group-title="CumCatano",SIC Mulher HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3890.m3u8
 #EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xuz3ut1515843497.png/small" group-title="CumCatano",SIC Mulher FHD
@@ -887,15 +887,15 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC Radical HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicradical.png" group-title="CumCatano",SIC Radical HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3892.m3u8
 #EXTINF:-1 tvg-id="SICR" tvg-name="SIC Radical FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/dirbeq1515844195.png/small" group-title="CumCatano",SIC Radical FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/409.m3u8
 #EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI Ficção" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvificcao.png" group-title="CumCatano",TVI Ficção
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3889.m3u8
 #EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI Ficção LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvificcao.png" group-title="CumCatano",TVI Ficção LOW
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/1779.m3u8
 #EXTINF:-1 tvg-id="CanalQB" tvg-name="Canal Q" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalq.png" group-title="CumCatano",Canal Q
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/1763.m3u8
 #EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/405.m3u8
 #EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality LOW
 
 #EXTINF:-1 tvg-id="TVIREALMOSAICO" tvg-name="TVI Reality Mosaico" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality Mosaico
@@ -917,7 +917,7 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3837.m3u8
 #EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/abolatv.png" group-title="CumCatano",A Bola TV
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3981.m3u8
 #EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/abolatv.png" group-title="CumCatano",A Bola TV HD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/63.m3u8
 #EXTINF:-1 tvg-id="Sport TV 4K" tvg-name="Sport•TV 4K UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/5n9fhb1499698380.png/small" group-title="CumCatano",Sport•TV 4K UHD
 
 #EXTINF:-1 tvg-id="Sport TV 4K" tvg-name="Sport•TV 4K UHD Low" tvg-logo="https://www.thelogodb.com/images/media/logonew/5n9fhb1499698380.png/small" group-title="CumCatano",Sport•TV 4K UHD Low
@@ -925,7 +925,7 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3981.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport•TV Multiplay HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qxxyst1474691176.png/small" group-title="CumCatano",Sport•TV Multiplay HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3859.m3u8
 #EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="Sport•TV +" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",Sport•TV +
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/498.m3u8
 #EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="Sport•TV + LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",Sport•TV + LOW
 
 #EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="Sport•TV + HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",Sport•TV + HD
@@ -933,33 +933,33 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3860.m3u8
 #EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="Sport•TV + FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",Sport•TV + FHD
 
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/59.m3u8
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1 LOW
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/1759.m3u8
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1 HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3858.m3u8
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1 FHD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3857.m3u8
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1 FHD Alt" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1 FHD Alt
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/214.m3u8
 #EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport•TV 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",Sport•TV 2
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/506.m3u8
 #EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport•TV 2 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",Sport•TV 2 LOW
 
 #EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport•TV 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",Sport•TV 2 HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3856.m3u8
 #EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport•TV 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",Sport•TV 2 FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/57.m3u8
 #EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport•TV 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",Sport•TV 3
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/56.m3u8
 #EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport•TV 3 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",Sport•TV 3 LOW
 
 #EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport•TV 3 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",Sport•TV 3 HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3855.m3u8
 #EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport•TV 3 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",Sport•TV 3 FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/505.m3u8
 #EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport•TV 4" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",Sport•TV 4
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/54.m3u8
 #EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport•TV 4 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",Sport•TV 4 LOW
 
 #EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport•TV 4 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",Sport•TV 4 HD
@@ -967,7 +967,7 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3854.m3u8
 #EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport•TV 4 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",Sport•TV 4 FHD
 
 #EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport•TV 5" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",Sport•TV 5
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/53.m3u8
 #EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport•TV 5 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",Sport•TV 5 LOW
 
 #EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport•TV 5 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",Sport•TV 5 HD
@@ -976,16 +976,18 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3853.m3u8
 
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3851.m3u8
+#EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV (Op 2)
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/50.m3u8
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/uect761515364958.png/small" group-title="CumCatano",Benfica TV LOW
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/605.m3u8
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3850.m3u8
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/215.m3u8
 #EXTINF:-1 tvg-id="SPORTINGTV" tvg-name="Sporting TV LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/dfiilm1515364197.png/small" group-title="CumCatano",Sporting TV LOW
 
 #EXTINF:-1 tvg-id="SPORTINGTV" tvg-name="Sporting TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sportingtv.png" group-title="CumCatano",Sporting TV
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/48.m3u8
 #EXTINF:-1 tvg-id="SPORTINGTV" tvg-name="Sporting TV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/dfiilm1515364197.png/small" group-title="CumCatano",Sporting TV HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3852.m3u8
 #EXTINF:-1 tvg-id="SPORTINGTV" tvg-name="Sporting TV FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sportingtv.png" group-title="CumCatano",Sporting TV FHD
@@ -999,9 +1001,9 @@ http://213.13.26.13:1935/live/portocanal/CumCatano.m3u8
 #EXTINF:-1 tvg-id="EUROS" tvg-name="Eurosport 1" tvg-logo="https://www.thelogodb.com/images/media/logonew/cco61g1515364096.png/small" group-title="CumCatano",Eurosport 1
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3849.m3u8
 #EXTINF:-1 tvg-id="EUROS" tvg-name="Eurosport 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport1.png" group-title="CumCatano",Eurosport 1 HD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/424.m3u8
 #EXTINF:-1 tvg-id="EUROS2" tvg-name="Eurosport 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport2.png" group-title="CumCatano",Eurosport 2
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/200.m3u8
 #EXTINF:-1 tvg-id="EUROS2" tvg-name="Eurosport 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport2.png" group-title="CumCatano",Eurosport 2 HD
 
 #EXTINF:-1 tvg-id="MCS EXTREME" tvg-name="MCS Extreme" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/mcsextreme.png" group-title="CumCatano",MCS Extreme
@@ -1023,39 +1025,39 @@ http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedBull TV" tvg-name="Red Bull TV" tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/pfc.png" group-title="CumCatano",PFC
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/201.m3u8
 #EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515JQjBBBvL.png" group-title="CumCatano",NBA TV
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3830.m3u8
 #EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine1.png" group-title="CumCatano",TVCine 1
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/602.m3u8
 #EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yxtrst1436898282.png/small" group-title="CumCatano",TVCine 1 HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3879.m3u8
 #EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine1.png" group-title="CumCatano",TVCine 1 FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/31.m3u8
 #EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine2.png" group-title="CumCatano",TVCine 2
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/30.m3u8
 #EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/rpssrv1436898306.png/small" group-title="CumCatano",TVCine 2 HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3878.m3u8
 #EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine2.png" group-title="CumCatano",TVCine 2 FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/1924.m3u8
 #EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine3.png" group-title="CumCatano",TVCine 3
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/29.m3u8
 #EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/uwrwyv1436898334.png/small" group-title="CumCatano",TVCine 3 HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3877.m3u8
 #EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine3.png" group-title="CumCatano",TVCine 3 FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/1925.m3u8
 #EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine4.png" group-title="CumCatano",TVCine 4
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/28.m3u8
 #EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qswqxx1436898355.png/small" group-title="CumCatano",TVCine 4 HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3876.m3u8
 #EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine4.png" group-title="CumCatano",TVCine 4 FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/468.m3u8
 #EXTINF:-1 tvg-id="TVSERIES" tvg-name="TVSeries" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvseries.png" group-title="CumCatano",TVSeries
 
 #EXTINF:-1 tvg-id="TVSERIES" tvg-name="TVSeries HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xppsrs1436898382.png/small" group-title="CumCatano",TVSeries HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3875.m3u8
 #EXTINF:-1 tvg-id="TVSERIES" tvg-name="TVSeries FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvseries.png" group-title="CumCatano",TVSeries FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/493.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LXTV Movies" tvg-logo="https://pbs.twimg.com/profile_images/1448819128/LXTV_TWITTER_icon_400x400.jpg" group-title="CumCatano",LXTV Movies
 
 #EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/syfy.png" group-title="CumCatano",SyFy
@@ -1063,53 +1065,55 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3875.m3u8
 #EXTINF:-1 tvg-id="SyFy" tvg-name="Syfy HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/8vfxi01515520586.png/small" group-title="CumCatano",Syfy HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3871.m3u8
 #EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/syfy.png" group-title="CumCatano",SyFy FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/17.m3u8
+#EXTINF:-1 tvg-id="SUNDANCE" tvg-name="Sundance TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sundancetv.png" group-title="CumCatano",Sundance TV HD
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/1928.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/amc.png" group-title="CumCatano",AMC
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/986bly1515839824.png/small" group-title="CumCatano",AMC HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3872.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/amc.png" group-title="CumCatano",AMC FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/803.m3u8
 #EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cinemundo.png" group-title="CumCatano",Cinemundo HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3873.m3u8
 #EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cinemundo.png" group-title="CumCatano",Cinemundo
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/408.m3u8
 #EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX Movies" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxmovies.png" group-title="CumCatano",FOX Movies
 
 #EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="Fox Movies HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vptxrq1436890170.png/small" group-title="CumCatano",Fox Movies HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3869.m3u8
 #EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX Movies FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxmovies.png" group-title="CumCatano",FOX Movies FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/474.m3u8
 #EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalhollywood.png" group-title="CumCatano",Hollywood
 
 #EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqtrqu1436898965.png/small" group-title="CumCatano",Hollywood HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3874.m3u8
 #EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalhollywood.png" group-title="CumCatano",Hollywood FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/36.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axn.png" group-title="CumCatano",AXN
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wxswvq1433343102.png/small" group-title="CumCatano",AXN HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3865.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axn.png" group-title="CumCatano",AXN FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/118.m3u8
 #EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yo0yul1515363807.png/small" group-title="CumCatano",AXN Black HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3864.m3u8
 #EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnblack.png" group-title="CumCatano",AXN Black
 
 #EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnblack.png" group-title="CumCatano",AXN Black FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/210.m3u8
 #EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnwhite.png" group-title="CumCatano",AXN White
 
 #EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xhtejj1515363892.png/small" group-title="CumCatano",AXN White HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3863.m3u8
 #EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnwhite.png" group-title="CumCatano",AXN White FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/20.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fox.png" group-title="CumCatano",FOX
 
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/rwptru1436892145.png/small" group-title="CumCatano",FOX HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3870.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fox.png" group-title="CumCatano",FOX FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/22.m3u8
 #EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX Comedy" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxcomedy.png" group-title="CumCatano",FOX Comedy
 
 #EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX Comedy HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/nquwju1515410731.png/small" group-title="CumCatano",FOX Comedy HD
@@ -1121,7 +1125,7 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3868.m3u8
 #EXTINF:-1 tvg-id="FOXCRIME" tvg-name="FOX Crime HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/nquwju1515410731.png/small" group-title="CumCatano",FOX Crime HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3867.m3u8
 #EXTINF:-1 tvg-id="FOXCRIME" tvg-name="FOX Crime FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxcrime.png" group-title="CumCatano",FOX Crime FHD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/21.m3u8
 #EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX Life" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxlife.png" group-title="CumCatano",FOX Life
 
 #EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX Life HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/owzqbb1515520768.png/small" group-title="CumCatano",FOX Life HD
@@ -1133,39 +1137,39 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3861.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LXTV Series" tvg-logo="https://pbs.twimg.com/profile_images/1448819128/LXTV_TWITTER_icon_400x400.jpg" group-title="CumCatano",LXTV Series
 
 #EXTINF:-1 tvg-id="DISNY" tvg-name="Disney Channel" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/disneychannel.png" group-title="CumCatano",Disney Channel
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/46.m3u8
 #EXTINF:-1 tvg-id="DISNY" tvg-name="Disney Channel" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/disneychannel.png" group-title="CumCatano",Disney Channel HD
 
 #EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="Disney Junior" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/disneyjunior.png" group-title="CumCatano",Disney Junior
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/42.m3u8
 #EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="Disney Junior" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/disneyjunior.png" group-title="CumCatano",Disney Junior HD
 
 #EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cartoonnetwork.png" group-title="CumCatano",Cartoon Network
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/39.m3u8
 #EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cartoonnetwork.png" group-title="CumCatano",Cartoon Network HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3841.m3u8
 #EXTINF:-1 tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/nickelodeon.png" group-title="CumCatano",Nickelodeon
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/44.m3u8
 #EXTINF:-1 tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/nickelodeon.png" group-title="CumCatano",Nickelodeon HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3834.m3u8
 #EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Jr" tvg-logo="http://nickjr-intl.mtvnimages.com/uk/img/nav/logo-nickjr-desktop-2x.png" group-title="CumCatano",Nick Jr
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/1926.m3u8
 #EXTINF:-1 tvg-id="PANDA" tvg-name="Canal Panda" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalpanda.png" group-title="CumCatano",Canal Panda
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/45.m3u8
 #EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="Panda Biggs" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/biggs.png" group-title="CumCatano",Panda Biggs
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/178.m3u8
 #EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sickapa.png" group-title="CumCatano",SIC K HD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/1783.m3u8
 #EXTINF:-1 tvg-id="JimJam" tvg-name="Jim Jam" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/jimjam.png" group-title="CumCatano",Jim Jam
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/38.m3u8
 #EXTINF:-1 tvg-id="BABYFIRST" tvg-name="Baby First" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/babyfirst.png" group-title="CumCatano",Baby First
 
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/babytv.png" group-title="CumCatano",Baby TV
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/553.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/discoverychannel.png" group-title="CumCatano",Discovery Channel
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3840.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/usyusu1480364903.png/small" group-title="CumCatano",Discovery Channel HD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/19.m3u8
 #EXTINF:-1 tvg-id="DISCOVERYHD" tvg-name="Discovery ShowCase" tvg-logo="https://www.thelogodb.com/images/media/logonew/qqwypw1435092052.png/small" group-title="CumCatano",Discovery ShowCase
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3839.m3u8
 #EXTINF:-1 tvg-id="DISCOVERYHD" tvg-name="Discovery Showcase HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/discoveryshowcase.png" group-title="CumCatano",Discovery Showcase HD
@@ -1173,15 +1177,15 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3839.m3u8
 #EXTINF:-1 tvg-id="NGC" tvg-name="National Geographic" tvg-logo="https://www.thelogodb.com/images/media/logonew/spurwy1433945957.png/small" group-title="CumCatano",National Geographic
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3835.m3u8
 #EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="National Geographic HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/nationalgeographicchannel.png" group-title="CumCatano",National Geographic HD
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/321.m3u8
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="National Geo Wild HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/natgeowild.png" group-title="CumCatano",National Geo Wild HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3836.m3u8
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="National Geo Wild" tvg-logo="https://www.thelogodb.com/images/media/logonew/ypptyq1433943719.png/small" group-title="CumCatano",National Geo Wild
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/18.m3u8
 #EXTINF:-1 tvg-id="ODIS" tvg-name="Canal Odisseia" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/odisseia.png" group-title="CumCatano",Canal Odisseia
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/16.m3u8
 #EXTINF:-1 tvg-id="Canal História" tvg-name="Canal Historia" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/historia.png" group-title="CumCatano",Canal Historia
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/15.m3u8
 #EXTINF:-1 tvg-id="Canal História" tvg-name="Canal Historia HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/f5lex41515366394.png/small" group-title="CumCatano",Canal Historia HD
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3847.m3u8
 #EXTINF:-1 tvg-id="EENTER" tvg-name="E! Entertainment HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eentertainment.png" group-title="CumCatano",E! Entertainment HD
@@ -1191,7 +1195,7 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3862.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/aande.png" group-title="CumCatano",A&E
 
 #EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cbsreality.png" group-title="CumCatano",CBS Reality
-
+http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/bbcentertainment.png" group-title="CumCatano",BBC Entertainment
 http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/3883.m3u8
 #EXTINF:-1 tvg-id="DOGTV" tvg-name="Dog TV FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/dogtv.png" group-title="CumCatano",Dog TV FHD
@@ -1282,8 +1286,6 @@ http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
 #EXTINF:-1 tvg-id="FRANCE24FR" tvg-name="France 24" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/france24.png" group-title="CumCatano",France 24
 
 #EXTINF:-1 tvg-id="TV5" tvg-name="TV5 MONDE EUROPE" tvg-logo="https://static.playmedia-cdn.net/img/tv_channels/241_medium.png" group-title="CumCatano",TV5 MONDE EUROPE
-
-
 
 
 -----------------------------------------------------------------------------------------------------------------------------
