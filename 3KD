@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2J5BSXj" type="MOVIE" group-title="ANIMACAO",Os Incriveis
+
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2yGb2VT" type="MOVIE" group-title="ANIMACAO",Moana
 https://cld.pt/dl/download/770c855a-9a51-4e7a-b6cb-228db1ab7be8/Moana.2016.1080p.PT.BluRayPT.mp4
 
