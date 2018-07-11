@@ -507,166 +507,632 @@ http://149.56.22.220:8000/live/kkk/kkk/12092.m3u8
 
 
 --------------------------------------------------------------------------------------------------------------------------------
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="PORTUGAL 2",RTP 1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="PORTUGAL 2",RTP 1
 http://62.28.213.14:9981/stream/channelid/1439506767?ticket=47159E103E3491785E30DE6CCA2C30D78AB62198&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="PORTUGAL 2",RTP 1 HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="PORTUGAL 2",RTP 1 HD
 http://sunatv.co:80/live/tarik/123456/2659.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" group-title="PORTUGAL 2",RTP 2 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" group-title="PORTUGAL 2",RTP 2
 http://62.28.213.14:9981/stream/channelid/1580833545?ticket=36678AD4429E9E881C23368C21289DF446A43F18&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL 2",SIC 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL 2",SIC
 http://live.impresa.pt/live/sic/sic.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL 2",TVI 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL 2",TVI
 http://62.28.213.14:9981/stream/channelid/1402355728?ticket=C452DCE93575B9231492720EFF86BB9084915952&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" group-title="PORTUGAL 2",SIC NOTICIAS 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" group-title="PORTUGAL 2",SIC NOTICIAS
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="PORTUGAL 2",RTP 3 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="PORTUGAL 2",RTP 3
 http://62.28.213.14:9981/stream/channelid/1434611461?ticket=96DBF67F95154FA068B1651B8DE68C499C8C7513&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png" group-title="PORTUGAL 2",TVI24 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png" group-title="PORTUGAL 2",TVI24
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" group-title="PORTUGAL 2",CM TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" group-title="PORTUGAL 2",CM TV
 http://p05.quest123.top:8088/live/cmtvtvdesporto/playlist.m3u8?id=98747&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png" group-title="PORTUGAL 2",PORTO CANAL 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png" group-title="PORTUGAL 2",PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" group-title="PORTUGAL 2",SIC RADICAL 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" group-title="PORTUGAL 2",SIC RADICAL
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="PORTUGAL 2",RTP MEMORIA 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="PORTUGAL 2",RTP MEMORIA
 http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/3956.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" group-title="PORTUGAL 2",SPORT TV 1 HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" group-title="PORTUGAL 2",SPORT TV 1 HD
 https://sportsbar.pw/lba/123/g5/SportTV1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL 2",SPORT TV 2 HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL 2",SPORT TV 2 HD
 https://sportsbar.pw/lba/123/g7/Sport2PT.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL 2",SPORT TV 2 HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL 2",SPORT TV 2 HD
 http://sportsbar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g7/Sport2PT.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL 2",SPORT TV 2 HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL 2",SPORT TV 2 HD
 http://sportsbar.pw/lba/MzI1NDVlYTg5NGQ3YzcxZTRkYjJhZDhiMzUxYmIzNGM=/g7/Sport2PT.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL 2",SPORT TV 3 HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL 2",SPORT TV 3 HD
 http://sportsbar.pw/lba/123/g3/SportTV3.m3u8 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL 2",SPORT TV 3 HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL 2",SPORT TV 3 HD
 https://sportsbar.pw/lba/123/g3/SportTV3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL 2",SPORT TV 3 HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL 2",SPORT TV 3 HD
 http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL 2",SPORT TV 4 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL 2",SPORT TV 4
 https://sportsbar.pw/lba/123/g4/Sport4PT.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL 2",SPORT TV 4 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL 2",SPORT TV 4
 http://sportsbar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g4/Sport4PT.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL 2",SPORT TV 5 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL 2",SPORT TV 5
 http://sportsbar.pw/lba/123/g9/SportTV5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL 2",SPORT TV 5 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL 2",SPORT TV 5
 http://sportsbar.pw/lba/MzI1NDVlYTg5NGQ3YzcxZTRkYjJhZDhiMzUxYmIzNGM=/g9/SportTV5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL 2",BENFICA TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL 2",BENFICA TV
 http://212.8.248.197:8080/live/Majda/Majda/900.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL 2",BENFICA TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL 2",BENFICA TV
 http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/3944.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL 2",BENFICA TV HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL 2",BENFICA TV HD
 http://sunatv.co:80/live/tarik/123456/2595.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL 2",BENFICA TV HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL 2",BENFICA TV HD
 http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7039.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="PORTUGAL 2",EUROSPORT 1 HD PT 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="PORTUGAL 2",EUROSPORT 1 HD PT
 http://tv.server.xdns.pro:80/live/C2OdTALgoM/6dEw3tJHij/3234.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="PORTUGAL 2",PFC 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="PORTUGAL 2",PFC
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4616.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" group-title="PORTUGAL 2",A BOLA TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" group-title="PORTUGAL 2",A BOLA TV
 http://212.8.248.197:8080/live/Majda/Majda/910.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERRTL.png" group-title="PORTUGAL 2",SUPER RTL 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERRTL.png" group-title="PORTUGAL 2",SUPER RTL
 http://81.200.50.4/hls/Super_RTL_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="PORTUGAL 2",VH1 EUROPE 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="PORTUGAL 2",VH1 EUROPE
 http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="PORTUGAL 2",DJING CLASSIC 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="PORTUGAL 2",DJING CLASSIC
 http://www.djing.com/tv/session_french-touch.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="PORTUGAL 2",DJING DANCE FLOOR MUSIC 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="PORTUGAL 2",DJING DANCE FLOOR MUSIC
 http://djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="PORTUGAL 2",DJING HITS 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="PORTUGAL 2",DJING HITS
 http://djing.com/tv/04.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="PORTUGAL 2",DJING IBIZA 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="PORTUGAL 2",DJING IBIZA
 http://djing.com/tv/ibiza.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FTV.png" group-title="PORTUGAL 2",FTV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FTV.png" group-title="PORTUGAL 2",FTV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" group-title="PORTUGAL 2",CNN 
-http://217.20.130.63:8888/stream/channelid/1177131141
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYNEWS.png" group-title="PORTUGAL 2",SKY NEWS 
-http://80.229.166.111:9981/stream/channelid/1647002771
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" group-title="PORTUGAL 2",CNBC 
-http://217.20.130.63:8888/stream/channelid/1292413580
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png" group-title="PORTUGAL 2",CBSN 
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAINEWS24.png" group-title="PORTUGAL 2",RAI NEWS 24 
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png" group-title="PORTUGAL 2",TVE 24H 
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="PORTUGAL 2",DW (ENGLISH) 
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RUSSIATODAY.png" group-title="PORTUGAL 2",RUSSIA TODAY 
-http://secure-streams.akamaized.net/rt-uk/index800.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDNEWS.png" group-title="PORTUGAL 2",RECORD NEWS 
-http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w849814207.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMADEIRA.png" group-title="PORTUGAL 2",RTP MADEIRA 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMADEIRA.png" group-title="PORTUGAL 2",RTP MADEIRA
 http://212.8.248.197:8080/live/Majda/Majda/891.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPACORES.png" group-title="PORTUGAL 2",RTP ACORES 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPACORES.png" group-title="PORTUGAL 2",RTP ACORES
 http://212.8.248.197:8080/live/Majda/Majda/893.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png" group-title="PORTUGAL 2",RTP INTERNACIONAL 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png" group-title="PORTUGAL 2",RTP INTERNACIONAL
 http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png" group-title="PORTUGAL 2",CANCAO NOVA 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png" group-title="PORTUGAL 2",CANCAO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FATIMATV.png" group-title="PORTUGAL 2",FATIMA TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FATIMATV.png" group-title="PORTUGAL 2",FATIMA TV
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTV.png" group-title="PORTUGAL 2",AR TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTV.png" group-title="PORTUGAL 2",AR TV
 http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png" group-title="PORTUGAL 2",RTP AFRICA 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png" group-title="PORTUGAL 2",RTP AFRICA
 http://sunatv.co:80/live/tarik/123456/2645.m3u8
-#EXTINF:-1 tvg-logo="http://www.rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" group-title="PORTUGAL 2",TCV 
+#EXTINF:-1 tvg-logo="http://www.rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" group-title="PORTUGAL 2",TCV
 http://213.13.26.11:1935/live/rtc_teste/TeamBlue.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="PORTUGAL 2",TV GALICIA 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="PORTUGAL 2",TV GALICIA
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSTV.png" group-title="PORTUGAL 2",KURIAKOS TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSTV.png" group-title="PORTUGAL 2",KURIAKOS TV
 http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSKIDS.png" group-title="PORTUGAL 2",KURIAKOS KIDS 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSKIDS.png" group-title="PORTUGAL 2",KURIAKOS KIDS
 http://c2.manasat.com:1935/kkids/kkids3/TeamBlue.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSMUSIC.png" group-title="PORTUGAL 2",KURIAKOS MUSIC 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSMUSIC.png" group-title="PORTUGAL 2",KURIAKOS MUSIC
 http://c2.manasat.com:1935/kmusic/kmusic3/TeamBlue.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSCINE.png" group-title="PORTUGAL 2",KURIAKOS CINE 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSCINE.png" group-title="PORTUGAL 2",KURIAKOS CINE
 http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
-#REF!
-#REF!
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAVISION.png" group-title="PORTUGAL 2",CACAVISION 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAVISION.png" group-title="PORTUGAL 2",CACAVISION
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FIGHTNET.png" group-title="PORTUGAL 2",FIGHT NETWORK 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FIGHTNET.png" group-title="PORTUGAL 2",FIGHT NETWORK
 http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" group-title="PORTUGAL 2",REAL MADRID TV HD 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" group-title="PORTUGAL 2",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" group-title="PORTUGAL 2",MUTV 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" group-title="PORTUGAL 2",MUTV
 http://31.132.0.66:8000/play/a0f0/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" group-title="PORTUGAL 2",REDE TV! 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" group-title="PORTUGAL 2",REDE TV!
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BAND.png" group-title="PORTUGAL 2",BAND 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BAND.png" group-title="PORTUGAL 2",BAND
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7631.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" group-title="PORTUGAL 2",SBT 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" group-title="PORTUGAL 2",SBT
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w624504744_b396000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" group-title="PORTUGAL 2",SBT HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" group-title="PORTUGAL 2",SBT HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/BRASIL.png",BRASIL
-http://fui.me
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVESCOLA.png" group-title="PORTUGAL 2",TV ESCOLA 
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVBRASIL.png" group-title="PORTUGAL 2",TV BRASIL 
-http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3878.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDEBRASIL.png" group-title="PORTUGAL 2",REDE BRASIL 
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png" group-title="PORTUGAL 2",RECORD SP 
-http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/5621.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDEVIDA.png" group-title="PORTUGAL 2",REDE VIDA 
-http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3930.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVAPARECIDA.png" group-title="PORTUGAL 2",APARECIDA 
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png" group-title="PORTUGAL 2",CANCAO NOVA 
-http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" group-title="PORTUGAL 2",REDE TV! 
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BAND.png" group-title="PORTUGAL 2",BAND 
-http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7631.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" group-title="PORTUGAL 2",SBT 
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w624504744_b396000.m3u8
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP 1
+http://149.56.22.220:8000/live/d/d/6190.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP 1 LOW
+http://149.56.22.220:8000/live/d/d/26397.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP 1 HD
+http://149.56.22.220:8000/live/d/d/6192.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP 1 FHD
+http://149.56.22.220:8000/live/d/d/26396.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP 1 4K (BETA)
+http://149.56.22.220:8000/live/d/d/35960.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP 2
+http://149.56.22.220:8000/live/d/d/6188.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP 2 LOW
+http://149.56.22.220:8000/live/d/d/26395.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP 2 HD
+http://149.56.22.220:8000/live/d/d/34976.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP 2 FHD
+http://149.56.22.220:8000/live/d/d/26394.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC
+http://149.56.22.220:8000/live/d/d/6185.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC LOW
+http://149.56.22.220:8000/live/d/d/19492.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC HD
+http://149.56.22.220:8000/live/d/d/6186.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC FHD
+http://149.56.22.220:8000/live/d/d/19491.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI
+http://149.56.22.220:8000/live/d/d/6183.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI LOW
+http://149.56.22.220:8000/live/d/d/28617.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI HD
+http://149.56.22.220:8000/live/d/d/6184.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI FHD
+http://149.56.22.220:8000/live/d/d/19493.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Localvisão HD
+http://149.56.22.220:8000/live/d/d/8139.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP Acores
+http://149.56.22.220:8000/live/d/d/6172.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP Africa
+http://149.56.22.220:8000/live/d/d/6171.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP Madeira
+http://149.56.22.220:8000/live/d/d/6170.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",—— INFORMAÇÃO ——
+http://149.56.22.220:8000/live/d/d/15776.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP 3
+http://149.56.22.220:8000/live/d/d/6180.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP 3 HD
+http://149.56.22.220:8000/live/d/d/26424.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP 3 FHD
+http://149.56.22.220:8000/live/d/d/28431.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC Noticias
+http://149.56.22.220:8000/live/d/d/6182.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC Noticias HD
+http://149.56.22.220:8000/live/d/d/26941.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC Noticias FHD
+http://149.56.22.220:8000/live/d/d/28430.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI 24 HD
+http://149.56.22.220:8000/live/d/d/22966.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI 24
+http://149.56.22.220:8000/live/d/d/6181.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",CMTV
+http://149.56.22.220:8000/live/d/d/6179.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",CMTV HD
+http://149.56.22.220:8000/live/d/d/6178.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",CMTV FHD
+http://149.56.22.220:8000/live/d/d/28432.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",CNN
+http://149.56.22.220:8000/live/d/d/8138.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",BBC World News
+http://149.56.22.220:8000/live/d/d/8129.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Bloomberg
+http://149.56.22.220:8000/live/d/d/8130.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sky News
+http://149.56.22.220:8000/live/d/d/8137.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Deutsche Welle
+http://149.56.22.220:8000/live/d/d/26364.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Eurosport News
+http://149.56.22.220:8000/live/d/d/6084.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVE 24 Horas
+http://149.56.22.220:8000/live/d/d/8128.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Kuriakos
+http://149.56.22.220:8000/live/d/d/15967.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",France 24
+http://149.56.22.220:8000/live/d/d/26370.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",—— ENTRETENIMENTO ——
+http://149.56.22.220:8000/live/d/d/15777.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI Ficção
+http://149.56.22.220:8000/live/d/d/6174.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI Ficção LOW
+http://149.56.22.220:8000/live/d/d/19269.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC Mulher
+http://149.56.22.220:8000/live/d/d/26933.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC Mulher HD
+http://149.56.22.220:8000/live/d/d/6175.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC Mulher FHD
+http://149.56.22.220:8000/live/d/d/28435.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC Radical
+http://149.56.22.220:8000/live/d/d/26935.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC Radical HD
+http://149.56.22.220:8000/live/d/d/6177.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC Radical FHD
+http://149.56.22.220:8000/live/d/d/28433.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Canal Q
+http://149.56.22.220:8000/live/d/d/6164.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP Memoria
+http://149.56.22.220:8000/live/d/d/6168.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",E! Entertainment HD
+http://149.56.22.220:8000/live/d/d/6124.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TLC HD
+http://149.56.22.220:8000/live/d/d/6123.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",A&E
+http://149.56.22.220:8000/live/d/d/6125.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",CBS Reality
+http://149.56.22.220:8000/live/d/d/6163.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC Caras
+http://149.56.22.220:8000/live/d/d/26934.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC Caras HD
+http://149.56.22.220:8000/live/d/d/6176.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC Caras FHD
+http://149.56.22.220:8000/live/d/d/28434.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI Reality
+http://149.56.22.220:8000/live/d/d/6173.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI Reality LOW
+http://149.56.22.220:8000/live/d/d/28436.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI Reality Mosaico
+http://149.56.22.220:8000/live/d/d/9294.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI Reality Camara Exclusiva 1
+http://149.56.22.220:8000/live/d/d/7741.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI Reality Camara Exclusiva 2
+http://149.56.22.220:8000/live/d/d/7740.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI Reality Camara Exclusiva 3
+http://149.56.22.220:8000/live/d/d/7739.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI Reality Camara Exclusiva 4
+http://149.56.22.220:8000/live/d/d/7738.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TV5 MONDE EUROPE
+http://149.56.22.220:8000/live/d/d/26374.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",—— DESPORTO ——
+http://149.56.22.220:8000/live/d/d/15778.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",A Bola TV
+http://149.56.22.220:8000/live/d/d/6116.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",A Bola TV alt1
+http://149.56.22.220:8000/live/d/d/34978.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",A Bola TV alt2
+http://149.56.22.220:8000/live/d/d/34977.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 4K UHD
+http://149.56.22.220:8000/live/d/d/27467.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 4K UHD Low
+http://149.56.22.220:8000/live/d/d/30127.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV Multiplay HD
+http://149.56.22.220:8000/live/d/d/28169.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV +
+http://149.56.22.220:8000/live/d/d/6112.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV + LOW
+http://149.56.22.220:8000/live/d/d/6114.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV + HD
+http://149.56.22.220:8000/live/d/d/6113.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV + FHD
+http://149.56.22.220:8000/live/d/d/6115.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 1
+http://149.56.22.220:8000/live/d/d/6108.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 1 LOW
+http://149.56.22.220:8000/live/d/d/6110.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 1 HD
+http://149.56.22.220:8000/live/d/d/6109.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 1 FHD
+http://149.56.22.220:8000/live/d/d/6111.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 1 FHD Alt
+http://149.56.22.220:8000/live/d/d/19484.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 2
+http://149.56.22.220:8000/live/d/d/6103.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 2 LOW
+http://149.56.22.220:8000/live/d/d/6105.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 2 HD
+http://149.56.22.220:8000/live/d/d/6104.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 2 FHD
+http://149.56.22.220:8000/live/d/d/6107.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 3
+http://149.56.22.220:8000/live/d/d/6099.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 3 LOW
+http://149.56.22.220:8000/live/d/d/6101.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 3 HD
+http://149.56.22.220:8000/live/d/d/6100.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 3 FHD
+http://149.56.22.220:8000/live/d/d/6102.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 4
+http://149.56.22.220:8000/live/d/d/6095.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 4 LOW
+http://149.56.22.220:8000/live/d/d/6097.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 4 HD
+http://149.56.22.220:8000/live/d/d/6096.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 4 FHD
+http://149.56.22.220:8000/live/d/d/6098.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 5
+http://149.56.22.220:8000/live/d/d/6091.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 5 LOW
+http://149.56.22.220:8000/live/d/d/6093.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 5 HD
+http://149.56.22.220:8000/live/d/d/6092.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sport•TV 5 FHD
+http://149.56.22.220:8000/live/d/d/6094.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Benfica TV
+http://149.56.22.220:8000/live/d/d/6089.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Benfica TV LOW
+http://149.56.22.220:8000/live/d/d/28465.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Benfica TV HD
+http://149.56.22.220:8000/live/d/d/6088.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Benfica TV FHD
+http://149.56.22.220:8000/live/d/d/6090.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sporting TV LOW
+http://149.56.22.220:8000/live/d/d/28460.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sporting TV
+http://149.56.22.220:8000/live/d/d/19261.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sporting TV HD
+http://149.56.22.220:8000/live/d/d/28459.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sporting TV FHD
+http://149.56.22.220:8000/live/d/d/6083.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Porto Canal
+http://149.56.22.220:8000/live/d/d/28437.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Porto Canal HD
+http://149.56.22.220:8000/live/d/d/6169.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Chelsea TV HD
+http://149.56.22.220:8000/live/d/d/26380.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Real Madrid TV
+http://149.56.22.220:8000/live/d/d/12093.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Eurosport
+http://149.56.22.220:8000/live/d/d/26932.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Eurosport 1
+http://149.56.22.220:8000/live/d/d/28458.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Eurosport 1 HD
+http://149.56.22.220:8000/live/d/d/6086.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Eurosport 2
+http://149.56.22.220:8000/live/d/d/6085.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Eurosport 2 HD
+http://149.56.22.220:8000/live/d/d/22965.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",MCS Extreme
+http://149.56.22.220:8000/live/d/d/6077.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Kombat Sports HD
+http://149.56.22.220:8000/live/d/d/6081.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Fight Network FHD
+http://149.56.22.220:8000/live/d/d/8136.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Fight Network HD
+http://149.56.22.220:8000/live/d/d/26398.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Motors TV HD
+http://149.56.22.220:8000/live/d/d/6080.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Fuel TV HD
+http://149.56.22.220:8000/live/d/d/6076.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Motorvision HD
+http://149.56.22.220:8000/live/d/d/6078.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",PFC
+http://149.56.22.220:8000/live/d/d/6087.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",NBA TV
+http://149.56.22.220:8000/live/d/d/26372.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",—— TV FILMES ——
+http://149.56.22.220:8000/live/d/d/15784.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",AMC
+http://149.56.22.220:8000/live/d/d/26936.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",AMC HD
+http://149.56.22.220:8000/live/d/d/28446.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",AMC FHD
+http://149.56.22.220:8000/live/d/d/6146.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Cinemundo HD
+http://149.56.22.220:8000/live/d/d/6147.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Cinemundo
+http://149.56.22.220:8000/live/d/d/26399.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX Movies
+http://149.56.22.220:8000/live/d/d/26940.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Fox Movies HD
+http://149.56.22.220:8000/live/d/d/28448.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX Movies FHD
+http://149.56.22.220:8000/live/d/d/6143.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Hollywood
+http://149.56.22.220:8000/live/d/d/6148.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Hollywood HD
+http://149.56.22.220:8000/live/d/d/28445.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Hollywood FHD
+http://149.56.22.220:8000/live/d/d/6149.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVCine 1
+http://149.56.22.220:8000/live/d/d/6161.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVCine 1 HD
+http://149.56.22.220:8000/live/d/d/28440.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVCine 1 FHD
+http://149.56.22.220:8000/live/d/d/6162.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVCine 2
+http://149.56.22.220:8000/live/d/d/6159.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVCine 2 HD
+http://149.56.22.220:8000/live/d/d/28441.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVCine 2 FHD
+http://149.56.22.220:8000/live/d/d/6160.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVCine 3
+http://149.56.22.220:8000/live/d/d/6157.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVCine 3 HD
+http://149.56.22.220:8000/live/d/d/28442.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVCine 3 FHD
+http://149.56.22.220:8000/live/d/d/6158.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVCine 4
+http://149.56.22.220:8000/live/d/d/6155.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVCine 4 HD
+http://149.56.22.220:8000/live/d/d/28443.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVCine 4 FHD
+http://149.56.22.220:8000/live/d/d/6156.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",LXTV Movies
+http://149.56.22.220:8000/live/d/d/16417.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",—— SÉRIES ——
+http://149.56.22.220:8000/live/d/d/15779.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",AXN
+http://149.56.22.220:8000/live/d/d/6137.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",AXN HD
+http://149.56.22.220:8000/live/d/d/28453.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",AXN FHD
+http://149.56.22.220:8000/live/d/d/6138.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",AXN Black HD
+http://149.56.22.220:8000/live/d/d/28454.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",AXN Black
+http://149.56.22.220:8000/live/d/d/6135.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",AXN Black FHD
+http://149.56.22.220:8000/live/d/d/6136.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",AXN White
+http://149.56.22.220:8000/live/d/d/6133.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",AXN White HD
+http://149.56.22.220:8000/live/d/d/28455.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",AXN White FHD
+http://149.56.22.220:8000/live/d/d/6134.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX
+http://149.56.22.220:8000/live/d/d/26848.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX HD
+http://149.56.22.220:8000/live/d/d/28449.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX FHD
+http://149.56.22.220:8000/live/d/d/6142.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX Comedy
+http://149.56.22.220:8000/live/d/d/26939.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX Comedy HD
+http://149.56.22.220:8000/live/d/d/28450.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX Comedy FHD
+http://149.56.22.220:8000/live/d/d/6141.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX Crime
+http://149.56.22.220:8000/live/d/d/26938.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX Crime HD
+http://149.56.22.220:8000/live/d/d/28451.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX Crime FHD
+http://149.56.22.220:8000/live/d/d/6140.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX Life
+http://149.56.22.220:8000/live/d/d/26937.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX Life HD
+http://149.56.22.220:8000/live/d/d/28452.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",FOX Life FHD
+http://149.56.22.220:8000/live/d/d/6139.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SyFy
+http://149.56.22.220:8000/live/d/d/6145.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Syfy HD
+http://149.56.22.220:8000/live/d/d/28447.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SyFy FHD
+http://149.56.22.220:8000/live/d/d/6144.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVSeries
+http://149.56.22.220:8000/live/d/d/6150.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVSeries HD
+http://149.56.22.220:8000/live/d/d/28444.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVSeries FHD
+http://149.56.22.220:8000/live/d/d/6151.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Crime & Investigation
+http://149.56.22.220:8000/live/d/d/6126.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",LXTV Series
+http://149.56.22.220:8000/live/d/d/16418.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",—— INFANTIL ——
+http://149.56.22.220:8000/live/d/d/15780.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Baby First
+http://149.56.22.220:8000/live/d/d/12101.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Baby TV
+http://149.56.22.220:8000/live/d/d/6067.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Panda Biggs
+http://149.56.22.220:8000/live/d/d/6070.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Canal Panda
+http://149.56.22.220:8000/live/d/d/6044.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Cartoon Network
+http://149.56.22.220:8000/live/d/d/6071.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Disney Channel
+http://149.56.22.220:8000/live/d/d/6069.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Disney Junior
+http://149.56.22.220:8000/live/d/d/6068.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Jim Jam
+http://149.56.22.220:8000/live/d/d/6073.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Nickelodeon
+http://149.56.22.220:8000/live/d/d/6072.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC K HD
+http://149.56.22.220:8000/live/d/d/6074.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Nick Jr
+http://149.56.22.220:8000/live/d/d/26219.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",—— DOCUMENTÁRIOS ——
+http://149.56.22.220:8000/live/d/d/15781.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Discovery Channel
+http://149.56.22.220:8000/live/d/d/6132.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Discovery Channel HD
+http://149.56.22.220:8000/live/d/d/28466.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Discovery ShowCase
+http://149.56.22.220:8000/live/d/d/28467.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Discovery Showcase HD
+http://149.56.22.220:8000/live/d/d/6131.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",National Geographic
+http://149.56.22.220:8000/live/d/d/28468.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",National Geographic HD
+http://149.56.22.220:8000/live/d/d/6130.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",National Geo Wild HD
+http://149.56.22.220:8000/live/d/d/6129.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",National Geo Wild
+http://149.56.22.220:8000/live/d/d/28469.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Canal Historia
+http://149.56.22.220:8000/live/d/d/6128.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Canal Historia HD
+http://149.56.22.220:8000/live/d/d/28470.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",—— LIFESTYLE ——
+http://149.56.22.220:8000/live/d/d/15791.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Dog TV FHD
+http://149.56.22.220:8000/live/d/d/26379.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Caçavision
+http://149.56.22.220:8000/live/d/d/6117.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Caça e Pesca
+http://149.56.22.220:8000/live/d/d/6118.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Toros TV HD
+http://149.56.22.220:8000/live/d/d/6075.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Outdoor Channel FHD
+http://149.56.22.220:8000/live/d/d/8132.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Fashion TV
+http://149.56.22.220:8000/live/d/d/12086.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Luxe TV FHD
+http://149.56.22.220:8000/live/d/d/26377.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Fine Living Network FHD
+http://149.56.22.220:8000/live/d/d/26378.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",24 Kitchen HD
+http://149.56.22.220:8000/live/d/d/28457.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",24 Kitchen FHD
+http://149.56.22.220:8000/live/d/d/6120.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Food Network FHD
+http://149.56.22.220:8000/live/d/d/6119.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",M6
+http://149.56.22.220:8000/live/d/d/26366.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",MCS Lifestyle
+http://149.56.22.220:8000/live/d/d/6121.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Travel Channel HD
+http://149.56.22.220:8000/live/d/d/28456.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Travel Channel FHD
+http://149.56.22.220:8000/live/d/d/6122.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Canal Odisseia
+http://149.56.22.220:8000/live/d/d/6127.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TV Fatima
+http://149.56.22.220:8000/live/d/d/26221.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Angelus TV
+http://149.56.22.220:8000/live/d/d/26373.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Canção Nova HD
+http://149.56.22.220:8000/live/d/d/8134.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",—— INTERNACIONAL ——
+http://149.56.22.220:8000/live/d/d/15782.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",ARTV
+http://149.56.22.220:8000/live/d/d/28462.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TV Globo LOW
+http://149.56.22.220:8000/live/d/d/28438.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TV Globo
+http://149.56.22.220:8000/live/d/d/6167.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TV Globo Premium
+http://149.56.22.220:8000/live/d/d/6166.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TV Record
+http://149.56.22.220:8000/live/d/d/26425.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TV Record HD
+http://149.56.22.220:8000/live/d/d/6165.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TV Record FHD
+http://149.56.22.220:8000/live/d/d/28439.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Globo Portugal
+http://149.56.22.220:8000/live/d/d/19267.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",RTP Internacional
+http://149.56.22.220:8000/live/d/d/27468.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVI Internacional
+http://149.56.22.220:8000/live/d/d/27469.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",SIC Internacional
+http://149.56.22.220:8000/live/d/d/28170.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TPA Internacional
+http://149.56.22.220:8000/live/d/d/13665.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TVE Internacional
+http://149.56.22.220:8000/live/d/d/19265.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",BBC Entertainment
+http://149.56.22.220:8000/live/d/d/8131.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",TV Galicia
+http://149.56.22.220:8000/live/d/d/26369.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",—— MÚSICA ——
+http://149.56.22.220:8000/live/d/d/15783.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Sundance TV HD
+http://149.56.22.220:8000/live/d/d/19263.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Afro Music
+http://149.56.22.220:8000/live/d/d/6065.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",MCM POP
+http://149.56.22.220:8000/live/d/d/6062.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",MCM Top
+http://149.56.22.220:8000/live/d/d/6061.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Trace Urban
+http://149.56.22.220:8000/live/d/d/28461.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",Trace Urban FHD
+http://149.56.22.220:8000/live/d/d/12089.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",MTV Portugal
+http://149.56.22.220:8000/live/d/d/6058.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",VH1
+http://149.56.22.220:8000/live/d/d/6055.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2mdgIgW" group-title="PORTUGAL 3",VH1 Classic
+http://149.56.22.220:8000/live/d/d/12092.m3u8
+
+
+
 
 
 
