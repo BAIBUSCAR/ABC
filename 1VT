@@ -1135,57 +1135,12 @@ http://painel.tvdigitalsbl.net:8081/live/Tiesto/Tiesto/2488.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2KIK9pV" tvg-id="" group-title="CCMusic",IndieWave
 https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Play (USA)
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Rock | HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Indie | HD
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Metal | HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Alternative | HD
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice 90 | HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Musica Urbana | HD
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Brits + Hits | HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Today | HD
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Pop & Country | HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Pop Hits | HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Dance | HD
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Hip-Hop And R&B | HD
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Hit | HD
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice R&B Soul | HD
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Rap | HD
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Rap 2K | HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Throwback Jamz | HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Y2K | HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice | HD
-https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Mexicana | HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Pop Latino | HD
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Tropicales | HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Teen Beats | HD
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Kidz Only | HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Toddler Tunes | HD
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lS4CAgN.png" group-title="CCMusic",Radio U (USA)
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="mtvportugal.pt" group-title="CCMusic",MTV PORTUGAL
 
@@ -1269,7 +1224,32 @@ http://www.djing.com/tv/underground.m3u8
 http://www.djing.com/tv/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CCMusic", DJING ANIMATION   
 http://www.djing.com/tv/a-05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="CCMusic",Box Hits (UK)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DT3DICU.png" group-title="CCMusic",California Music Channel (USA)
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="CCMusic",Capital TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2j8tsJq.png" group-title="CCMusic",Heart TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://indiewaveentertainment.com/wp-content/uploads/2017/09/logo_square.png" group-title="CCMusic",IndieWave (USA)
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OiZowUH.png" group-title="CCMusic",Kool London Radio (UK)
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="CCMusic",Music Choice Play (USA)
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lS4CAgN.png" group-title="CCMusic",Radio U (USA)
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="CCMusic",The Country Network (USA)
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 
 
 
