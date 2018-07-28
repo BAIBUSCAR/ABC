@@ -6,7 +6,7 @@ http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/79.m3u8
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV (Op 2)
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/142/index.m3u8
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV (Op 3)
-http://asdp.ddns.net:8000/live/Tiago/Tiago/323.m3u8
+http://gearsreloaded.org:2086/live/Festa/Festa/722.m3u8
 #EXTINF:-1 tvg-id="Playboy.pt"  tvg-logo="https://tinyurl.com/y84w2pow" group-title="XTV", Playboy TV (Op 4)
 http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/365/index.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot
@@ -14,11 +14,11 @@ http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/196.m3u8
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y8zkau7z" group-title="XTV", Hot (Op 2)
 
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y9oett7n" group-title="XTV", Sexy Hot
-http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/3921.m3u8
+
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://tinyurl.com/y9oett7n" group-title="XTV", Sexy Hot (Op 2)
 
-#EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://bit.ly/2rPeGHb" group-title="XTV",Claro Adulto
-http://217.182.173.184:8000/live/micha/micha/2078.m3u8
+#EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://i.pinimg.com/originals/a8/f1/42/a8f142c5ed1f874fb756ae746ab0cdbe.jpg" group-title="XTV",Reality Kings
+http://gearsreloaded.org:2086/live/Festa/Festa/727.m3u8
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus
 http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/192.m3u8
 #EXTINF:-1 tvg-id="venus.pt" tvg-logo="https://tinyurl.com/y9rgzhv9" group-title="XTV", Venus(Op 2)
@@ -44,20 +44,23 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/851/inde
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yaqxs68h" group-title="XTV", Dorcel TV XXX
 http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/851/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ya5mjy4a" group-title="XTV", Sex Prive
- 
+http://gearsreloaded.org:2086/live/Festa/Festa/559.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yd3ep6xa" group-title="XTV",Egoist
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/267/index.m3u8
 #EXTINF:-1 tvg-id="But GO" tvg-name="But GO" tvg-logo="https://tinyurl.com/ycl2uuma" group-title="XTV" , But GO 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y726lbsk" group-title="XTV", Frenchlover
 http://81.177.254.23:9996/play/FRENCHLOVER/index.m3u8
-#EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD
+#EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV", Hustler HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/502/index.m3u8
-#EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD (Op 2)
+#EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV", Hustler HD (Op 2)
 http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/502/index.m3u8
-#EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV" , Hustler HD (Op 3)
+#EXTINF:-1 tvg-id="Hustler HD" tvg-logo="https://tinyurl.com/ybm5qhyd" group-title="XTV", Hustler HD (Op 3)
 http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/1931.m3u8
-#EXTINF:-1 tvg-id="BlueHustler HD" tvg-logo="https://tinyurl.com/ycb6gqwx" group-title="XTV" , Blue Hustler HD
+#EXTINF:-1 tvg-id="BlueHustler HD" tvg-logo="https://tinyurl.com/ycb6gqwx" group-title="XTV", Blue Hustler HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://targetcreates.com/reloaded-logos/heyzo.png" group-title="XTV",HEYZO
+http://gearsreloaded.org:2086/live/Festa/Festa/566.m3u8
 
 #EXTINF:-1 tvg-id="Penthouse" tvg-logo="https://tinyurl.com/y9mcsvkl" group-title="XTV" , Penthouse 
 http://playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/363/index.m3u8
