@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2vZvrR7" type="MOVIE" group-title="ANIMACAO",Asas pelos Ares
+
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2MmDX6M" type="MOVIE" group-title="ANIMACAO",Os Incriveis
 https://cld.pt/dl/download/ba1c5233-118c-4ee1-8773-d27f4fe0d07b/Os%20Incriveis.avi
 
