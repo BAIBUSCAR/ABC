@@ -1,10 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2J5BSXj" type="MOVIE" group-title="ANIMACAO",Os Incriveis
+#EXTINF:-1 tvg-logo="https://bit.ly/2MmDX6M" type="MOVIE" group-title="ANIMACAO",Os Incriveis
 https://cld.pt/dl/download/ba1c5233-118c-4ee1-8773-d27f4fe0d07b/Os%20Incriveis.avi
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2yGb2VT" type="MOVIE" group-title="ANIMACAO",Moana
+#EXTINF:-1 tvg-logo="https://bit.ly/2vBAnfC" type="MOVIE" group-title="ANIMACAO",Vaiana
 https://cld.pt/dl/download/770c855a-9a51-4e7a-b6cb-228db1ab7be8/Moana.2016.1080p.PT.BluRayPT.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2MoczSu" type="MOVIE" group-title="ANIMACAO",A Idade da Pedra
