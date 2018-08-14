@@ -917,6 +917,9 @@ http://teuportal.dyndns.org:25461/live/qGq5hDzA1L/qtV5Ju5l2j/32.m3u8
 
 #EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/M6-tv-logo.png" group-title="CumCatano",M6
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg" group-group-title="CumCatano",Amazing Facts TV (USA)
+http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
+
 #EXTINF:-1 tvg-id="TVFATIMA" tvg-name="Fatima" tvg-logo="https://tinyurl.com/ycwtm5vk" group-title="CumCatano",Fatima
 http://213.13.26.11:1935/live/santuario.stream/CumCatano.m3u8
 #EXTINF:-1 tvg-id="PAROQUIADEFATIMA" tvg-name="Paroquia Fatima" tvg-logo="https://tinyurl.com/ycwtm5vk" group-title="CumCatano",PAROQUIA DE FATIMA
