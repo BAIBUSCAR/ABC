@@ -1028,56 +1028,74 @@ http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lS4CAgN.png" group-title="CCMusic",Radio U (USA)
 http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Rock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Rock 
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC138/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Metal
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Metal 
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC139/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE 90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC140/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Alternative
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC122/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Indie
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Indie 
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC129/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Brits + Hits
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Alternative 
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC122/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Brits + Hits 
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC143/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Dance
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Dance 
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC127/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Hip Hop/R&B
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Hip Hop/R&B 
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC106/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Hit List
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Hit List 
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC100/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Kidz Only
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC130/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Mexicana
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC131/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Musica Urbana
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC128/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Pop & Country
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC132/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC133/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC123/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE R&B/Soul
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC124/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Rap
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC125/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Rap 2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC141/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Teen Beats
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC118/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Throwback Jamz
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC142/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Today's Country
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC121/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Toddler Tunes
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC144/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", MUSIC CHOICE Y2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Kidz Only 
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC130/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Mexicana 
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC131/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Musica Urbana 
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC128/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Pop & Country 
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC132/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Pop Hits 
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC133/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Pop Latino 
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC123/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - R&B/Soul 
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC124/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Rap 
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC125/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Rap 2K 
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC141/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Teen Beats 
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC118/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Throwback Jamz 
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC142/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Today's Country 
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC121/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Toddler Tunes 
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC144/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Tropicales 
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Music Choice - Y2K 
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8?Platform=&AppName=&AppVersion=&Source=VCChainA&AssetID=VC_140&AssetType=VideoChannel&RegionID=&MvpdID=&IsPrimary=&IsDR=
 
 
 
