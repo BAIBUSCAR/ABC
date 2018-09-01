@@ -1537,7 +1537,7 @@ rtmp://91.201.78.3:1935/live/classicshd
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycwxlpba" tvg-id="" group-title="CCMusic",ONE Dance HD
 rtmp://91.201.78.3:1935/live/dancehd
 #EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/646bh7slp/HEAVYMETAL.png" group-title="CCMusic",Heavy Metal TV
-rtmp://70.166.99.93:1935/hmtv/myStream
+http://autopilot.myowntv.org/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yajd7p7e" group-title="CCMusic",ESKA ROCK TV
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycu9qruy" tvg-id="iconcerts" group-title="CCMusic",iConcerts HD
