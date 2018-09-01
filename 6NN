@@ -1,102 +1,100 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="Desportol",Eleven Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="DESPORTO",Eleven Sports 1
 http://teriptv.mine.nu:8000/live/luislopes/luislopes/40594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="Desportol",Eleven Sports 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="DESPORTO",Eleven Sports 1 FHD
 http://teriptv.mine.nu:8000/live/luislopes/luislopes/40592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Desportol",ELEVEN SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="" group-title="DESPORTO",ELEVEN SPORTS 1 HD
 http://teriptv.mine.nu:8000/live/luislopes/luislopes/40593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="Desportol",Eleven Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="DESPORTO",Eleven Sports 2
 http://teriptv.mine.nu:8000/live/luislopes/luislopes/40591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="Desportol",Eleven Sports 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="DESPORTO",Eleven Sports 2 FHD
 http://teriptv.mine.nu:8000/live/luislopes/luislopes/40589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="Desportol",ELEVEN SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="DESPORTO",ELEVEN SPORTS 2 HD
 http://teriptv.mine.nu:8000/live/luislopes/luislopes/40590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="Desportol",ELEVEN SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="DESPORTO",ELEVEN SPORTS 3 HD
 http://teriptv.mine.nu:8000/live/luislopes/luislopes/40588.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="Desportol",ELEVEN SPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="DESPORTO",ELEVEN SPORTS 4 HD
 http://teriptv.mine.nu:8000/live/luislopes/luislopes/40587.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="Desportol",ELEVEN SPORTS 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="DESPORTO",ELEVEN SPORTS 5 HD
 http://teriptv.mine.nu:8000/live/luislopes/luislopes/40586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="Desportol",ELEVEN SPORTS 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ELEVEN_square-RGB-01-01-01-01.png" group-title="DESPORTO",ELEVEN SPORTS 6 HD
 http://teriptv.mine.nu:8000/live/luislopes/luislopes/40585.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" group-title="PORTUGAL",A BOLA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" group-title="DESPORTO",A BOLA TV
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/30.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" group-title="PORTUGAL",SPORT TV+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" group-title="DESPORTO",SPORT TV+
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/33.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" group-title="PORTUGAL",SPORT TV+ HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" group-title="DESPORTO",SPORT TV+ HD
 http://leaderpro.pt:25461/live/lm/lm/340.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="PORTUGAL",SPORT TV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="DESPORTO",SPORT TV 1
 http://77.54.248.94:9981/stream/channelid/2135667
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="PORTUGAL",SPORT TV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="DESPORTO",SPORT TV 1
 http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/8339.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="PORTUGAL",SPORT TV 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="DESPORTO",SPORT TV 1 HD
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/35.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="PORTUGAL",SPORT TV 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="DESPORTO",SPORT TV 1 HD
 http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/8338.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="PORTUGAL",SPORT TV 1 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="DESPORTO",SPORT TV 1 FHD
 http://leaderpro.pt:25461/live/lm/lm/12721.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" group-title="PORTUGAL",SPORT TV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" group-title="DESPORTO",SPORT TV 2
 http://leaderpro.pt:25461/live/lm/lm/5401.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" group-title="PORTUGAL",SPORT TV 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" group-title="DESPORTO",SPORT TV 2 HD
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/37.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" group-title="PORTUGAL",SPORT TV 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" group-title="DESPORTO",SPORT TV 2 HD
 http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/8336.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" group-title="PORTUGAL",SPORT TV 2 FHD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" group-title="PORTUGAL",SPORT TV 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" group-title="DESPORTO",SPORT TV 2 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" group-title="DESPORTO",SPORT TV 3
 http://leaderpro.pt:25461/live/lm/lm/350.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" group-title="PORTUGAL",SPORT TV 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" group-title="DESPORTO",SPORT TV 3 HD
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/38.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" group-title="PORTUGAL",SPORT TV 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" group-title="DESPORTO",SPORT TV 3 HD
 http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/8334.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" group-title="PORTUGAL",SPORT TV 3 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" group-title="DESPORTO",SPORT TV 3 FHD
 http://leaderpro.pt:25461/live/lm/lm/5297.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="DESPORTO",SPORT TV 4
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/39.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="DESPORTO",SPORT TV 4
 http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/8333.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="DESPORTO",SPORT TV 4 HD
 http://leaderpro.pt:25461/live/lm/lm/5409.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="DESPORTO",SPORT TV 4 FHD
 http://leaderpro.pt:25461/live/lm/lm/5410.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL",SPORT TV 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="DESPORTO",SPORT TV 5
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/40.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL",SPORT TV 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="DESPORTO",SPORT TV 5
 http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/8331.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL",SPORT TV 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="DESPORTO",SPORT TV 5 HD
 http://leaderpro.pt:25461/live/lm/lm/5328.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL",SPORT TV 5 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="DESPORTO",SPORT TV 5 FHD
 http://leaderpro.pt:25461/live/lm/lm/5406.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4K.png" group-title="PORTUGAL",SPORT TV 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4K.png" group-title="DESPORTO",SPORT TV 4K
 http://leaderpro.pt:25461/live/lm/lm/5487.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL",BENFICA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="DESPORTO",BENFICA TV
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/41.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL",BENFICA TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="DESPORTO",BENFICA TV HD
 http://leaderpro.pt:25461/live/lm/lm/337.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL",BENFICA TV FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="DESPORTO",BENFICA TV FHD
 http://leaderpro.pt:25461/live/lm/lm/12722.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" group-title="PORTUGAL",SPORTING TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" group-title="DESPORTO",SPORTING TV
 http://leaderpro.pt:25461/live/lm/lm/336.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" group-title="PORTUGAL",SPORTING TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" group-title="DESPORTO",SPORTING TV HD
 http://leaderpro.pt:25461/live/lm/lm/335.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="PORTUGAL",EUROSPORT 1 PT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="DESPORTO",EUROSPORT 1 PT
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/31.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="PORTUGAL",EUROSPORT 1 HD PT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="DESPORTO",EUROSPORT 1 HD PT
 http://leaderpro.pt:25461/live/lm/lm/328.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" group-title="PORTUGAL",EUROSPORT 2 PT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" group-title="DESPORTO",EUROSPORT 2 PT
 http://leaderpro.pt:25461/live/lm/lm/327.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORTNEWS.png" group-title="PORTUGAL",EUROSPORT NEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORTNEWS.png" group-title="DESPORTO",EUROSPORT NEWS
 http://leaderpro.pt:25461/live/lm/lm/418.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png" group-title="PORTUGAL",MOTORSPORT.TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png" group-title="DESPORTO",MOTORSPORT.TV
 http://leaderpro.pt:25461/live/lm/lm/323.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png" group-title="PORTUGAL",MOTORSPORT.TV HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISIONTV.png" group-title="PORTUGAL",MOTORVISION TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png" group-title="DESPORTO",MOTORSPORT.TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISIONTV.png" group-title="DESPORTO",MOTORVISION TV
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/190.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="PORTUGAL",PFC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="DESPORTO",PFC
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/654.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="PORTUGAL",PFC HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="DESPORTO",PFC HD
 http://leaderpro.pt:25461/live/lm/lm/11660.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUELTV.png" group-title="PORTUGAL",FUEL TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUELTV.png" group-title="DESPORTO",FUEL TV
 http://topiptv.net:5890/live/LclhQNz6lE/bRRZqmK1Cb/8345.m3u8
-
-
