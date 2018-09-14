@@ -47,6 +47,9 @@ https://cld.pt/dl/download/89912c7a-8555-4bda-91ce-a9a6327f02d3/Emoji%20o%20Film
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7bwrlnu" type="MOVIE" group-title="ANIMACAO",Lego Batman
 https://cld.pt/dl/download/f3d46549-d1a4-422b-b0bc-3ba98c2b9ca0/Lego.Batman.O.Filme.2017.anim.mkv
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2xerVDK" type="MOVIE" group-title="ANIMACAO",Lego Ninjago
+http://happy-team.org:8686/owncloud/index.php/s/ZMEjEFSrZshsN8g/download
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y746essw" type="MOVIE" group-title="ANIMACAO",Dia de Surf 2
 https://cld.pt/dl/download/aa1e1201-9098-4ae1-be40-afa31c851f60/Dia.de.Surf.2.017.PT.ENG.anim.mkv
 
@@ -67,6 +70,15 @@ https://cld.pt/dl/download/45269376-a43c-4d95-a6b0-4d5652e1e26a/The.Boss.Baby.20
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2NdwS9R" type="MOVIE" group-title="ANIMACAO", A vida secreta dos bichos
 https://cld.pt/dl/download/9e8ca908-8d69-4ec1-b449-3e23f78720f3/a%20vida%20secreta%20dos%20bichos.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2OhWkHQ" type="MOVIE" group-title="ANIMACAO", Patrulha de Gnomos
+http://upload.happy-team.org:8080/upserver/user_uploads/freefcneto7f12/pdg.avi
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2CWipKJ" type="MOVIE" group-title="ANIMACAO", As Aventuras de Ozzy
+http://happy-team.org:8080/happycloud/index.php/s/xOJPps8YEB99tNs/download
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2CYzNyz" type="MOVIE" group-title="ANIMACAO", Ilha dos Monstros
+http://happy-team.org:8686/owncloud/index.php/s/tqa7EgnKWsJ2f2O/download
 
 #EXTINF:-1 tvg-logo="http://www.crimsontear.com/new-releases/covers/2013-10-01/the-croods-cover.jpg" type="MOVIE" group-title="ANIMACAO", Os Croods
 
@@ -140,6 +152,9 @@ https://cld.pt/dl/download/9e8ca908-8d69-4ec1-b449-3e23f78720f3/a%20vida%20secre
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/91/50/20028729.jpg" type="MOVIE" group-title="ANIMACAO", CARS 2
 
 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/16/11/29/19/35/362561.jpg" type="MOVIE" group-title="ANIMACAO", CARS 3
+http://happy-team.org:8686/owncloud/index.php/s/wXdMJTjWV2oETdK/download
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Despicable_Me_2_poster.jpg" type="MOVIE" group-title="ANIMACAO", Despicable Me 2
 
 
@@ -204,10 +219,10 @@ https://cld.pt/dl/download/9e8ca908-8d69-4ec1-b449-3e23f78720f3/a%20vida%20secre
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg" type="MOVIE" group-title="ANIMACAO", Toy Story
-
+http://upload.happy-team.org:8080/upserver/user_uploads/freefcneto7f12/ts1.mp4
 
 #EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/24266/p24266_p_v8_ab.jpg" type="MOVIE" group-title="ANIMACAO", Toy Story 2
-
+http://upload.happy-team.org:8080/upserver/user_uploads/freefcneto7f12/ts2.avi
 
 #EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/toy_story_3-691147043-large.jpg" type="MOVIE" group-title="ANIMACAO", Toy Story 3
 
