@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/AGzdE7" type="MOVIE" group-title="FILMES",Peter Rabbit
+http://upload.happy-team.org:8080/upserver/user_uploads/freefcneto7f12/prt.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="ANON" tvg-logo="https://bit.ly/2rOGOJz" group-title="FILMES", ANON
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ANONLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/W6crBX" group-title="FILMES", JOGADOR N°1 
