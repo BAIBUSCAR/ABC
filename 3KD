@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://bit.ly/AGzdE7" type="MOVIE" group-title="ANIMACAO",Peter Rabbit
-http://upload.happy-team.org:8080/upserver/user_uploads/freefcneto7f12/prt.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2vZvrR7" type="MOVIE" group-title="ANIMACAO",Asas pelos Ares
 https://cld.pt/dl/download/4f66bec2-b6ab-4ccc-9369-c1dc22cbeec8/Asas%20pelos%20Ares%202018%20720p%20BRRip%20PT%20%5BT-Rex%5D.mkv
@@ -67,230 +65,224 @@ https://cld.pt/dl/download/71bd3228-9abc-40a3-a5a7-e3e9fdfe80de/Capit%C3%A3o%20C
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8r8rlh3" type="MOVIE" group-title="ANIMACAO", Boss Baby
 https://cld.pt/dl/download/45269376-a43c-4d95-a6b0-4d5652e1e26a/The.Boss.Baby.2017.720p.BluRay.x264.PT%5BT-REX%5D.mkv
 
-#EXTINF:-1 tvg-logo="http://www.crimsontear.com/new-releases/covers/2013-10-01/the-croods-cover.jpg" type="MOVIE" group-title="ANIMACAO", Os Croods
-https://cld.pt/dl/download/eae7480a-7c56-4af8-890f-928712fbcaf3/The.Croods.2013.PORTUGUESE.DVDRip.XviD-WiNTeaM.avi
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_UY1200_CR64,0,630,1200_AL_.jpg" type="MOVIE" group-title="ANIMACAO", A vida secreta dos bichos
+#EXTINF:-1 tvg-logo="https://bit.ly/2NdwS9R" type="MOVIE" group-title="ANIMACAO", A vida secreta dos bichos
 https://cld.pt/dl/download/9e8ca908-8d69-4ec1-b449-3e23f78720f3/a%20vida%20secreta%20dos%20bichos.mp4
 
+#EXTINF:-1 tvg-logo="http://www.crimsontear.com/new-releases/covers/2013-10-01/the-croods-cover.jpg" type="MOVIE" group-title="ANIMACAO", Os Croods
+
+
 #EXTINF:-1 tvg-logo="https://cld.pt/dl/download/9b6e79c1-1588-4c88-8b54-688615e986b8/v1.bTsxMjAyNzMzODtwOzE3MTk0OzEyMDA7NTQwOzgwMA.jpg" type="MOVIE" group-title="ANIMACAO", A Lenda do Dragão
-https://cld.pt/dl/download/6121a331-ac4c-4585-ad02-75f08746e675/A%20Lenda%20do%20Drag%C3%A3o%20%282016%29720p.BluRay.x264-%5BYTS.AG%5DPT-T-Rex.mk
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5qVD5TD1CiALR5vUsMzh2BschVU.jpg" type="MOVIE" group-title="ANIMACAO", Cegonhas
-https://cld.pt/dl/download/e847d85e-703d-41db-a172-bb131221b6e2/Cegonhas%20-%202016.mkv
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Kubo_and_the_Two_Strings_poster.png" type="MOVIE" group-title="ANIMACAO", Kubo And The Two Strings
-https://cld.pt/dl/download/2753eb43-5741-4a05-8f13-37d654f23627/Kubo.And.The.Two.Strings.2016.PORTUGUESE.720p.BRRiP.x264-OWN.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Storks_(film)_poster_2.jpg" type="MOVIE" group-title="ANIMACAO", Storks 
-https://cld.pt/dl/download/fa134f90-0b48-4c2c-9504-8a2dbcfe2cf4/Storks.2016.PT.720p.BRRiP.x264-iFT.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Trolls_(film)_logo.png" type="MOVIE" group-title="ANIMACAO", Trolls
-https://cld.pt/dl/download/e5e2b66b-c1d1-44d0-83df-27a15a9d886d/Trolls.2016.PT.720p.BluRay.x264-iFT.mp4
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/05/14/14/20/365361.jpg" type="MOVIE" group-title="ANIMACAO", Divertida-Mente
-https://cld.pt/dl/download/9239e270-b6d9-443b-b74e-c20f706e5838/Divertida-Mente.2015.PT.ENG.BRRip.XviD-DarkSkY.mkv
+
 
 #EXTINF:-1 tvg-logo="http://www.ocamundongo.com.br/wp-content/uploads/2015/03/frozen-fever-poster-elsa-anna-camundongo.jpg" type="MOVIE" group-title="ANIMACAO", Frozen Fever
-https://cld.pt/dl/download/21a64201-d422-41f1-bdf5-8c14ecaf8130/Frozen.Fever.2015.ENG.PT.720p.Bluray.X264.aac-EVO.mkv
+
 
 #EXTINF:-1 tvg-logo="http://cinemas.nos.pt/_layouts/15/Cinemas/Handlers/RenderImage.ashx?file=45480.png" type="MOVIE" group-title="ANIMACAO", Frozen O Reino de Gelo
-https://cld.pt/dl/download/8f351bf0-9f5f-4627-bbc8-9f200e7fc131/Frozen.O.Reino.de.Gelo.2013.PT.ENG.480p.BRRip.XviD.AC3-EVO.mkv
+
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_3c4add40.jpeg" type="MOVIE" group-title="ANIMACAO", Monsters Inc
-https://cld.pt/dl/download/9611c0ff-0b0f-4bac-8f21-0e78a0a496d4/Monsters.Inc.2001.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Universidade_Monstros_-_p%C3%B4ster.jpg" type="MOVIE" group-title="ANIMACAO", Monstros A Universidade
-https://cld.pt/dl/download/f3ed65af-06ab-4268-8df1-99b41eaab133/Monstros.A.Universidade.2013.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
+
 
 #EXTINF:-1 tvg-logo="http://www.cinemundo.pt/wp-content/uploads/2014/11/MUNE_web.jpg" type="MOVIE" group-title="ANIMACAO", Mune - O Guardião da Lua
-https://cld.pt/dl/download/8d243cc9-78c4-4b75-b843-1b4a8b656fc7/Mune%2C%20O%20Guardi%C3%A3o%20da%20Lua%20%282014%29.mkv
+
 
 #EXTINF:-1 tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2016/01/Uma-Aventura-no-Jurassico.jpg" type="MOVIE" group-title="ANIMACAO", Uma Aventura no Jurássico
-https://cld.pt/dl/download/1197d8bf-1a0e-4fe7-b0c2-7153e1d3567a/Uma%20Aventura%20no%20Jur%C3%A1ssico%20%E2%80%9CBack%20to%20the%20Jurassic%E2%80%9D%20%282016%29%20%5B720.mp4
+
 
 #EXTINF:-1 tvg-logo="https://img2.ewmix.com/13467/c.jpg" type="MOVIE" group-title="ANIMACAO", Ratchet & Clank - Heróis da Galáxia
-https://cld.pt/dl/download/2b2b7eae-0b2e-4e74-985f-973a7b2baf11/Ratchet%20e%20Clank%20Her%C3%B3is%20Da%20Gal%C3%A1xia%20%282016%29%20%5B1080p%20%E2%80%93%20Audio%20PT-P.mp4
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/01/18/22/28/052277.jpg" type="MOVIE" group-title="ANIMACAO", A Idade do Gelo: O Big Bang
-https://cld.pt/dl/download/aa46f806-aadd-4221-b36f-c28b9736aa81/A%20Idade%20do%20Gelo%20O%20Big%20Bang%20%282016%29%20%5B720p%20%E2%80%93%20%C3%81udio%20PT-PT%5D.mp4
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Finding_Nemo.jpg" type="MOVIE" group-title="ANIMACAO", À Procura de Nemo
-https://cld.pt/dl/download/9a02f425-84b0-4bbd-9065-ca4f756489f2/%C3%80%20Procura%20de%20Nemo%20%282003%29.mkv
+
 
 #EXTINF:-1 tvg-logo="http://cdn.hoyts.co.nz/mediafiles/images/NZposters/HO00003699.jpg" type="MOVIE" group-title="ANIMACAO", Angry Birds O Filme
-https://cld.pt/dl/download/d3df0e83-f5d0-4cd2-876a-7968b82d8a63/Angry%20Birds%20O%20Filme%20%282016%29%20%5BBRRip%20720p%20%E2%80%93%20%C3%81udio%20PT-PT%5D-3.mp4
 
-#EXTINF:-1 tvg-logo="https://cld.pt/dl/download/f1601856-e748-4761-a4a2-d8f7fe897637/A%20Guarda%20do%20Le%C3%A3o%20-%20O%20Regresso%20do%20Rugido%20-%20Capa%2000.jpg" type="MOVIE" group-title="ANIMACAO", A Guarda do Leão - O Regresso do Rugido
-https://cld.pt/dl/download/c68dd932-156c-4add-9537-0b46aaf7e9dd/A%20Guarda%20do%20Le%C3%A3o%20-%20O%20Regresso%20do%20Rugido.mkv
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2MvonSz" type="MOVIE" group-title="ANIMACAO", A Guarda do Leão - O Regresso do Rugido
+
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.org/oujfdos8t/capa1.png" type="MOVIE" group-title="ANIMACAO", A Guarda do Leão - Liberta o Poder
-https://cld.pt/dl/download/665d55ec-1169-432a-b323-b549834653ea/A%20Guarda%20do%20Le%C3%A3o%20-%20Liberta%20o%20Poder%20-%202016.avi
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/06/30/20/49/544752.jpg" type="MOVIE" group-title="ANIMACAO", À Procura de Dory
-https://cld.pt/dl/download/e59b087f-fb37-4a67-b3a3-bf32e676608a/Finding.Dory.2016.PT.ENG.720p.BDRip.AC3-iFT.mkv
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Hotel_Transylvania_2_poster.jpg" type="MOVIE" group-title="ANIMACAO", Hotel Transylvania 2
-https://cld.pt/dl/download/0d06f6f0-c0b0-4cff-b0a3-ba5bb6d9b9d2/Hotel.Transylvania.2.2015.PORTUGUESE.720p.BRRiP.x264-OWN.mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/01/24/21/36/094174.jpg" type="MOVIE" group-title="ANIMACAO", Rio 2
-https://cld.pt/dl/download/427cfd0c-838b-44d9-b732-c4f7f7fca6fa/Rio.2.2014.PT.ENG.480p.BRRip.XviD.AC3-iNFiNiTy.mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/32/32/19874310.jpg" type="MOVIE" group-title="ANIMACAO", Rio 2011
-https://cld.pt/dl/download/4062f06d-16e3-4ddd-ae83-c5af20620914/Rio.2011.DVDRip.PT-PT.onofrinho.mkv
+
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_5EE1wK9F0qs/THjHpT6S99I/AAAAAAAAClI/BmuahiJIuwI/s1600/Carros.DVDRIP.Xvid.Dublado.JPG" type="MOVIE" group-title="ANIMACAO", Cars
-https://cld.pt/dl/download/8458bf64-7b51-4de6-bb56-fc02e1acb6b6/Cars.2006.DVD9..mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/91/50/20028729.jpg" type="MOVIE" group-title="ANIMACAO", CARS 2
-https://cld.pt/dl/download/b7eab7e3-673c-426e-8b7f-e7e2893fe06e/CARS_2_2011_PT_PAL_DVD9.mkv
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Despicable_Me_2_poster.jpg" type="MOVIE" group-title="ANIMACAO", Despicable Me 2
-https://cld.pt/dl/download/a5c8bde4-85f7-42eb-bf6c-e6ffbed56d49/Despicable.Me.2.2013.PORTUGUESE.BRRiP.x264-OWN.mkv
+
 
 #EXTINF:-1 tvg-logo="http://fotosimagens.com.br/wp-content/uploads/2016/12/meninas-minios.jpg" type="MOVIE" group-title="ANIMACAO", Despicable  Me
-https://cld.pt/dl/download/574930db-1892-426c-9f4b-938c109f7d65/Despicable.Me.2010.PORTUGUESE.720p.BRRiP.x264-HDTeam.mkv
+
 
 #EXTINF:-1 tvg-logo="http://melanges.com.br/wp-content/uploads/2014/03/A_Origem_dos_Guardi%C3%B5es.jpg" type="MOVIE" group-title="ANIMACAO", A Origem dos Guardioes 2012
-https://cld.pt/dl/download/0b5d3ae7-e4e1-453d-9296-e423a235e9bb/A.Origem.dos.Guardioes.2012.PT.ENG.DVDRip.XviD-NYDIC.mkv
+
 
 #EXTINF:-1 tvg-logo="http://guia.gazetadopovo.com.br/midia/roteiro/9000/9412_1.jpg" type="MOVIE" group-title="ANIMACAO", Avioes-Equipa de Resgate
-https://cld.pt/dl/download/8b54ba8d-6e6d-4078-8c71-d7dce42a9d5d/Avioes-Equipa.de.Resgate.2014.PT.ENG.BRRip.XviD.AC3-PBOSS.mkv
+
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-SbPONiNZGGI/Uzog2Qt_OyI/AAAAAAAAC68/IJ38nRxZZnU/s1600/valente+1.jpg" type="MOVIE" group-title="ANIMACAO", Brave
-https://cld.pt/dl/download/8372451d-ca3a-4a68-8b75-33ee64fc29ec/Brave.2012.ENG.PT.DVDRip.XviD.AC3-NYDIC.mkv
+
 
 #EXTINF:-1 tvg-logo="http://www.filmesonlinegratis.com/wp-content/uploads/2015/04/cinderella_poster.jpg" type="MOVIE" group-title="ANIMACAO", Cinderela
-https://cld.pt/dl/download/98f8106f-82cf-4bd2-82c4-a77a0134a7cb/Cinderela.%5B1950%5D.Audio.PT.DVDRip.by.mcsousa.mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/14/11/19/19/52/591779.jpg" type="MOVIE" group-title="ANIMACAO", Cinderela 2
-https://cld.pt/dl/download/33aaddff-1665-42d2-a43b-861de51e4404/Cinderela%202.mkv
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NjkOouUoIkU/VuRdJ0UTZII/AAAAAAAAH0w/AeNovetlH48ZUQS5mZ-sLEwqr22D74mbA/s320/cinderela%2B3.jpg" type="MOVIE" group-title="ANIMACAO", Cinderela 3
-https://cld.pt/dl/download/21fbff56-6c24-4e6e-af80-b087cb3864e2/Cinderela%203.mkv
+
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-1ltdymd_b85fb147.jpeg" type="MOVIE" group-title="ANIMACAO", Entrelaçados
-https://cld.pt/dl/download/c370c208-35df-4008-8a00-425bd6481cfb/Entrela%C3%A7ados.2010.PORTUGUESE.720p.BRRiP.x264-HDTeam.mkv
+
 
 #EXTINF:-1 tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/irmao-urso_cartaz_220x283.jpg" type="MOVIE" group-title="ANIMACAO", Kenai e Koda
-https://cld.pt/dl/download/f910b6e8-ee66-480e-9445-55892d3cc599/Kenai.e.Koda.2003.PT-PT.mkv
+
 
 #EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/175618/p175618_p_v8_ad.jpg" type="MOVIE" group-title="ANIMACAO", Kung Fu Panda
-https://cld.pt/dl/download/94a50d92-d0d6-4241-8832-f5d24787c62e/Kung.Fu.Panda.2008.ENG.PT.720p.BluRay.x264-HDTeam.mkv
+
 
 #EXTINF:-1 tvg-logo="http://t0.gstatic.com/images?q=tbn:ANd9GcRoeBj5O2s1c7WDeX-S5ahbQ0eq2K61d9y2riaur1XV0B9zVK3u" type="MOVIE" group-title="ANIMACAO", Kung Fu Panda 2
-https://cld.pt/dl/download/a132d025-4903-4744-acf2-33400a9e8157/Kung.Fu.Panda.2.PORTUGUESE.720p.BRRiP.x264-OWN.mkv
+
 
 #EXTINF:-1 tvg-logo="https://mr.comingsoon.it/imgdb/locandine/big/50639.jpg" type="MOVIE" group-title="ANIMACAO",  Kung Fu Panda 3
-https://cld.pt/dl/download/6958f256-0297-4336-8e7d-e9a4ccac5794/Kung.Fu.Panda.3.2016.PT.ENG.720p.BluRay.x264-vmf012.mkv
+
 
 #EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/29095/p29095_p_v8_ak.jpg" type="MOVIE" group-title="ANIMACAO", Lilo & Stitch
-https://cld.pt/dl/download/ed61e5db-8ecc-4eee-b68e-b6ef18a33c70/Lilo.%26.Stitch.PT-PT.by.%5BDrag%5D.mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/90/90/60/20119439.jpg" type="MOVIE" group-title="ANIMACAO", Lilo & Stitch 2 O Efeito do Defeito
-https://cld.pt/dl/download/ae77bc64-e4fc-4e0b-b010-1b30288b156e/Lilo.e.Stitch.2.O.Efeito.do.Defeito.2005.PT.ENG.DVDRip.XviD.mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/93/75/93/20275889.jpg" type="MOVIE" group-title="ANIMACAO", Meet The Robinsons
-https://cld.pt/dl/download/e070379c-a002-4f38-a232-83551b687b21/Meet.The.Robinsons.PORTUGUESE.DVDRip.XviD-PiRG.mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/12/10/21/01/335612.jpg" type="MOVIE" group-title="ANIMACAO",  Zootopia
-https://cld.pt/dl/download/ce81562e-440a-482c-b8da-19cc1a440b91/Zootopia.2016.PORTUGUESE.720p.BRRiP.x264-OWN.mkv
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/76/Monsters-vs-aliens-poster.jpg/200px-Monsters-vs-aliens-poster.jpg" type="MOVIE" group-title="ANIMACAO", Monsters Vs Aliens
-https://cld.pt/dl/download/f430b228-a252-4fcc-8ed6-fd1797c7394b/Monsters.Vs.Aliens.2009.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/10/15/22/24/429658.jpg" type="MOVIE" group-title="ANIMACAO", The Good Dinosaur
-https://cld.pt/dl/download/e0fdacf2-9e8d-4bd8-9d17-7d92107d8f0f/The.Good.Dinosaur.2015.PT.ENG.BDRip.x264-R23.mkv
+
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4DOBnSvhQno/UGDWZnIwndI/AAAAAAAADLY/1LE8zeV3jpE/s1600/use.png" type="MOVIE" group-title="ANIMACAO", O Rei Leão (1994)
-https://cld.pt/dl/download/7b86f6a7-d33d-48ab-8c33-2b1edb60a7d9/The.Lion.King.SE.1994.PROPER.PORTUGUESE.DVDRip.XviD-NANT.mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/15/07/24/17/14/514203.jpg" type="MOVIE" group-title="ANIMACAO", Snoopy e Charlie Brown: Peanuts
-https://cld.pt/dl/download/bd1453cd-23fa-470b-9084-6e76b00184d9/The.Peanuts.Movie.2015.PORTUGUESE.720.BRRiP.x264-OWN.mkv
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg" type="MOVIE" group-title="ANIMACAO", Toy Story
-https://cld.pt/dl/download/6adb5d4d-e638-4eb8-9374-d07aff180589/Toy.Story.1995.PORTUGUESE.DVDRip.XviD-GiQ.mkv
+
 
 #EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/24266/p24266_p_v8_ab.jpg" type="MOVIE" group-title="ANIMACAO", Toy Story 2
-https://cld.pt/dl/download/cb4b6aad-e620-4ee8-9742-13d09445770d/Toy.Story.2.1999.PORTUGUESE.720p.BRRip.x264.AAC-nTHD.mkv
+
 
 #EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/toy_story_3-691147043-large.jpg" type="MOVIE" group-title="ANIMACAO", Toy Story 3
-https://cld.pt/dl/download/04e614c2-a7c3-4d7f-8b94-da601888f91d/Toy.Story.3.PORTUGUESE.DVDRip.XviD-SR.mkv
+
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/toy-story-of-terror.28932.jpg" type="MOVIE" group-title="ANIMACAO", Toy Story Of Terror
-https://cld.pt/dl/download/c2577977-5317-4d60-b745-1c4a251b0465/Toy.Story.Of.Terror.2013.PT.ENG.720p.BluRay.x264-UT.mkv
+
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_oDY2neBy6G4/SytCVRfqrII/AAAAAAAADww/pyoB0hzLd5E/s1600/poster_up-altamente_v2.png" type="MOVIE" group-title="ANIMACAO", Up Altamente
-https://cld.pt/dl/download/c64aacb9-6720-46fd-92c4-34fe54d7db6d/Up.Altamente.2009.PT.ENG.720p.BRRip.x264.x264-vmf012.mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/91/54/02/20150796.jpg" type="MOVIE" group-title="ANIMACAO", Madagascar
-https://cld.pt/dl/download/87f2ac4e-04e8-40c8-971d-eedccd22f5c5/Madagascar.2005.PT.ENG.720p.BluRay.x264-iNViNCiBLE.mkv
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Madagascar2poster.jpg" type="MOVIE" group-title="ANIMACAO", Madagascar: Escape 2 Africa
-https://cld.pt/dl/download/7a7cfe7b-70e8-463d-83db-f175862c420f/Madagascar.2.2008.PT.ENG.720p.BluRay.x264-iNViNCiBLE.mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/89/67/15/20097455.jpg" type="MOVIE" group-title="ANIMACAO", Madagascar 3: Europe's Most Wanted
-https://cld.pt/dl/download/1e9f76d5-6019-4bb8-8f5f-4f510ba19034/Madagascar.3.2012.PT.ENG.720p.BluRay.x264-iNViNCiBLE.mkv
+
 
 #EXTINF:-1 tvg-logo="https://img.olx.pt/images_olxpt/898462769_1_644x461_minions-melhores-curtas-de-animao-dvd-lisboa.jpg" type="MOVIE" group-title="ANIMACAO", Minions curtas
-https://cld.pt/dl/download/e5f9ad39-735e-4f93-b5b4-5b4eed37f33d/Minions%20curtas.mkv
+
 
 #EXTINF:-1 tvg-logo="http://www.planetadisney.com.br/wp-content/uploads/2010/12/DVD-O-Mundo-M%C3%A1gico-da-Bela.png" type="MOVIE" group-title="ANIMACAO", O Mundo Mágico de Bela
-https://cld.pt/dl/download/12687779-8575-4b15-97ac-28bcf7ab5cd0/O.Mundo.M%C3%A1gico.de.Bela.1998.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/14/10/10/20/36/282573.jpg" type="MOVIE" group-title="ANIMACAO", O Planeta do Tesouro
-https://cld.pt/dl/download/2d44d19a-e538-472d-bb1a-231d79c543cd/O.Planeta.do.Tesouro.%28falado%20PT-PT%29.by.AJMS.mkv
+
 
 #EXTINF:-1 tvg-logo="http://clubedecinema.pt/wp-content/uploads/2015/04/Trailer-do-Filme-O-Principezinho.jpg" type="MOVIE" group-title="ANIMACAO", O Principezinho
-https://cld.pt/dl/download/3424e4fd-d950-4d87-945a-a0ecd0cf4530/O.Principezinho.2015.PT.ENG.720p.BRRip.x264.AC3-vmf012.mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/92/72/77/20214259.jpg" type="MOVIE" group-title="ANIMACAO", Sininho O Segredo da Fadas
-https://cld.pt/dl/download/112724fc-641b-4048-aa28-8ab7ed939cbd/Sininho.O.Segredo.das.Fadas.2012.PT.ENG.480p.BRRip.XviD.AC3-iNViNCiBLE.mkv
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/92/03/69/20176403.jpg" type="MOVIE" group-title="ANIMACAO", Uma Vida de Insecto
-https://cld.pt/dl/download/9b856087-83a5-4c09-96e9-8ee119e2c011/Uma.Vida.de.Insecto.1998.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/dc/The_Little_Mermaid.jpg/200px-The_Little_Mermaid.jpg" type="MOVIE" group-title="ANIMACAO", A Pequena Sereia
-https://cld.pt/dl/download/00ba5b98-411d-4842-ac9a-25a63b78688a/A.Pequena.Sereia.DVDRip.Audio.PT-PT_.mkv
+
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-aj6ok2_620edacf.jpeg" type="MOVIE" group-title="ANIMACAO", A Princesa e o Sapo
-https://cld.pt/dl/download/bf6620ba-b94a-4b1e-aec1-42c887e9a935/A.Princesa.e.o.Sapo.2009.PT.ENG.DVDRip.XviD.AC3-UT.mkv
+
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7joY6v7GTSQ/Vr09993zyAI/AAAAAAAAHBA/yP5u0Xh7iL8/s320/aladdin.jpg" type="MOVIE" group-title="ANIMACAO", Aladdin-O Regresso de Jafar
-https://cld.pt/dl/download/418d6e4f-8b73-4ebe-b56d-46e7d5990e2f/Aladdin-O.Regresso.de.Jafar.1994.PT.ENG.720p.BRRip.x264.AC3-vmf012%7E1.mkv
+
 
 #EXTINF:-1 tvg-logo="http://www.cineteka.com/img/filmes/001540_big.jpg" type="MOVIE" group-title="ANIMACAO", Aladdin e o Rei dos Ladrões
-https://cld.pt/dl/download/a2a552d5-7629-4016-af90-a635b6482545/Aladdin.e.o.Rei.dos.Ladr%C3%B5es.20140531_191358.mkv
+
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/519HEW58T8L._SY445_.jpg" type="MOVIE" group-title="ANIMACAO", Aladdin Special Edition
-https://cld.pt/dl/download/176ffd83-b108-4ba1-89c6-08aef6fbdee8/Aladdin.Special.Edition.20140531_003255.mkv
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zsqyJqDr4jGAvVV9fC2iTvcMbS9.jpg" type="MOVIE" group-title="ANIMACAO", Alice no País das Maravilhas
-https://cld.pt/dl/download/bee9badb-4e44-4c93-9a16-d350fd2775a4/Alice.no.Pa%C3%ADs.das.Maravilhas.1951.XviD.MP3.Audio.PT-PT.mkv
+
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/f2/b8/b2/f2b8b2b433518adbff6ab352c3571259.jpg" type="MOVIE" group-title="ANIMACAO", Branca de Neve
-https://cld.pt/dl/download/89bc4ad4-0d5d-4762-8794-0372d954a097/Branca.de.Neve.1939.DVDRip.XviD.MP3.Audio.PT-PT.mkv
+
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/ef/e6/b0/efe6b06ab0e9ecf3b3987553f9f220f2.jpg" type="MOVIE" group-title="ANIMACAO", minions
-https://cld.pt/dl/download/92f9ad8c-2c5b-4c79-9efa-4327b4681908/minions.2015.PT.ENG.DVDRip.XviD.AC3-vmf012.mkv
+
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_L6FTCSO0RXA/S8NrrvhgTDI/AAAAAAAABqw/UgM6XpMbJQQ/s1600/DVD.jpg" type="MOVIE" group-title="ANIMACAO", O Corcunda de Notre Dame
-https://cld.pt/dl/download/ea3fa9b8-c458-4e9d-897e-4edc7cf37c31/O%20Corcunda.de.Notre.Dame.1996.PORTUGUESE.DVDRip.XviD-GiQ.mkv
+
 
 #EXTINF:-1 tvg-logo="https://acavedomarkl.pt/wp-content/uploads/2015/01/cine4.jpg" type="MOVIE" group-title="ANIMACAO", Os Monstros das Caixas
-https://cld.pt/dl/download/c73c2878-7362-43c3-aa2b-05b8e2fa779d/Os.Monstros.das.Caixas.2014.PT.ENG.BRRip.XviD.AC3-iFT.mkv
+
 
 #EXTINF:-1 tvg-logo="http://api.comingsoon.net//images//2014/Tarzan_(Constantin_Film)_1.jpg" type="MOVIE" group-title="ANIMACAO", Tarzan
-https://cld.pt/dl/download/9e5dab6c-12a8-4270-a53f-f2b8e7db622a/Tarzan.1.%281999%29.Xvid.AC3.DVDRip-GoRDo.mkv
+
 
 #EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/174374/p174374_p_v8_ab.jpg" type="MOVIE" group-title="ANIMACAO", WALL-E
-https://cld.pt/dl/download/663372d6-2853-4e65-95b6-894e0e2f60b9/WALL-E.mkv
+
 
 #EXTINF:-1 tvg-logo="http://static.fnac-static.com/multimedia/Images/PT/NR/d9/10/0f/987353/1507-1.jpg" type="MOVIE" group-title="ANIMACAO", Elena De Avalor Pronta A Governar
-https://cld.pt/dl/download/755a065b-79ec-48fe-988e-93edb29c6702/Elena%20De%20Avalor%20Pronta%20A%20Governar%20%5BPTPT%5D%20%E2%80%93%20TOPPT.NET-1.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/The_Secret_Life_of_Pets_poster.jpg" type="MOVIE" group-title="ANIMACAO", The Secret Life of Pets
-https://cld.pt/dl/download/0664bb6b-b037-4cfd-814a-4ba9d1438cf8/The.Secret.Life.of.Pets.2016.PT.720p.BRRip.x264.AC3-R23..mp4
 
 
 
@@ -318,10 +310,6 @@ http://archive.org/download/FabulasDisney-Volume1Dublado/F%c3%a1bulas%20da%20Dis
 https://tinyurl.com/ydy9xlrx
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybsure7z" type="MOVIE" group-title="ANIMACAO", Colectanea de Desenhos Biblicos (BR)
 https://tinyurl.com/y8bn7h23
-
-
-
-
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
