@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2NOuhib" type="MOVIE" group-title="ANIMACAO", Hotel Transilvania 3
+https://mega.nz/#!vbhxXCTC!oK3abmAPCHcmJNJJlu1NuTuXAIuoKMKHqX6TFLMlH7w
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2vZvrR7" type="MOVIE" group-title="ANIMACAO",Asas pelos Ares
 https://cld.pt/dl/download/4f66bec2-b6ab-4ccc-9369-c1dc22cbeec8/Asas%20pelos%20Ares%202018%20720p%20BRRip%20PT%20%5BT-Rex%5D.mkv
@@ -13,7 +15,6 @@ https://cld.pt/dl/download/770c855a-9a51-4e7a-b6cb-228db1ab7be8/Moana.2016.1080p
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2MoczSu" type="MOVIE" group-title="ANIMACAO",A Idade da Pedra
 https://cld.pt/dl/download/d0e568b9-9c23-439d-b526-cb3841953db7/A.Idade.da.Pedra.2018.mkv.mp4
-
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2RdxZF9" type="MOVIE" group-title="ANIMACAO",A Nova Geração
 https://cld.pt/dl/download/5aebf4a8-bc12-46c3-b69c-50593af6c6f4/A%20Nova%20Gera%C3%A7%C3%A3o.mp4
