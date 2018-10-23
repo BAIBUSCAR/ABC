@@ -26,7 +26,12 @@ http://85.93.93.132:8000/live/caper/caper/4087.ts
 #EXTINF:-1 tvg-id=”” tvg-name=”PT: ELEVEN SPORT 6 HD” tvg-logo=”” group-title="DESPORTO",ELEVEN SPORT 6 HD
 http://85.93.93.132:8000/live/caper/caper/4086.ts
 
-
+#EXTINF:-1 tvg-logo=”” group-title="DESPORTO",UFC FIGHT
+http://gratis:111111@51.68.121.176:9981/stream/channel/fcde4446100e30c5f3cfdb0b9a5e5152
+#EXTINF:-1 tvg-logo=”” group-title="DESPORTO",FIGHT BOX HD
+http://gratis:111111@51.68.121.176:9981/stream/channel/958ab2d69b652e576fc0d361157edb5a
+#EXTINF:-1 tvg-logo=”” group-title="DESPORTO",UFC Fight
+http://gratis:111111@51.68.121.176:9981/stream/channel/59ebb7e289e58f1c2de2884e69fda76b
 
 
 
