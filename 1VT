@@ -1,7 +1,3 @@
-#EXTM3U
-
-
-
 
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1
 http://62.28.213.14:9981/stream/channelid/1439506767
@@ -54,7 +50,7 @@ http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 #EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="CumCatano",CMTV
 
 #EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="CumCatano",CMTV HD
-http://myappstuga.briareus.feralhosting.com/cmtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CMTVHD" tvg-name="CMTV FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wqrwxy1436843726.png/small" group-title="CumCatano",CMTV FHD
 http://pina7.ddns.net:8000/aplicacao/scp4ever/09.ch
 #EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicmulher.png" group-title="CumCatano",SIC Mulher
@@ -102,7 +98,7 @@ http://pina7.ddns.net:8000/aplicacao/scp4ever/07.ch
 #EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="Food Network FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foodnetwork.png" group-title="CumCatano",Food Network HD
 
 #EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/abolatv.png" group-title="CumCatano",A Bola TV
-http://myappstuga.briareus.feralhosting.com/bola/playlist.m3u8
+
 #EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/abolatv.png" group-title="CumCatano",A Bola TV HD
 
 #EXTINF:-1 tvg-id="Sport TV 4K" tvg-name="Sport•TV 4K UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/5n9fhb1499698380.png/small" group-title="CumCatano",Sport•TV 4K UHD
@@ -122,9 +118,9 @@ http://myappstuga.briareus.feralhosting.com/bola/playlist.m3u8
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1
 http://pina7.ddns.net:8000/aplicacao/scp4ever/10.ch
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1 LOW
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7319.ts
+http://livebar.pw/lba/123/g5/tv1pt.m3u8
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1 HD
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7324.ts
+
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1 FHD
 
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1 FHD Alt" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1 FHD Alt
@@ -132,23 +128,23 @@ http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7324.ts
 #EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport•TV 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",Sport•TV 2
 http://pina7.ddns.net:8000/aplicacao/scp4ever/11.ch
 #EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport•TV 2 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",Sport•TV 2 LOW
-http://myappstuga.briareus.feralhosting.com/iptv/sporttv2/playlist.m3u8
+http://livebar.pw/lba/123/g7/sport2port.m3u8
 #EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport•TV 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",Sport•TV 2 HD
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7323.ts
+
 #EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport•TV 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",Sport•TV 2 FHD
 
 #EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport•TV 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",Sport•TV 3
 http://pina7.ddns.net:8000/aplicacao/scp4ever/12.ch
 #EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport•TV 3 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",Sport•TV 3 LOW
-http://myappstuga.briareus.feralhosting.com/iptv/sporttv3/playlist.m3u8
+http://livebar.pw/lba/123/g3/pt3sport.m3u8
 #EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport•TV 3 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",Sport•TV 3 HD
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7322.ts
+
 #EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport•TV 3 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",Sport•TV 3 FHD
 
 #EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport•TV 4" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",Sport•TV 4
 http://pina7.ddns.net:8000/aplicacao/scp4ever/13.ch
 #EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport•TV 4 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",Sport•TV 4 LOW
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7321.ts
+http://livebar.pw/lba/123/g3/arenaserbia4.m3u8
 #EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport•TV 4 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",Sport•TV 4 HD
 
 #EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport•TV 4 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",Sport•TV 4 FHD
@@ -156,7 +152,7 @@ http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7321.ts
 #EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport•TV 5" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",Sport•TV 5
 http://pina7.ddns.net:8000/aplicacao/scp4ever/14.ch
 #EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport•TV 5 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",Sport•TV 5 LOW
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7320.ts
+http://livebar.pw/lba/123/g7/ar5sport.m3u8
 #EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport•TV 5 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",Sport•TV 5 HD
 
 #EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport•TV 5 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",Sport•TV 5 FHD
@@ -164,11 +160,11 @@ http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7320.ts
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV
 http://pina7.ddns.net:8000/aplicacao/scp4ever/15.ch
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV (Op 2)
-http://myappstuga.briareus.feralhosting.com/benfica/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/uect761515364958.png/small" group-title="CumCatano",Benfica TV LOW
-http://myappstuga.briareus.feralhosting.com/benfica
+
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV HD
-http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7255.ts
+
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV FHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS 1" group-title="CumCatano",ELEVEN SPORTS 1
@@ -224,7 +220,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine1.png" group-title="CumCatano",TVCine 1
 
 #EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yxtrst1436898282.png/small" group-title="CumCatano",TVCine 1 HD
-http://myappstuga.briareus.feralhosting.com/tvcine1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine1.png" group-title="CumCatano",TVCine 1 FHD
 
 #EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine2.png" group-title="CumCatano",TVCine 2
@@ -280,7 +276,7 @@ http://myappstuga.briareus.feralhosting.com/tvcine1/playlist.m3u8
 #EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalhollywood.png" group-title="CumCatano",Hollywood
 
 #EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqtrqu1436898965.png/small" group-title="CumCatano",Hollywood HD
-http://myappstuga.briareus.feralhosting.com/hollywood/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalhollywood.png" group-title="CumCatano",Hollywood FHD
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axn.png" group-title="CumCatano",AXN
@@ -491,6 +487,9 @@ http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
 
 
 
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -504,21 +503,19 @@ http://wow01.105.net:1935/live/virgin1/livestream.m3u8
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="CCMusic",VIRGIN TV (Op 3)
 http://tv.105.net:1935/live/virgin1/chunklist_w864163580.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7tpe7aj" tvg-id="" group-title="CCMusic",24RockOne66
-http://194.116.83.15:80/24RockOne66
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7tpe7aj" tvg-id="" group-title="CCMusic",24RockOne66 (Op 2)
-http://194.116.83.15:80/24RockOne66?MSWMExt=.asf
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybga4dxp" tvg-id="" group-title="CCMusic",ONE Rock HD
-rtmp://91.201.78.3:1935/live/rockhd
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y743efem" tvg-id="" group-title="CCMusic",ONE Jazz HD
-rtmp://91.201.78.3:1935/live/jazzhd
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yaeu4c72" tvg-id="" group-title="CCMusic",ONE Pop HD
-rtmp://91.201.78.3:1935/live/pophd
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y82q9de7" tvg-id="" group-title="CCMusic",ONE HD Live Mix
-rtmp://91.201.78.3:1935/live/onehdhd
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycexukkf" tvg-id="" group-title="CCMusic",ONE Classic HD
-rtmp://91.201.78.3:1935/live/classicshd
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycwxlpba" tvg-id="" group-title="CCMusic",ONE Dance HD
-rtmp://91.201.78.3:1935/live/dancehd
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/646bh7slp/HEAVYMETAL.png" group-title="CCMusic",Heavy Metal TV
 http://autopilot.myowntv.org/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yajd7p7e" group-title="CCMusic",ESKA ROCK TV
@@ -535,53 +532,53 @@ http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",METAL
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",ROCK
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",INDIE
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",ALTERNATIVE
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",MC PLAY
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",MUSICA URBANA
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",90's
-https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",HIT LIST
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",THROWBACKS
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",POP HITS
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",BRITISH HITS
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",TODDLERS
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",POP LATINO
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",MEXICANA
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Y2K
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",TODAYS COUNTRY
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",TEEN BEATS
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Y2K RAP
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",RAP
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",R&B SOUL
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",POP COUNTRY
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",HIP HOP & R&B
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",DANCE EDM
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",KIDS ONLY
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+
 
 
 
@@ -589,25 +586,25 @@ http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklis
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="mtvportugal.pt" group-title="CCMusic",MTV PORTUGAL
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="MTVRocks.uk" group-title="CCMusic",MTV ROCKS 
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/230/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="MTVRocks.uk" group-title="CCMusic",MTV ROCKS (Op 2)
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7tkyapj" tvg-id="MTVMusic.uk" group-title="CCMusic",MTV Music
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybe5phvx" tvg-id="0" group-title="CCMusic",MTV LIVE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/26/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="CCMusic",MTV DANCE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9lbkrk3" tvg-id="0" group-title="CCMusic",MTV HITS
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9lbkrk3" tvg-id="0" group-title="CCMusic",MTV HITS (Op 2)
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="CCMusic",MTV BASE
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="CCMusic",VH1 
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/238/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="vh1.pt" group-title="CCMusic",VH1 CLASSIC
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/237/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TraceTV.pt" group-title="CCMusic",TRACE TV
 http://94.60.103.81:9981/stream/channelid/219544333
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmtop.png" tvg-id="MCMTOP" group-title="CCMusic",MCM TOP
@@ -674,11 +671,11 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="CCMusic",Capital TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2j8tsJq.png" group-title="CCMusic",Heart TV (UK)
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://indiewaveentertainment.com/wp-content/uploads/2017/09/logo_square.png" group-title="CCMusic",IndieWave (USA)
-https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OiZowUH.png" group-title="CCMusic",Kool London Radio (UK)
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="CCMusic",Music Choice Play (USA)
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lS4CAgN.png" group-title="CCMusic",Radio U (USA)
