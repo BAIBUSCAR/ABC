@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2rXdgKm" type="MOVIE" group-title="ANIMACAO", Smallfoot - Uma Aventura Gelada
+https://cld.pt/dl/download/366a4e39-95c1-40b8-b88e-9ea2c07dd039/Smallfoot%20-%20Uma%20Aventura%20Gelada.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2qrdBUL" type="MOVIE" group-title="ANIMACAO", Hotel Transilvania 3
 https://cld.pt/dl/download/8d5ff40a-edbf-409b-b89e-71d1948276a2/Hotel%20Transylvania%203%20-%20Umas%20F%C3%A9rias%20Monstruosas.mp4
