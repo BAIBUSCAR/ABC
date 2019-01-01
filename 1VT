@@ -50,7 +50,7 @@ http://pina7.ddns.net:8000/aplicacao/scp4ever/06.ch
 #EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi24.png" group-title="CumCatano",TVI 24
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 #EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="CumCatano",CMTV
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/9.ts
 #EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="CumCatano",CMTV HD
 
 #EXTINF:-1 tvg-id="CMTVHD" tvg-name="CMTV FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wqrwxy1436843726.png/small" group-title="CumCatano",CMTV FHD
@@ -112,7 +112,7 @@ http://zgrbfdvfbff.negzari.tk:1935/edge/ch145988/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport•TV Multiplay HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qxxyst1474691176.png/small" group-title="CumCatano",Sport•TV Multiplay HD
 
 #EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="Sport•TV +" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",Sport•TV +
-
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3984.m3u8
 #EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="Sport•TV + LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",Sport•TV + LOW
 
 #EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="Sport•TV + HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",Sport•TV + HD
@@ -122,7 +122,7 @@ http://zgrbfdvfbff.negzari.tk:1935/edge/ch145988/playlist.m3u8
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1
 http://pina7.ddns.net:8000/aplicacao/scp4ever/10.ch
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1 LOW
-http://livebar.pw/lba/123/g5/tv1pt.m3u8
+http://62.210.124.106:8000/live/aplicacao/scp4ever/10.ts
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1 HD
 http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/7.ch
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport•TV 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",Sport•TV 1 FHD
@@ -132,7 +132,7 @@ http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/7.ch
 #EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport•TV 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",Sport•TV 2
 http://pina7.ddns.net:8000/aplicacao/scp4ever/11.ch
 #EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport•TV 2 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",Sport•TV 2 LOW
-http://livebar.pw/lba/123/g7/sport2port.m3u8
+http://62.210.124.106:8000/live/aplicacao/scp4ever/11.ts
 #EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport•TV 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",Sport•TV 2 HD
 http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/8.ch
 #EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport•TV 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",Sport•TV 2 FHD
@@ -140,7 +140,7 @@ http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/8.ch
 #EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport•TV 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",Sport•TV 3
 http://pina7.ddns.net:8000/aplicacao/scp4ever/12.ch
 #EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport•TV 3 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",Sport•TV 3 LOW
-http://livebar.pw/lba/123/g3/pt3sport.m3u8
+http://62.210.124.106:8000/live/aplicacao/scp4ever/12.ts
 #EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport•TV 3 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",Sport•TV 3 HD
 http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/9.ch
 #EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport•TV 3 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",Sport•TV 3 FHD
@@ -148,7 +148,7 @@ http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/9.ch
 #EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport•TV 4" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",Sport•TV 4
 http://pina7.ddns.net:8000/aplicacao/scp4ever/13.ch
 #EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport•TV 4 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",Sport•TV 4 LOW
-http://livebar.pw/lba/123/g3/arenaserbia4.m3u8
+http://62.210.124.106:8000/live/aplicacao/scp4ever/13.ts
 #EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport•TV 4 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",Sport•TV 4 HD
 
 #EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport•TV 4 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",Sport•TV 4 FHD
@@ -156,7 +156,7 @@ http://livebar.pw/lba/123/g3/arenaserbia4.m3u8
 #EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport•TV 5" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",Sport•TV 5
 http://pina7.ddns.net:8000/aplicacao/scp4ever/14.ch
 #EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport•TV 5 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",Sport•TV 5 LOW
-http://livebar.pw/lba/123/g7/ar5sport.m3u8
+http://62.210.124.106:8000/live/aplicacao/scp4ever/14.ts
 #EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport•TV 5 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",Sport•TV 5 HD
 
 #EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport•TV 5 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",Sport•TV 5 FHD
@@ -164,17 +164,19 @@ http://livebar.pw/lba/123/g7/ar5sport.m3u8
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV
 http://pina7.ddns.net:8000/aplicacao/scp4ever/15.ch
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV (Op 2)
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/15.ts
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/uect761515364958.png/small" group-title="CumCatano",Benfica TV LOW
-
+http://letmein.fun:8080/sitefeminino10/4olVMzsFiq/13247
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV HD
 
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV FHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS 1" group-title="CumCatano",ELEVEN SPORTS 1
 http://pina7.ddns.net:8000/aplicacao/scp4ever/16.ch
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS 1" group-title="CumCatano",ELEVEN SPORTS 1 HD
+http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/1.ch
 #EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS 2" group-title="CumCatano",ELEVEN SPORTS 2
-http://pina7.ddns.net:8000/aplicacao/scp4ever/17.ch
+http://62.210.124.106:8000/live/aplicacao/scp4ever/17.ts
 #EXTINF:-1 tvg-id="SPORTINGTV" tvg-name="Sporting TV LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/dfiilm1515364197.png/small" group-title="CumCatano",Sporting TV LOW
 
 #EXTINF:-1 tvg-id="SPORTINGTV" tvg-name="Sporting TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sportingtv.png" group-title="CumCatano",Sporting TV
@@ -222,25 +224,25 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515JQjBBBvL.png" group-title="CumCatano",NBA TV
 
 #EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine1.png" group-title="CumCatano",TVCine 1
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/18.ts
 #EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yxtrst1436898282.png/small" group-title="CumCatano",TVCine 1 HD
 
 #EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine1.png" group-title="CumCatano",TVCine 1 FHD
 
 #EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine2.png" group-title="CumCatano",TVCine 2
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/19.ts
 #EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/rpssrv1436898306.png/small" group-title="CumCatano",TVCine 2 HD
 
 #EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine2.png" group-title="CumCatano",TVCine 2 FHD
 
 #EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine3.png" group-title="CumCatano",TVCine 3
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/20.ts
 #EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/uwrwyv1436898334.png/small" group-title="CumCatano",TVCine 3 HD
 
 #EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine3.png" group-title="CumCatano",TVCine 3 FHD
 
 #EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine4.png" group-title="CumCatano",TVCine 4
-
+http://62.210.124.106:8000/live/aplicacao/scp4ever/21.ts
 #EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qswqxx1436898355.png/small" group-title="CumCatano",TVCine 4 HD
 
 #EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine4.png" group-title="CumCatano",TVCine 4 FHD
