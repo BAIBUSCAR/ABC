@@ -634,6 +634,62 @@ http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/right
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TraceTV.pt" group-title="CCMusic",TRACE TV
 http://94.60.103.81:9981/stream/channelid/219544333
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",Metal TV (music)
+http://autopilot.myowntv.org/content/33816/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",Ditty TV (USA)
+https://desktop.dittytv.com/live/dittytv.stream_desktop/chunklist_w645916087.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",Bridge TV Dance
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/711/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",VH1 Classic
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/724/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",360 Tune In Box
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/810/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",Bridge HD
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/236/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",EU Music HD
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/925/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",Europa Plus HD
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/115/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",MTV HITS
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/153/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",MTV Dance
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/558/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",LFM TV (FRANCE)
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/chunklist_w1248461747.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",Nr1 4k (full HD)
+http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",TRACE Tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",TRACE Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",TRACE Toca
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",TRACE Naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",TRACE kitoko
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",TRACE Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+ 
+
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmtop.png" tvg-id="MCMTOP" group-title="CCMusic",MCM TOP
 
 #EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmpop.png" tvg-id="MCMPOP" group-title="CCMusic",MCM POP
