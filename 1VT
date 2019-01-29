@@ -482,7 +482,7 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 
 #EXTINF:-1 tvg-id="SKYN" tvg-name="Sky News" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/skynews.png" group-title="CumCatano",Sky News
 
-#EXTINF:-1 tvg-id="Deutschetsche Welle" tvg-name="De.m3u8che Welle" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/de.m3u8chewelle.png" group-title="CumCatano",Deuche Welle
+#EXTINF:-1 tvg-id="Deutschetsche Welle" tvg-name="Deutsche Welle" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/de.m3u8chewelle.png" group-title="CumCatano",Deuche Welle
 
 #EXTINF:-1 tvg-id="EURON" tvg-name="Eurosport News" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosportnews.png" group-title="CumCatano",Eurosport News
 
