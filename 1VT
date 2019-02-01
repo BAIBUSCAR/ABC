@@ -105,9 +105,9 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Liga_NOS_logo.png/200px-Liga_NOS_logo.png" tvg-id="" group-title="CumCatano",Liga NOS TV (só em dias de jogo)
 http://redirector.gvt1.com/edgedl/release2/chrome_component/AMV2712b3iJ3_9.1/9.1_all_easylist.crx3
-#EXTINF:-1 tvg-id="Sport TV 4K" tvg-name="Sport•TV 4K UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/5n9fhb1499698380.png/small" group-title="CumCatano",Sport•TV 4K UHD
+#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="Sport•TV 4K UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/5n9fhb1499698380.png/small" group-title="CumCatano",Sport•TV 4K UHD
 
-#EXTINF:-1 tvg-id="Sport TV 4K" tvg-name="Sport•TV 4K UHD Low" tvg-logo="https://www.thelogodb.com/images/media/logonew/5n9fhb1499698380.png/small" group-title="CumCatano",Sport•TV 4K UHD Low
+#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="Sport•TV 4K UHD Low" tvg-logo="https://www.thelogodb.com/images/media/logonew/5n9fhb1499698380.png/small" group-title="CumCatano",Sport•TV 4K UHD Low
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport•TV Multiplay HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qxxyst1474691176.png/small" group-title="CumCatano",Sport•TV Multiplay HD
 
