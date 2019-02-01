@@ -2,51 +2,67 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="XTV",Playboy TV 
-http://213.59.128.162:9996/play/Playboy/index.m3u8
+http://88.151.248.24:9999/udp/224.0.224.230:1234
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2UJdIbY" group-title="XTV",VENUS
-http://51.15.144.38:8080/play/a04n/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://adult-channels.com/wp-content/uploads/2015/09/o-la-la.png" group-title="XTV",O-La-La
-http://213.59.128.162:9996/play/O-la-la/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Bf8rki" group-title="XTV",Penthouse HD1
+http://185.93.3.83:5014/play/a00f
+#EXTINF:-1 tvg-logo="https://bit.ly/2HKXi0D" group-title="XTV",Penthouse HD2
+http://185.93.3.83:5014/play/a00e
 
-#EXTINF:-1 tvg-logo="http://www.satzone.it/shop/111-large_default/pinko-tv-smart-card-4-canali-1-anno-viaccess.jpg" group-title="XTV",Pink O TV
-http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2MKMtdI" group-title="XTV",O-La-La
+http://176.115.136.45:8080/udp/233.166.172.157:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2MKMtdI" group-title="XTV",O-La-La (Alt)
+http://46.241.34.6:81/udp/239.54.6.71:1234
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="XTV",Hustler HD
-http://213.59.128.162:9996/play/Hustler_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2WCAFin" group-title="XTV",Pink O TV
+http://185.93.3.83:5014/play/a007
+#EXTINF:-1 tvg-id="PRIVATE TV" tvg-logo="https://bit.ly/2WA99Sv" group-title="XTV",Passion
+http://185.93.3.83:5014/play/a006
+
 
 #EXTINF:-1 tvg-id="PRIVATE TV" tvg-logo="https://tinyurl.com/ycj59kn7" group-title="XTV", Private
-http://213.59.128.162:9996/play/Private/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Redlight" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="XTV",Redlight
-http://213.59.128.162:9996/play/Redlight_HD/index.m3u8
+http://185.93.3.83:5014/play/a002
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.frenchlover.tv/templates/ftv12/images/logo.png" group-title="XTV",Frenchlover TV
-http://213.59.128.162:9996/play/FRENCHLOVER/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Cd0zO7" group-title="XTV",Hustler
+http://176.53.229.40:4022/udp/233.166.172.253:1234
+#EXTINF:-1 tvg-logo="https://bit.ly/2Cd0zO7" group-title="XTV",Hustler (Alt)
+http://209.91.213.10:8000/play/a02f
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ggy1ZI" group-title="XTV",Blue Hustler
+http://185.93.3.83:5014/play/a004
 
 #EXTINF:-1 tvg-id="BRAZZERS TV EUROPE" tvg-logo="https://bit.ly/2EjBnao" group-title="XTV",Brazzers TV Europe
-http://213.59.128.162:9996/play/Brazzers_TV/index.m3u8
+http://185.93.3.83:5014/play/a005
 
 
 #EXTINF:-1 tvg-logo="http://xmuvi.com/images/logo-small.png" group-title="XTV",Xmuvi
-http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2EfY0zv" group-title="XTV",SCT
-http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/876/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2PAAfUN" group-title="XTV",BUNGA BUNGA
-http://5.135.92.138:58143/out/u/109_1.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.ionitcom.ru/wp-content/uploads/2016/07/russ_night.jpg" group-title="XTV",Russian Night
-http://213.59.128.162:9996/play/Russkaya_noch/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2yhawtJ" group-title="XTV",Eye Candy
-http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2yhawtJ" group-title="XTV",Eye Candy
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dautkom.lv/upload/image/channels/opis/nuartlogo.png" group-title="XTV", Nuarte
+http://185.93.3.83:5014/play/a00a
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.dautkom.lv/upload/image/channels/opis/nuartlogo.png" group-title="XTV", Nuarte (Alt 1 )
+http://178.219.160.167:8080/Nuart/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://magazin.jasmin.rs/wp-content/uploads/2015/03/logo.png" group-title="XTV", Jasmim TV HD
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1068947352.m3u8
@@ -56,14 +72,10 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2xX4D5O" group-title="XTV",Live Strip Club (Main Stage)
-https://5652cb24c16ee.streamlock.net/2001edge/smil:2001MS_premium.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2ydkooC" group-title="XTV",Live Strip Club (Dressing Room)
-https://5652cb24c16ee.streamlock.net/2001edge/smil:2001DR_premium.smil/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fi1.ypncdn.com/m=eaAaaEPbaaaa/201507/14/11613637/original/8/strip-club-dressing-room-camera-dale-live-on-720cams-com-8.jpg" group-title="XTV",Live Strip Club (Dressing Room)
-https://5652cb24c16ee.streamlock.net/2001edge/smil:2001DR_premium.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2zS2CJt" group-title="XTV",Miami TV (International)
 http://hlsdpi-cdn-as3.totalstream.net/dpilive/miamitv/mia/miamitv1/playlist.m3u8?auth=&uid=fp_caa877e246379b8d26f7382dbd32d326&appid=miamitv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.solelivetv.com/public/files/shows/0/1/63-640x360-000000.jpg" group-title="XTV",Miami TV (Latin America)
@@ -105,6 +117,7 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 http://www.ast.tv/stream/1/master.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ast.tv%2Fimg%2Fast-tv_logo-beta.png" group-title="XTV",Shemale Tube TV 2
 http://www.ast.tv/stream/2/master.m3u8
+
 
 
 
