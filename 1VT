@@ -124,7 +124,7 @@ https://vip7stream.pw/lba/123/g5/tv1pt.m3u8
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 (Alt)
 http://iptv.jinbox.nl:1339/live/arsenaliverpool/K6BHdnN9KL/864.m3u8
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 LOW
-
+http://iptv.jinbox.nl:1339/live/arsenaliverpool/K6BHdnN9KL/864.m3u8
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 HD
 http://185-125-230-172.livesports24.online/ptsporttv1.m3u8
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 FHD
@@ -427,9 +427,9 @@ http://persik.by/stream/176/296165/10317.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg" group-group-title="CumCatano",Amazing Facts TV (USA)
 
-#EXTINF:-1 tvg-id="TVFATIMA" tvg-name="Fatima" tvg-logo="https://tinyurl.com/ycwtm5vk" group-title="CumCatano",Fatima
+#EXTINF:-1 tvg-id="TVFATIMA" tvg-name="Fatima" tvg-logo="https://bit.ly/2DdAmBJ" group-title="CumCatano",Fatima
 http://213.13.26.11:1935/live/santuario.stream/CumCatano.m3u8
-#EXTINF:-1 tvg-id="PAROQUIADEFATIMA" tvg-name="Paroquia Fatima" tvg-logo="https://tinyurl.com/ycwtm5vk" group-title="CumCatano",PAROQUIA DE FATIMA
+#EXTINF:-1 tvg-id="PAROQUIADEFATIMA" tvg-name="Paroquia Fatima" tvg-logo="https://bit.ly/2S3O8AR" group-title="CumCatano",PAROQUIA DE FATIMA
 http://api.new.livestream.com/accounts/22203883/events/6579475/live.m3u8
 #EXTINF:-1 tvg-id="ANGELUSTV" tvg-name="CANAL ANGELUS TV" tvg-logo="http://www.mediotejo.net/wp-content/uploads/2017/01/angelus-tv.jpg" group-title="CumCatano",CANAL ANGELUS TV
 
