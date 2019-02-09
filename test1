@@ -1,0 +1,578 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1
+http://62.28.213.14:9981/stream/channelid/1439506767
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1 LOW
+
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1 HD
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1 FHD
+
+#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2
+http://62.28.213.14:9981/stream/channelid/1580833545
+#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2 LOW
+
+#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2 HD
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2 FHD
+
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC
+http://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC LOW
+http://62.28.213.14:9981/stream/channelid/1682111017
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC HD
+
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC FHD
+
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="CumCatano",TVI
+http://62.28.213.14:9981/stream/channelid/1402355728
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/96g97k1515364471.png/small" group-title="CumCatano",TVI LOW
+
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="CumCatano",TVI HD
+
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="CumCatano",TVI FHD
+
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicnoticias.png" group-title="CumCatano",SIC Noticias
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicnoticias.png" group-title="CumCatano",SIC Noticias HD
+
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ppc81z1515843799.png/small" group-title="CumCatano",SIC Noticias FHD
+
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp3.png" group-title="CumCatano",RTP 3
+http://62.28.213.14:9981/stream/channelid/1434611461
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp3.png" group-title="CumCatano",RTP 3 HD
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vtqqpt1474662424.png/small" group-title="CumCatano",RTP 3 FHD
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8?isnpiration=10&rebase=on
+#EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi24.png" group-title="CumCatano",TVI 24 HD
+
+#EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi24.png" group-title="CumCatano",TVI 24
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="CumCatano",CMTV
+
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="CumCatano",CMTV HD
+
+#EXTINF:-1 tvg-id="CMTVHD" tvg-name="CMTV FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wqrwxy1436843726.png/small" group-title="CumCatano",CMTV FHD
+
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicmulher.png" group-title="CumCatano",SIC Mulher
+http://videos.impresa.pt/sicmul/2017-10-26/5a600ed9-3ab3-47ac-bd83-32b7095df7fc_sic-mulher_2017-10-26_14-03-11.495.mp4/net_wide
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicmulher.png" group-title="CumCatano",SIC Mulher HD
+
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xuz3ut1515843497.png/small" group-title="CumCatano",SIC Mulher FHD
+
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/siccaras.png" group-title="CumCatano",SIC Caras
+
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/siccaras.png" group-title="CumCatano",SIC Caras HD
+
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/rqrvpy1433343925.png/small" group-title="CumCatano",SIC Caras FHD
+
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC Radical" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicradical.png" group-title="CumCatano",SIC Radical
+http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC Radical HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicradical.png" group-title="CumCatano",SIC Radical HD
+
+#EXTINF:-1 tvg-id="SICR" tvg-name="SIC Radical FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/dirbeq1515844195.png/small" group-title="CumCatano",SIC Radical FHD
+
+#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI Ficção" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvificcao.png" group-title="CumCatano",TVI Ficção
+
+#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI Ficção LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvificcao.png" group-title="CumCatano",TVI Ficção LOW
+
+#EXTINF:-1 tvg-id="CanalQB" tvg-name="Canal Q" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalq.png" group-title="CumCatano",Canal Q
+
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality
+http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality LOW
+
+#EXTINF:-1 tvg-id="TVIREALMOSAICO" tvg-name="TVI Reality Mosaico" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality Mosaico
+
+#EXTINF:-1 tvg-id="TVIREALCAMARA" tvg-name="TVI Reality Camara Exclusiva 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality Camara Exclusiva 1
+
+#EXTINF:-1 tvg-id="TVIREALITYCAMARA2" tvg-name="TVI Reality Camara Exclusiva 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality Camara Exclusiva 2
+
+#EXTINF:-1 tvg-id="TVIREALITYCAMARA3" tvg-name="TVI Reality Camara Exclusiva 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality Camara Exclusiva 3
+
+#EXTINF:-1 tvg-id="TVIREALCAMARA" tvg-name="TVI Reality Camara Exclusiva 4" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality Camara Exclusiva 4
+
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 Kitchen HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qpsqps1436892971.png/small" group-title="CumCatano",24 Kitchen HD
+
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 Kitchen FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/24kitchen.png" group-title="CumCatano",24 Kitchen HD
+
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="Food Network FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foodnetwork.png" group-title="CumCatano",Food Network HD
+#EXTINF:-1 tvg-id="Benfica TV" tvg-name="BTV SD" tvg-logo="https://od.lk/s/OTdfMTE4OTc3NTVf/btvfullhd.png" group-title="CumCatano",BTV SD
+http://platina-iptv.com:80/sermor/sermor2/8627
+#EXTINF:-1 tvg-id="BTV HD1" tvg-name="BTV HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc3NTVf/btvfullhd.png" group-title="CumCatano",BTV HD
+http://platina-iptv.com:80/sermor/sermor2/8611
+#EXTINF:-1 tvg-id="BENFICATV1HD" tvg-name="BTV FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc3NTVf/btvfullhd.png" group-title="CumCatano",BTV FHD
+http://platina-iptv.com:80/sermor/sermor2/8626
+#EXTINF:-1 tvg-id="BENFICATV1HD(LOWBITRATE)" tvg-name="BTV 1 HD LOW" tvg-logo="https://od.lk/s/OTdfMTE4OTc3NTVf/btvfullhd.png" group-title="CumCatano",BTV 1 HD LOW
+http://platina-iptv.com:80/sermor/sermor2/21358
+#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="SPORTING TV HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDNf/sportingtv.png" group-title="CumCatano",SPORTING TV HD
+http://platina-iptv.com:80/sermor/sermor2/8593
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV Mosaico" tvg-logo="https://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png" group-title="CumCatano",Sport TV Mosaico
+http://platina-iptv.com:80/sermor/sermor2/23415
+#EXTINF:-1 tvg-id="SPORTV+HD3" tvg-name="SPORT TV +" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDRf/sporttv%2Bhd.png" group-title="CumCatano",SPORT TV +
+http://platina-iptv.com:80/sermor/sermor2/8599
+#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="SPORT TV  +  HD [VPC]" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SPORT.TV+%20HD.png" group-title="CumCatano",SPORT TV  +  HD [VPC]
+http://platina-iptv.com:80/sermor/sermor2/26274
+#EXTINF:-1 tvg-id="SPTV" tvg-name="SPORT TV 1 SD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT TV 1 SD
+http://platina-iptv.com:80/sermor/sermor2/21356
+#EXTINF:-1 tvg-id="SPTV" tvg-name="SPORT 1 TV[ Mbit SD]" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT 1 TV[ Mbit SD]
+http://platina-iptv.com:80/sermor/sermor2/26159
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT TV 1 HD
+http://platina-iptv.com:80/sermor/sermor2/21352
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT 1 TV [Mbit HD]" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT 1 TV [Mbit HD]
+http://platina-iptv.com:80/sermor/sermor2/26160
+#EXTINF:-1 tvg-id="" tvg-name="Sportv1 H265[MEO Teste]" tvg-logo="http://163.172.96.72/picon/SPORTV%201%20FHD.png" group-title="CumCatano",Sportv1 H265[MEO Teste]
+http://platina-iptv.com:80/sermor/sermor2/26383
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 [VPC) HD" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SPORT.TV%201%20FULLHD.png" group-title="CumCatano",SPORT TV 1 [VPC) HD
+http://platina-iptv.com:80/sermor/sermor2/26273
+#EXTINF:-1 tvg-id="SPORTV1HD(LOWBITRATE)" tvg-name="Sport TV 1 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",Sport TV 1 FHD
+http://platina-iptv.com:80/sermor/sermor2/9065
+#EXTINF:-1 tvg-id="SPORTV1HD." tvg-name="SPORT TV 1 2K" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT TV 1 2K
+http://platina-iptv.com:80/sermor/sermor2/8598
+#EXTINF:-1 tvg-id="Sport TV 4K" tvg-name="SPORT TV 4K" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NTJf/sporttv4kmeoi.png" group-title="CumCatano",SPORT TV 4K
+http://platina-iptv.com:80/sermor/sermor2/21357
+#EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDdf/sporttv2hd.png" group-title="CumCatano",SPORT TV 2 HD
+http://platina-iptv.com:80/sermor/sermor2/8701
+#EXTINF:-1 tvg-id="SPORT TV 2 HD FULL HD" tvg-name="SPORT TV 2 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDdf/sporttv2hd.png" group-title="CumCatano",SPORT TV 2 FHD
+http://platina-iptv.com:80/sermor/sermor2/8675
+#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="SPORT TV 3 HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDhf/sporttv3.png" group-title="CumCatano",SPORT TV 3 HD
+http://platina-iptv.com:80/sermor/sermor2/8676
+#EXTINF:-1 tvg-id="SPORT TV 3 HD FULL HD" tvg-name="SPORT TV 3 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDhf/sporttv3.png" group-title="CumCatano",SPORT TV 3 FHD
+http://platina-iptv.com:80/sermor/sermor2/16342
+#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SPORT TV 4 HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NTFf/sporttv4hd.png" group-title="CumCatano",SPORT TV 4 HD
+http://platina-iptv.com:80/sermor/sermor2/8595
+#EXTINF:-1 tvg-id="SPORT TV 4 HD FULL HD" tvg-name="SPORT TV 4 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NTFf/sporttv4hd.png" group-title="CumCatano",SPORT TV 4 FHD
+http://platina-iptv.com:80/sermor/sermor2/8677
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5 HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NTRf/sporttv5fhd.png" group-title="CumCatano",SPORT TV 5 HD
+http://platina-iptv.com:80/sermor/sermor2/8679
+#EXTINF:-1 tvg-id="SPORT TV 5 HD FULL HD" tvg-name="SPORT TV 5 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NTRf/sporttv5fhd.png" group-title="CumCatano",SPORT TV 5 FHD
+http://platina-iptv.com:80/sermor/sermor2/8594
+#EXTINF:-1 tvg-id="NBATV" tvg-name="Sport TV NBA FHD" tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="CumCatano",Sport TV NBA FHD
+http://platina-iptv.com:80/sermor/sermor2/25879
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="ELEVEN SPORTS 1 SD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 1 SD
+http://platina-iptv.com:80/sermor/sermor2/21359
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 1 HD
+http://platina-iptv.com:80/sermor/sermor2/17576
+#EXTINF:-1 tvg-id="elevensports1FHD" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 1 FHD
+http://platina-iptv.com:80/sermor/sermor2/18313
+#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 2 HD
+http://platina-iptv.com:80/sermor/sermor2/17575
+#EXTINF:-1 tvg-id="elevensports3HD" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 3 HD
+http://platina-iptv.com:80/sermor/sermor2/17574
+#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 4 HD
+http://platina-iptv.com:80/sermor/sermor2/17573
+#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 5 HD
+http://platina-iptv.com:80/sermor/sermor2/17572
+#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 6 HD
+http://platina-iptv.com:80/sermor/sermor2/17571
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/abolatv.png" group-title="CumCatano",A Bola TV
+
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/abolatv.png" group-title="CumCatano",A Bola TV HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Liga_NOS_logo.png/200px-Liga_NOS_logo.png" tvg-id="" group-title="CumCatano",Liga NOS TV (só em dias de jogo)
+http://redirector.gvt1.com/edgedl/release2/chrome_component/AMV2712b3iJ3_9.1/9.1_all_easylist.crx3
+#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="SPORT TV 4K UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/5n9fhb1499698380.png/small" group-title="CumCatano",SPORT TV 4K UHD
+
+#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="SPORT TV 4K UHD Low" tvg-logo="https://www.thelogodb.com/images/media/logonew/5n9fhb1499698380.png/small" group-title="CumCatano",SPORT TV 4K UHD Low
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV Multiplay HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qxxyst1474691176.png/small" group-title="CumCatano",SPORT TV Multiplay HD
+
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV +" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV +
+
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV + LOW
+
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV + HD
+
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV + FHD
+
+
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 (Alt)
+http://dns.infinitytv.xyz:8000/live/aida123/123aida/170.ts
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 LOW
+
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 HD
+http://dns.infinitytv.xyz:8000/live/aida123/123aida/1187.ts
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 FHD
+http://dns.infinitytv.xyz:8000/live/aida123/123aida/7324.ts
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 FHD Alt" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 FHD Alt
+
+#EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2
+
+#EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2 LOW
+
+#EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2 HD
+
+#EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2 FHD
+
+#EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3
+
+#EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3 LOW
+
+#EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3 HD
+
+#EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3 FHD
+
+#EXTINF:-1 tvg-id="SPORTV 4 HD" tvg-name="SPORT TV 4" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",SPORT TV 4
+
+#EXTINF:-1 tvg-id="SPORTV 4 HD" tvg-name="SPORT TV 4 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",SPORT TV 4 LOW
+
+#EXTINF:-1 tvg-id="SPORTV 4 HD" tvg-name="SPORT TV 4 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",SPORT TV 4 HD
+
+#EXTINF:-1 tvg-id="SPORTV 4 HD" tvg-name="SPORT TV 4 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",SPORT TV 4 FHD
+
+#EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-name="SPORT TV 5" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",SPORT TV 5
+
+#EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-name="SPORT TV 5 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",SPORT TV 5 LOW
+
+#EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",SPORT TV 5 HD
+
+#EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-name="SPORT TV 5 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",SPORT TV 5 FHD
+
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV
+http://dns.infinitytv.xyz:8000/live/aida123/123aida/1495.ts
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV (Op 2)
+http://dns.infinitytv.xyz:8000/live/aida123/123aida/288.ts
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/uect761515364958.png/small" group-title="CumCatano",Benfica TV LOW
+http://dns.infinitytv.xyz:8000/live/aida123/123aida/31036.ts
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV HD
+http://dns.infinitytv.xyz:8000/live/aida123/123aida/7329.ts
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV FHD
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ElevenSports1.pt" group-title="CumCatano",ELEVEN SPORTS 1
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ElevenSports1.pt" group-title="CumCatano",ELEVEN SPORTS 1 HD
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ElevenSports2.pt" group-title="CumCatano",ELEVEN SPORTS 2
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ElevenSports2.pt" group-title="CumCatano",ELEVEN SPORTS 2 (Low)
+
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/dfiilm1515364197.png/small" group-title="CumCatano",Sporting TV LOW
+
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sportingtv.png" group-title="CumCatano",Sporting TV
+
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/dfiilm1515364197.png/small" group-title="CumCatano",Sporting TV HD
+
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sportingtv.png" group-title="CumCatano",Sporting TV FHD
+
+#EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canal" tvg-logo="https://www.thelogodb.com/images/media/logonew/yuxppt1465900144.png/small" group-title="CumCatano",Porto Canal
+
+#EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canal HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/portocanal.png" group-title="CumCatano",Porto Canal HD
+
+#EXTINF:-1 tvg-id="EUROSPORT1" tvg-name="Eurosport" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport1.png" group-title="CumCatano",Eurosport
+
+#EXTINF:-1 tvg-id="EUROS" tvg-name="Eurosport 1" tvg-logo="https://www.thelogodb.com/images/media/logonew/cco61g1515364096.png/small" group-title="CumCatano",Eurosport 1
+
+#EXTINF:-1 tvg-id="EUROS" tvg-name="Eurosport 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport1.png" group-title="CumCatano",Eurosport 1 HD
+
+#EXTINF:-1 tvg-id="EUROS2" tvg-name="Eurosport 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport2.png" group-title="CumCatano",Eurosport 2
+
+#EXTINF:-1 tvg-id="EUROS2" tvg-name="Eurosport 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport2.png" group-title="CumCatano",Eurosport 2 HD
+
+#EXTINF:-1 tvg-id="MCS EXTREME" tvg-name="MCS Extreme" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/mcsextreme.png" group-title="CumCatano",MCS Extreme
+
+#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="Kombat Spo.m3u8 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/komb.m3u8port.png" group-title="CumCatano",Kombat Sports HD
+
+#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="Fight Network FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fightnetwork.png" group-title="CumCatano",Fight Network FHD
+
+#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="Fight Network HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fightnetwork.png" group-title="CumCatano",Fight Network HD
+
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="https://bit.ly/2G8FwOs" group-title="CumCatano",Combate HD
+
+#EXTINF:-1 tvg-id="Motors TV" tvg-name="Motors TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/motorsporttv.png" group-title="CumCatano",Motors TV HD
+
+#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="Motorvision HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/motorvisiontv.png" group-title="CumCatano",Motorvision HD
+
+#EXTINF:-1 tvg-id="Automoto TV" tvg-name="Automoto" tvg-logo="https://bit.ly/2RXpsFL" group-title="CumCatano",Automoto TV
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8
+#EXTINF:-1 tvg-id="Cars Stars" tvg-name="Fuel TV HD" tvg-logo="https://bit.ly/2CLy51e" group-title="CumCatano",Cars & Stars TV
+http://cars-and-stars-tv-hls1.cosmonova.net.ua/hls/cars-and-stars-tv_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="Fuel TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fueltv.png" group-title="CumCatano",Fuel TV HD
+
+#EXTINF:-1 tvg-id="RedBull TV" tvg-name="Red Bull TV" tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/pfc.png" group-title="CumCatano",PFC
+
+#EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515JQjBBBvL.png" group-title="CumCatano",NBA TV
+
+#EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine1.png" group-title="CumCatano",TVCine 1
+
+#EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yxtrst1436898282.png/small" group-title="CumCatano",TVCine 1 HD
+
+#EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine1.png" group-title="CumCatano",TVCine 1 FHD
+
+#EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine2.png" group-title="CumCatano",TVCine 2
+
+#EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/rpssrv1436898306.png/small" group-title="CumCatano",TVCine 2 HD
+
+#EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine2.png" group-title="CumCatano",TVCine 2 FHD
+
+#EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine3.png" group-title="CumCatano",TVCine 3
+
+#EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/uwrwyv1436898334.png/small" group-title="CumCatano",TVCine 3 HD
+
+#EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine3.png" group-title="CumCatano",TVCine 3 FHD
+
+#EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine4.png" group-title="CumCatano",TVCine 4
+
+#EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qswqxx1436898355.png/small" group-title="CumCatano",TVCine 4 HD
+
+#EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine4.png" group-title="CumCatano",TVCine 4 FHD
+
+#EXTINF:-1 tvg-id="TVSERIES" tvg-name="TVSeries" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvseries.png" group-title="CumCatano",TVSeries
+
+#EXTINF:-1 tvg-id="TVSERIES" tvg-name="TVSeries HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xppsrs1436898382.png/small" group-title="CumCatano",TVSeries HD
+
+#EXTINF:-1 tvg-id="TVSERIES" tvg-name="TVSeries FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvseries.png" group-title="CumCatano",TVSeries FHD
+
+#EXTINF:-1 tvg-id="" tvg-name="LXTV Movies" tvg-logo="https://pbs.twimg.com/profile_images/1448819128/LXTV_TWITTER_icon_400x400.jpg" group-title="CumCatano",LXTV Movies
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/syfy.png" group-title="CumCatano",SyFy
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="Syfy HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/8vfxi01515520586.png/small" group-title="CumCatano",Syfy HD
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/syfy.png" group-title="CumCatano",SyFy FHD
+
+#EXTINF:-1 tvg-id="SUNDANCE" tvg-name="Sundance TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sundancetv.png" group-title="CumCatano",Sundance TV HD
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/amc.png" group-title="CumCatano",AMC
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/986bly1515839824.png/small" group-title="CumCatano",AMC HD
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/amc.png" group-title="CumCatano",AMC FHD
+
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cinemundo.png" group-title="CumCatano",Cinemundo HD
+
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cinemundo.png" group-title="CumCatano",Cinemundo
+
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX Movies" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxmovies.png" group-title="CumCatano",FOX Movies
+
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="Fox Movies HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vptxrq1436890170.png/small" group-title="CumCatano",Fox Movies HD
+
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX Movies FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxmovies.png" group-title="CumCatano",FOX Movies FHD
+
+#EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalhollywood.png" group-title="CumCatano",Hollywood
+
+#EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqtrqu1436898965.png/small" group-title="CumCatano",Hollywood HD
+
+#EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalhollywood.png" group-title="CumCatano",Hollywood FHD
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axn.png" group-title="CumCatano",AXN
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wxswvq1433343102.png/small" group-title="CumCatano",AXN HD
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axn.png" group-title="CumCatano",AXN FHD
+
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yo0yul1515363807.png/small" group-title="CumCatano",AXN Black HD
+
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnblack.png" group-title="CumCatano",AXN Black
+
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnblack.png" group-title="CumCatano",AXN Black FHD
+
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnwhite.png" group-title="CumCatano",AXN White
+
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xhtejj1515363892.png/small" group-title="CumCatano",AXN White HD
+
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnwhite.png" group-title="CumCatano",AXN White FHD
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fox.png" group-title="CumCatano",FOX
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/rwptru1436892145.png/small" group-title="CumCatano",FOX HD
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fox.png" group-title="CumCatano",FOX FHD
+
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX Comedy" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxcomedy.png" group-title="CumCatano",FOX Comedy
+
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX Comedy HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/nquwju1515410731.png/small" group-title="CumCatano",FOX Comedy HD
+
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX Comedy FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxcomedy.png" group-title="CumCatano",FOX Comedy FHD
+
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="FOX Crime" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxcrime.png" group-title="CumCatano",FOX Crime
+
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="FOX Crime HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/nquwju1515410731.png/small" group-title="CumCatano",FOX Crime HD
+
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="FOX Crime FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxcrime.png" group-title="CumCatano",FOX Crime FHD
+
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX Life" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxlife.png" group-title="CumCatano",FOX Life
+
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX Life HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/owzqbb1515520768.png/small" group-title="CumCatano",FOX Life HD
+
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX Life FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxlife.png" group-title="CumCatano",FOX Life FHD
+
+#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="Crime & Investigation" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/crimeandinvestigation.png" group-title="CumCatano",Crime & Investigation
+
+#EXTINF:-1 tvg-id="" tvg-name="LXTV Series" tvg-logo="https://pbs.twimg.com/profile_images/1448819128/LXTV_TWITTER_icon_400x400.jpg" group-title="CumCatano",LXTV Series
+
+#EXTINF:-1 tvg-id="DISNY" tvg-name="Disney Channel" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/disneychannel.png" group-title="CumCatano",Disney Channel
+
+#EXTINF:-1 tvg-id="DISNY" tvg-name="Disney Channel" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/disneychannel.png" group-title="CumCatano",Disney Channel HD
+
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="Disney Junior" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/disneyjunior.png" group-title="CumCatano",Disney Junior
+
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="Disney Junior" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/disneyjunior.png" group-title="CumCatano",Disney Junior HD
+
+#EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cartoonnetwork.png" group-title="CumCatano",Cartoon Network
+
+#EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cartoonnetwork.png" group-title="CumCatano",Cartoon Network HD
+
+#EXTINF:-1 tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/nickelodeon.png" group-title="CumCatano",Nickelodeon
+
+#EXTINF:-1 tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/nickelodeon.png" group-title="CumCatano",Nickelodeon HD
+
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Jr" tvg-logo="http://nickjr-intl.mtvnimages.com/uk/img/nav/logo-nickjr-desktop-2x.png" group-title="CumCatano",Nick Jr
+
+#EXTINF:-1 tvg-id="PANDA" tvg-name="Canal Panda" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalpanda.png" group-title="CumCatano",Canal Panda
+
+#EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="Panda Biggs" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/biggs.png" group-title="CumCatano",Panda Biggs
+
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sickapa.png" group-title="CumCatano",SIC K HD
+
+#EXTINF:-1 tvg-id="JimJam" tvg-name="Jim Jam" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/jimjam.png" group-title="CumCatano",Jim Jam
+
+#EXTINF:-1 tvg-id="BABYFIRST" tvg-name="Baby First" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/babyfirst.png" group-title="CumCatano",Baby First
+
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/babytv.png" group-title="CumCatano",Baby TV
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/discoverychannel.png" group-title="CumCatano",Discovery Channel
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/usyusu1480364903.png/small" group-title="CumCatano",Discovery Channel HD
+
+#EXTINF:-1 tvg-id="DISCOVERYHD" tvg-name="Discovery ShowCase" tvg-logo="https://www.thelogodb.com/images/media/logonew/qqwypw1435092052.png/small" group-title="CumCatano",Discovery ShowCase
+
+#EXTINF:-1 tvg-id="DISCOVERYHD" tvg-name="Discovery Showcase HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/discoveryshowcase.png" group-title="CumCatano",Discovery Showcase HD
+
+#EXTINF:-1 tvg-id="NGC" tvg-name="National Geographic" tvg-logo="https://www.thelogodb.com/images/media/logonew/spurwy1433945957.png/small" group-title="CumCatano",National Geographic
+
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="National Geographic HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/nationalgeographicchannel.png" group-title="CumCatano",National Geographic HD
+
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="National Geo Wild HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/natgeowild.png" group-title="CumCatano",National Geo Wild HD
+
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="National Geo Wild" tvg-logo="https://www.thelogodb.com/images/media/logonew/ypptyq1433943719.png/small" group-title="CumCatano",National Geo Wild
+
+#EXTINF:-1 tvg-id="ODIS" tvg-name="Canal Odisseia" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/odisseia.png" group-title="CumCatano",Canal Odisseia
+
+#EXTINF:-1 tvg-id="Canal História" tvg-name="Canal Historia" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/historia.png" group-title="CumCatano",Canal Historia
+
+#EXTINF:-1 tvg-id="Canal História" tvg-name="Canal Historia HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/f5lex41515366394.png/small" group-title="CumCatano",Canal Historia HD
+
+#EXTINF:-1 tvg-id="EENTER" tvg-name="E! Entertainment HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eentertainment.png" group-title="CumCatano",E! Entertainment HD
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tlc.png" group-title="CumCatano",TLC HD
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/aande.png" group-title="CumCatano",A&E
+
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cbsreality.png" group-title="CumCatano",CBS Reality
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/bbcentertainment.png" group-title="CumCatano",BBC Entertainment
+
+#EXTINF:-1 tvg-id="DOGTV" tvg-name="Dog TV FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/dogtv.png" group-title="CumCatano",Dog TV FHD
+
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="FISHING NETWORK" tvg-logo="https://bit.ly/2OLLmtz" group-title="CumCatano",FISHING NETWORK
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+#EXTINF:-1 tvg-id="Caça Vision" tvg-name="Caçavision" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cacavision.png" group-title="CumCatano",Caçavision
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="Caça e Pesca" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cacaepesca.png" group-title="CumCatano",Caça e Pesca
+
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="Toros TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/torostv.png" group-title="CumCatano",Toros TV HD
+
+#EXTINF:-1 tvg-id="OUTDOOR HD" tvg-name="Outdoor Channel FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/outdoorchannel.png" group-title="CumCatano",Outdoor Channel FHD
+
+#EXTINF:-1 tvg-id="FASH" tvg-name="Fashion TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fashiontv.png" group-title="CumCatano",Fashion TV
+http://persik.by/stream/176/296165/10317.m3u8
+#EXTINF:-1 tvg-id="Luxe TV HD" tvg-name="Luxe TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luxe-TV-Logo.svg/2000px-Luxe-TV-Logo.svg.png" group-title="CumCatano",Luxe TV FHD
+
+#EXTINF:-1 tvg-id="FINE LIVING NETWORK HD" tvg-name="Fine Living Network FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/finelivingnetwork.png" group-title="CumCatano",Fine Living Network FHD
+
+#EXTINF:-1 tvg-id="MCS LifeStyle" tvg-name="MCS Lifestyle" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/mcslifestyle.png" group-title="CumCatano",MCS Lifestyle
+
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="Travel Channel HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqwxvx1433944819.png/small" group-title="CumCatano",Travel Channel 
+
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="Travel Channel FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/travelchannel.png" group-title="CumCatano",Travel Channel HD
+
+#EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/M6-tv-logo.png" group-title="CumCatano",M6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg" group-group-title="CumCatano",Amazing Facts TV (USA)
+
+#EXTINF:-1 tvg-id="TVFATIMA" tvg-name="Fatima" tvg-logo="https://bit.ly/2DdAmBJ" group-title="CumCatano",Fatima
+http://213.13.26.11:1935/live/santuario.stream/CumCatano.m3u8
+#EXTINF:-1 tvg-id="PAROQUIADEFATIMA" tvg-name="Paroquia Fatima" tvg-logo="https://bit.ly/2S3O8AR" group-title="CumCatano",PAROQUIA DE FATIMA
+http://api.new.livestream.com/accounts/22203883/events/6579475/live.m3u8
+#EXTINF:-1 tvg-id="ANGELUSTV" tvg-name="CANAL ANGELUS TV" tvg-logo="http://www.mediotejo.net/wp-content/uploads/2017/01/angelus-tv.jpg" group-title="CumCatano",CANAL ANGELUS TV
+
+#EXTINF:-1 tvg-id="CANCAONOVA" tvg-name="Canção Nova HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cancaonova.png" group-title="CumCatano",Canção Nova HD
+
+#EXTINF:-1 tvg-id="ARTV (Canal Parlamento)" tvg-name="ARTV" tvg-logo="https://www.thelogodb.com/images/media/logonew/xvswvy1437956693.png/small" group-title="CumCatano",ARTV
+http://62.28.213.14:9981/stream/channelid/670173256
+#EXTINF:-1 tvg-id="LOCALVISAOTVHD" tvg-name="Localvisão HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/localvisaotv.png" group-title="CumCatano",Localvisão HD
+
+#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memoria" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpmemoria.png" group-title="CumCatano",RTP Memoria
+http://62.28.213.14:9981/stream/channelid/775982095
+#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memoria" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpmemoria.png" group-title="CumCatano",RTP Memoria (Low)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP Africa" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpafrica.png" group-title="CumCatano",RTP Africa
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="RTPACO" tvg-name="RTP Acores" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpacores.png" group-title="CumCatano",RTP Acores
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="RTPMAD" tvg-name="RTP Madeira" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpmadeira.png" group-title="CumCatano",RTP Madeira
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.pt.m3u8
+#EXTINF:-1 tvg-id="MACAUTV" tvg-name="Macau TV" tvg-logo="https://tinyurl.com/yb34mjvt" group-title="CumCatano",MACAU TV
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="TV GLOBO HD" tvg-name="TV Globo LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/yspusx1435103750.png/small" group-title="CumCatano",TV Globo LOW
+
+#EXTINF:-1 tvg-id="TV GLOBO HD" tvg-name="TV Globo" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/globoportugal.png" group-title="CumCatano",TV Globo
+
+#EXTINF:-1 tvg-id="Globo Premium" tvg-name="TV Globo Premium" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/globopremium.png" group-title="CumCatano",TV Globo Premium
+
+#EXTINF:-1 tvg-id="TVR" tvg-name="TV Record" tvg-logo="https://www.thelogodb.com/images/media/logonew/wjq51s1515364396.png/small" group-title="CumCatano",TV Record
+
+#EXTINF:-1 tvg-id="TVR" tvg-name="TV Record HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvrecord.png" group-title="CumCatano",TV Record HD
+
+#EXTINF:-1 tvg-id="TVR" tvg-name="TV Record FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wjq51s1515364396.png/small" group-title="CumCatano",TV Record FHD
+
+#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="Globo Portugal" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/globoportugal.png" group-title="CumCatano",Globo Portugal
+
+#EXTINF:-1 tvg-id="RTP Internacional" tvg-name="RTP Internacional" tvg-logo="https://www.thelogodb.com/images/media/logonew/sxrvwx1438185988.png/small" group-title="CumCatano",RTP Internacional
+http://210.210.155.35/session/5395775a-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s38/01.m3u8?isnpiration=10&rebase=on
+#EXTINF:-1 tvg-id="RTP Internacional" tvg-name="RTP Internacional" tvg-logo="https://www.thelogodb.com/images/media/logonew/sxrvwx1438185988.png/small" group-title="CumCatano",RTP Internacional (LOW)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8?isnpiration=10&rebase=on
+#EXTINF:-1 tvg-id="TVI Internacional (PT)" tvg-name="TVI Internacional" tvg-logo="https://www.thelogodb.com/images/media/logonew/syurpr1474677313.png/small" group-title="CumCatano",TVI Internacional
+
+#EXTINF:-1 tvg-id="SICInternacional" tvg-name="SIC Internacional" tvg-logo="https://www.thelogodb.com/images/media/logonew/vvtvvy1433472942.png/small" group-title="CumCatano",SIC Internacional
+
+#EXTINF:-1 tvg-id="TPA" tvg-name="TPA Internacional" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tpainternacional.png" group-title="CumCatano",TPA Internacional
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tveinternacional.png" group-title="CumCatano",TVE Internacional
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cnn.png" group-title="CumCatano",CNN
+
+#EXTINF:-1 tvg-id="BBCW" tvg-name="BBC World News" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/bbcworldnews.png" group-title="CumCatano",BBC World News
+
+#EXTINF:-1 tvg-id="BLOOM" tvg-name="Bloomberg" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/bloomberg.png" group-title="CumCatano",Bloomberg
+
+#EXTINF:-1 tvg-id="SKYN" tvg-name="Sky News" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/skynews.png" group-title="CumCatano",Sky News
+
+#EXTINF:-1 tvg-id="Deutschetsche Welle" tvg-name="Deutsche Welle" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/de.m3u8chewelle.png" group-title="CumCatano",Deuche Welle
+
+#EXTINF:-1 tvg-id="EURON" tvg-name="Eurosport News" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosportnews.png" group-title="CumCatano",Eurosport News
+
+#EXTINF:-1 tvg-id="TVE24" tvg-name="TVE 24 Horas" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tve24h.png" group-title="CumCatano",TVE 24 Horas
+
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="Kuriakos" tvg-logo="http://kuriakos.com/wp-content/uploads/elementor/thumbs/Logo_Kuriakos-nb2wafwo4hrgnnkyiafv8atk7wxz16zc1k9afli5yw.jpg" group-title="CumCatano",Kuriakos
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 tvg-id="FRANCE24FR" tvg-name="France 24" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/france24.png" group-title="CumCatano",France 24
+
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5 MONDE EUROPE" tvg-logo="https://static.playmedia-cdn.net/img/tv_channels/241_medium.png" group-title="CumCatano",TV5 MONDE EUROPE
+
+#EXTINF:-1 tvg-id="L'EQUIPE" tvg-name="L'EQUIPE" tvg-logo="https://bit.ly/2RqGmQE" group-title="CumCatano",L'EQUIPE
+http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
