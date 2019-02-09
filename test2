@@ -1,0 +1,239 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" RTP 1" tvg-logo="" group-title="CANAIS PORTUGAL", RTP 1
+http://fonte.iptvmaishd.com:25461/1234/1234/125934.ch
+#EXTINF:-1 tvg-id="" tvg-name=" RTP 2" tvg-logo="" group-title="CANAIS PORTUGAL", RTP 2
+http://fonte.iptvmaishd.com:25461/1234/1234/125935.ch
+#EXTINF:-1 tvg-id="" tvg-name=" RTP 3" tvg-logo="" group-title="CANAIS PORTUGAL", RTP 3
+http://fonte.iptvmaishd.com:25461/1234/1234/125936.ch
+#EXTINF:-1 tvg-id="" tvg-name=" RTP AÇORES" tvg-logo="" group-title="CANAIS PORTUGAL", RTP AÇORES
+http://fonte.iptvmaishd.com:25461/1234/1234/125937.ch
+#EXTINF:-1 tvg-id="" tvg-name=" RTP ÁFRICA" tvg-logo="" group-title="CANAIS PORTUGAL", RTP ÁFRICA
+http://fonte.iptvmaishd.com:25461/1234/1234/125938.ch
+#EXTINF:-1 tvg-id="" tvg-name=" RTP MADEIRA" tvg-logo="" group-title="CANAIS PORTUGAL", RTP MADEIRA
+http://fonte.iptvmaishd.com:25461/1234/1234/125887.ch
+#EXTINF:-1 tvg-id="" tvg-name=" RTP MEMÓRIA" tvg-logo="" group-title="CANAIS PORTUGAL", RTP MEMÓRIA
+http://fonte.iptvmaishd.com:25461/1234/1234/125939.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Sic" tvg-logo="" group-title="CANAIS PORTUGAL", Sic
+http://fonte.iptvmaishd.com:25461/1234/1234/125940.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SIC MULHER" tvg-logo="" group-title="CANAIS PORTUGAL", SIC MULHER
+http://fonte.iptvmaishd.com:25461/1234/1234/125941.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SIC NOTICIAS" tvg-logo="" group-title="CANAIS PORTUGAL", SIC NOTICIAS
+http://fonte.iptvmaishd.com:25461/1234/1234/125942.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SIC RADICAL" tvg-logo="" group-title="CANAIS PORTUGAL", SIC RADICAL
+http://fonte.iptvmaishd.com:25461/1234/1234/125943.ch
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" TVI" tvg-logo="" group-title="CANAIS PORTUGAL", TVI
+http://fonte.iptvmaishd.com:25461/1234/1234/125964.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVI 24" tvg-logo="" group-title="CANAIS PORTUGAL", TVI 24
+http://fonte.iptvmaishd.com:25461/1234/1234/125965.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVI FHD" tvg-logo="" group-title="CANAIS PORTUGAL", TVI FHD
+http://fonte.iptvmaishd.com:25461/1234/1234/125842.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVI Fic" tvg-logo="" group-title="CANAIS PORTUGAL", TVI Fic
+http://fonte.iptvmaishd.com:25461/1234/1234/125843.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVI REALITY" tvg-logo="" group-title="CANAIS PORTUGAL", TVI REALITY
+http://fonte.iptvmaishd.com:25461/1234/1234/125966.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVI Reality (A Quinta)" tvg-logo="" group-title="CANAIS PORTUGAL", TVI Reality (A Quinta)
+http://fonte.iptvmaishd.com:25461/1234/1234/125967.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVI REALITY CAMARA 1" tvg-logo="" group-title="CANAIS PORTUGAL", TVI REALITY CAMARA 1
+http://fonte.iptvmaishd.com:25461/1234/1234/125817.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVI REALITY CAMARA 3" tvg-logo="" group-title="CANAIS PORTUGAL", TVI REALITY CAMARA 3
+http://fonte.iptvmaishd.com:25461/1234/1234/125816.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVI REALITY CAMARA 4" tvg-logo="" group-title="CANAIS PORTUGAL", TVI REALITY CAMARA 4
+http://fonte.iptvmaishd.com:25461/1234/1234/125815.ch
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" CM TV" tvg-logo="" group-title="CANAIS PORTUGAL", CMTV
+http://fonte.iptvmaishd.com:25461/1234/1234/125906.ch
+#EXTINF:-1 tvg-id="" tvg-name=" A BOLA TV" tvg-logo="" group-title="CANAIS PORTUGAL", A BOLA TV
+http://fonte.iptvmaishd.com:25461/1234/1234/125892.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Abola TV" tvg-logo="" group-title="CANAIS PORTUGAL", Abola TV
+http://fonte.iptvmaishd.com:25461/1234/1234/125827.ch
+#EXTINF:-1 tvg-id="" tvg-name=" CANAL Q" tvg-logo="" group-title="CANAIS PORTUGAL", CANAL Q
+http://fonte.iptvmaishd.com:25461/1234/1234/125902.ch
+#EXTINF:-1 tvg-id="" tvg-name=" PORTO CANAL" tvg-logo="" group-title="CANAIS PORTUGAL", PORTO CANAL
+http://fonte.iptvmaishd.com:25461/1234/1234/125933.ch
+#EXTINF:-1 tvg-id="" tvg-name=" 24 KITCHEN" tvg-logo="" group-title="CANAIS PORTUGAL", 24 KITCHEN
+http://fonte.iptvmaishd.com:25461/1234/1234/125890.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TV GLOBO" tvg-logo="" group-title="CANAIS PORTUGAL", TV GLOBO
+http://fonte.iptvmaishd.com:25461/1234/1234/125959.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TV Globo Premium" tvg-logo="" group-title="CANAIS PORTUGAL", TV Globo Premium
+http://fonte.iptvmaishd.com:25461/1234/1234/125960.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TV RECORD" tvg-logo="" group-title="CANAIS PORTUGAL", TV RECORD
+http://fonte.iptvmaishd.com:25461/1234/1234/125961.ch
+#EXTINF:-1 tvg-id="" tvg-name=" CAÇA & PESCA" tvg-logo="" group-title="CANAIS PORTUGAL", CAÇA & PESCA
+http://fonte.iptvmaishd.com:25461/1234/1234/125899.ch
+#EXTINF:-1 tvg-id="" tvg-name=" CAçAVISION" tvg-logo="" group-title="CANAIS PORTUGAL", CACAVISION
+http://fonte.iptvmaishd.com:25461/1234/1234/125828.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TOUROS TV" tvg-logo="" group-title="CANAIS PORTUGAL", TOUROS TV
+http://fonte.iptvmaishd.com:25461/1234/1234/125954.ch
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" TV CINE 1  HD" tvg-logo="" group-title="CANAIS PORTUGAL", TV CINE 1  HD
+http://fonte.iptvmaishd.com:25461/1234/1234/125955.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TV CINE 2  HD" tvg-logo="" group-title="CANAIS PORTUGAL", TV CINE 2  HD
+http://fonte.iptvmaishd.com:25461/1234/1234/125956.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TV CINE 3 HD" tvg-logo="" group-title="CANAIS PORTUGAL", TV CINE 3 HD
+http://fonte.iptvmaishd.com:25461/1234/1234/125957.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TV CINE 4" tvg-logo="" group-title="CANAIS PORTUGAL", TV CINE 4
+http://fonte.iptvmaishd.com:25461/1234/1234/125958.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVC HD" tvg-logo="" group-title="CANAIS PORTUGAL", TVC HD
+http://fonte.iptvmaishd.com:25461/1234/1234/125962.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVCINE 1 HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", TVCINE 1 HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125863.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVCINE 2 HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", TVCINE 2 HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125862.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVCINE 3 HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", TVCINE 3 HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125861.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVCINE 4 HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", TVCINE 4 HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125860.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TVCseries" tvg-logo="" group-title="CANAIS PORTUGAL", TVCseries
+http://fonte.iptvmaishd.com:25461/1234/1234/125963.ch
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" HOLLYWOOD" tvg-logo="" group-title="CANAIS PORTUGAL", HOLLYWOOD
+http://fonte.iptvmaishd.com:25461/1234/1234/125920.ch
+#EXTINF:-1 tvg-id="" tvg-name=" A & E" tvg-logo="" group-title="CANAIS PORTUGAL", A & E
+http://fonte.iptvmaishd.com:25461/1234/1234/125891.ch
+#EXTINF:-1 tvg-id="" tvg-name=" AMC" tvg-logo="" group-title="CANAIS PORTUGAL", AMC
+http://fonte.iptvmaishd.com:25461/1234/1234/125893.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SYFY" tvg-logo="" group-title="CANAIS PORTUGAL", SYFY
+http://fonte.iptvmaishd.com:25461/1234/1234/125952.ch
+#EXTINF:-1 tvg-id="" tvg-name=" TLC" tvg-logo="" group-title="CANAIS PORTUGAL", TLC
+http://fonte.iptvmaishd.com:25461/1234/1234/125953.ch
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" FOX HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", FOX HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125877.ch
+#EXTINF:-1 tvg-id="" tvg-name=" FOX LIFE" tvg-logo="" group-title="CANAIS PORTUGAL", FOX LIFE
+http://fonte.iptvmaishd.com:25461/1234/1234/125915.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Fox Comedy" tvg-logo="" group-title="CANAIS PORTUGAL", Fox Comedy
+http://fonte.iptvmaishd.com:25461/1234/1234/125913.ch
+#EXTINF:-1 tvg-id="" tvg-name="  Fox Crime" tvg-logo="" group-title="CANAIS PORTUGAL",  Fox Crime
+http://fonte.iptvmaishd.com:25461/1234/1234/125888.ch
+#EXTINF:-1 tvg-id="" tvg-name=" FOX CRIME" tvg-logo="" group-title="CANAIS PORTUGAL", FOX CRIME
+http://fonte.iptvmaishd.com:25461/1234/1234/125914.ch
+#EXTINF:-1 tvg-id="" tvg-name=" FOX MOVIES" tvg-logo="" group-title="CANAIS PORTUGAL", FOX MOVIES
+http://fonte.iptvmaishd.com:25461/1234/1234/125916.ch
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" AXN" tvg-logo="" group-title="CANAIS PORTUGAL", AXN
+http://fonte.iptvmaishd.com:25461/1234/1234/125894.ch
+#EXTINF:-1 tvg-id="" tvg-name=" AXN WHITE" tvg-logo="" group-title="CANAIS PORTUGAL", AXN WHITE
+http://fonte.iptvmaishd.com:25461/1234/1234/125895.ch
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" CANAL PANDA" tvg-logo="" group-title="CANAIS PORTUGAL", CANAL PANDA
+http://fonte.iptvmaishd.com:25461/1234/1234/125901.ch
+#EXTINF:-1 tvg-id="" tvg-name=" CARTOON  NETWORK" tvg-logo="" group-title="CANAIS PORTUGAL", CARTOON  NETWORK
+http://fonte.iptvmaishd.com:25461/1234/1234/125903.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Baby First" tvg-logo="" group-title="CANAIS PORTUGAL", Baby First
+http://fonte.iptvmaishd.com:25461/1234/1234/125825.ch
+#EXTINF:-1 tvg-id="" tvg-name=" BABY TV" tvg-logo="" group-title="CANAIS PORTUGAL", BABY TV
+http://fonte.iptvmaishd.com:25461/1234/1234/125896.ch
+#EXTINF:-1 tvg-id="" tvg-name=" DISNEY CHANNEL" tvg-logo="" group-title="CANAIS PORTUGAL", DISNEY CHANNEL
+http://fonte.iptvmaishd.com:25461/1234/1234/125909.ch
+#EXTINF:-1 tvg-id="" tvg-name=" DISNEY JUNIOR" tvg-logo="" group-title="CANAIS PORTUGAL", DISNEY JUNIOR
+http://fonte.iptvmaishd.com:25461/1234/1234/125910.ch
+#EXTINF:-1 tvg-id="" tvg-name=" JIM JAM" tvg-logo="" group-title="CANAIS PORTUGAL", JIM JAM
+http://fonte.iptvmaishd.com:25461/1234/1234/125921.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Panda Biggs" tvg-logo="" group-title="CANAIS PORTUGAL", Panda Biggs
+http://fonte.iptvmaishd.com:25461/1234/1234/125844.ch
+#EXTINF:-1 tvg-id="" tvg-name=" NICKELODEON" tvg-logo="" group-title="CANAIS PORTUGAL", NICKELODEON
+http://fonte.iptvmaishd.com:25461/1234/1234/125930.ch
+
+
+#EXTINF:-1 tvg-id="" tvg-name="  Historia" tvg-logo="" group-title="CANAIS PORTUGAL",  Historia
+http://fonte.iptvmaishd.com:25461/1234/1234/125889.ch
+#EXTINF:-1 tvg-id="" tvg-name=" CANAL HISTÓRIA" tvg-logo="" group-title="CANAIS PORTUGAL", CANAL HISTÓRIA
+http://fonte.iptvmaishd.com:25461/1234/1234/125900.ch
+#EXTINF:-1 tvg-id="" tvg-name=" DISCOVERY CHANNEL" tvg-logo="" group-title="CANAIS PORTUGAL", DISCOVERY CHANNEL
+http://fonte.iptvmaishd.com:25461/1234/1234/125907.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Discovery HD Showcase" tvg-logo="" group-title="CANAIS PORTUGAL", Discovery HD Showcase
+http://fonte.iptvmaishd.com:25461/1234/1234/125908.ch
+#EXTINF:-1 tvg-id="" tvg-name=" DOG TV" tvg-logo="" group-title="CANAIS PORTUGAL", DOG TV
+http://fonte.iptvmaishd.com:25461/1234/1234/125822.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Nat Geo Wild" tvg-logo="" group-title="CANAIS PORTUGAL", Nat Geo Wild
+http://fonte.iptvmaishd.com:25461/1234/1234/125929.ch
+#EXTINF:-1 tvg-id="" tvg-name=" NATIONAL GEOGRAPHIC" tvg-logo="" group-title="CANAIS PORTUGAL", NATIONAL GEOGRAPHIC
+http://fonte.iptvmaishd.com:25461/1234/1234/125928.ch
+#EXTINF:-1 tvg-id="" tvg-name=" ODISSEIA" tvg-logo="" group-title="CANAIS PORTUGAL", ODISSEIA
+http://fonte.iptvmaishd.com:25461/1234/1234/125931.ch
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV
+http://fonte.iptvmaishd.com:25461/1234/1234/125872.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV   HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV   HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125871.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV  backup" tvg-logo="" group-title="CANAIS PORTUGAL", Sport TV  backup
+http://fonte.iptvmaishd.com:25461/1234/1234/125840.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV  HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV  HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125847.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 1 backup" tvg-logo="" group-title="CANAIS PORTUGAL", Sport TV 1 backup
+http://fonte.iptvmaishd.com:25461/1234/1234/125839.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 1 HD" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 1 HD
+http://fonte.iptvmaishd.com:25461/1234/1234/125944.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 1 HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 1 HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125870.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 1 HD backup" tvg-logo="" group-title="CANAIS PORTUGAL", Sport TV 1 HD backup
+http://fonte.iptvmaishd.com:25461/1234/1234/125838.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 2 backup" tvg-logo="" group-title="CANAIS PORTUGAL", Sport TV 2 backup
+http://fonte.iptvmaishd.com:25461/1234/1234/125837.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 2 HD" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 2 HD
+http://fonte.iptvmaishd.com:25461/1234/1234/125945.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 2 HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 2 HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125869.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 2 HD backup" tvg-logo="" group-title="CANAIS PORTUGAL", Sport TV 2 HD backup
+http://fonte.iptvmaishd.com:25461/1234/1234/125836.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 2 HD(1)" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 2 HD(1)
+http://fonte.iptvmaishd.com:25461/1234/1234/125971.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 3 backup" tvg-logo="" group-title="CANAIS PORTUGAL", Sport TV 3 backup
+http://fonte.iptvmaishd.com:25461/1234/1234/125835.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 3 HD" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 3 HD
+http://fonte.iptvmaishd.com:25461/1234/1234/125946.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 3 HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 3 HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125868.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 3 HD backup" tvg-logo="" group-title="CANAIS PORTUGAL", Sport TV 3 HD backup
+http://fonte.iptvmaishd.com:25461/1234/1234/125834.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 3HD" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 3HD
+http://fonte.iptvmaishd.com:25461/1234/1234/125859.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 4" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 4
+http://fonte.iptvmaishd.com:25461/1234/1234/125947.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 4 backup" tvg-logo="" group-title="CANAIS PORTUGAL", Sport TV 4 backup
+http://fonte.iptvmaishd.com:25461/1234/1234/125833.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 4 HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 4 HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125867.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 4 HD backup" tvg-logo="" group-title="CANAIS PORTUGAL", Sport TV 4 HD backup
+http://fonte.iptvmaishd.com:25461/1234/1234/125832.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 4HD" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 4HD
+http://fonte.iptvmaishd.com:25461/1234/1234/125948.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 5" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 5
+http://fonte.iptvmaishd.com:25461/1234/1234/125949.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 5 backup" tvg-logo="" group-title="CANAIS PORTUGAL", Sport TV 5 backup
+http://fonte.iptvmaishd.com:25461/1234/1234/125831.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 5 HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 5 HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125866.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Sport TV 5 HD backup" tvg-logo="" group-title="CANAIS PORTUGAL", Sport TV 5 HD backup
+http://fonte.iptvmaishd.com:25461/1234/1234/125830.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 5HD" tvg-logo="" group-title="CANAIS PORTUGAL", SPORT TV 5HD
+http://fonte.iptvmaishd.com:25461/1234/1234/125950.ch
+#EXTINF:-1 tvg-id="" tvg-name=" SPORTING TV" tvg-logo="" group-title="CANAIS PORTUGAL", SPORTING TV
+http://fonte.iptvmaishd.com:25461/1234/1234/125951.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Sporting TV HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", Sporting TV HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125865.ch
+#EXTINF:-1 tvg-id="" tvg-name=" BENFICA TV 1" tvg-logo="" group-title="CANAIS PORTUGAL", BENFICA TV 1
+http://fonte.iptvmaishd.com:25461/1234/1234/125897.ch
+#EXTINF:-1 tvg-id="" tvg-name=" Benfica TV 1 backup" tvg-logo="" group-title="CANAIS PORTUGAL", Benfica TV 1 backup
+http://fonte.iptvmaishd.com:25461/1234/1234/125841.ch
+#EXTINF:-1 tvg-id="" tvg-name=" BENFICA TV 2" tvg-logo="" group-title="CANAIS PORTUGAL", BENFICA TV 2
+http://fonte.iptvmaishd.com:25461/1234/1234/125898.ch
+#EXTINF:-1 tvg-id="" tvg-name=" BTV 1 HD 1080" tvg-logo="" group-title="CANAIS PORTUGAL", BTV 1 HD 1080
+http://fonte.iptvmaishd.com:25461/1234/1234/125882.ch
+
