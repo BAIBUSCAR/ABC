@@ -305,6 +305,10 @@ http://cars-and-stars-tv-hls1.cosmonova.net.ua/hls/cars-and-stars-tv_ua_hi/index
 
 #EXTINF:-1 tvg-id="RedBull TV" tvg-name="Red Bull TV" tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="RedBull TV" tvg-name="Red Bull TV" tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV (Op 2)
+https://dms.redbull.tv/v3/linear-borb/_v3/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBull TV" tvg-name="Red Bull TV" tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV (Op 3)
+https://dms.redbull.tv/v3/ironman_com/_v3/playlist.m3u8
 #EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/pfc.png" group-title="CumCatano",PFC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTTVNBA.png" group-title="CumCatano",SPORT TV NBA
@@ -531,6 +535,10 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="RTPMAD" tvg-name="RTP Madeira" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpmadeira.png" group-title="CumCatano",RTP Madeira
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.pt.m3u8
+#EXTINF:0 tvg-logo="https://image.prntscr.com/image/NdyZL0qRTL27oX7o2RBRNw.png" group-title="CumCatano",LEIRIA TV
+http://tv02.logicahost.com.br:1935/tvnovus/tvnovus/live.m3u8
+#EXTINF:-1 tvg-id="CANAL 180" tvg-name="CANAL 180" tvg-logo="https://i.vimeocdn.com/portrait/10245991_300x300" group-title="CumCatano",CANAL 180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="MACAUTV" tvg-name="Macau TV" tvg-logo="https://tinyurl.com/yb34mjvt" group-title="CumCatano",MACAU TV
 http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TV GLOBO HD" tvg-name="TV Globo LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/yspusx1435103750.png/small" group-title="CumCatano",TV Globo LOW
@@ -555,6 +563,14 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 
 #EXTINF:-1 tvg-id="SICInternacional" tvg-name="SIC Internacional" tvg-logo="https://www.thelogodb.com/images/media/logonew/vvtvvy1433472942.png/small" group-title="CumCatano",SIC Internacional
 
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="Kuriakos" tvg-logo="http://kuriakos.com/wp-content/uploads/elementor/thumbs/Logo_Kuriakos-nb2wafwo4hrgnnkyiafv8atk7wxz16zc1k9afli5yw.jpg" group-title="CumCatano",Kuriakos
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSKIDS.png" tvg-id="0" group-title="CumCatano", KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids3/TeamBlue.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSMUSIC.png" tvg-id="0" group-title="CumCatano", KURIAKOS MUSIC
+http://c2.manasat.com:1935/kmusic/kmusic3/TeamBlue.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSCINE.png" tvg-id="0" group-title="CumCatano", KURIAKOS CINE
+http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
 #EXTINF:-1 tvg-id="TPA" tvg-name="TPA Internacional" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tpainternacional.png" group-title="CumCatano",TPA Internacional
 
 #EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tveinternacional.png" group-title="CumCatano",TVE Internacional
@@ -572,8 +588,6 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 
 #EXTINF:-1 tvg-id="TVE24" tvg-name="TVE 24 Horas" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tve24h.png" group-title="CumCatano",TVE 24 Horas
 
-#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="Kuriakos" tvg-logo="http://kuriakos.com/wp-content/uploads/elementor/thumbs/Logo_Kuriakos-nb2wafwo4hrgnnkyiafv8atk7wxz16zc1k9afli5yw.jpg" group-title="CumCatano",Kuriakos
-http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
 #EXTINF:-1 tvg-id="FRANCE24FR" tvg-name="France 24" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/france24.png" group-title="CumCatano",France 24
 
 #EXTINF:-1 tvg-id="TV5" tvg-name="TV5 MONDE EUROPE" tvg-logo="https://static.playmedia-cdn.net/img/tv_channels/241_medium.png" group-title="CumCatano",TV5 MONDE EUROPE
@@ -694,9 +708,9 @@ http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/right
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="mtvportugal.pt" group-title="CCMusic",MTV PORTUGAL
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="MTVRocks.uk" group-title="CCMusic",MTV ROCKS 
-
+http://212.115.255.197/hls/mtvrocks.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="MTVRocks.uk" group-title="CCMusic",MTV ROCKS (Op 2)
-
+http://213.59.140.53:9996/play/MTV_Rocks/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7tkyapj" tvg-id="MTVMusic.uk" group-title="CCMusic",MTV Music
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybe5phvx" tvg-id="0" group-title="CCMusic",MTV LIVE
