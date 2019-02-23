@@ -2,17 +2,17 @@
 
 
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1
-http://62.28.213.14:9981/stream/channelid/1439506767
+http://163.172.131.72:80/hls/rtp1.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1 LOW
-
+http://62.28.213.14:9981/stream/channelid/1439506767
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1 HD
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1 FHD
 
 #EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2
-http://62.28.213.14:9981/stream/channelid/1580833545
+http://163.172.131.72:80/hls/rtp2.m3u8
 #EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2 LOW
-
+http://62.28.213.14:9981/stream/channelid/1580833545
 #EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2 HD
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2 FHD
@@ -22,7 +22,7 @@ http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC LOW
 http://62.28.213.14:9981/stream/channelid/1682111017
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC HD
-
+http://163.172.131.72:80/hls/sic.m3u8
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC FHD
 
 #EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="CumCatano",TVI
@@ -30,27 +30,29 @@ http://62.28.213.14:9981/stream/channelid/1402355728
 #EXTINF:-1 tvg-id="TVI" tvg-name="TVI LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/96g97k1515364471.png/small" group-title="CumCatano",TVI LOW
 
 #EXTINF:-1 tvg-id="TVI" tvg-name="TVI HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="CumCatano",TVI HD
-
+http://163.172.131.72:80/hls/tvi.m3u8
 #EXTINF:-1 tvg-id="TVI" tvg-name="TVI FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="CumCatano",TVI FHD
 
 #EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicnoticias.png" group-title="CumCatano",SIC Noticias
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicnoticias.png" group-title="CumCatano",SIC Noticias HD
-
+http://163.172.131.72:80/hls/sicnoticias.m3u8
 #EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ppc81z1515843799.png/small" group-title="CumCatano",SIC Noticias FHD
 
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp3.png" group-title="CumCatano",RTP 3
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="https://bit.ly/2tyn7qu" group-title="CumCatano",RTP 3
 http://62.28.213.14:9981/stream/channelid/1434611461
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp3.png" group-title="CumCatano",RTP 3 HD
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 " tvg-logo="https://bit.ly/2tyn7qu" group-title="CumCatano",RTP 3 (Low)
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vtqqpt1474662424.png/small" group-title="CumCatano",RTP 3 FHD
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="https://bit.ly/2tyn7qu" group-title="CumCatano",RTP 3 (Low 2)
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8?isnpiration=10&rebase=on
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 HD" tvg-logo="https://bit.ly/2tyn7qu" group-title="CumCatano",RTP 3 HD
+http://163.172.131.72:80/hls/rtpinformacao.m3u8
 #EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi24.png" group-title="CumCatano",TVI 24 HD
 
 #EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi24.png" group-title="CumCatano",TVI 24
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 #EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="CumCatano",CMTV
-
+http://163.172.131.72:80/hls/cmtv.m3u8
 #EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="CumCatano",CMTV HD
 
 #EXTINF:-1 tvg-id="CMTVHD" tvg-name="CMTV FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wqrwxy1436843726.png/small" group-title="CumCatano",CMTV FHD
@@ -58,13 +60,13 @@ http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 #EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicmulher.png" group-title="CumCatano",SIC Mulher
 http://videos.impresa.pt/sicmul/2017-10-26/5a600ed9-3ab3-47ac-bd83-32b7095df7fc_sic-mulher_2017-10-26_14-03-11.495.mp4/net_wide
 #EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicmulher.png" group-title="CumCatano",SIC Mulher HD
-
+http://163.172.131.72:80/hls/sicmulher.m3u8
 #EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xuz3ut1515843497.png/small" group-title="CumCatano",SIC Mulher FHD
 
 #EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/siccaras.png" group-title="CumCatano",SIC Caras
 
 #EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/siccaras.png" group-title="CumCatano",SIC Caras HD
-
+http://163.172.131.72:80/hls/siccaras.m3u8
 #EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/rqrvpy1433343925.png/small" group-title="CumCatano",SIC Caras FHD
 
 #EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC Radical" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicradical.png" group-title="CumCatano",SIC Radical
@@ -82,7 +84,7 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality
 http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality LOW
-
+http://163.172.131.72:80/hls/tvireality.m3u8
 #EXTINF:-1 tvg-id="TVIREALMOSAICO" tvg-name="TVI Reality Mosaico" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality Mosaico
 
 #EXTINF:-1 tvg-id="TVIREALCAMARA" tvg-name="TVI Reality Camara Exclusiva 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality Camara Exclusiva 1
@@ -106,7 +108,7 @@ http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 #EXTINF:-1 tvg-id="Benfica TV" tvg-name="BTV SD" tvg-logo="https://od.lk/s/OTdfMTE4OTc3NTVf/btvfullhd.png" group-title="CumCatano",BTV SD
 
 #EXTINF:-1 tvg-id="BTV HD1" tvg-name="BTV HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc3NTVf/btvfullhd.png" group-title="CumCatano",BTV HD
-
+http://163.172.131.72:80/hls/btv1.m3u8
 #EXTINF:-1 tvg-id="BENFICATV1HD" tvg-name="BTV FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc3NTVf/btvfullhd.png" group-title="CumCatano",BTV FHD
 
 #EXTINF:-1 tvg-id="BENFICATV1HD(LOWBITRATE)" tvg-name="BTV 1 HD LOW" tvg-logo="https://od.lk/s/OTdfMTE4OTc3NTVf/btvfullhd.png" group-title="CumCatano",BTV 1 HD LOW
@@ -134,7 +136,7 @@ http://redirector.gvt1.com/edgedl/release2/chrome_component/AMV2712b3iJ3_9.1/9.1
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV Multiplay HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qxxyst1474691176.png/small" group-title="CumCatano",SPORT TV Multiplay HD
 
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV +" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV +
-
+http://163.172.131.72:80/hls/sporttvmais.m3u8
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV + LOW
 
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV + HD
@@ -180,7 +182,7 @@ http://185-125-230-172.livesports24.online/portugalsport2.m3u8
 #EXTINF:-1 tvg-id="SPORT TV 2 HD FULL HD" tvg-name="SPORT TV 2 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDdf/sporttv2hd.png" group-title="CumCatano",SPORT TV 2 FHD
 https://185-8-178-140.livesports24.online/portugalsport2.m3u8
 #EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2
-
+http://163.172.131.72:80/hls/sporttv2.m3u8
 #EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2 LOW
 
 #EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2 HD
@@ -193,7 +195,7 @@ http://185-125-230-172.livesports24.online/sport3tvpt.m3u8
 #EXTINF:-1 tvg-id="SPORT TV 3 HD FULL HD" tvg-name="SPORT TV 3 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDhf/sporttv3.png" group-title="CumCatano",SPORT TV 3 FHD
 http://181-215-15-225.livesports24.online/sport3tvpt.m3u8
 #EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3
-
+http://163.172.131.72:80/hls/sporttv3.m3u8
 #EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3 LOW
 
 #EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3 HD
@@ -250,15 +252,10 @@ http://163.172.131.72:80/hls/sporttv5.m3u8
 
 #EXTINF:-1 tvg-id="elevensports6HD" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 6 HD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ElevenSports1.pt" group-title="CumCatano",ELEVEN SPORTS 1
 
-#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ElevenSports1.pt" group-title="CumCatano",ELEVEN SPORTS 1 HD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ElevenSports2.pt" group-title="CumCatano",ELEVEN SPORTS 2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ElevenSports2.pt" group-title="CumCatano",ELEVEN SPORTS 2 (Low)
 #EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="SPORTING TV HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDNf/sportingtv.png" group-title="CumCatano",SPORTING TV HD
-
+http://163.172.131.72:80/hls/sportingtv.m3u8
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/dfiilm1515364197.png/small" group-title="CumCatano",Sporting TV LOW
 
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sportingtv.png" group-title="CumCatano",Sporting TV
@@ -268,19 +265,17 @@ http://163.172.131.72:80/hls/sporttv5.m3u8
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sportingtv.png" group-title="CumCatano",Sporting TV FHD
 
 #EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canal" tvg-logo="https://www.thelogodb.com/images/media/logonew/yuxppt1465900144.png/small" group-title="CumCatano",Porto Canal
-
+http://163.172.131.72:80/hls/portocanal.m3u8
 #EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canal HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/portocanal.png" group-title="CumCatano",Porto Canal HD
-
-#EXTINF:-1 tvg-id="NBATV" tvg-name="Sport TV NBA FHD" tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="CumCatano",Sport TV NBA FHD
 
 #EXTINF:-1 tvg-id="EUROSPORT1" tvg-name="Eurosport" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport1.png" group-title="CumCatano",Eurosport
 
 #EXTINF:-1 tvg-id="EUROS" tvg-name="Eurosport 1" tvg-logo="https://www.thelogodb.com/images/media/logonew/cco61g1515364096.png/small" group-title="CumCatano",Eurosport 1
-
+http://163.172.131.72:80/hls/eurosport.m3u8
 #EXTINF:-1 tvg-id="EUROS" tvg-name="Eurosport 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport1.png" group-title="CumCatano",Eurosport 1 HD
 
 #EXTINF:-1 tvg-id="EUROS2" tvg-name="Eurosport 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport2.png" group-title="CumCatano",Eurosport 2
-
+http://163.172.131.72:80/hls/eurosport2.m3u8
 #EXTINF:-1 tvg-id="EUROS2" tvg-name="Eurosport 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport2.png" group-title="CumCatano",Eurosport 2 HD
 
 #EXTINF:-1 tvg-id="MCS EXTREME" tvg-name="MCS Extreme" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/mcsextreme.png" group-title="CumCatano",MCS Extreme
@@ -312,35 +307,35 @@ https://dms.redbull.tv/v3/ironman_com/_v3/playlist.m3u8
 #EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/pfc.png" group-title="CumCatano",PFC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTTVNBA.png" group-title="CumCatano",SPORT TV NBA
-http://lcmn.serveftp.net:8000/live/carr/carr/13293.m3u8
+
 #EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515JQjBBBvL.png" group-title="CumCatano",NBA TV
-
+http://203.154.243.32:8088/live/nba/index.m3u8
 #EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine1.png" group-title="CumCatano",TVCine 1
-
+http://163.172.131.72:80/hls/tvcine1.m3u8
 #EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yxtrst1436898282.png/small" group-title="CumCatano",TVCine 1 HD
 
 #EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine1.png" group-title="CumCatano",TVCine 1 FHD
 
 #EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine2.png" group-title="CumCatano",TVCine 2
-
+http://163.172.131.72:80/hls/tvcine2.m3u8
 #EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/rpssrv1436898306.png/small" group-title="CumCatano",TVCine 2 HD
 
 #EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine2.png" group-title="CumCatano",TVCine 2 FHD
 
 #EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine3.png" group-title="CumCatano",TVCine 3
-
+http://163.172.131.72:80/hls/tvcine3.m3u8
 #EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/uwrwyv1436898334.png/small" group-title="CumCatano",TVCine 3 HD
 
 #EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine3.png" group-title="CumCatano",TVCine 3 FHD
 
 #EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine4.png" group-title="CumCatano",TVCine 4
-
+http://163.172.131.72:80/hls/tvcine4.m3u8
 #EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qswqxx1436898355.png/small" group-title="CumCatano",TVCine 4 HD
 
 #EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine4.png" group-title="CumCatano",TVCine 4 FHD
 
 #EXTINF:-1 tvg-id="TVSERIES" tvg-name="TVSeries" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvseries.png" group-title="CumCatano",TVSeries
-
+http://163.172.131.72:80/hls/tvseries.m3u8
 #EXTINF:-1 tvg-id="TVSERIES" tvg-name="TVSeries HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xppsrs1436898382.png/small" group-title="CumCatano",TVSeries HD
 
 #EXTINF:-1 tvg-id="TVSERIES" tvg-name="TVSeries FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvseries.png" group-title="CumCatano",TVSeries FHD
@@ -348,7 +343,7 @@ http://lcmn.serveftp.net:8000/live/carr/carr/13293.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LXTV Movies" tvg-logo="https://pbs.twimg.com/profile_images/1448819128/LXTV_TWITTER_icon_400x400.jpg" group-title="CumCatano",LXTV Movies
 
 #EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/syfy.png" group-title="CumCatano",SyFy
-
+http://163.172.131.72:80/hls/syfy.m3u8
 #EXTINF:-1 tvg-id="SyFy" tvg-name="Syfy HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/8vfxi01515520586.png/small" group-title="CumCatano",Syfy HD
 
 #EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/syfy.png" group-title="CumCatano",SyFy FHD
@@ -356,7 +351,7 @@ http://lcmn.serveftp.net:8000/live/carr/carr/13293.m3u8
 #EXTINF:-1 tvg-id="SUNDANCE" tvg-name="Sundance TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sundancetv.png" group-title="CumCatano",Sundance TV HD
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/amc.png" group-title="CumCatano",AMC
-
+http://163.172.131.72:80/hls/amc.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/986bly1515839824.png/small" group-title="CumCatano",AMC HD
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/amc.png" group-title="CumCatano",AMC FHD
@@ -366,19 +361,19 @@ http://lcmn.serveftp.net:8000/live/carr/carr/13293.m3u8
 #EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cinemundo.png" group-title="CumCatano",Cinemundo
 
 #EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX Movies" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxmovies.png" group-title="CumCatano",FOX Movies
-
+http://163.172.131.72:80/hls/foxmovies.m3u8
 #EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="Fox Movies HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vptxrq1436890170.png/small" group-title="CumCatano",Fox Movies HD
 
 #EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX Movies FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxmovies.png" group-title="CumCatano",FOX Movies FHD
 
 #EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalhollywood.png" group-title="CumCatano",Hollywood
-
+http://163.172.131.72:80/hls/hollywood.m3u8
 #EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqtrqu1436898965.png/small" group-title="CumCatano",Hollywood HD
 
 #EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalhollywood.png" group-title="CumCatano",Hollywood FHD
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axn.png" group-title="CumCatano",AXN
-
+http://163.172.131.72:80/hls/axn.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wxswvq1433343102.png/small" group-title="CumCatano",AXN HD
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axn.png" group-title="CumCatano",AXN FHD
@@ -386,17 +381,17 @@ http://lcmn.serveftp.net:8000/live/carr/carr/13293.m3u8
 #EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yo0yul1515363807.png/small" group-title="CumCatano",AXN Black HD
 
 #EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnblack.png" group-title="CumCatano",AXN Black
-
+http://163.172.131.72:80/hls/axnblack.m3u8
 #EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnblack.png" group-title="CumCatano",AXN Black FHD
 
 #EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnwhite.png" group-title="CumCatano",AXN White
-
+http://163.172.131.72:80/hls/axnwhite.m3u8
 #EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xhtejj1515363892.png/small" group-title="CumCatano",AXN White HD
 
 #EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnwhite.png" group-title="CumCatano",AXN White FHD
 
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fox.png" group-title="CumCatano",FOX
-
+http://163.172.131.72:80/hls/fox.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/rwptru1436892145.png/small" group-title="CumCatano",FOX HD
 
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fox.png" group-title="CumCatano",FOX FHD
@@ -408,13 +403,13 @@ http://lcmn.serveftp.net:8000/live/carr/carr/13293.m3u8
 #EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX Comedy FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxcomedy.png" group-title="CumCatano",FOX Comedy FHD
 
 #EXTINF:-1 tvg-id="FOXCRIME" tvg-name="FOX Crime" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxcrime.png" group-title="CumCatano",FOX Crime
-
+http://163.172.131.72:80/hls/foxcrime.m3u8
 #EXTINF:-1 tvg-id="FOXCRIME" tvg-name="FOX Crime HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/nquwju1515410731.png/small" group-title="CumCatano",FOX Crime HD
 
 #EXTINF:-1 tvg-id="FOXCRIME" tvg-name="FOX Crime FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxcrime.png" group-title="CumCatano",FOX Crime FHD
 
 #EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX Life" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxlife.png" group-title="CumCatano",FOX Life
-
+http://163.172.131.72:80/hls/foxlife.m3u8
 #EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX Life HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/owzqbb1515520768.png/small" group-title="CumCatano",FOX Life HD
 
 #EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX Life FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxlife.png" group-title="CumCatano",FOX Life FHD
@@ -432,7 +427,7 @@ http://lcmn.serveftp.net:8000/live/carr/carr/13293.m3u8
 #EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="Disney Junior" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/disneyjunior.png" group-title="CumCatano",Disney Junior HD
 
 #EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cartoonnetwork.png" group-title="CumCatano",Cartoon Network
-
+http://163.172.131.72:80/hls/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cartoonnetwork.png" group-title="CumCatano",Cartoon Network HD
 
 #EXTINF:-1 tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/nickelodeon.png" group-title="CumCatano",Nickelodeon
@@ -442,9 +437,9 @@ http://lcmn.serveftp.net:8000/live/carr/carr/13293.m3u8
 #EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Jr" tvg-logo="http://nickjr-intl.mtvnimages.com/uk/img/nav/logo-nickjr-desktop-2x.png" group-title="CumCatano",Nick Jr
 
 #EXTINF:-1 tvg-id="PANDA" tvg-name="Canal Panda" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalpanda.png" group-title="CumCatano",Canal Panda
-
+http://163.172.131.72:80/hls/canalpanda.m3u8
 #EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="Panda Biggs" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/biggs.png" group-title="CumCatano",Panda Biggs
-
+http://163.172.131.72:80/hls/pandabiggs.m3u8
 #EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sickapa.png" group-title="CumCatano",SIC K HD
 
 #EXTINF:-1 tvg-id="JimJam" tvg-name="Jim Jam" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/jimjam.png" group-title="CumCatano",Jim Jam
@@ -714,7 +709,9 @@ http://213.59.140.53:9996/play/MTV_Rocks/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y7tkyapj" tvg-id="MTVMusic.uk" group-title="CCMusic",MTV Music
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybe5phvx" tvg-id="0" group-title="CCMusic",MTV LIVE
-
+http://91.202.196.122:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybe5phvx" tvg-id="0" group-title="CCMusic",MTV LIVE HD
+http://91.202.196.122:8000/play/a033/index.m3u8 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="CCMusic",MTV DANCE
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9lbkrk3" tvg-id="0" group-title="CCMusic",MTV HITS
@@ -729,6 +726,8 @@ http://213.59.140.53:9996/play/MTV_Rocks/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TraceTV.pt" group-title="CCMusic",TRACE TV
 http://94.60.103.81:9981/stream/channelid/219544333
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRACETOCA.png" group-title="CCMusic",TRACE TOCA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",Metal TV (music)
 http://autopilot.myowntv.org/content/33816/index.m3u8
@@ -830,18 +829,50 @@ rtmp://212.26.132.86/live/mb_ua
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydb9q3yg" tvg-id="0" group-title="CCMusic",M2O.TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycr5tx6x" group-title="CCMusic", DJING HOT HOT HOT HD
-http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycy3zl7h" group-title="CCMusic", DJING IBIZA  
-http://cdn.djing.com/tv/d-03.m3u8
-#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CCMusic", DJING DANCE FLOOR  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING CLASSIC
+http://www.djing.com/tv/hits.m3u8_
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING CLASSIC
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING CLASSIC
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING DANCE FLOOR MUSIC
+https://www.djing.com/tv/i-28049-04.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING DANCE FLOOR MUSIC
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING ELECTRO ROCK
+https://www.djing.com/tv/s-28049-03-electro-rock.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING ELECTRO ROCK
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING HITS
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING HOT HOT HOT
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING IBIZA
 http://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y7lmq9k6" group-title="CCMusic", DJING UNDERGROUND  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING SUMMER VIBES
+https://www.djing.com/tv/s-28049-03-summer-vibes.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING SUMMER VIBES
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING SUMMER VIBES
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING ANIMATION
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING FRENCH TOUCH
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING FRENCH TOUCH
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING UNDERGROUND
 http://www.djing.com/tv/underground.m3u8
-#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CCMusic", DJING CLASSIC  
-http://www.djing.com/tv/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="CCMusic", DJING ANIMATION   
-http://www.djing.com/tv/a-05.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING UNDERGROUND
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEBLACKAFRICA.png" group-title="CCMusic",BEBLACK AFRICA
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEBLACKCARIBBEAN.png" group-title="CCMusic",BEBLACK CARIBBEAN
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEBLACKCLASSIK.png" group-title="CCMusic",BEBLACK CLASSIK
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEBLACKCLASSIK.png" group-title="CCMusic",BEBLACK CLASSIK
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="CCMusic",Box Hits (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DT3DICU.png" group-title="CCMusic",California Music Channel (USA)
