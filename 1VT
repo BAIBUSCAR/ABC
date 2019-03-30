@@ -136,7 +136,7 @@ http://redirector.gvt1.com/edgedl/release2/chrome_component/AMV2712b3iJ3_9.1/9.1
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV Multiplay HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qxxyst1474691176.png/small" group-title="CumCatano",SPORT TV Multiplay HD
 
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV +" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV +
-http://163.172.131.72:80/hls/sporttvmais.m3u8
+
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV + LOW
 
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV + HD
@@ -152,9 +152,9 @@ http://163.172.131.72:80/hls/sporttvmais.m3u8
 #EXTINF:-1 tvg-id="SPTV" tvg-name="SPORT TV 1 SD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT TV 1 SD
 http://185-8-178-140.livesports24.online/ptsporttv1.m3u8
 #EXTINF:-1 tvg-id="SPTV" tvg-name="SPORT 1 TV[ Mbit SD]" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT 1 TV[ Mbit SD]
-http://163.172.131.72:80/hls/sporttv1.m3u8
+
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT TV 1 HD
-http://www.pandar.tv:25461/028633019479/3DunZUHnT3vrEYD/26361
+
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT 1 TV [Mbit HD]" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT 1 TV [Mbit HD]
 http://85.244.70.140:7000/play/a035
 #EXTINF:-1 tvg-id="" tvg-name="Sportv1 H265[MEO Teste]" tvg-logo="http://163.172.96.72/picon/SPORTV%201%20FHD.png" group-title="CumCatano",Sportv1 H265[MEO Teste]
@@ -162,7 +162,7 @@ http://85.244.70.140:7000/play/a035
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 [VPC) HD" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SPORT.TV%201%20FULLHD.png" group-title="CumCatano",SPORT TV 1 [VPC) HD
 
 #EXTINF:-1 tvg-id="SPORTV1HD(LOWBITRATE)" tvg-name="Sport TV 1 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",Sport TV 1 FHD
-
+http://185-8-178-138.livesports24.online/ptsporttv1.m3u8
 #EXTINF:-1 tvg-id="SPORTV1HD." tvg-name="SPORT TV 1 2K" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT TV 1 2K
 
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 (Alt)
@@ -182,7 +182,7 @@ http://185-125-230-172.livesports24.online/portugalsport2.m3u8
 #EXTINF:-1 tvg-id="SPORT TV 2 HD FULL HD" tvg-name="SPORT TV 2 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDdf/sporttv2hd.png" group-title="CumCatano",SPORT TV 2 FHD
 https://185-8-178-140.livesports24.online/portugalsport2.m3u8
 #EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2
-http://163.172.131.72:80/hls/sporttv2.m3u8
+
 #EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2 LOW
 
 #EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2 HD
@@ -195,7 +195,7 @@ http://185-125-230-172.livesports24.online/sport3tvpt.m3u8
 #EXTINF:-1 tvg-id="SPORT TV 3 HD FULL HD" tvg-name="SPORT TV 3 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDhf/sporttv3.png" group-title="CumCatano",SPORT TV 3 FHD
 http://181-215-15-225.livesports24.online/sport3tvpt.m3u8
 #EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3
-http://163.172.131.72:80/hls/sporttv3.m3u8
+
 #EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3 LOW
 
 #EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3 HD
@@ -204,7 +204,7 @@ http://163.172.131.72:80/hls/sporttv3.m3u8
 
 
 #EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SPORT TV 4 HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NTFf/sporttv4hd.png" group-title="CumCatano",SPORT TV 4 HD
-http://163.172.131.72:80/hls/sporttv4.m3u8
+
 #EXTINF:-1 tvg-id="SPORT TV 4 HD FULL HD" tvg-name="SPORT TV 4 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NTFf/sporttv4hd.png" group-title="CumCatano",SPORT TV 4 FHD
 
 #EXTINF:-1 tvg-id="SPORTV 4 HD" tvg-name="SPORT TV 4" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",SPORT TV 4
@@ -221,7 +221,7 @@ http://163.172.131.72:80/hls/sporttv4.m3u8
 
 
 #EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-name="SPORT TV 5" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",SPORT TV 5
-http://163.172.131.72:80/hls/sporttv5.m3u8
+
 #EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-name="SPORT TV 5 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",SPORT TV 5 LOW
 
 #EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",SPORT TV 5 HD
@@ -239,19 +239,19 @@ http://163.172.131.72:80/hls/sporttv5.m3u8
 #EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="ELEVEN SPORTS 1 SD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 1 SD
 
 #EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 1 HD
-
+http://cipl.xyz:8880/leandro123/leandro123/14793
 #EXTINF:-1 tvg-id="elevensports1FHD" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 1 FHD
 
 #EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 2 HD
-
+http://cipl.xyz:8880/leandro123/leandro123/14792
 #EXTINF:-1 tvg-id="elevensports3HD" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 3 HD
-
+http://cipl.xyz:8880/leandro123/leandro123/14791
 #EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 4 HD
-
+http://cipl.xyz:8880/leandro123/leandro123/14790
 #EXTINF:-1 tvg-id="elevensports5HD" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 5 HD
-
+http://cipl.xyz:8880/leandro123/leandro123/14789
 #EXTINF:-1 tvg-id="elevensports6HD" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 6 HD
-
+http://cipl.xyz:8880/leandro123/leandro123/14788
 
 
 #EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="SPORTING TV HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDNf/sportingtv.png" group-title="CumCatano",SPORTING TV HD
