@@ -1,6 +1,21 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yy5nnzvx" type="MOVIE" group-title="ANIMACAO", Mr. Link
+https://cld.pt/dl/download/11519ade-0dff-4f5e-bec0-f8d937287cbd/Mr.%20Link.mp4
+
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/362058_pt.jpg" type="MOVIE" group-title="ANIMACAO",SNOW: A PEDRA DOS DESEJOS
+http://tugakids.tk/4685554.mp4
+
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/527729_pt.jpg" type="MOVIE" group-title="ANIMACAO",ASTÉRIX: O SEGREDO DA POÇÃO MÁGICA
+http://tugakids.tk/8001346.mp4
+
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/324857_pt.jpg",HOMEM-ARANHA: NO UNIVERSO ARANHA
+http://tugakids.tk/4633694.mp4
+
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/360920_pt.jpg",GRINCH
+http://tugakids.tk/2709692.mp4
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2RpDOC7" type="MOVIE" group-title="ANIMACAO",Pokemon The Movie - Escolho-Te A Ti
 https://cld.pt/dl/download/e88889d6-2d26-47ee-a9d0-1daa713411ec/Pokemon%20The%20Movie%20-%20Escolho-Te%20A%20Ti.mp4
 
