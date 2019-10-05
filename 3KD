@@ -10,10 +10,10 @@ http://tugakids.tk/4685554.mp4
 #EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/527729_pt.jpg" type="MOVIE" group-title="ANIMACAO",ASTÉRIX: O SEGREDO DA POÇÃO MÁGICA
 http://tugakids.tk/8001346.mp4
 
-#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/324857_pt.jpg",HOMEM-ARANHA: NO UNIVERSO ARANHA
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/324857_pt.jpg"type="MOVIE" group-title="ANIMACAO",HOMEM-ARANHA: NO UNIVERSO ARANHA
 http://tugakids.tk/4633694.mp4
 
-#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/360920_pt.jpg",GRINCH
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/360920_pt.jpg"type="MOVIE" group-title="ANIMACAO",GRINCH
 http://tugakids.tk/2709692.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2RpDOC7" type="MOVIE" group-title="ANIMACAO",Pokemon The Movie - Escolho-Te A Ti
