@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3219dxu" type="MOVIE" group-title="ANIMACAO", Detetive Pikachu
+https://cld.pt/dl/download/2ea68789-989a-4ed2-8482-b2032567f24a/Pok%C3%A9mon_%20Detetive%20Pikachu.mp4
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yy5nnzvx" type="MOVIE" group-title="ANIMACAO", Mr. Link
 https://cld.pt/dl/download/11519ade-0dff-4f5e-bec0-f8d937287cbd/Mr.%20Link.mp4
 
