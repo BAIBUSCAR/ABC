@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2QfjEJw" type="MOVIE" group-title="ANIMACAO", Famila Adams
+https://cld.pt/dl/download/df9a39ea-ecdb-4b17-91fa-139c4df0fbdc/A%20Fam%C3%ADlia%20Adams.mkv
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2QdhREy" type="MOVIE" group-title="ANIMACAO", Pokémon - Mewtwo contra-ataca Evolução
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3219dxu" type="MOVIE" group-title="ANIMACAO", Detetive Pikachu
 https://cld.pt/dl/download/2ea68789-989a-4ed2-8482-b2032567f24a/Pok%C3%A9mon_%20Detetive%20Pikachu.mp4
