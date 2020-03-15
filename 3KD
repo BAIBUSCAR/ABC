@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2TSAVuf" type="MOVIE" group-title="ANIMACAO", Loop
+https://cld.pt/dl/download/3fe4092f-7fc9-47e2-b34d-04a41932cb3d/Loop.mp4
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2QfjEJw" type="MOVIE" group-title="ANIMACAO", Familia Addams
 https://cld.pt/dl/download/df9a39ea-ecdb-4b17-91fa-139c4df0fbdc/A%20Fam%C3%ADlia%20Adams.mkv
 
