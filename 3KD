@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/v74zw8q" type="MOVIE" group-title="ANIMACAO", Bora Lá (Legendado)
+
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2TSAVuf" type="MOVIE" group-title="ANIMACAO", Loop
 https://cld.pt/dl/download/3fe4092f-7fc9-47e2-b34d-04a41932cb3d/Loop.mp4
 
