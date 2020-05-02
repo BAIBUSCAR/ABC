@@ -1,785 +1,1786 @@
 
-
-
 #EXTM3U
-#EXTINF:0,RTP1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/56
-#EXTINF:0,RTP1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/57
-#EXTINF:0,RTP2
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/54
-#EXTINF:0,RTP2
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/55
-#EXTINF:0,SIC
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/46
-#EXTINF:0,SIC
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/48
-#EXTINF:0,TVI
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/9
-#EXTINF:0,TVI
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/139
-#EXTINF:0,SIC Notícias
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/44
-#EXTINF:0,SIC Notícias
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2000
-#EXTINF:0,RTP 3
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/53
-#EXTINF:0,RTP 3
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5452
-#EXTINF:0,TVI 24
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/8
-#EXTINF:0,TVI 24
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5451
-#EXTINF:0,CMTV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/111
-#EXTINF:0,CMTV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/1999
-#EXTINF:0,Euronews
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/95
-#EXTINF:0,SIC Mulher
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/45
-#EXTINF:0,SIC Mulher
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5454
-#EXTINF:0,SIC Radical
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/43
-#EXTINF:0,SIC Radical
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5453
-#EXTINF:0,Sic Caras	
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/49
-#EXTINF:0,Sic Caras
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5455
-#EXTINF:0,TVI Ficção
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/7
-#EXTINF:0,TVI Reality
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/6
-#EXTINF:0,Localvisão
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2001
-#EXTINF:0,RTP Memoria
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/50
-#EXTINF:0,Canal Q
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/119
-#EXTINF:0,24 Kitchen
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/138
-#EXTINF:0,Food Network	
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5457
-#EXTINF:0,My Cuisine
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/69
-#EXTINF:0,TVCine TOP
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/17
-#EXTINF:0,TVCine TOP
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/18
-#EXTINF:0,TVCine EDITION
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/15
-#EXTINF:0,TVCine EDITION
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16
-#EXTINF:0,TVCine EMOTION
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/13
-#EXTINF:0,TVCine EMOTION
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/14
-#EXTINF:0,TVCine ACTION
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/11
-#EXTINF:0,TVCine ACTION
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/12
-#EXTINF:0,NOS Studios
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/12136
-#EXTINF:0,NOS Studios
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/63
-#EXTINF:0,Hollywood
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/79
-#EXTINF:0,Hollywood
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/78
-#EXTINF:0,Eurochannel
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/96
-#EXTINF:0,Cinemundo
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/112
-#EXTINF:0,Cinemundo
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2006
-#EXTINF:0,FOX Movies
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/87
-#EXTINF:0,FOX Movies
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2011
-#EXTINF:0,AXN Movies
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2004
-#EXTINF:0,AXN Movies
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/133
-#EXTINF:0,HBO Portugal
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2020
-#EXTINF:0,Comedia TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/12149
-#EXTINF:0,Netflix PT
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/12903
-#EXTINF:0,DC TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/17616
-#EXTINF:0,SyFy
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/27
-#EXTINF:0,SyFy
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2007
-#EXTINF:0,AMC
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/135
-#EXTINF:0,AMC
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/134
-#EXTINF:0,AXN
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2003
-#EXTINF:0,AXN
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/132
-#EXTINF:0,AXN White
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2005
-#EXTINF:0,AXN White
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/131
-#EXTINF:0,FOX
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2008
-#EXTINF:0,FOX
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/89
-#EXTINF:0,FOX CRime
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2009
-#EXTINF:0,FOX CRime
-EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/90
-#EXTINF:0,FOXLIFE
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2010
-#EXTINF:0,FOXLIFE
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/88
-#EXTINF:0,FOX Comedy
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/91
-#EXTINF:0,FOX Comedy
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/4858
-#EXTINF:0,Disney Channel
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/105
-#EXTINF:0,Disney Junior
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/104
-#EXTINF:0,Cartoon Network
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/117
-#EXTINF:0,Nickelodeon
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/64
-#EXTINF:0,SIC K
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/47
-#EXTINF:0,Panda Biggs
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/127
-#EXTINF:0,Boomerang
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2014
-#EXTINF:0,NICK JR	
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/65
-#EXTINF:0,Panda
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/120
-#EXTINF:0,Marvel TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/12144
-#EXTINF:0,Marvel II
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/17615
-#EXTINF:0,Cine Infantil
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/12146
-#EXTINF:0,Tom Sawyer Collection TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/12147
-#EXTINF:0,Tom And Jerry TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/12148
-#EXTINF:0,JimJam
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/75
-#EXTINF:0,Baby TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/130
-#EXTINF:0,A Bola TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/137
-#EXTINF:0,A Bola TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5459
-#EXTINF:0,Canal 11
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2055
-#EXTINF:0,Canal 11
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/121
-#EXTINF:0,SPORT.TV+
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/41
-#EXTINF:0,SPORT.TV+
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/1059
-#EXTINF:0,Benfica TV	
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/124
-#EXTINF:0,Benfica TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/122
-#EXTINF:0,Benfica TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/123
-#EXTINF:0,BENFICA TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5443
-#EXTINF:0,Benfica TV 4K
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16974
-#EXTINF:0,SPORT.TV1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/40
-#EXTINF:0,SPORT.TV1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/38
-#EXTINF:0,SPORT.TV1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/39
-#EXTINF:0,SPORT.TV 1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5438
-#EXTINF:0,SPORT.TV1 4K
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16972
-#EXTINF:0,SPORT.TV2
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/37
-#EXTINF:0,SPORT.TV2
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/35
-#EXTINF:0,SPORT.TV2
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/36
-#EXTINF:0,SPORT.TV 2
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5439
-#EXTINF:0,SPORT.TV2 4K
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16973
-#EXTINF:0,SPORT.TV3
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/34
-#EXTINF:0,SPORT.TV3
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/32
-#EXTINF:0,SPORT.TV3
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/33
-#EXTINF:0,SPORT TV 3
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5440
-#EXTINF:0,SPORT.TV4
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/31
-#EXTINF:0,SPORT.TV4
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/363
-#EXTINF:0,SPORT.TV4
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/1992
-#EXTINF:0,SPORT.TV5
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/30
-#EXTINF:0,SPORT.TV5
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/362
-#EXTINF:0,SPORT.TV5
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/1993
-#EXTINF:0,Eleven Sports 1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/370
-#EXTINF:0,Eleven Sports 1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/667
-#EXTINF:0,Eleven Sports 1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/102
-#EXTINF:0,Eleven Sports 1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/13253
-#EXTINF:0,Eleven Sports 1 4K
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16975
-#EXTINF:0,Eleven Sports 2
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/368
-#EXTINF:0,Eleven Sports 2
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/367
-#EXTINF:0,Eleven Sports 2
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/101
-#EXTINF:0,Eleven Sports 2
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/13254
-#EXTINF:0,Eleven Sports 3
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/100
-#EXTINF:0,Eleven Sports 3
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/365
-#EXTINF:0,Eleven Sports 3
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/366
-#EXTINF:0,Eleven Sports 4
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/99
-#EXTINF:0,Eleven Sports 4
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/1990
-#EXTINF:0,Eleven Sports 4
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/1991
-#EXTINF:0,Eleven Sports 5
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/98
-#EXTINF:0,Eleven Sports 6
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/97
-#EXTINF:0,Porto Canal
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/59
-#EXTINF:0,Porto Canal
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/1998
-#EXTINF:0,Sporting TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/28
-#EXTINF:0,Sporting TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/4855
-#EXTINF:0,PFC
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/61
-#EXTINF:0,Eurosport 1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/94
-#EXTINF:0,Eurosport 1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/93
-#EXTINF:0,Eurosport 2
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/92
-#EXTINF:0,Kombat Sport
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/74
-#EXTINF:0,Fight Network
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/1997
-#EXTINF:0,Fight Box
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/1994
-#EXTINF:0,SPORT.TV NBA
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/29
-#EXTINF:0,NBA
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/66
-#EXTINF:0,Motorvision
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/71
-#EXTINF:0,RedBull TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/4859
-#EXTINF:0,Fuel TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/83
-#EXTINF:0,FUEL TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5461
-#EXTINF:0,Campo Pequeno TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/3137
-#EXTINF:0,GameToon
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/1996
-#EXTINF:0,ESTV E-Sports
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/12906
-#EXTINF:0,Ginx
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/12133
-#EXTINF:0,Kid Gamer TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/12132
-#EXTINF:0,Discovery Channel
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/107
-#EXTINF:0,Discovery Channel
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/106
-#EXTINF:0,ID Investigation Discovery
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/76
-#EXTINF:0,Nat Geo Wild
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/67
-#EXTINF:0,Nat Geo Wild
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2012
-#EXTINF:0,National Geographic
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5467
-#EXTINF:0,National Geographic
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/68
-#EXTINF:0,Odisseia
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/62
-#EXTINF:0,Odisseia
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2013
-#EXTINF:0,History Channel
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/80
-#EXTINF:0,History Channel
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/4850
-#EXTINF:0,Crime+ Investigation
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/108
-#EXTINF:0,TLC
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/26
-#EXTINF:0,Blaze
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/126
-#EXTINF:0,Blaze
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/1989
-#EXTINF:0,E! Entertainment
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/103
-#EXTINF:0,E! Entertainment
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5468
-#EXTINF:0,CBS Reality
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/114
-#EXTINF:0,BBC Entertainment
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/129
-#EXTINF:0,Travel Channel
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/22
-#EXTINF:0,Fashion TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/84
-#EXTINF:0,MÁS Chic
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/3136
-#EXTINF:0,CACAPESCA
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/116
-#EXTINF:0,CACAPESCA
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/8077
-#EXTINF:0,CaçaVision
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/115
-#EXTINF:0,Toros TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/25
-#EXTINF:0,Toros TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/4852
-#EXTINF:0,DOGTV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5469
-#EXTINF:0,RTP Madeira
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/51
-#EXTINF:0,RTP Acores
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/52
-#EXTINF:0,RTP Africa
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/58
-#EXTINF:0,TV Record
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/20
-#EXTINF:0,TV Record
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/3135
-#EXTINF:0,TV Globo
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/82
-#EXTINF:0,TV Globo
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2002
-#EXTINF:0,Globo Now
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/81
-#EXTINF:0,Zap Viva
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/1
-#EXTINF:0,TPA Internacional
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2056
-#EXTINF:0,MTV 
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/70
-#EXTINF:0,MTV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5466
-#EXTINF:0,Stingray Iconcerts
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2017
-#EXTINF:0,Stingray C-music
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2015
-#EXTINF:0,Stingray Ambience
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2018
-#EXTINF:0,Trace Urban
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/23
-#EXTINF:0,Trace Toca
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/24
-#EXTINF:0,Trace Africa
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/4856
-#EXTINF:0,TRACE TROPICAL
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5462
-#EXTINF:0,TRACE KITOKO
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5463
-#EXTINF:0,TRACE NAIJA
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5464
-#EXTINF:0,Clubbing TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/5465
-#EXTINF:0,MCM Pop
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/73
-#EXTINF:0,VH1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/2
-#EXTINF:0,Afro Music
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/136
-#EXTINF:0,MEZZO
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/72
-#EXTINF:0,FOX News
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/86
-#EXTINF:0,Bloomberg
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/125
-#EXTINF:0,CNN
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/109
-#EXTINF:0,CNBC
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/110
-#EXTINF:0,BBC World News
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/128
-#EXTINF:0,France 24 (I)
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/85
-#EXTINF:0,Canção Nova
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/118
-#EXTINF:0,Santuario De Fátima
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/1060
-#EXTINF:0,RTP 1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16886
-#EXTINF:0,SIC
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16887
-#EXTINF:0,TVI
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16888
-#EXTINF:0,SIC Noticias
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16893
-#EXTINF:0,RTP 3
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16898
-#EXTINF:0,TVI 24
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16890
-#EXTINF:0,CMTV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16889
-#EXTINF:0,SIC Mulher
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16892
-#EXTINF:0,SIC Radical
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16894
-#EXTINF:0,SIC Caras
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16895
-#EXTINF:0,TVI Ficção
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16891
-#EXTINF:0,A Bola TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16900
-#EXTINF:0,Canal 11
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16897
-#EXTINF:0,Sport TV 1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16901
-#EXTINF:0,Sport TV 2
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16902
-#EXTINF:0,Sport TV 3
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16903
-#EXTINF:0,Sport TV 4
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16904
-#EXTINF:0,Sport TV 5
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16905
-#EXTINF:0,Benfica TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16906
-#EXTINF:0,Sporting TV
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16896
-#EXTINF:0,Porto Canal
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16899
-#EXTINF:0,Eleven Sports 1
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16907
-#EXTINF:0,Eleven Sports 2
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16908
-#EXTINF:0,Eleven Sports 3
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16909
-#EXTINF:0,TV Cine TOP
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16910
-#EXTINF:0,TV Cine Edition
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16911
-#EXTINF:0,TV Cine Emotion
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16912
-#EXTINF:0,TV Cine Action
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16913
-#EXTINF:0,Nos Studios
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16914
-#EXTINF:0,Hollywood
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16915
-#EXTINF:0,Cinemundo
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16916
-#EXTINF:0,AXN
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16917
-#EXTINF:0,FOX
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16918
-#EXTINF:0,SYFY
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16925
-#EXTINF:0,AMC
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16926
-#EXTINF:0,BR: Vod Novidades brasil
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/15549
-#EXTINF:0,Canal Panda
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16919
-#EXTINF:0,Disney
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16920
-#EXTINF:0,Boomerang
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16921
-#EXTINF:0,Odisseia
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16922
-#EXTINF:0,Nat Geo
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16923
-#EXTINF:0,Globo
-#EXTVLCOPT:network-caching=1000
-http://zimbora.top:8880/ital/ital/16924
+
+#EXTINF:-1 tvg-id="TVFATIMA" tvg-name="Fatima" tvg-logo="https://bit.ly/2RYy41u" group-title="CumCatano",Fatima
+http://213.13.26.11:1935/live/santuario.stream/CumCatano.m3u8
+#EXTINF:-1 tvg-id="TVFATIMA" tvg-name="Fatima" tvg-logo="https://bit.ly/2RYy41u" group-title="CumCatano",Fatima
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="TVFATIMA" tvg-name="Fatima" tvg-logo="https://bit.ly/2RYy41u" group-title="CumCatano",Fatima
+http://213.13.26.11:1935/live/santuario.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1
+
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1 LOW
+
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1 HD
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="CumCatano",RTP 1 FHD
+
+#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2
+
+#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2 LOW
+
+#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2 HD
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp2.png" group-title="CumCatano",RTP 2 FHD
+
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC
+http://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC LOW
+
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC HD
+
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sic.png" group-title="CumCatano",SIC FHD
+
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="CumCatano",TVI
+
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/96g97k1515364471.png/small" group-title="CumCatano",TVI LOW
+
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="CumCatano",TVI HD
+
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi.png" group-title="CumCatano",TVI FHD
+
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicnoticias.png" group-title="CumCatano",SIC Noticias
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicnoticias.png" group-title="CumCatano",SIC Noticias HD
+
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ppc81z1515843799.png/small" group-title="CumCatano",SIC Noticias FHD
+
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="https://bit.ly/2tyn7qu" group-title="CumCatano",RTP 3
+
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 " tvg-logo="https://bit.ly/2tyn7qu" group-title="CumCatano",RTP 3 (Low)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="https://bit.ly/2tyn7qu" group-title="CumCatano",RTP 3 (Low 2)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8?isnpiration=10&rebase=on
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 HD" tvg-logo="https://bit.ly/2tyn7qu" group-title="CumCatano",RTP 3 HD
+
+#EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi24.png" group-title="CumCatano",TVI 24 HD
+http://85.244.70.140:7000/play/a02v 
+#EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvi24.png" group-title="CumCatano",TVI 24
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="CumCatano",CMTV
+
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cmtv.png" group-title="CumCatano",CMTV HD
+
+#EXTINF:-1 tvg-id="CMTVHD" tvg-name="CMTV FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wqrwxy1436843726.png/small" group-title="CumCatano",CMTV FHD
+
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicmulher.png" group-title="CumCatano",SIC Mulher
+http://videos.impresa.pt/sicmul/2017-10-26/5a600ed9-3ab3-47ac-bd83-32b7095df7fc_sic-mulher_2017-10-26_14-03-11.495.mp4/net_wide
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicmulher.png" group-title="CumCatano",SIC Mulher HD
+http://85.244.70.140:7000/play/a00y 
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xuz3ut1515843497.png/small" group-title="CumCatano",SIC Mulher FHD
+
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/siccaras.png" group-title="CumCatano",SIC Caras
+
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/siccaras.png" group-title="CumCatano",SIC Caras HD
+
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/rqrvpy1433343925.png/small" group-title="CumCatano",SIC Caras FHD
+
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC Radical" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicradical.png" group-title="CumCatano",SIC Radical
+http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC Radical HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sicradical.png" group-title="CumCatano",SIC Radical HD
+
+#EXTINF:-1 tvg-id="SICR" tvg-name="SIC Radical FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/dirbeq1515844195.png/small" group-title="CumCatano",SIC Radical FHD
+
+#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI Ficção" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvificcao.png" group-title="CumCatano",TVI Ficção
+
+#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI Ficção LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvificcao.png" group-title="CumCatano",TVI Ficção LOW
+
+#EXTINF:-1 tvg-id="CanalQB" tvg-name="Canal Q" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalq.png" group-title="CumCatano",Canal Q
+
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality
+http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality LOW
+
+#EXTINF:-1 tvg-id="TVIREALMOSAICO" tvg-name="TVI Reality Mosaico" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality Mosaico
+
+#EXTINF:-1 tvg-id="TVIREALCAMARA" tvg-name="TVI Reality Camara Exclusiva 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality Camara Exclusiva 1
+
+#EXTINF:-1 tvg-id="TVIREALITYCAMARA2" tvg-name="TVI Reality Camara Exclusiva 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality Camara Exclusiva 2
+
+#EXTINF:-1 tvg-id="TVIREALITYCAMARA3" tvg-name="TVI Reality Camara Exclusiva 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality Camara Exclusiva 3
+
+#EXTINF:-1 tvg-id="TVIREALCAMARA" tvg-name="TVI Reality Camara Exclusiva 4" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvireality.png" group-title="CumCatano",TVI Reality Camara Exclusiva 4
+
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 Kitchen HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qpsqps1436892971.png/small" group-title="CumCatano",24 Kitchen HD
+
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 Kitchen FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/24kitchen.png" group-title="CumCatano",24 Kitchen HD
+
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="Food Network FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foodnetwork.png" group-title="CumCatano",Food Network HD
+
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/abolatv.png" group-title="CumCatano",A Bola TV
+
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/abolatv.png" group-title="CumCatano",A Bola TV HD
+
+#EXTINF:-1 tvg-id="Benfica TV" tvg-name="BTV SD" tvg-logo="https://od.lk/s/OTdfMTE4OTc3NTVf/btvfullhd.png" group-title="CumCatano",BTV SD
+
+#EXTINF:-1 tvg-id="BTV HD1" tvg-name="BTV HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc3NTVf/btvfullhd.png" group-title="CumCatano",BTV HD
+
+#EXTINF:-1 tvg-id="BENFICATV1HD" tvg-name="BTV FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc3NTVf/btvfullhd.png" group-title="CumCatano",BTV FHD
+
+#EXTINF:-1 tvg-id="BENFICATV1HD(LOWBITRATE)" tvg-name="BTV 1 HD LOW" tvg-logo="https://od.lk/s/OTdfMTE4OTc3NTVf/btvfullhd.png" group-title="CumCatano",BTV 1 HD LOW
+
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV
+
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV (Op 2)
+
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/uect761515364958.png/small" group-title="CumCatano",Benfica TV LOW
+
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV HD
+
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/btv.png" group-title="CumCatano",Benfica TV FHD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Liga_NOS_logo.png/200px-Liga_NOS_logo.png" tvg-id="" group-title="CumCatano",Liga NOS TV (só em dias de jogo)
+
+#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="SPORT TV 4K UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/5n9fhb1499698380.png/small" group-title="CumCatano",SPORT TV 4K UHD
+
+#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="SPORT TV 4K UHD Low" tvg-logo="https://www.thelogodb.com/images/media/logonew/5n9fhb1499698380.png/small" group-title="CumCatano",SPORT TV 4K UHD Low
+
+#EXTINF:-1 tvg-id="Sport TV 4K" tvg-name="SPORT TV 4K" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NTJf/sporttv4kmeoi.png" group-title="CumCatano",SPORT TV 4K
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV Mosaico" tvg-logo="https://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png" group-title="CumCatano",Sport TV Mosaico
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV Multiplay HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qxxyst1474691176.png/small" group-title="CumCatano",SPORT TV Multiplay HD
+
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV +" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV +
+
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV + LOW
+
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV + HD
+
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv+.png" group-title="CumCatano",SPORT TV + FHD
+
+#EXTINF:-1 tvg-id="SPORTV+HD3" tvg-name="SPORT TV +" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDRf/sporttv%2Bhd.png" group-title="CumCatano",SPORT TV +
+
+#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="SPORT TV  +  HD [VPC]" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SPORT.TV+%20HD.png" group-title="CumCatano",SPORT TV  +  HD [VPC]
+
+
+
+#EXTINF:-1 tvg-id="SPTV" tvg-name="SPORT TV 1 SD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT TV 1 SD
+http://185-8-178-140.livesports24.online/ptsporttv1.m3u8
+#EXTINF:-1 tvg-id="SPTV" tvg-name="SPORT 1 TV[ Mbit SD]" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT 1 TV[ Mbit SD]
+
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT TV 1 HD
+http://85.244.70.140:7000/play/a035 
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT 1 TV [Mbit HD]" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT 1 TV [Mbit HD]
+http://85.244.70.140:7000/play/a035
+#EXTINF:-1 tvg-id="" tvg-name="Sportv1 H265[MEO Teste]" tvg-logo="http://163.172.96.72/picon/SPORTV%201%20FHD.png" group-title="CumCatano",Sportv1 H265[MEO Teste]
+
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 [VPC) HD" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SPORT.TV%201%20FULLHD.png" group-title="CumCatano",SPORT TV 1 [VPC) HD
+
+#EXTINF:-1 tvg-id="SPORTV1HD(LOWBITRATE)" tvg-name="Sport TV 1 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",Sport TV 1 FHD
+
+#EXTINF:-1 tvg-id="SPORTV1HD." tvg-name="SPORT TV 1 2K" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDVf/sporttv1hd.png" group-title="CumCatano",SPORT TV 1 2K
+
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 (Alt)
+
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 LOW
+
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 HD
+
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 FHD
+
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 FHD Alt" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv1.png" group-title="CumCatano",SPORT TV 1 FHD Alt
+
+
+
+#EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDdf/sporttv2hd.png" group-title="CumCatano",SPORT TV 2 HD
+http://85.244.70.140:7000/play/a02t 
+#EXTINF:-1 tvg-id="SPORT TV 2 HD FULL HD" tvg-name="SPORT TV 2 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDdf/sporttv2hd.png" group-title="CumCatano",SPORT TV 2 FHD
+
+#EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2
+
+#EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2 LOW
+
+#EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2 HD
+
+#EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-name="SPORT TV 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv2.png" group-title="CumCatano",SPORT TV 2 FHD
+
+
+#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="SPORT TV 3 HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDhf/sporttv3.png" group-title="CumCatano",SPORT TV 3 HD
+http://85.244.70.140:7000/play/a02w 
+#EXTINF:-1 tvg-id="SPORT TV 3 HD FULL HD" tvg-name="SPORT TV 3 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDhf/sporttv3.png" group-title="CumCatano",SPORT TV 3 FHD
+
+#EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3
+
+#EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3 LOW
+
+#EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3 HD
+
+#EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-name="SPORT TV 3 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv3.png" group-title="CumCatano",SPORT TV 3 FHD
+
+
+#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SPORT TV 4 HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NTFf/sporttv4hd.png" group-title="CumCatano",SPORT TV 4 HD
+http://85.244.70.140:7000/play/a02y 
+#EXTINF:-1 tvg-id="SPORT TV 4 HD FULL HD" tvg-name="SPORT TV 4 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NTFf/sporttv4hd.png" group-title="CumCatano",SPORT TV 4 FHD
+
+#EXTINF:-1 tvg-id="SPORTV 4 HD" tvg-name="SPORT TV 4" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",SPORT TV 4
+
+#EXTINF:-1 tvg-id="SPORTV 4 HD" tvg-name="SPORT TV 4 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",SPORT TV 4 LOW
+
+#EXTINF:-1 tvg-id="SPORTV 4 HD" tvg-name="SPORT TV 4 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",SPORT TV 4 HD
+
+#EXTINF:-1 tvg-id="SPORTV 4 HD" tvg-name="SPORT TV 4 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv4.png" group-title="CumCatano",SPORT TV 4 FHD
+
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5 HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NTRf/sporttv5fhd.png" group-title="CumCatano",SPORT TV 5 HD
+
+#EXTINF:-1 tvg-id="SPORT TV 5 HD FULL HD" tvg-name="SPORT TV 5 FHD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NTRf/sporttv5fhd.png" group-title="CumCatano",SPORT TV 5 FHD
+
+
+#EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-name="SPORT TV 5" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",SPORT TV 5
+
+#EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-name="SPORT TV 5 LOW" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",SPORT TV 5 LOW
+
+#EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",SPORT TV 5 HD
+
+#EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-name="SPORT TV 5 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sporttv5.png" group-title="CumCatano",SPORT TV 5 FHD
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="ELEVEN SPORTS 1 SD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 1 SD
+
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 1 HD
+
+#EXTINF:-1 tvg-id="elevensports1FHD" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 1 FHD
+
+#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 2 HD
+
+#EXTINF:-1 tvg-id="elevensports3HD" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 3 HD
+
+#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 4 HD
+
+#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 5 HD
+
+#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="https://i.dailymail.co.uk/i/newpix/2018/05/02/11/4BC37F0F00000578-5682037-Eleven_Sports-a-25_1525258590217.jpg" group-title="CumCatano",ELEVEN SPORTS 6 HD
+
+
+
+#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="SPORTING TV HD" tvg-logo="https://od.lk/s/OTdfMTE4OTc4NDNf/sportingtv.png" group-title="CumCatano",SPORTING TV HD
+
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/dfiilm1515364197.png/small" group-title="CumCatano",Sporting TV LOW
+
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sportingtv.png" group-title="CumCatano",Sporting TV
+
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/dfiilm1515364197.png/small" group-title="CumCatano",Sporting TV HD
+
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting TV FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sportingtv.png" group-title="CumCatano",Sporting TV FHD
+
+#EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canal" tvg-logo="https://www.thelogodb.com/images/media/logonew/yuxppt1465900144.png/small" group-title="CumCatano",Porto Canal
+
+#EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canal HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/portocanal.png" group-title="CumCatano",Porto Canal HD
+
+#EXTINF:-1 tvg-id="EUROSPORT1" tvg-name="Eurosport" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport1.png" group-title="CumCatano",Eurosport
+http://85.244.70.140:7000/play/a02z
+#EXTINF:-1 tvg-id="EUROS" tvg-name="Eurosport 1" tvg-logo="https://www.thelogodb.com/images/media/logonew/cco61g1515364096.png/small" group-title="CumCatano",Eurosport 1
+
+#EXTINF:-1 tvg-id="EUROS" tvg-name="Eurosport 1 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport1.png" group-title="CumCatano",Eurosport 1 HD
+
+#EXTINF:-1 tvg-id="EUROS2" tvg-name="Eurosport 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport2.png" group-title="CumCatano",Eurosport 2
+http://85.244.70.140:7000/play/a010 
+#EXTINF:-1 tvg-id="EUROS2" tvg-name="Eurosport 2 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosport2.png" group-title="CumCatano",Eurosport 2 HD
+
+#EXTINF:-1 tvg-id="MCS EXTREME" tvg-name="MCS Extreme" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/mcsextreme.png" group-title="CumCatano",MCS Extreme
+
+#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="Kombat Spo.m3u8 HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/komb.m3u8port.png" group-title="CumCatano",Kombat Sports HD
+
+#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="Fight Network FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fightnetwork.png" group-title="CumCatano",Fight Network FHD
+
+#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="Fight Network HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fightnetwork.png" group-title="CumCatano",Fight Network HD
+
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="https://bit.ly/2G8FwOs" group-title="CumCatano",Combate HD
+
+#EXTINF:-1 tvg-id="Motors TV" tvg-name="Motors TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/motorsporttv.png" group-title="CumCatano",Motors TV HD
+
+#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="Motorvision HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/motorvisiontv.png" group-title="CumCatano",Motorvision HD
+http://85.244.70.140:7000/play/a00t 
+#EXTINF:-1 tvg-id="Automoto TV" tvg-name="Automoto" tvg-logo="https://bit.ly/2RXpsFL" group-title="CumCatano",Automoto TV
+
+#EXTINF:-1 tvg-id="Cars Stars" tvg-name="Fuel TV HD" tvg-logo="https://bit.ly/2CLy51e" group-title="CumCatano",Cars & Stars TV
+
+#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="Fuel TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fueltv.png" group-title="CumCatano",Fuel TV HD
+
+#EXTINF:-1 tvg-id="RedBull TV" tvg-name="Red Bull TV" tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="RedBull TV" tvg-name="Red Bull TV" tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV (Op 2)
+https://dms.redbull.tv/v3/linear-borb/_v3/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBull TV" tvg-name="Red Bull TV" tvg-logo="http://tecnotv.info/logoss/redbull.png" tvg-id="" group-title="CumCatano",Red Bull TV (Op 3)
+https://dms.redbull.tv/v3/ironman_com/_v3/playlist.m3u8
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/pfc.png" group-title="CumCatano",PFC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTTVNBA.png" group-title="CumCatano",SPORT TV NBA
+
+#EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515JQjBBBvL.png" group-title="CumCatano",NBA TV
+http://203.154.243.32:8088/live/nba/index.m3u8
+#EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine1.png" group-title="CumCatano",TVCine 1
+
+#EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yxtrst1436898282.png/small" group-title="CumCatano",TVCine 1 HD
+
+#EXTINF:-1 tvg-id="TVC1" tvg-name="TVCine 1 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine1.png" group-title="CumCatano",TVCine 1 FHD
+
+#EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine2.png" group-title="CumCatano",TVCine 2
+
+#EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/rpssrv1436898306.png/small" group-title="CumCatano",TVCine 2 HD
+
+#EXTINF:-1 tvg-id="TVC2" tvg-name="TVCine 2 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine2.png" group-title="CumCatano",TVCine 2 FHD
+
+#EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine3.png" group-title="CumCatano",TVCine 3
+
+#EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/uwrwyv1436898334.png/small" group-title="CumCatano",TVCine 3 HD
+
+#EXTINF:-1 tvg-id="TVC3" tvg-name="TVCine 3 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine3.png" group-title="CumCatano",TVCine 3 FHD
+
+#EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine4.png" group-title="CumCatano",TVCine 4
+
+#EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qswqxx1436898355.png/small" group-title="CumCatano",TVCine 4 HD
+
+#EXTINF:-1 tvg-id="TVC4" tvg-name="TVCine 4 FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvcine4.png" group-title="CumCatano",TVCine 4 FHD
+
+#EXTINF:-1 tvg-id="TVSERIES" tvg-name="TVSeries" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvseries.png" group-title="CumCatano",TVSeries
+
+#EXTINF:-1 tvg-id="TVSERIES" tvg-name="TVSeries HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xppsrs1436898382.png/small" group-title="CumCatano",TVSeries HD
+
+#EXTINF:-1 tvg-id="TVSERIES" tvg-name="TVSeries FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvseries.png" group-title="CumCatano",TVSeries FHD
+
+#EXTINF:-1 tvg-id="" tvg-name="LXTV Movies" tvg-logo="https://pbs.twimg.com/profile_images/1448819128/LXTV_TWITTER_icon_400x400.jpg" group-title="CumCatano",LXTV Movies
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/syfy.png" group-title="CumCatano",SyFy
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="Syfy HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/8vfxi01515520586.png/small" group-title="CumCatano",Syfy HD
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/syfy.png" group-title="CumCatano",SyFy FHD
+
+#EXTINF:-1 tvg-id="SUNDANCE" tvg-name="Sundance TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sundancetv.png" group-title="CumCatano",Sundance TV HD
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/amc.png" group-title="CumCatano",AMC
+http://85.244.70.140:7000/play/a037 
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/986bly1515839824.png/small" group-title="CumCatano",AMC HD
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/amc.png" group-title="CumCatano",AMC FHD
+
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cinemundo.png" group-title="CumCatano",Cinemundo HD
+
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cinemundo.png" group-title="CumCatano",Cinemundo
+
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX Movies" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxmovies.png" group-title="CumCatano",FOX Movies
+
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="Fox Movies HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vptxrq1436890170.png/small" group-title="CumCatano",Fox Movies HD
+
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX Movies FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxmovies.png" group-title="CumCatano",FOX Movies FHD
+
+#EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalhollywood.png" group-title="CumCatano",Hollywood
+
+#EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqtrqu1436898965.png/small" group-title="CumCatano",Hollywood HD
+
+#EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalhollywood.png" group-title="CumCatano",Hollywood FHD
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axn.png" group-title="CumCatano",AXN
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wxswvq1433343102.png/small" group-title="CumCatano",AXN HD
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axn.png" group-title="CumCatano",AXN FHD
+
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yo0yul1515363807.png/small" group-title="CumCatano",AXN Black HD
+
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnblack.png" group-title="CumCatano",AXN Black
+
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnblack.png" group-title="CumCatano",AXN Black FHD
+
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnwhite.png" group-title="CumCatano",AXN White
+
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xhtejj1515363892.png/small" group-title="CumCatano",AXN White HD
+
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/axnwhite.png" group-title="CumCatano",AXN White FHD
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fox.png" group-title="CumCatano",FOX
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/rwptru1436892145.png/small" group-title="CumCatano",FOX HD
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fox.png" group-title="CumCatano",FOX FHD
+
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX Comedy" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxcomedy.png" group-title="CumCatano",FOX Comedy
+
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX Comedy HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/nquwju1515410731.png/small" group-title="CumCatano",FOX Comedy HD
+
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX Comedy FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxcomedy.png" group-title="CumCatano",FOX Comedy FHD
+
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="FOX Crime" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxcrime.png" group-title="CumCatano",FOX Crime
+
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="FOX Crime HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/nquwju1515410731.png/small" group-title="CumCatano",FOX Crime HD
+
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="FOX Crime FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxcrime.png" group-title="CumCatano",FOX Crime FHD
+
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX Life" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxlife.png" group-title="CumCatano",FOX Life
+
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX Life HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/owzqbb1515520768.png/small" group-title="CumCatano",FOX Life HD
+
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX Life FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/foxlife.png" group-title="CumCatano",FOX Life FHD
+
+#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="Crime & Investigation" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/crimeandinvestigation.png" group-title="CumCatano",Crime & Investigation
+
+#EXTINF:-1 tvg-id="" tvg-name="LXTV Series" tvg-logo="https://pbs.twimg.com/profile_images/1448819128/LXTV_TWITTER_icon_400x400.jpg" group-title="CumCatano",LXTV Series
+
+#EXTINF:-1 tvg-id="DISNY" tvg-name="Disney Channel" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/disneychannel.png" group-title="CumCatano",Disney Channel
+
+#EXTINF:-1 tvg-id="DISNY" tvg-name="Disney Channel" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/disneychannel.png" group-title="CumCatano",Disney Channel HD
+
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="Disney Junior" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/disneyjunior.png" group-title="CumCatano",Disney Junior
+http://85.244.70.140:7000/play/a015 
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="Disney Junior" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/disneyjunior.png" group-title="CumCatano",Disney Junior HD
+
+#EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cartoonnetwork.png" group-title="CumCatano",Cartoon Network
+
+#EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cartoonnetwork.png" group-title="CumCatano",Cartoon Network HD
+
+#EXTINF:-1 tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/nickelodeon.png" group-title="CumCatano",Nickelodeon
+http://85.244.70.140:7000/play/a00o
+#EXTINF:-1 tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/nickelodeon.png" group-title="CumCatano",Nickelodeon HD
+
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Jr" tvg-logo="http://nickjr-intl.mtvnimages.com/uk/img/nav/logo-nickjr-desktop-2x.png" group-title="CumCatano",Nick Jr
+
+#EXTINF:-1 tvg-id="PANDA" tvg-name="Canal Panda" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/canalpanda.png" group-title="CumCatano",Canal Panda
+
+#EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="Panda Biggs" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/biggs.png" group-title="CumCatano",Panda Biggs
+http://85.244.70.140:7000/play/a013
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/sickapa.png" group-title="CumCatano",SIC K HD
+
+#EXTINF:-1 tvg-id="JimJam" tvg-name="Jim Jam" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/jimjam.png" group-title="CumCatano",Jim Jam
+
+#EXTINF:-1 tvg-id="BABYFIRST" tvg-name="Baby First" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/babyfirst.png" group-title="CumCatano",Baby First
+
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/babytv.png" group-title="CumCatano",Baby TV
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/discoverychannel.png" group-title="CumCatano",Discovery Channel
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/usyusu1480364903.png/small" group-title="CumCatano",Discovery Channel HD
+
+#EXTINF:-1 tvg-id="DISCOVERYHD" tvg-name="Discovery ShowCase" tvg-logo="https://www.thelogodb.com/images/media/logonew/qqwypw1435092052.png/small" group-title="CumCatano",Discovery ShowCase
+
+#EXTINF:-1 tvg-id="DISCOVERYHD" tvg-name="Discovery Showcase HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/discoveryshowcase.png" group-title="CumCatano",Discovery Showcase HD
+
+#EXTINF:-1 tvg-id="NGC" tvg-name="National Geographic" tvg-logo="https://www.thelogodb.com/images/media/logonew/spurwy1433945957.png/small" group-title="CumCatano",National Geographic
+
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="National Geographic HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/nationalgeographicchannel.png" group-title="CumCatano",National Geographic HD
+
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="National Geo Wild HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/natgeowild.png" group-title="CumCatano",National Geo Wild HD
+
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="National Geo Wild" tvg-logo="https://www.thelogodb.com/images/media/logonew/ypptyq1433943719.png/small" group-title="CumCatano",National Geo Wild
+
+#EXTINF:-1 tvg-id="ODIS" tvg-name="Canal Odisseia" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/odisseia.png" group-title="CumCatano",Canal Odisseia
+
+#EXTINF:-1 tvg-id="Canal História" tvg-name="Canal Historia" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/historia.png" group-title="CumCatano",Canal Historia
+
+#EXTINF:-1 tvg-id="Canal História" tvg-name="Canal Historia HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/f5lex41515366394.png/small" group-title="CumCatano",Canal Historia HD
+
+#EXTINF:-1 tvg-id="EENTER" tvg-name="E! Entertainment HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eentertainment.png" group-title="CumCatano",E! Entertainment HD
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tlc.png" group-title="CumCatano",TLC HD
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/aande.png" group-title="CumCatano",A&E
+
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cbsreality.png" group-title="CumCatano",CBS Reality
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/bbcentertainment.png" group-title="CumCatano",BBC Entertainment
+
+#EXTINF:-1 tvg-id="DOGTV" tvg-name="Dog TV FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/dogtv.png" group-title="CumCatano",Dog TV FHD
+
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="FISHING NETWORK" tvg-logo="https://bit.ly/2OLLmtz" group-title="CumCatano",FISHING NETWORK
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+#EXTINF:-1 tvg-id="Caça Vision" tvg-name="Caçavision" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cacavision.png" group-title="CumCatano",Caçavision
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="Caça e Pesca" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cacaepesca.png" group-title="CumCatano",Caça e Pesca
+
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="Toros TV HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/torostv.png" group-title="CumCatano",Toros TV HD
+
+#EXTINF:-1 tvg-id="OUTDOOR HD" tvg-name="Outdoor Channel FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/outdoorchannel.png" group-title="CumCatano",Outdoor Channel FHD
+
+#EXTINF:-1 tvg-id="FASH" tvg-name="Fashion TV" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/fashiontv.png" group-title="CumCatano",Fashion TV
+
+#EXTINF:-1 tvg-id="Luxe TV HD" tvg-name="Luxe TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luxe-TV-Logo.svg/2000px-Luxe-TV-Logo.svg.png" group-title="CumCatano",Luxe TV FHD
+
+#EXTINF:-1 tvg-id="FINE LIVING NETWORK HD" tvg-name="Fine Living Network FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/finelivingnetwork.png" group-title="CumCatano",Fine Living Network FHD
+
+#EXTINF:-1 tvg-id="MCS LifeStyle" tvg-name="MCS Lifestyle" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/mcslifestyle.png" group-title="CumCatano",MCS Lifestyle
+
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="Travel Channel HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqwxvx1433944819.png/small" group-title="CumCatano",Travel Channel 
+
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="Travel Channel FHD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/travelchannel.png" group-title="CumCatano",Travel Channel HD
+
+#EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/M6-tv-logo.png" group-title="CumCatano",M6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg" group-group-title="CumCatano",Amazing Facts TV (USA)
+
+#EXTINF:-1 tvg-id="TVFATIMA" tvg-name="Fatima" tvg-logo="https://bit.ly/2DdAmBJ" group-title="CumCatano",Fatima
+http://213.13.26.11:1935/live/santuario.stream/CumCatano.m3u8
+#EXTINF:-1 tvg-id="PAROQUIADEFATIMA" tvg-name="Paroquia Fatima" tvg-logo="https://bit.ly/2S3O8AR" group-title="CumCatano",PAROQUIA DE FATIMA
+
+#EXTINF:-1 tvg-id="ANGELUSTV" tvg-name="CANAL ANGELUS TV" tvg-logo="http://www.mediotejo.net/wp-content/uploads/2017/01/angelus-tv.jpg" group-title="CumCatano",CANAL ANGELUS TV
+
+#EXTINF:-1 tvg-id="CANCAONOVA" tvg-name="Canção Nova HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cancaonova.png" group-title="CumCatano",Canção Nova HD
+
+#EXTINF:-1 tvg-id="ARTV (Canal Parlamento)" tvg-name="ARTV" tvg-logo="https://www.thelogodb.com/images/media/logonew/xvswvy1437956693.png/small" group-title="CumCatano",ARTV
+
+#EXTINF:-1 tvg-id="LOCALVISAOTVHD" tvg-name="Localvisão HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/localvisaotv.png" group-title="CumCatano",Localvisão HD
+
+#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memoria" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpmemoria.png" group-title="CumCatano",RTP Memoria
+
+#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memoria" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpmemoria.png" group-title="CumCatano",RTP Memoria (Low)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP Africa" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpafrica.png" group-title="CumCatano",RTP Africa
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="RTPACO" tvg-name="RTP Acores" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpacores.png" group-title="CumCatano",RTP Acores
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="RTPMAD" tvg-name="RTP Madeira" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtpmadeira.png" group-title="CumCatano",RTP Madeira
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.pt.m3u8
+#EXTINF:0 tvg-logo="https://image.prntscr.com/image/NdyZL0qRTL27oX7o2RBRNw.png" group-title="CumCatano",LEIRIA TV
+http://tv02.logicahost.com.br:1935/tvnovus/tvnovus/live.m3u8
+#EXTINF:-1 tvg-id="CANAL 180" tvg-name="CANAL 180" tvg-logo="https://i.vimeocdn.com/portrait/10245991_300x300" group-title="CumCatano",CANAL 180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="MACAUTV" tvg-name="Macau TV" tvg-logo="https://tinyurl.com/yb34mjvt" group-title="CumCatano",MACAU TV
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="TV GLOBO HD" tvg-name="TV Globo LOW" tvg-logo="https://www.thelogodb.com/images/media/logonew/yspusx1435103750.png/small" group-title="CumCatano",TV Globo LOW
+
+#EXTINF:-1 tvg-id="TV GLOBO HD" tvg-name="TV Globo" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/globoportugal.png" group-title="CumCatano",TV Globo
+
+#EXTINF:-1 tvg-id="Globo Premium" tvg-name="TV Globo Premium" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/globopremium.png" group-title="CumCatano",TV Globo Premium
+
+#EXTINF:-1 tvg-id="TVR" tvg-name="TV Record" tvg-logo="https://www.thelogodb.com/images/media/logonew/wjq51s1515364396.png/small" group-title="CumCatano",TV Record
+
+#EXTINF:-1 tvg-id="TVR" tvg-name="TV Record HD" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tvrecord.png" group-title="CumCatano",TV Record HD
+
+#EXTINF:-1 tvg-id="TVR" tvg-name="TV Record FHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wjq51s1515364396.png/small" group-title="CumCatano",TV Record FHD
+
+#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="Globo Portugal" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/globoportugal.png" group-title="CumCatano",Globo Portugal
+
+#EXTINF:-1 tvg-id="RTP Internacional" tvg-name="RTP Internacional" tvg-logo="https://www.thelogodb.com/images/media/logonew/sxrvwx1438185988.png/small" group-title="CumCatano",RTP Internacional
+http://210.210.155.35/session/5395775a-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s38/01.m3u8?isnpiration=10&rebase=on
+#EXTINF:-1 tvg-id="RTP Internacional" tvg-name="RTP Internacional" tvg-logo="https://www.thelogodb.com/images/media/logonew/sxrvwx1438185988.png/small" group-title="CumCatano",RTP Internacional (LOW)
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8?isnpiration=10&rebase=on
+#EXTINF:-1 tvg-id="TVI Internacional (PT)" tvg-name="TVI Internacional" tvg-logo="https://www.thelogodb.com/images/media/logonew/syurpr1474677313.png/small" group-title="CumCatano",TVI Internacional
+
+#EXTINF:-1 tvg-id="SICInternacional" tvg-name="SIC Internacional" tvg-logo="https://www.thelogodb.com/images/media/logonew/vvtvvy1433472942.png/small" group-title="CumCatano",SIC Internacional
+
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="Kuriakos" tvg-logo="http://kuriakos.com/wp-content/uploads/elementor/thumbs/Logo_Kuriakos-nb2wafwo4hrgnnkyiafv8atk7wxz16zc1k9afli5yw.jpg" group-title="CumCatano",Kuriakos
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSKIDS.png" tvg-id="0" group-title="CumCatano", KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids3/TeamBlue.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSMUSIC.png" tvg-id="0" group-title="CumCatano", KURIAKOS MUSIC
+http://c2.manasat.com:1935/kmusic/kmusic3/TeamBlue.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSCINE.png" tvg-id="0" group-title="CumCatano", KURIAKOS CINE
+http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
+#EXTINF:-1 tvg-id="TPA" tvg-name="TPA Internacional" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tpainternacional.png" group-title="CumCatano",TPA Internacional
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tveinternacional.png" group-title="CumCatano",TVE Internacional
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/cnn.png" group-title="CumCatano",CNN
+
+#EXTINF:-1 tvg-id="BBCW" tvg-name="BBC World News" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/bbcworldnews.png" group-title="CumCatano",BBC World News
+
+#EXTINF:-1 tvg-id="BLOOM" tvg-name="Bloomberg" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/bloomberg.png" group-title="CumCatano",Bloomberg
+
+#EXTINF:-1 tvg-id="SKYN" tvg-name="Sky News" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/skynews.png" group-title="CumCatano",Sky News
+
+#EXTINF:-1 tvg-id="Deutschetsche Welle" tvg-name="Deutsche Welle" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/de.m3u8chewelle.png" group-title="CumCatano",Deuche Welle
+
+#EXTINF:-1 tvg-id="EURON" tvg-name="Eurosport News" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/eurosportnews.png" group-title="CumCatano",Eurosport News
+
+#EXTINF:-1 tvg-id="TVE24" tvg-name="TVE 24 Horas" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/tve24h.png" group-title="CumCatano",TVE 24 Horas
+
+#EXTINF:-1 tvg-id="FRANCE24FR" tvg-name="France 24" tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/france24.png" group-title="CumCatano",France 24
+
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5 MONDE EUROPE" tvg-logo="https://static.playmedia-cdn.net/img/tv_channels/241_medium.png" group-title="CumCatano",TV5 MONDE EUROPE
+
+#EXTINF:-1 tvg-id="L'EQUIPE" tvg-name="L'EQUIPE" tvg-logo="https://bit.ly/2RqGmQE" group-title="CumCatano",L'EQUIPE
+http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="CCMusic",VIRGIN TV
+http://fms.105.net:1935/live/virgin2/playlist.m3u8
+#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="CCMusic",VIRGIN TV (Op 2)
+http://wow01.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://tinyurl.com/lozam9n" group-title="CCMusic",VIRGIN TV (Op 3)
+http://tv.105.net:1935/live/virgin1/chunklist_w864163580.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7tpe7aj" tvg-id="" group-title="CCMusic",24RockOne66
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybga4dxp" tvg-id="" group-title="CCMusic",ONE Rock HD
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y743efem" tvg-id="" group-title="CCMusic",ONE Jazz HD
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaeu4c72" tvg-id="" group-title="CCMusic",ONE Pop HD
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y82q9de7" tvg-id="" group-title="CCMusic",ONE HD Live Mix
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycexukkf" tvg-id="" group-title="CCMusic",ONE Classic HD
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycwxlpba" tvg-id="" group-title="CCMusic",ONE Dance HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/646bh7slp/HEAVYMETAL.png" group-title="CCMusic",Heavy Metal TV
+http://autopilot.myowntv.org/content/33816/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yajd7p7e" group-title="CCMusic",ESKA ROCK TV
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycu9qruy" tvg-id="iconcerts" group-title="CCMusic",iConcerts HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic", Music Choice Play (USA)
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2KIK9pV" tvg-id="" group-title="CCMusic",IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/meq2khq" group-title="CCMusic",INDIES LIVE 
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lS4CAgN.png" group-title="CCMusic",Radio U (USA)
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",METAL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",ROCK
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",INDIE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",ALTERNATIVE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",MC PLAY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",MUSICA URBANA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",90's
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",HIT LIST
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",THROWBACKS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",POP HITS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",BRITISH HITS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",TODDLERS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",POP LATINO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",MEXICANA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Y2K
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",TODAYS COUNTRY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",TEEN BEATS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",Y2K RAP
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",RAP
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",R&B SOUL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",POP COUNTRY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",HIP HOP & R&B
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",DANCE EDM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="CCMusic",KIDS ONLY
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" tvg-id="mtvportugal.pt" group-title="CCMusic",MTV PORTUGAL
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="MTVRocks.uk" group-title="CCMusic",MTV ROCKS 
+http://212.115.255.197/hls/mtvrocks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ptZeCgt.png" tvg-id="MTVRocks.uk" group-title="CCMusic",MTV ROCKS (Op 2)
+http://213.59.140.53:9996/play/MTV_Rocks/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7tkyapj" tvg-id="MTVMusic.uk" group-title="CCMusic",MTV Music
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybe5phvx" tvg-id="0" group-title="CCMusic",MTV LIVE
+http://91.202.196.122:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybe5phvx" tvg-id="0" group-title="CCMusic",MTV LIVE HD
+http://91.202.196.122:8000/play/a033/index.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCZQdTA.png" tvg-id="0" group-title="CCMusic",MTV DANCE
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9lbkrk3" tvg-id="0" group-title="CCMusic",MTV HITS
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9lbkrk3" tvg-id="0" group-title="CCMusic",MTV HITS (Op 2)
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6agMcKm.png" tvg-id="0" group-title="CCMusic",MTV BASE
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/n86t9um" tvg-id="VH1" group-title="CCMusic",VH1 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" tvg-id="vh1.pt" group-title="CCMusic",VH1 CLASSIC
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VBaL5gr.png" tvg-id="TraceTV.pt" group-title="CCMusic",TRACE TV
+http://94.60.103.81:9981/stream/channelid/219544333
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRACETOCA.png" group-title="CCMusic",TRACE TOCA
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",Metal TV (music)
+http://autopilot.myowntv.org/content/33816/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",Ditty TV (USA)
+https://desktop.dittytv.com/live/dittytv.stream_desktop/chunklist_w645916087.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",Bridge TV Dance
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/711/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",VH1 Classic
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/724/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",360 Tune In Box
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/810/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",Bridge HD
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/236/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",EU Music HD
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/925/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",Europa Plus HD
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/115/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",MTV HITS
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/153/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",MTV Dance
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/558/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",LFM TV (FRANCE)
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/chunklist_w1248461747.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",Nr1 4k (full HD)
+http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",TRACE Tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",TRACE Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",TRACE Toca
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",TRACE Naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",TRACE kitoko
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TeeGMv" tvg-id="" group-title="CCMusic",TRACE Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmtop.png" tvg-id="MCMTOP" group-title="CCMusic",MCM TOP
+
+#EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/mcmpop.png" tvg-id="MCMPOP" group-title="CCMusic",MCM POP
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" tvg-id="C-Music.pt" group-title="CCMusic",C MUSIC
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9bwt2ko" tvg-id="" group-title="CCMusic",Clubbing TV
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png" tvg-id="AfroMusic.pt" group-title="CCMusic",AFRO MUSIC
+http://94.60.103.81:9981/stream/channelid/1028492571
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ycx3z6fp" group-title="CCMusic",ALEX BERLIN (Urban Music)
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y76u33mw" tvg-id="0" group-title="CCMusic",XITE BASE
+http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb9meaol" tvg-id="0" group-title="CCMusic",XITE POP
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mro9vmo" tvg-id="0" group-title="CCMusic",VOX
+http://stream.cdn.smcloud.net/vox2-p/stream1/chunklis.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" group-title="CCMusic",M6 MUSIQUE
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CCMusic", ONE.by 1 
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CCMusic", ONE.by 2 
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CCMusic", ONE.by 3 
+http://rtmp.one.by:1400
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CCMusic", ONE.by (RUS) 1 HD
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaxt2y6f" group-title="CCMusic", ONE.by (RUS) 2 HD
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-logo="https://tinyurl.com/katf23g" tvg-id="mezzo.pt" group-title="CCMusic", Mezzo
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/67/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/n4j9ver" tvg-id="mezzo.pt" group-title="CCMusic", Mezzo Live 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/153/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yctjl6cs" tvg-id="0" group-title="CCMusic",Music Box
+rtmp://212.26.132.86/live/mb_ua
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/BRIDGETV.png" group-title="CCMusic", Bridge TV  
+
+#EXTINF:-1 tvg-logo="http://e1.symbo.link/logos/powertv-lichoridas.png" group-title="CCMusic", Power TV
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybk39b3e" tvg-id="0" group-title="CCMusic",ATOMIC TV
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydb9q3yg" tvg-id="0" group-title="CCMusic",M2O.TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING CLASSIC
+http://www.djing.com/tv/hits.m3u8_
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING CLASSIC
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING CLASSIC
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING DANCE FLOOR MUSIC
+https://www.djing.com/tv/i-28049-04.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING DANCE FLOOR MUSIC
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING ELECTRO ROCK
+https://www.djing.com/tv/s-28049-03-electro-rock.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING ELECTRO ROCK
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING HITS
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING HOT HOT HOT
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING IBIZA
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING SUMMER VIBES
+https://www.djing.com/tv/s-28049-03-summer-vibes.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING SUMMER VIBES
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING SUMMER VIBES
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING ANIMATION
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING FRENCH TOUCH
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING FRENCH TOUCH
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING UNDERGROUND
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CCMusic",DJING UNDERGROUND
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEBLACKAFRICA.png" group-title="CCMusic",BEBLACK AFRICA
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEBLACKCARIBBEAN.png" group-title="CCMusic",BEBLACK CARIBBEAN
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEBLACKCLASSIK.png" group-title="CCMusic",BEBLACK CLASSIK
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEBLACKCLASSIK.png" group-title="CCMusic",BEBLACK CLASSIK
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="CCMusic",Box Hits (UK)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DT3DICU.png" group-title="CCMusic",California Music Channel (USA)
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="CCMusic",Capital TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2j8tsJq.png" group-title="CCMusic",Heart TV (UK)
+
+#EXTINF:-1 tvg-logo="https://indiewaveentertainment.com/wp-content/uploads/2017/09/logo_square.png" group-title="CCMusic",IndieWave (USA)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OiZowUH.png" group-title="CCMusic",Kool London Radio (UK)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="CCMusic",Music Choice Play (USA)
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lS4CAgN.png" group-title="CCMusic",Radio U (USA)
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="CCMusic",The Country Network (USA)
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LS65/LOGO/master/MEZZO.png" group-title="CCMusic",MEZZO
+http://88.216.48.14:80/mezzo/live.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LS65/LOGO/master/MEZZO.png" group-title="CCMusic",MEZZO
+http://stream.euroasia.lfstrm.tv/mezzo/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LS65/LOGO/master/MEZZOLIVE.png" group-title="CCMusic",MEZZO LIVE HD
+http://91.202.196.122:8000/play/a034/index.m3u8
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yacoryo5" group-title="CCLive", Faith No More - Hellfest
+https://cld.pt/dl/download/093d1844-4bb8-4719-a332-40d28b7fd48e/Faith%20No%20More%20-%20Hellfest%20%28Full%20Show%29.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb3o5h29" group-title="CCLive", Faith No More - Download Festival (2009)
+https://cld.pt/dl/download/7139002d-bab7-46f8-84c3-05684bcbe6b5/Faith%20No%20More%20-%20Download%20Festival%20%282009%29%20%5BFull%20Show%5D.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2vBIEQI" group-title="CCLive",Incubus - Look Alive (2007)
+https://cld.pt/dl/download/51751db6-158e-4fd3-affc-02d4dc32a072/Incubus%20-%20Look%20Alive%202007%20DVD%20Completo.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2w2gIoq" group-title="CCLive",Incubus - Rock in Rio (2017)
+https://cld.pt/dl/download/f8602b65-871e-4689-a54f-af8620f15b81/Incubus%20-%20Rock%20in%20Rio%202017%20Show%20Completo%20HD%21.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yab9krqx" group-title="CCLive", Mondo Cane - Teatro Caupolicán (Santiago Chile 21/09/2011) 
+https://cld.pt/dl/download/dc82f08d-9341-4e52-b855-30bc01e36b9c/Mike%20Patton%20_%20Mondo%20Cane%20-%20Teatro%20Caupolic%C3%A1n%2C%20Santiago%2C%20Chile%2C%20Sep.%2021%2C%202011%20%28HD%29%20%28Full%20Show%29.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8nbdapd" group-title="CCLive", Foo Fighters - Live at Hyde Park 2006
+https://cld.pt/dl/download/da7b69b2-f616-4824-8439-05964d481f82/Foo%20Fighters%20-%20Live%20at%20Hyde%20Park%202006%20%28Full%20Concert%29.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yawlh7hv" group-title="CCLive", Foo Fighters in the HD Radio Sound Space at KROQ
+https://cld.pt/dl/download/92b9689e-cd85-4697-91f4-7a995750e783/Foo%20Fighters%20in%20the%20HD%20Radio%20Sound%20Space%20at%20KROQ.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycbdzc32" group-title="CCLive", Queens of the Stone Age - Rock In Rio 2015
+https://cld.pt/dl/download/5673d406-e49f-4dca-b45d-fa19394f8967/Queens%20of%20the%20Stone%20Age%20-%20Rock%20In%20Rio%202015%20%28Full%20Concert%29.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2EFpCQp" group-title="CCLive",Soundgarden - Hyde Park - Hard Rock Calling 7-13-2012
+https://cld.pt/dl/download/18e488fa-151a-4be7-9a14-43b27aa47971/Soundgarden%20-%20Hyde%20Park%20-%20Hard%20Rock%20Calling%207-13-2012.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2RaA9nZ" group-title="CCLive",Queens of the Stone Age - Rock en Seine 2014
+https://cld.pt/dl/download/71141ef4-1529-46df-ae81-863ae6179f73/Queens%20of%20the%20Stone%20Age%20-%20Rock%20en%20Seine%202014.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2EQy0ga" group-title="CCLive",Pearl Jam - PINKPOP (1992)
+https://cld.pt/dl/download/04c465af-a169-4652-912a-f4de4c614ae5/PEARL%20JAM%20PINKPOP%201992.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2Apz9H6" group-title="CCLive",Pearl Jam - Live at Lollapalooza 2018
+https://cld.pt/dl/download/c706aa32-233f-4a5a-b7ad-ecd3ab70bfc4/Pearl%20Jam%20-%20Live%20at%20Lollapalooza%202018.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2OILxdW" group-title="CCLive",Metallica - Nimes 2009
+https://cld.pt/dl/download/d6d4a96e-a336-4246-9b4a-701a9121e1c6/Metallica%20-%20Nimes%202009.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2EK2iRC" group-title="CCLive",System Of A Down - Pinkpop 2017
+https://cld.pt/dl/download/0caf932b-a16a-4b5b-88a6-aff0e103cb9e/System%20Of%20A%20Down%20-%20Pinkpop%202017.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2qi9nil" group-title="CCLive",Korn - Woodstock 99 East Stage - 07 23 99
+https://cld.pt/dl/download/d1c0b305-70ae-4390-b1a3-7189340cbbc2/Korn%20-%20Full%20Concert%20-%2007%2023%2099%20-%20Woodstock%2099%20East%20Stage%20%28OFFICIAL%29.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2JgBMxO" group-title="CCLive",Primus - Rockpalast Festival 6 22 97
+https://cld.pt/dl/download/37c07f9f-c5a5-4169-aaa5-a5b348a73675/Primus%20-%20Rockpalast%20Festival%206%2022%2097.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2SkeCdM" group-title="CCLive",Rage Against The Machine - Rock im Park 2000
+https://cld.pt/dl/download/4efeea10-039c-4ba1-9fb2-8fb6d3f5d593/Rage%20Against%20The%20Machine%20-%20Rock%20im%20Park%202000.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2PnLFz4" group-title="CCLive",Rage Against The Machine Live SWU 2010
+https://cld.pt/dl/download/57fddff9-85e6-4d64-864f-fc5ccbed4a96/Rage%20Against%20The%20Machine%20Live%20SWU%202010.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2yxgW9a" group-title="CCLive",Ghost HELLFEST 2016
+https://cld.pt/dl/download/f3b56f7b-2bba-486f-aca9-897d7438b296/Ghost%20HELLFEST%202016.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2qcLgl1" group-title="CCLive",Royal Blood - The House Of Vans 2017
+https://cld.pt/dl/download/a2e7f3e9-0e77-4d5a-a451-64663048639f/Royal%20Blood%20-%20%20The%20House%20Of%20Vans%202017.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2CHGPpQ" group-title="CCLive",Muse - Rome Olympic Stadium 2013
+https://cld.pt/dl/download/f5cc8c16-d5cd-4e30-a0f1-3f55a92ba26a/Muse%20-%20Rome%20Olympic%20Stadium%202013.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2PnTDsa" group-title="CCLive",Rammstein - Live in Berlin (Waldbühne)
+https://cld.pt/dl/download/a3be50b2-0b10-4b5e-9b3b-3eabcdf81058/Rammstein%20-%20Live%20in%20Berlin%20%28Waldb%C3%BChne%29%20Full%20Show%20-%201080p%20Full%20HD%20-.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2ArdD4Y" group-title="CCLive",Alice In Chains - Pro TV Archives 1990-1996
+https://cld.pt/dl/download/363905e7-9178-4ee8-84ff-b3a5c26e63a6/Alice%20In%20Chains%20-%20Pro%20TV%20Archives%201990-1996.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ar2YHc" group-title="CCLive",Stone Temple Pilots - 8 4 01 - Rolling Rock Town Fair - Latrobe, Pa 
+https://cld.pt/dl/download/ca115073-1e50-4ecb-a6cc-985927f362c6/Stone%20Temple%20Pilots%20-%208%204%2001%20-%20Rolling%20Rock%20Town%20Fair%20-%20Latrobe%2C%20Pa%20%28HQ%29.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8gsq2ym" group-title="CCLive", Fantômas - The Director's Cut Live
+https://cld.pt/dl/download/3acc66b0-369e-41b0-8bf6-7053a3b483b9/Fant%C3%B4mas%20-%20The%20Director%27s%20Cut%20Live_%20A%20New%20Year%20Revolution%20-%20Full%20Show.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yarzpj6u" group-title="CCLive", Fantômas & Mr. Bungle - Rock Squad Special
+https://cld.pt/dl/download/7374c12d-8130-42c4-82a5-bd5307bcd634/Fant%C3%B4mas%20%26%20Mr.%20Bungle%20-%20Rock%20Squad%20Special%20%28Viva%202%29%20%5BFull%5D.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybaggofb" group-title="CCLive", Peeping Tom - Cologne Germany - 11/12/2006
+https://cld.pt/dl/download/f0235c89-8bff-4921-a757-c351bbf79cfc/Mike%20Patton%20and%20Peeping%20Tom%20-%20Cologne%2C%20Germany%20-%20December%2011th%202006.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd8m4fbu" group-title="CCLive", Tomahawk - Portugal 2013
+https://cld.pt/dl/download/3c437e9d-f0f2-49f8-b696-b6bfaf7b8fd8/Tomahawk%20-%20Portugal%202013%20%28full%20show%29.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yazya6xq" group-title="CCLive", Mr. Bungle - Clutch Cargo Pontiac USA (1999)
+https://cld.pt/dl/download/58de7a07-d064-48a9-b276-7ba0d6124651/Mr.%20Bungle%20-%20%20Clutch%20Cargo%27s%2C%20Pontiac%2C%20MI%2C%20USA%20%281999%29.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2yBiX44" group-title="CCLive",Moonspell - Vive Latino 2017 Mexico
+https://cld.pt/dl/download/12ee961d-126d-4158-abc2-7381996fa4a1/Moonspell%20-%20Vive%20Latino%202017%20Mexico.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2PWohWJ" group-title="CCLive",Queen - Live at LIVE AID 13-07-1985
+https://cld.pt/dl/download/71ba0ad3-dc84-48fc-adad-36d69fd1c45f/Queen%20-%20Live%20at%20LIVE%20AID%201985%2007%2013.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2OMKU2Y" group-title="CCLive",Led Zeppelin Celebration Day 10-12-2007
+https://cld.pt/dl/download/82d511db-14ba-4281-89ca-76925ba6da36/Led%20Zeppelin%20Celebration%20Day%2010-12-2007.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2JhDJKw" group-title="CCLive",Black Sabbath - Live in Donington Park 2005
+https://cld.pt/dl/download/bc551202-ec99-439c-a873-6235cafb85d1/Black%20Sabbath%20-%20Live%20in%20Donington%20Park%202005.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2B1ubm4" group-title="CCLive",Buena Vista Social Club @ Festival Suds a Arles
+https://cld.pt/dl/download/427cd2d9-3cd0-4f3b-be66-97026e2d921b/Concert%20Buena%20Vista%20Social%20Club%20%40%20Festival%20Suds%20a%20Arles.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2yBeA9r" group-title="CCLive",Da Weasel Pavilhão Atlântico 2007
+https://cld.pt/dl/download/00ff9e2d-4389-4ac6-ae9f-660e46de5d63/Da%20Weasel%20Pavilh%C3%A3o%20Atl%C3%A2ntico%202007.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2KR7sJk" group-title="CCLive",Homenagem Antonio Variações Rock in Rio (2014)
+https://cld.pt/dl/download/1ec1ae26-09b1-4b67-9f37-504a75b63e4e/Homenagem%20Ant%C3%B3nio%20Varia%C3%A7%C3%B5es%20Rock%20in%20Rio%202014.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2ORsOgl" group-title="CCLive",The Vicious Five - Festa do Avante
+https://cld.pt/dl/download/e187b775-2ace-4a2c-84d8-e8dfde05478a/The%20Vicious%20Five%20-%20Festa%20do%20Avante.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2ReBUR4" group-title="CCLive",The Vicious Five - Nos Live 2014
+https://cld.pt/dl/download/8ed19179-1e0d-4a8b-b15d-c28191345186/The%20Vicious%20Five%20-%20Nos%20Live%202014.mp4
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" group-title="WORLD NEWS",FOX NEWS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" tvg-id="CNN" group-title="WORLD NEWS",CNN
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" tvg-id="FOXNews" group-title="WORLD NEWS",FOX NEWS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JcoOA0R.png" tvg-id="TVE24h" group-title="WORLD NEWS",TVE 24H
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uy91U7w.png" group-title="WORLD NEWS", Sky News | HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uy91U7w.png" group-title="WORLD NEWS", Sky News (Alt) | HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xNlaLSD.png" group-title="WORLD NEWS", MSNBC | FHD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xFSBik0.png" group-title="WORLD NEWS", The Weather Channel | HD
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tMrDZ6b.png" group-title="WORLD NEWS", Weather Nation | HD
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7YGiUy.png" group-title="WORLD NEWS", C-SPAN | HD
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/og0L5fB.png" group-title="WORLD NEWS", C-SPAN 2 | HD
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JAqH6Pi.png" group-title="WORLD NEWS", C-SPAN 3 | HD
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="WORLD NEWS", RT Español | HD
+https://secure-streams.akamaized.net/rt-esp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="WORLD NEWS", RT News | HD
+https://secure-streams.akamaized.net/rt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="WORLD NEWS", RT USA | HD
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="WORLD NEWS", RT UK | HD
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="WORLD NEWS", RT Docu | HD
+https://secure-streams.akamaized.net/rt-doc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="WORLD NEWS", TRT World | FHD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6J7g61.png" group-title="WORLD NEWS", BBC World News | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="WORLD NEWS", Bloomberg TV US | HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="WORLD NEWS", Bloomberg TV Europe | HD
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="WORLD NEWS", Bloomberg TV Asia | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="WORLD NEWS", Bloomberg TV Australia | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="WORLD NEWS", Bloomberg TV Politics Live Event | HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="WORLD NEWS", Bloomberg TV US Live Event | HD
+https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="WORLD NEWS", Bloomberg TV EMEA Live Event | HD
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="WORLD NEWS", Bloomberg TV Asia Live Event | HD
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
+#EXTINF:-1 tvg-id="0" tvg-logo="https://tinyurl.com/yakeag9x" group-title="WORLD NEWS",NEWSMAX TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hov1cKZ.png" group-title="WORLD NEWS", TV5 Monde Amerique Latine | SD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hov1cKZ.png" group-title="WORLD NEWS", TV5 Monde Info | FHD
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hov1cKZ.png" group-title="WORLD NEWS",  TV5 Monde Asie | FHD
+https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="WORLD NEWS", NHK World | HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="WORLD NEWS", NHK World (Alt)| HD
+http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="WORLD NEWS", Deutsche Welle Latino | SD
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="WORLD NEWS", Deutsche Welle | SD
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fB68JWo.png" group-title="WORLD NEWS", Aljazeera | FHD
+https://iptv.matthuisman.nz/nz/tv.46.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7mJGF3.png" group-title="WORLD NEWS", ABC News | HD
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="WORLD NEWS", France 24 | HD
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="FR24I" group-title="WORLD NEWS",FRANCE 24 ENG
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_FRANCE24" tvg-id="FR24F" group-title="WORLD NEWS",FRANCE 24 FR
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyOjHZ8.png" group-title="WORLD NEWS", Arirang | HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/ybg9kv5r" group-title="WORLD NEWS",Al Jazeera 
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="WORLD NEWS",Al Jazeera (Qatar)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCU1h8M.png" group-title="WORLD NEWS", Channel NewsAsia | SD
+https://tglcnash-i.akamaihd.net/hls/live/566559/pcweb/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tlU5Unv.png" group-title="WORLD NEWS", NOTV 41 New Orleans - Louisiana | HD
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e8a18XH.png" group-title="WORLD NEWS", London Live | HD
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZtoqgX.png" group-title="WORLD NEWS", CBS News | HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SeVaece.jpg" group-title="WORLD NEWS", RAI News 24 | SD
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8?laope
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8yy6yyd" tvg-id="0" group-title="WORLD NEWS",SKY TG 24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/78.jpg" group-title="WORLD NEWS",i24news
+http://stream-02.ix7.dailymotion.com/55/dm/3/x29atae/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGONAFN.png" group-title="WORLD NEWS", WGN Chicago | HD
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="WORLD NEWS", CTV News Live Events 1 | HD
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="WORLD NEWS", CTV News Live Events 2 | HD
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="WORLD NEWS", CTV News Live Events 3 | HD
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ox1YFd.png" group-title="WORLD NEWS", CTV News Live Events 4 | HD
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+#EXTINF:-1tvg-logo="https://tinyurl.com/y965xk7x" group-title="WORLD NEWS",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/y9kccrhm" group-title="WORLD NEWS",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tinyurl.com/ybm7le9j" group-title="WORLD NEWS",ABC News 24
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EP482zT.png" group-title="WORLD NEWS",Channel NewsAsia (Singapore)
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="WORLD NEWS",Deutsche Welle (Germany)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WLTxAdR.png" group-title="WORLD NEWS",earthTV (Germany)
+http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="WORLD NEWS",France 24 (France)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/78.jpg" group-title="WORLD NEWS",i24NEWS (Israel)
+http://stream-12.dc3.dailymotion.com/45/dm/3/x29atae/live-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="WORLD NEWS",NHK World (Japan)
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oLu1566.png" group-title="WORLD NEWS",Press TV (Iran)
+http://178.32.255.199:1935/live/ptven/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="WORLD NEWS",TRT World (Turkey)
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", LEÇA DA PALMEIRA
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", MATOSINHOS
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  ESPINHO
+http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", ESMORIZ
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", FURADOURO
+http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA TORREIRA
+http://video-auth1.iol.pt:1935/beachcam/torreira/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA BARRA
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", VAGUEIRA
+http://video-auth1.iol.pt:1935/beachcam/vagueiracasablanca/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", VAGUEIRA - LABREGO
+http://video-auth1.iol.pt:1935/beachcam/vagueira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DE MIRA
+http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", FIGUEIRA DA FOZ - BUARCOS
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", FIGUEIRA DA FOZ
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", FIGUEIRA DA FOZ - CABEDELO
+http://video-auth1.iol.pt:1935/beachcam/cabedelo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DO NORTE - NAZARÉ
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA NAZARÉ
+http://video-auth1.iol.pt:1935/beachcam/nazarepraiadavila/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PENICHE SUPERTUBOS
+http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PENICHE LAGIDE
+http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", SANTA CRUZ
+http://video-auth1.iol.pt:1935/beachcam/santacruz/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", RIBEIRA D´ILHAS
+http://video-auth1.iol.pt:1935/beachcam/ribeiradilhas/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", ERICEIRA
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", ERICEIRA - PRAIA DO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiadosulericeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA GRANDE NORTE
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA GRANDE SUL
+http://video-auth1.iol.pt:1935/beachcam/praiagrande2/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DO GUINCHO NORTE
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DO GUINCHO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", SÃO PEDRO DO ESTORIL
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DE CARCAVELOS
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA TORRE
+http://video-auth1.iol.pt:1935/beachcam/bctorre/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", SANTO AMARO
+http://video-auth1.iol.pt:1935/beachcam/santoamaro/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PAÇO DE ARCOS
+http://video-auth1.iol.pt:1935/beachcam/parcos/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", CAXIAS
+http://video-auth1.iol.pt:1935/beachcam/caxias/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", COSTA DE CAPARICA CDS
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", COSTA DA CAPARICA RIVIERA
+http://video-auth1.iol.pt:1935/beachcam/riviera/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", COSTA DE CAPARICA SÃO JOÃO
+http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", FONTE DA TELHA
+http://video-auth1.iol.pt:1935/beachcam/fontedatelha/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DO CARVALHAL
+http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", SÃO TORPES
+http://video-auth1.iol.pt:1935/beachcam/saotorpes/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", ZAMBUJEIRA DO MAR
+http://video-auth1.iol.pt:1935/beachcam/zambujeira/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA AMOREIRA
+http://video-auth1.iol.pt:1935/beachcam/bcamoreira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", ARRIFANA
+http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA LUZ
+http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", ALVOR
+http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA ROCHA
+http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DA GALÉ
+http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PRAIA DO EVARISTO
+http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", VILAMOURA
+http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", MADEIRA JARDIM DO MAR
+http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PARIS - TORRE EIFFEL 
+http://liveonearth.com:1935/edge0/CDG/playlist.m3u8?5842ba6cbbf0479c3de0a48f
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", PISTA DE SKI
+http://stream.tmr.sk:1935/tmr/STREAM3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", NYC Times Square (47th & Broadway)
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", SLOPPY AO VIVO
+https://56eaaf2a94c81.streamlock.net/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1488776744.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", WEB CAM  IRISH  BAR
+http://52.2.51.240:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",TIMES SQUARE - STREET CAM (USA)
+http://video3.earthcam.com/fecnetwork/9974.flv/chunklist_w1658580428.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",TIMES SQUARE - SOUTH VIEW (USA)
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2130847334.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",BROOKLYN BRIDGE (USA)
+http://video3.earthcam.com/fecnetwork/3983.flv/chunklist_w1056811992.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",WALL STREET (USA)
+http://video3.earthcam.com/fecnetwork/chargingbull.flv/chunklist_w2086154480.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",5TH AVENUE (USA)
+http://video3.earthcam.com/fecnetwork/fridays_5th.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",HIGH LINE (USA)
+http://video3.earthcam.com/fecnetwork/7384.flv/chunklist_w1400134337.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",COLUMBUS CIRCLE (USA)
+http://video3.earthcam.com/fecnetwork/6427.flv/chunklist_w868328454.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",TIMES SQUARE 4K (USA)
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w1277341975.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",EIFFEL TOWER (FRANCIA)
+http://video3.earthcam.com/fecnetwork/eiffelcamHD.flv/chunklist_w258546935.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",ABBEY ROAD CROSSING (UK)
+http://video3.earthcam.com:1935/fecnetwork/AbbeyRoadHD1.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",COPACABANA BEACH (BRASIL)
+http://video3.earthcam.com/fecnetwork/6593.flv/chunklist_w1727149754.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",ALAMEDA Y NATANIEL COX (CHILE)
+http://200.75.19.171/uoct/17/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",ALAMEDA Y SANTA ROSA (CHILE)
+http://200.75.19.171/uoct/37/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",PLAZA ITALIA (CHILE)
+http://200.75.19.171/uoct/36/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",TOBALABA Y APOQUINDO (CHILE)
+http://200.75.19.171/uoct/30/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", UK - Ammanford - Wales
+mmsh://live.camstreams.com/csWelshjohn?MSWMExt=.asf
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Baden-baden]
+http://stream.livespotting.tv/windit-edge/vv124_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Bremen]
+http://stream.livespotting.tv/windit-edge/vv134_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Freiburg]
+http://stream.livespotting.tv/windit-edge/vv112_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Hamburg]
+http://stream.livespotting.tv/windit-edge/LS_b5586_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Heidelberg]
+http://stream.livespotting.tv/windit-edge/vv122_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Kassel]
+http://stream.livespotting.tv/windit-edge/vv125_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Postdam Hotel]
+http://stream.livespotting.tv/windit-edge/vv110_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Stralsund]
+http://stream.livespotting.tv/windit-edge/vv132_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Alemanha [Wuppertal]
+http://stream.livespotting.tv/windit-edge/vv117_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Aruba [Antilles]
+http://video3.earthcam.com:1935/fecnetwork/4646.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Blumenau [Camelodromo]
+http://www.streambnu.info:1935/blumenau8/default.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Blumenau [Giassi/FURB]
+http://www.streambnu.info:1935/blumenau5/default.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Blumenau [Neumarkt]
+http://www.streambnu.info:1935/blumenau7/default.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Blumenau [Teatro Carlos Gomes]
+http://www.streambnu.info:1935/blumenau2/default.stream/live.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 1
+http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist_w1954852334.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 2
+http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist_w1105786569.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 3
+http://video3.earthcam.com:1935/fecnetwork/6427.flv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 4
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist_w912634094.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 6
+http://video3.earthcam.com:1935/fecnetwork/3983.flv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 7
+http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist_w1101621526.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 9
+http://video3.earthcam.com:1935/fecnetwork/4544.flv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NY online Camera 11
+http://video3.earthcam.com:1935/fecnetwork/7384.flv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bulgaria - Karlowo
+rtsp://85.255.175.244:554/h264
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  EXYUG-Banja luka (trg krajine)
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist_w873016047_b350000.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  NL SHEVENINGEN 3
+rtsp://b1.dnsdojo.com:1935/live/sys3.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Scheveningen surf webcam
+rtsp://b1.dnsdojo.com:1935/live/sys3.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Aachen - Drehturm Belvedere Lousberg
+rtmp://stream.livespotting.tv/windit-edge/vv102_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Achensee - Christlum
+rtmp://stream.livespotting.tv/windit-edge/vv148_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Amsterdam - Dam
+rtmp://stream.livespotting.tv/windit-edge/LS_e0cb1_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Augsburg - Hotel Augusta
+rtmp://stream.livespotting.tv/windit-edge/vv73_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bad Brückenau - Kurverwaltung Bad Brückenau
+rtmp://stream.livespotting.tv/windit-edge/vv140_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bamberg - Klein Venedig
+rtmp://stream.livespotting.tv/windit-edge/vv79_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bayreuth - Neues Rathaus
+rtmp://stream.livespotting.tv/windit-edge/vv107_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Berlin - 40 Seconds
+rtmp://stream.livespotting.tv/windit-edge/vv131_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Berlin - Restaurant Hugos/Hotel InterContinental
+rtmp://stream.livespotting.tv/windit-edge/vv133_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bielefeld - Stadthalle
+rtmp://stream.livespotting.tv/windit-edge/vv86_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Binz - HOTEL AM MEER & SPA
+rtmp://stream.livespotting.tv/windit-edge/vv103_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bonn - Hausverwaltung Uwe Brodesser
+rtmp://stream.livespotting.tv/windit-edge/vv114_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bremen - Kontorhaus
+rtmp://stream.livespotting.tv/windit-edge/vv134_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bremerhaven - Hotel Atlantic Sail City
+rtmp://stream.livespotting.tv/windit-edge/vv106_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Brunsbüttel - Schleuse
+rtmp://stream.livespotting.tv/windit-edge/vv37_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Büsum - Familienlagune
+rtmp://stream.livespotting.tv/windit-edge/vv42_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Büsum - Hauptstrand
+rtmp://stream.livespotting.tv/windit-edge/vv32_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Büsum - Museumshafen
+rtmp://stream.livespotting.tv/windit-edge/vv33_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Chemnitz - HeiBe
+rtmp://stream.livespotting.tv/windit-edge/vv93_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Dortmund - Neues Stadthaus
+rtmp://stream.livespotting.tv/windit-edge/vv95_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Dresden - Dresdner Aussicht
+rtmp://stream.livespotting.tv/windit-edge/vv59_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Duisburg - Sportschule Wedau
+rtmp://stream.livespotting.tv/windit-edge/vv61_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Eckernförde - Hafen
+rtmp://stream.livespotting.tv/windit-edge/vv46_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Elburg - Netherlands
+rtmp://stream.livespotting.tv/windit-edge/LS_36290_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Erfurt - KoWo
+rtmp://stream.livespotting.tv/windit-edge/vv101_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Essen - Ruhrturm
+rtmp://stream.livespotting.tv/windit-edge/vv60_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Flensburg - Fjord Tourismus
+rtmp://stream.livespotting.tv/windit-edge/vv17_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Frankfurt - Stadt Frankfurt am Main
+rtmp://stream.livespotting.tv/windit-edge/vv100_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Freiburg - Volksbank
+rtmp://stream.livespotting.tv/windit-edge/vv112_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Fulda - Schlossstraße
+rtmp://stream.livespotting.tv/windit-edge/vv62_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Gaienhofen - Hotel Gasthaus Hirschen
+rtmp://stream.livespotting.tv/windit-edge/vv105_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
+rtmp://stream.livespotting.tv/windit-edge/vv111_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Gehlberg - Michael Gebser
+rtmp://stream.livespotting.tv/windit-edge/vv123_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Haffkrug - Lübecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv40_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Halle - Mitteldeutsches Multimediazentrum
+rtmp://stream.livespotting.tv/windit-edge/vv115_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Hamburg - Empire Riverside
+rtmp://stream.livespotting.tv/windit-edge/vv34_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Hamburg - Emporio
+rtmp://stream.livespotting.tv/windit-edge/vv47_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Hamburg - Michel
+rtmp://stream.livespotting.tv/windit-edge/LS_b5586_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Hamburg - Unileverhaus
+rtmp://stream.livespotting.tv/windit-edge/vv74_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Hannover - Congress Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv71_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Heidelberg - Hotel Panorama
+rtmp://stream.livespotting.tv/windit-edge/vv75_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Heidelberg - PundM
+rtmp://stream.livespotting.tv/windit-edge/vv122_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Hörnum - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv7_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Ischgl - Pardatschgrat Seilbahn
+rtmp://stream.livespotting.tv/windit-edge/vv157_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Ischgl - Talstation
+rtmp://stream.livespotting.tv/windit-edge/vv128_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Juist - Inselgemeinde Juist
+rtmp://stream.livespotting.tv/windit-edge/vv51_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Juister Hof - Juist
+rtmp://stream.livespotting.tv/windit-edge/vv146_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kampen - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv49_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kassel - Best Western
+rtmp://stream.livespotting.tv/windit-edge/vv125_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Katwijk aan Zee - Niederlande
+rtmp://stream.livespotting.tv/windit-edge/LS_8a4f1_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kiel - Ostufer
+rtmp://stream.livespotting.tv/windit-edge/vv28_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kiel - Port of Kiel
+rtmp://stream.livespotting.tv/windit-edge/vv77_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kiel - Schleuse
+rtmp://stream.livespotting.tv/windit-edge/vv38_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kitzbühel - Hahnenkamm Bergstation
+rtmp://stream.livespotting.tv/windit-edge/vv121_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kitzbühel - Hotel Rasmushof
+rtmp://stream.livespotting.tv/windit-edge/vv143_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Koblenz - Hotel Continental
+rtmp://stream.livespotting.tv/windit-edge/vv36_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Krefeld - Garden Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv67_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Köln - Kölnturm
+rtmp://stream.livespotting.tv/windit-edge/vv69_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Köln - Pullman Cologne
+rtmp://stream.livespotting.tv/windit-edge/vv99_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Kühlungsborn - Strand
+rtmp://stream.livespotting.tv/windit-edge/vv35_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Laboe - Ehrenmal
+rtmp://stream.livespotting.tv/windit-edge/vv82_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Langeness - TU Harburg
+rtmp://stream.livespotting.tv/windit-edge/vv136_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lech am Arlberg
+rtmp://stream.livespotting.tv/windit-edge/vv22_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lermoos - Zugspitze
+rtmp://stream.livespotting.tv/windit-edge/vv120_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lindau - Bodensee
+rtmp://stream.livespotting.tv/windit-edge/vv50_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lindau - Lindauer Hof
+rtmp://stream.livespotting.tv/windit-edge/vv113_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lübeck - MUK
+rtmp://stream.livespotting.tv/windit-edge/vv44_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lübeck - Radisson Blu
+rtmp://stream.livespotting.tv/windit-edge/vv64_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lüneburg - Hotel Bergström
+rtmp://stream.livespotting.tv/windit-edge/vv135_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Meißen - Fa. Hübner
+rtmp://stream.livespotting.tv/windit-edge/vv94_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Mönchengladbach - Best Western Crown
+rtmp://stream.livespotting.tv/windit-edge/vv118_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  München - Deutsche Eiche
+rtmp://stream.livespotting.tv/windit-edge/vv72_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  München - wetter.com-Redaktion
+rtmp://stream.livespotting.tv/windit-edge/vv55_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Münster - Raphaelsklinik
+rtmp://stream.livespotting.tv/windit-edge/vv116_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Münster - Stadthaus
+rtmp://stream.livespotting.tv/windit-edge/vv63_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Neuharlingersiel - Hafen Ost
+rtmp://stream.livespotting.tv/windit-edge/vv12_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Neuharlingersiel - Hafen West
+rtmp://stream.livespotting.tv/windit-edge/vv13_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Neuharlingersiel - Panorama
+rtmp://stream.livespotting.tv/windit-edge/vv14_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Niendorf - Meerwasserhallenbad
+rtmp://stream.livespotting.tv/windit-edge/vv81_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Norderney - Zimmerservice - Norderney
+rtmp://stream.livespotting.tv/windit-edge/vv147_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Oberstdorf - Hotel Exquisit
+rtmp://stream.livespotting.tv/windit-edge/vv137_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Oberwiesenthal - Hotel Fichtelberghaus
+rtmp://stream.livespotting.tv/windit-edge/vv30_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Oldenburg - Nordwest-Zeitung
+rtmp://stream.livespotting.tv/windit-edge/vv91_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Palma de Mallorca - Hafen
+rtmp://stream.livespotting.tv/windit-edge/LS_1d0c0_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Passau - Hotel König
+rtmp://stream.livespotting.tv/windit-edge/vv98_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Pelzerhaken - Lübecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv8_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Pertisau am Achensee - Bergstation
+rtmp://stream.livespotting.tv/windit-edge/vv126_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Plougonvelin - Bretagne - France
+rtmp://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Potsdam - Hotel Am Luisenplatz
+rtmp://stream.livespotting.tv/windit-edge/vv110_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Rostock - Apartment LIVING HOTEL
+rtmp://stream.livespotting.tv/windit-edge/vv89_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Rostock - Hotel Sportforum
+rtmp://stream.livespotting.tv/windit-edge/vv119_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Rust - Apollon Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv87_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Saalbach-Hinterglemm
+rtmp://stream.livespotting.tv/windit-edge/LS_f695b_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Saarbrücken - La Residence
+rtmp://stream.livespotting.tv/windit-edge/vv68_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Sankt Peter-Ording - Beach Motel
+rtmp://stream.livespotting.tv/windit-edge/vv129_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Scharbeutz - Lübecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv41_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Schwangau - Schloss Neuschwanstein
+rtmp://stream.livespotting.tv/windit-edge/vv108_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Schwerin - Com In IT Solution Center
+rtmp://stream.livespotting.tv/windit-edge/vv97_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Singen - Best Western Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv56_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  St. Anton am Arlberg
+rtmp://stream.livespotting.tv/windit-edge/vv21_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Stralsund - Hotel Hafenresidenz
+rtmp://stream.livespotting.tv/windit-edge/vv132_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Stralsund - Schweriner Hof
+rtmp://stream.livespotting.tv/windit-edge/vv142_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Sölden - Freizeit Arena
+rtmp://stream.livespotting.tv/windit-edge/vv96_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Timmendorfer Strand
+rtmp://stream.livespotting.tv/windit-edge/vv9_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Torfhaus - Harz
+rtmp://stream.livespotting.tv/windit-edge/vv52_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Travemünde - Strand
+rtmp://stream.livespotting.tv/windit-edge/vv54_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Tricht - Niederlande
+rtmp://stream.livespotting.tv/windit-edge/LS_f852f_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Tübingen - Casino am Neckar
+rtmp://stream.livespotting.tv/windit-edge/vv109_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Tübingen - Heindl Internet AG
+rtmp://stream.livespotting.tv/windit-edge/vv104_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Ulm - Hotel Blaubeurer Tor
+rtmp://stream.livespotting.tv/windit-edge/vv66_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Urk - Niederlande
+rtmp://stream.livespotting.tv/windit-edge/LS_cd126_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Vlieland - Niederlande
+rtmp://stream.livespotting.tv/windit-edge/LS_2d053_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Warnemünde - Am Strom 72
+rtmp://stream.livespotting.tv/windit-edge/vv16_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Warnemünde - Best Western Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv20_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Warnemünde - Yachthafen
+rtmp://stream.livespotting.tv/windit-edge/vv4_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Weimar - HotelPension am Goethehaus
+rtmp://stream.livespotting.tv/windit-edge/vv92_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Westerland - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv43_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Wiek - Rügen
+rtmp://stream.livespotting.tv/windit-edge/vv25_450p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Wolfsburg - Stadt Wolfsburg
+rtmp://stream.livespotting.tv/windit-edge/vv88_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Wuppertal - Barmenia
+rtmp://stream.livespotting.tv/windit-edge/vv117_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Würzburg - Hotel Alter Kranen
+rtmp://stream.livespotting.tv/windit-edge/vv70_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Zaandam - Niederlande
+rtmp://stream.livespotting.tv/windit-edge/LS_e8463_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Zürich - Zoo Cam 1
+rtmp://stream.livespotting.tv/windit-edge/vv78_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Zürich - Zoo Cam 2
+rtmp://stream.livespotting.tv/windit-edge/vv78b_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Zürich - Zoo Cam 3
+rtmp://stream.livespotting.tv/windit-edge/vv23_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Zürich - Uetliberg
+rtmp://stream.livespotting.tv/windit-edge/vv65_720p.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Köln Heumarkt (Rhein- Domblick)
+rtmp://62.113.221.6/neueDorint-rtp/KoelnHeumarkt.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Seefeld (Tirol)
+rtmp://62.113.221.6/neueDorint-rtp playpath=Seefeld.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Beatenberg (Interlaken)
+rtmp://62.113.221.6/neueDorint-rtp playpath=Beatenberg.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Winterberg
+rtmp://62.113.221.6/neueDorint-rtp playpath=Winterberg.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bremen (Bürgerpark)
+rtmp://62.113.221.6/neueDorint-rtp playpath=Bremen.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Gehlberg -  Michael Gebser
+rtmp://stream.livespotting.tv/windit-edge/ playpath=vv123_720p.stream?sa=windit.de
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Düsseldorf Airport cam1
+rtmp://stream-5gw.1000eyes.de/rtplive//dus0600.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Düsseldorf Airport cam2
+rtmp://stream-5gw.1000eyes.de/rtplive//dus8a21.stream
+#EXTINF:1, group-title="WEBCAMS" pltv-subgroup="WEBCAMS",  Düsseldorf Airport cam3
+rtmp://stream-5gw.1000eyes.de/rtplive//dus2777.stream
+#EXTINF:1, group-title="WEBCAMS" pltv-subgroup="WEBCAMS",  Düsseldorf Airport cam4
+rtmp://stream-5gw.1000eyes.de/rtplive//dus275d.stream
+#EXTINF:1, group-title="WEBCAMS" pltv-subgroup="WEBCAMS",  Düsseldorf Airport cam5
+rtmp://stream-5gw.1000eyes.de/rtplive//dusbc0c.stream
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bar Sloppy Joe's em Key West [Duval St.]
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bar Sloppy Joe's em Key West [Palco]
+http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Bar Sloppy Joe's em Key West [Interior]
+http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Casa Branca [Washington DC]
+http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Copacabana [Rio de Janeiro]
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Monumento a Washington [Washington DC]
+http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Estacao Espacial 1
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Estacao Espacial 2
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Lareira acesa
+http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Marina em Ft. Lauderdale [USA]
+http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Ninho de aguia
+http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Panda Cam 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Ponte de San Francisco [USA]
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Ponte do Brooklyn [NY]
+http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Quinta Avenida [NY]
+http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Seattle [USA]
+http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Times Square 1 [NY]
+http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Times Square 2 [NY]
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Times Square 3 [NY]
+http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Times Square 4 [NY]
+http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Times Square 5 [NY]
+http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Torre CN 1 [Toronto]
+http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS",  Torre CN 2 [Toronto]
+http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Franca [Catedral de Notre Dame]
+http://video3.earthcam.com:1935/fecnetwork/7962.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Hawaii [Maui]
+http://video3.earthcam.com:1935/fecnetwork/6426.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Irlanda [Dublin]
+http://video3.earthcam.com:1935/fecnetwork/4054.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Israel [Muro das Lamentacoes]
+http://EU40.cast-tv.com:1935/23595_LIVE_Kotel_Live/23595_LIVE_Kotel_Live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Bergamo]
+http://cdn-03.whatsupcams.com/hls/it_gazzaniga02.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Entrada de Caorle]
+http://cdn-03.whatsupcams.com/hls/it_caorle01.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Perugia]
+http://cdn-03.whatsupcams.com/hls/it_perugia03.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Roma]
+http://cdn-03.whatsupcams.com/hls/it_roma02.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Tarvisio Unitta Square]
+http://cdn-03.whatsupcams.com/hls/it_tarvisio01.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Veneza]
+http://cdn-03.whatsupcams.com/hls/it_venezia01.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Italia [Vittoria Square Cathedral]
+http://cdn-03.whatsupcams.com/hls/it_gorizia4.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Japao [Akihabara]
+http://iphone-streaming.ustream.tv/uhls/5883040/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Japao [Enoshima]
+http://iphone-streaming.ustream.tv/uhls/11681141/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Japao [Nagareyama]
+http://iphone-streaming.ustream.tv/uhls/11241820/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Japao [Tokio]
+http://iphone-streaming.ustream.tv/uhls/18246025/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Los Angeles [Doggy Daycare]
+http://video3.earthcam.com:1935/fecnetwork/7710.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 1]
+http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist_w1954852334.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 2]
+http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist_w1105786569.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 3]
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist_w912634094.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 4]
+http://video3.earthcam.com:1935/fecnetwork/4717.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 5]
+http://video3.earthcam.com:1935/fecnetwork/3983.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", New York [Cam 6]
+http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist_w1119314452.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Rio de Janeiro [Copacabana]
+http://video3.earthcam.com:1935/fecnetwork/6593.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Space Station [1]
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", Space Station [2]
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Aquarium Cam]
+http://wse.planeta-online.tv:1935/live/channel_3/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Baia de San Francisco]
+http://video3.earthcam.com:1935/fecnetwork/6603.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Cats Meow Karaoke]
+http://video3.earthcam.com:1935/fecnetwork/4281.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Chicago]
+http://video3.earthcam.com:1935/fecnetwork/5187.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Daytona Beach]
+http://video3.earthcam.com:1935/fecnetwork/5718.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Florida Marina Bay]
+http://video3.earthcam.com:1935/fecnetwork/8891.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Irish Kevins Stage Cam]
+http://wowza.floridakeysmedia.com:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Irish Kevins Street Cam]
+http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Jackson Hole]
+http://video3.earthcam.com:1935/fecnetwork/6954.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Manhattan - Mulberry Street]
+http://video3.earthcam.com:1935/fecnetwork/5775.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Miami - Ocean Drive]
+http://video3.earthcam.com:1935/fecnetwork/5751.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Miami Beach]
+http://video3.earthcam.com:1935/fecnetwork/miamivishd1.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Miami South Beach]
+http://video3.earthcam.com:1935/fecnetwork/miamivishd7.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Missouri]
+http://video3.earthcam.com:1935/fecnetwork/meprd_garch.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Monterey Bay Aquarium]
+http://iphone-streaming.ustream.tv/uhls/9600798/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [New Orleans]
+http://video3.earthcam.com:1935/fecnetwork/4281.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Niagara Falls]
+http://video3.earthcam.com:1935/fecnetwork/4559.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [North Carolina Cours Beach]
+http://192.241.250.62:1935/live//kb.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Red Rock Mountain]
+http://video3.earthcam.com:1935/fecnetwork/8620.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [San Francisco]
+http://iphone-streaming.ustream.tv/uhls/12619575/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Santa Monica]
+http://video3.earthcam.com:1935/fecnetwork/6253.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Schooners Hill Bar]
+http://media3.tripsmarter.com:1935/schoonersbarHDCam485687461365/schbar/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Sloppy Joes Bar Cam]
+http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Sloppy Joes Street Cam]
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [South Carolina Folly Beach]
+http://208.43.68.139:1935/surfchex//follybeach-super/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Telluride Village]
+http://b6.hdrelay.com:1935/camera/CID_YAXA00000095/relay/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Tumulo de Andy Warhol]
+http://video3.earthcam.com:1935/fecnetwork/5595.flv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3aXyMc8.png" group-title="WEBCAMS", USA [Washington National Mall]
+http://video3.earthcam.com:1935/fecnetwork/7322.flv/playlist.m3u8
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
 
