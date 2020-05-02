@@ -216,7 +216,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=320&height=320" group-title="Deportivos" tvg-name="Redbull TV",Redbull TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=320&height=320" group-title="Sports" tvg-name="Redbull TV",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1  tvg-logo="https://caixapreta.pt/logos/Red-Bull-TV.png" group-title="Sports",Red Bull TV 
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
