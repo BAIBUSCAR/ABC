@@ -413,7 +413,7 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://caixapreta.pt/logos/Colosal-TV.png" group-title="Music",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://caixapreta.pt/logos/CMC.png" group-title="",California Music Channel
+#EXTINF:-1  tvg-logo="https://caixapreta.pt/logos/CMC.png" group-title="Music",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream0.m3u8
 #EXTINF:-1  tvg-logo="https://caixapreta.pt/logos/CMC.png" group-title="Music",Country Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
